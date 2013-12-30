@@ -66,22 +66,49 @@ $(document).ready(function(){initNavTree('index.html','');});
 <div class="contents">
 <div class="textblock"><h1><a class="anchor" id="intro"></a>
 Introduction</h1>
-<p>Core Plot is a plotting framework for Mac OS X and iOS. It provides 2D visualization of data, and is tightly integrated with Apple technologies like Core Animation, Core Data, and Cocoa Bindings.</p>
+<p>Core Plot is a 2D plotting framework for Mac OS X and iOS. It is highly customizable and capable of drawing many types of plots. See the <a href="https://github.com/core-plot/core-plot/wiki/Example-Graphs">Example Graphs</a> wiki page and the <a href="https://github.com/core-plot/core-plot/tree/master/examples">example applications</a> for examples of some of its capabilities.</p>
 <h1><a class="anchor" id="start"></a>
 Getting Started</h1>
-<p>See the project wiki at <a href="http://code.google.com/p/core-plot/wiki/UsingCorePlotInApplications">http://code.google.com/p/core-plot/wiki/UsingCorePlotInApplications</a> for information on how to use Core Plot in your own application.</p>
-<h1><a class="anchor" id="contribute"></a>
+<p>See the <a href="https://github.com/core-plot/core-plot/wiki/High-Level-Design-Overview">High Level Design Overview</a> wiki for an overview of Core Plot's architecture and the <a href="http://code.google.com/p/core-plot/wiki/UsingCorePlotInApplications">Using Core Plot in an Application</a> wiki for information on how to use Core Plot in your own application.</p>
+<h1><a class="anchor" id="documentation"></a>
+Documentation</h1>
+<p>Documentation of the Core Plot API and high-level architecture can be found in the following places:</p>
+<ul>
+<li><a href="https://github.com/core-plot/core-plot/blob/master/documentation/changelog.markdown">Change log</a></li>
+<li><a href="http://core-plot.github.io/MacOS/index.html">API documentation</a> for Mac</li>
+<li><a href="http://core-plot.github.io/iOS/index.html">API documentation</a> for iOS</li>
+<li>API documentation built with <a href="http://www.doxygen.org/">Doxygen</a> and installed locally in Xcode (see the <a href="https://github.com/core-plot/core-plot/blob/master/READMEs/README%20for%20Docs%20Install.md">instructions</a> in the <b>READMEs</b> folder for details)</li>
+<li><a href="https://github.com/core-plot/core-plot/wiki">Project Wiki</a> on GitHub</li>
+<li><a href="https://github.com/core-plot/core-plot/tree/master/documentation">Documentation</a> folder in the code repository</li>
+</ul>
+<h1><a class="anchor" id="wheretoaskforhelp"></a>
+Where to Ask For Help</h1>
+<h2><a class="anchor" id="qasites"></a>
+Q&amp;A Sites</h2>
+<ul>
+<li><a href="http://groups.google.com/group/coreplot-discuss">Core Plot</a> Google Group</li>
+<li>Stackoverflow.com <a href="http://stackoverflow.com/questions/tagged/core-plot">core-plot tag</a></li>
+</ul>
+<h2><a class="anchor" id="socialnetworks"></a>
+Social Networks</h2>
+<ul>
+<li><a href="https://twitter.com/CorePlot">Twitter</a></li>
+<li><a href="https://alpha.app.net/coreplot">App.net</a>; Subscribe to the <a href="https://app.net/c/2rw2">Announcements</a> broadcast.</li>
+</ul>
+<h1><a class="anchor" id="contributingtocoreplot"></a>
 Contributing to Core Plot</h1>
-<p>Core Plot is an open source project. The project home page is <a href="http://code.google.com/p/core-plot/">http://code.google.com/p/core-plot/</a> on Google Code. See <a href="http://code.google.com/p/core-plot/source/checkout">http://code.google.com/p/core-plot/source/checkout</a> for instructions on how to download the source code.</p>
-<h2><a class="anchor" id="coding"></a>
+<p>Core Plot is an open source project hosted on <a href="https://github.com/core-plot">GitHub</a>. There are two code repositories under the main project:</p>
+<ul>
+<li><a href="https://github.com/core-plot/core-plot">core-plot</a>: This is main code repository with the framework and all examples. This is where you will find the release packages, wiki pages, and issue tracker.</li>
+<li><a href="https://github.com/core-plot/core-plot.github.io">core-plot.github.io</a>: This is the HTML API documentation. You can view the pages online at <a href="">http://core-plot.github.io</a>.</li>
+</ul>
+<h2><a class="anchor" id="codingstandards"></a>
 Coding Standards</h2>
-<p>Everyone has a their own preferred coding style, and no one way can be considered right. Nonetheless, in a project like Core Plot, with many developers contributing, it is worthwhile defining a set of basic coding standards to prevent a mishmash of different styles which can become frustrating when navigating the code base. See the file <code>"Coding Style.markdown"</code> found in the <code>documentation</code> directory of the project source for specific guidelines.</p>
-<h2><a class="anchor" id="documentation"></a>
-Documentation Policy</h2>
-<p>See <a href="http://code.google.com/p/core-plot/wiki/DocumentationPolicy">http://code.google.com/p/core-plot/wiki/DocumentationPolicy</a> for instructions on how to document your code so that your comments will appear in these documentation pages.</p>
+<p>Everyone has a their own preferred coding style, and no one way can be considered right. Nonetheless, in a project like Core Plot, with many developers contributing, it is worthwhile defining a set of basic coding standards to prevent a mishmash of different styles which can become frustrating when navigating the code base. See the file <a href="https://github.com/core-plot/core-plot/blob/master/documentation/Coding%20Style.markdown">Coding Style.markdown</a> found in the <a href="https://github.com/core-plot/core-plot/tree/master/documentation">documentation</a> directory of the project source for specific guidelines.</p>
+<p>Core Plot includes a <a href="https://github.com/core-plot/core-plot/blob/master/scripts/format_core_plot.sh">script</a> to run <a href="http://uncrustify.sourceforge.net">Uncrustify</a> on the source code to standardize the formatting. All source code will be formatted with this tool before being committed to the Core Plot repository.</p>
 <h2><a class="anchor" id="testing"></a>
-Testing Policy</h2>
-<p>Because Core Plot is intended to be used in scientific, financial, and other domains where correctness is paramount, unit testing is integrated into the framework. Good test coverage protects developers from introducing accidental regressions and frees them to experiment and refactor without fear of breaking things. See <a href="http://code.google.com/p/core-plot/wiki/CorePlotTesting">http://code.google.com/p/core-plot/wiki/CorePlotTesting</a> for instructions on how to build unit tests for any new code you add to the project. </p>
+Testing</h2>
+<p>Because Core Plot is intended to be used in scientific, financial, and other domains where correctness is paramount, unit testing is integrated into the framework. Good test coverage protects developers from introducing accidental regressions and frees them to experiment and refactor without fear of breaking things. See the <a href="https://github.com/core-plot/core-plot/wiki/Unit-Testing">unit testing</a> wiki page for instructions on how to build unit tests for any new code you add to the project. </p>
 </div></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

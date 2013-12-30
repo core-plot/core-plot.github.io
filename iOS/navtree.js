@@ -4,10 +4,14 @@ var NAVTREE =
     [ "Core Plot", "index.html", [
       [ "Introduction", "index.html#intro", null ],
       [ "Getting Started", "index.html#start", null ],
-      [ "Contributing to Core Plot", "index.html#contribute", [
-        [ "Coding Standards", "index.html#coding", null ],
-        [ "Documentation Policy", "index.html#documentation", null ],
-        [ "Testing Policy", "index.html#testing", null ]
+      [ "Documentation", "index.html#documentation", null ],
+      [ "Where to Ask For Help", "index.html#wheretoaskforhelp", [
+        [ "Q&A Sites", "index.html#qasites", null ],
+        [ "Social Networks", "index.html#socialnetworks", null ]
+      ] ],
+      [ "Contributing to Core Plot", "index.html#contributingtocoreplot", [
+        [ "Coding Standards", "index.html#codingstandards", null ],
+        [ "Testing", "index.html#testing", null ]
       ] ]
     ] ],
     [ "Deprecated List", "deprecated.html", null ],
@@ -43,11 +47,11 @@ var NAVTREEINDEX =
 "_c_p_t_animation_8h.html",
 "_c_p_t_mutable_numeric_data_09_type_conversion_8m.html",
 "_c_p_t_utilities_8h.html#a38e413651af6d8a40cd00523fccb051b",
-"functions_0x66.html",
-"interface_c_p_t_axis.html#a4b388c9ddfb2f58fdbc554ee97f03004",
-"interface_c_p_t_legend.html#a24d66983bfa3714a97c53268f8fde7d2",
-"interface_c_p_t_plot_space.html",
-"struct_c_p_t_gradient_element.html#af823097f0f9dfda5b7784cfe8123d234"
+"functions_0x64.html",
+"interface_c_p_t_axis.html#a406f52b65eef3e60c2cfc8d407f7fcb0",
+"interface_c_p_t_layer_annotation.html#a7ae7a57b0d083052e0f773c228dac0c9",
+"interface_c_p_t_plot_range.html#adc543d1939579179e9d6a4614e617a45",
+"protocol_c_p_t_trading_range_plot_delegate-p.html#a09f8f0dc39b8938b2274353266ce445b"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

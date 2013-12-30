@@ -1,5 +1,10 @@
 var NAVTREEINDEX6 =
 {
+"interface_c_p_t_plot_range.html#adc543d1939579179e9d6a4614e617a45":[3,0,66,10],
+"interface_c_p_t_plot_range.html#ae643ffe8042fcc24173c8cd4dc82e558":[3,0,66,19],
+"interface_c_p_t_plot_range.html#af57683e90998288b8d330fc0dd88ce39":[3,0,66,8],
+"interface_c_p_t_plot_range.html#af90426ed0320da192187e2a5742e40f0":[3,0,66,0],
+"interface_c_p_t_plot_range.html#af95c83cdf0b6f8a6b98402febdda6147":[3,0,66,18],
 "interface_c_p_t_plot_space.html":[3,0,67],
 "interface_c_p_t_plot_space.html#a034a059894180b5615c3d910fbc8c459":[3,0,67,11],
 "interface_c_p_t_plot_space.html#a281b47b1cf26f73dc8dab59d4d299aec":[3,0,67,25],
@@ -244,10 +249,5 @@ var NAVTREEINDEX6 =
 "protocol_c_p_t_trading_range_plot_data_source-p.html#acfaefdf6423efc3d8f62b8e60fb8cb02":[3,0,88,2],
 "protocol_c_p_t_trading_range_plot_data_source-p.html#ad304432600cde24946858e2bed07b89a":[3,0,88,3],
 "protocol_c_p_t_trading_range_plot_data_source-p.html#ae6f1d190fd66fc0aa350f02ab614ecae":[3,0,88,4],
-"protocol_c_p_t_trading_range_plot_delegate-p.html":[3,0,89],
-"protocol_c_p_t_trading_range_plot_delegate-p.html#a09f8f0dc39b8938b2274353266ce445b":[3,0,89,1],
-"protocol_c_p_t_trading_range_plot_delegate-p.html#a1d7880c0ab59766d4ec198179740ec92":[3,0,89,0],
-"struct_c_p_t_gradient_element.html":[3,0,30],
-"struct_c_p_t_gradient_element.html#a413e8bb0a4586e1db9a74570cb981d65":[3,0,30,2],
-"struct_c_p_t_gradient_element.html#ae53c48ee44d43675e8aa393301e1a7ba":[3,0,30,1]
+"protocol_c_p_t_trading_range_plot_delegate-p.html":[3,0,89]
 };

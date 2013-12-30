@@ -4,10 +4,14 @@ var NAVTREE =
     [ "Core Plot", "index.html", [
       [ "Introduction", "index.html#intro", null ],
       [ "Getting Started", "index.html#start", null ],
-      [ "Contributing to Core Plot", "index.html#contribute", [
-        [ "Coding Standards", "index.html#coding", null ],
-        [ "Documentation Policy", "index.html#documentation", null ],
-        [ "Testing Policy", "index.html#testing", null ]
+      [ "Documentation", "index.html#documentation", null ],
+      [ "Where to Ask For Help", "index.html#wheretoaskforhelp", [
+        [ "Q&A Sites", "index.html#qasites", null ],
+        [ "Social Networks", "index.html#socialnetworks", null ]
+      ] ],
+      [ "Contributing to Core Plot", "index.html#contributingtocoreplot", [
+        [ "Coding Standards", "index.html#codingstandards", null ],
+        [ "Testing", "index.html#testing", null ]
       ] ]
     ] ],
     [ "Deprecated List", "deprecated.html", null ],
@@ -43,11 +47,11 @@ var NAVTREEINDEX =
 "_c_p_t_animation_8h.html",
 "_c_p_t_mutable_line_style_8m.html",
 "_c_p_t_utilities_8h.html#a1970a76e2fccbfcf42c75b6f919220f0",
-"functions_0x63.html",
-"interface_c_p_t_annotation.html",
-"interface_c_p_t_layer.html#a06be29da235c38bd3486381fe8a32bc9",
-"interface_c_p_t_plot_area.html#a903cf1b01df63fdeff8c530b55cda13a",
-"protocol_c_p_t_plot_space_delegate-p.html#a3af0a98f1335e004059e01628e9708c4"
+"functions.html",
+"interface_c_p_t_animation_period.html#aa757f5ce4046f977812c4c8b1fb463da",
+"interface_c_p_t_image.html#aab29f34450ad6c1f232e54f31c1d6517",
+"interface_c_p_t_plot_area.html#a2ffd2b0cba6f09deadd9d5a3607613e6",
+"protocol_c_p_t_plot_delegate-p.html#adb0bb01121df46904ac3e308f790bb85"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

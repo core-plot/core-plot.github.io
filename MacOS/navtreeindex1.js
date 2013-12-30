@@ -246,8 +246,8 @@ var NAVTREEINDEX1 =
 "_c_p_t_trading_range_plot_8m.html#afc476a911fbf3eba1e7daf31ad5c5f27":[4,0,1,118,0],
 "_c_p_t_trading_range_plot_8m.html#ga19d17ef5e84a7a36c4c3fc05aa552348":[4,0,1,118,9],
 "_c_p_t_utilities_8h.html":[4,0,1,119],
-"_c_p_t_utilities_8h.html#a00cd4fa9bc439191406e291fcc1d73cb":[4,0,1,119,51],
-"_c_p_t_utilities_8h.html#a059a5020dcbf6d62ce772002e29a8e18":[4,0,1,119,25],
-"_c_p_t_utilities_8h.html#a09d6d19d82fd77b1210cea07bd155892":[4,0,1,119,18],
+"_c_p_t_utilities_8h.html#a00cd4fa9bc439191406e291fcc1d73cb":[4,0,1,119,52],
+"_c_p_t_utilities_8h.html#a059a5020dcbf6d62ce772002e29a8e18":[4,0,1,119,26],
+"_c_p_t_utilities_8h.html#a09d6d19d82fd77b1210cea07bd155892":[4,0,1,119,19],
 "_c_p_t_utilities_8h.html#a0bb1004ed3b335e85b2e611917104a60":[4,0,1,119,0]
 };

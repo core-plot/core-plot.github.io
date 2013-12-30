@@ -1,5 +1,10 @@
 var NAVTREEINDEX7 =
 {
+"protocol_c_p_t_plot_delegate-p.html#adb0bb01121df46904ac3e308f790bb85":[3,0,66,2],
+"protocol_c_p_t_plot_delegate-p.html#af68ded0e9746646e581c32b1aa999573":[3,0,66,0],
+"protocol_c_p_t_plot_space_delegate-p.html":[3,0,72],
+"protocol_c_p_t_plot_space_delegate-p.html#a1a843136901996431030fdd0b1c80912":[3,0,72,5],
+"protocol_c_p_t_plot_space_delegate-p.html#a2c84c596a90b7a503e318e3b17f3fece":[3,0,72,0],
 "protocol_c_p_t_plot_space_delegate-p.html#a3af0a98f1335e004059e01628e9708c4":[3,0,72,1],
 "protocol_c_p_t_plot_space_delegate-p.html#a4aed90d7f6f54d4412a21aaac9e3e1f3":[3,0,72,4],
 "protocol_c_p_t_plot_space_delegate-p.html#a7f9e7ef1e8d69786324efec6719f4684":[3,0,72,2],
