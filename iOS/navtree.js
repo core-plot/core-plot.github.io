@@ -47,7 +47,7 @@ var NAVTREEINDEX =
 "_c_p_t_animation_8h.html",
 "_c_p_t_mutable_numeric_data_09_type_conversion_8m.html",
 "_c_p_t_utilities_8h.html#a38e413651af6d8a40cd00523fccb051b",
-"functions_0x64.html",
+"functions_d.html",
 "interface_c_p_t_axis.html#a406f52b65eef3e60c2cfc8d407f7fcb0",
 "interface_c_p_t_layer_annotation.html#a7ae7a57b0d083052e0f773c228dac0c9",
 "interface_c_p_t_plot_range.html#adc543d1939579179e9d6a4614e617a45",
@@ -164,7 +164,7 @@ function createIndent(o,domNode,node,level)
     span.style.display = 'inline-block';
     span.style.width   = 16*(level+1)+'px';
     span.style.height  = '22px';
-    span.innerHTML = '&nbsp;';
+    span.innerHTML = '&#160;';
     domNode.appendChild(span);
   } 
 }
