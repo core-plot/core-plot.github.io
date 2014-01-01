@@ -1,5 +1,6 @@
 var NAVTREEINDEX6 =
 {
+"interface_c_p_t_plot_range.html#ad0ea31c9410605b61864346b5cf70e48":[3,0,66,3],
 "interface_c_p_t_plot_range.html#adc543d1939579179e9d6a4614e617a45":[3,0,66,10],
 "interface_c_p_t_plot_range.html#ae643ffe8042fcc24173c8cd4dc82e558":[3,0,66,19],
 "interface_c_p_t_plot_range.html#af57683e90998288b8d330fc0dd88ce39":[3,0,66,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX6 =
 "protocol_c_p_t_trading_range_plot_data_source-p.html#acf8f90b75862cea16b180761db7ab6ac":[3,0,88,5],
 "protocol_c_p_t_trading_range_plot_data_source-p.html#acfaefdf6423efc3d8f62b8e60fb8cb02":[3,0,88,2],
 "protocol_c_p_t_trading_range_plot_data_source-p.html#ad304432600cde24946858e2bed07b89a":[3,0,88,3],
-"protocol_c_p_t_trading_range_plot_data_source-p.html#ae6f1d190fd66fc0aa350f02ab614ecae":[3,0,88,4],
-"protocol_c_p_t_trading_range_plot_delegate-p.html":[3,0,89]
+"protocol_c_p_t_trading_range_plot_data_source-p.html#ae6f1d190fd66fc0aa350f02ab614ecae":[3,0,88,4]
 };

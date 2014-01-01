@@ -65,6 +65,7 @@ var interface_c_p_t_axis =
     [ "tickDirection", "interface_c_p_t_axis.html#a0f8ac29cfaf4ffa033e538c62f0ae3f8", null ],
     [ "tickLabelDirection", "interface_c_p_t_axis.html#a62c12a4733a26849512842206b8c7d46", null ],
     [ "title", "interface_c_p_t_axis.html#a0141093359c38a240da73f5e89f858f0", null ],
+    [ "titleDirection", "interface_c_p_t_axis.html#aa5cc625cececf315e8321515f14c5289", null ],
     [ "titleLocation", "interface_c_p_t_axis.html#aae16ecb681fe187b78a23e83f55325cb", null ],
     [ "titleOffset", "group__axis_animation.html#gae68fb272fc8934a30842bcf31eb6ae9c", null ],
     [ "titleRotation", "group__axis_animation.html#gab127b0be3b73ef8d4be5f558f8c0df2f", null ],

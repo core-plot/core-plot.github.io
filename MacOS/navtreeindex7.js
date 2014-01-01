@@ -1,5 +1,6 @@
 var NAVTREEINDEX7 =
 {
+"protocol_c_p_t_plot_delegate-p.html#a4072c95ca84e57912bffa0ed8b2f5a60":[3,0,66,1],
 "protocol_c_p_t_plot_delegate-p.html#adb0bb01121df46904ac3e308f790bb85":[3,0,66,2],
 "protocol_c_p_t_plot_delegate-p.html#af68ded0e9746646e581c32b1aa999573":[3,0,66,0],
 "protocol_c_p_t_plot_space_delegate-p.html":[3,0,72],
