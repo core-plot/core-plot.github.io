@@ -62,6 +62,7 @@ var annotated =
     [ "CPTPlot", "interface_c_p_t_plot.html", "interface_c_p_t_plot" ],
     [ "CPTPlot(AbstractMethods)", "category_c_p_t_plot_07_abstract_methods_08.html", "category_c_p_t_plot_07_abstract_methods_08" ],
     [ "CPTPlotArea", "interface_c_p_t_plot_area.html", "interface_c_p_t_plot_area" ],
+    [ "<CPTPlotAreaDelegate>", "protocol_c_p_t_plot_area_delegate-p.html", "protocol_c_p_t_plot_area_delegate-p" ],
     [ "CPTPlotAreaFrame", "interface_c_p_t_plot_area_frame.html", "interface_c_p_t_plot_area_frame" ],
     [ "<CPTPlotDataSource>", "protocol_c_p_t_plot_data_source-p.html", "protocol_c_p_t_plot_data_source-p" ],
     [ "<CPTPlotDelegate>", "protocol_c_p_t_plot_delegate-p.html", "protocol_c_p_t_plot_delegate-p" ],

@@ -171,6 +171,7 @@ var hierarchy =
       ] ],
       [ "<CPTAxisDelegate>", "protocol_c_p_t_axis_delegate-p.html", null ],
       [ "<CPTLegendDelegate>", "protocol_c_p_t_legend_delegate-p.html", null ],
+      [ "<CPTPlotAreaDelegate>", "protocol_c_p_t_plot_area_delegate-p.html", null ],
       [ "<CPTPlotDataSource>", "protocol_c_p_t_plot_data_source-p.html", [
         [ "<CPTBarPlotDataSource>", "protocol_c_p_t_bar_plot_data_source-p.html", null ],
         [ "CPTFunctionDataSource", "interface_c_p_t_function_data_source.html", null ],

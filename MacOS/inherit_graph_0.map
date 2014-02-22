@@ -70,22 +70,23 @@
 <area shape="rect" id="node69" href="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-tags.xml$https://developer.apple.com/library/mac/.html#documentation/Cocoa/Reference/Foundation/Classes/NSValueTransformer_Class/Reference/Reference" title="NSValueTransformer" alt="" coords="555,1003,707,1034"/>
 <area shape="rect" id="node70" href="$interface_c_p_t_decimal_number_value_transformer.html" title="A Cocoa Bindings value transformer for NSDecimalNumber objects. " alt="" coords="798,1003,1061,1034"/>
 <area shape="rect" id="node71" href="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-tags.xml$https://developer.apple.com/library/mac/.html#documentation/Cocoa/Reference/Foundation/Protocols/NSMutableCopying_Protocol/Reference/Reference" title="\&lt;NSMutableCopying\&gt;" alt="" coords="287,1987,452,2018"/>
-<area shape="rect" id="node72" href="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-tags.xml$https://developer.apple.com/library/mac/.html#documentation/Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/Reference/NSObject" title="\&lt;NSObject\&gt;" alt="" coords="65,542,167,573"/>
-<area shape="rect" id="node73" href="$protocol_c_p_t_animation_delegate-p.html" title="Animation delegate. " alt="" coords="275,569,464,599"/>
-<area shape="rect" id="node74" href="$protocol_c_p_t_axis_delegate-p.html" title="Axis labeling delegate. " alt="" coords="294,514,444,545"/>
-<area shape="rect" id="node75" href="$protocol_c_p_t_legend_delegate-p.html" title="Legend delegate. " alt="" coords="284,623,455,654"/>
-<area shape="rect" id="node76" href="$protocol_c_p_t_plot_data_source-p.html" title="A plot data source. " alt="" coords="287,459,452,490"/>
-<area shape="rect" id="node82" href="$protocol_c_p_t_plot_delegate-p.html" title="Plot delegate. " alt="" coords="295,170,443,201"/>
-<area shape="rect" id="node88" href="$protocol_c_p_t_plot_space_delegate-p.html" title="Plot space delegate. " alt="" coords="277,115,462,146"/>
-<area shape="rect" id="node89" href="$protocol_c_p_t_responder-p.html" title="The basis of all event processing in Core Plot. " alt="" coords="302,678,437,709"/>
-<area shape="rect" id="node77" href="$protocol_c_p_t_bar_plot_data_source-p.html" title="A bar plot data source. " alt="" coords="538,462,723,493"/>
-<area shape="rect" id="node78" href="$protocol_c_p_t_pie_chart_data_source-p.html" title="A pie chart data source. " alt="" coords="534,517,728,547"/>
-<area shape="rect" id="node79" href="$protocol_c_p_t_range_plot_data_source-p.html" title="A range plot data source. " alt="" coords="528,279,733,310"/>
-<area shape="rect" id="node80" href="$protocol_c_p_t_scatter_plot_data_source-p.html" title="A scatter plot data source. " alt="" coords="526,334,735,365"/>
-<area shape="rect" id="node81" href="$protocol_c_p_t_trading_range_plot_data_source-p.html" title="A trading range plot data source. " alt="" coords="531,388,731,438"/>
-<area shape="rect" id="node83" href="$protocol_c_p_t_bar_plot_delegate-p.html" title="Bar plot delegate. " alt="" coords="546,170,715,201"/>
-<area shape="rect" id="node84" href="$protocol_c_p_t_pie_chart_delegate-p.html" title="Pie chart delegate. " alt="" coords="542,225,720,255"/>
-<area shape="rect" id="node85" href="$protocol_c_p_t_range_plot_delegate-p.html" title="Range plot delegate. " alt="" coords="537,6,725,37"/>
-<area shape="rect" id="node86" href="$protocol_c_p_t_scatter_plot_delegate-p.html" title="Scatter plot delegate. " alt="" coords="534,61,727,91"/>
-<area shape="rect" id="node87" href="$protocol_c_p_t_trading_range_plot_delegate-p.html" title="Trading range plot delegate. " alt="" coords="512,115,749,146"/>
+<area shape="rect" id="node72" href="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-tags.xml$https://developer.apple.com/library/mac/.html#documentation/Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/Reference/NSObject" title="\&lt;NSObject\&gt;" alt="" coords="65,515,167,546"/>
+<area shape="rect" id="node73" href="$protocol_c_p_t_animation_delegate-p.html" title="Animation delegate. " alt="" coords="275,570,464,601"/>
+<area shape="rect" id="node74" href="$protocol_c_p_t_axis_delegate-p.html" title="Axis labeling delegate. " alt="" coords="294,351,444,382"/>
+<area shape="rect" id="node75" href="$protocol_c_p_t_legend_delegate-p.html" title="Legend delegate. " alt="" coords="284,406,455,437"/>
+<area shape="rect" id="node76" href="$protocol_c_p_t_plot_area_delegate-p.html" title="Plot area delegate. " alt="" coords="280,515,458,546"/>
+<area shape="rect" id="node77" href="$protocol_c_p_t_plot_data_source-p.html" title="A plot data source. " alt="" coords="287,461,452,491"/>
+<area shape="rect" id="node83" href="$protocol_c_p_t_plot_delegate-p.html" title="Plot delegate. " alt="" coords="295,143,443,174"/>
+<area shape="rect" id="node89" href="$protocol_c_p_t_plot_space_delegate-p.html" title="Plot space delegate. " alt="" coords="277,705,462,735"/>
+<area shape="rect" id="node90" href="$protocol_c_p_t_responder-p.html" title="The basis of all event processing in Core Plot. " alt="" coords="302,650,437,681"/>
+<area shape="rect" id="node78" href="$protocol_c_p_t_bar_plot_data_source-p.html" title="A bar plot data source. " alt="" coords="538,517,723,547"/>
+<area shape="rect" id="node79" href="$protocol_c_p_t_pie_chart_data_source-p.html" title="A pie chart data source. " alt="" coords="534,279,728,310"/>
+<area shape="rect" id="node80" href="$protocol_c_p_t_range_plot_data_source-p.html" title="A range plot data source. " alt="" coords="528,334,733,365"/>
+<area shape="rect" id="node81" href="$protocol_c_p_t_scatter_plot_data_source-p.html" title="A scatter plot data source. " alt="" coords="526,389,735,419"/>
+<area shape="rect" id="node82" href="$protocol_c_p_t_trading_range_plot_data_source-p.html" title="A trading range plot data source. " alt="" coords="531,443,731,493"/>
+<area shape="rect" id="node84" href="$protocol_c_p_t_bar_plot_delegate-p.html" title="Bar plot delegate. " alt="" coords="546,6,715,37"/>
+<area shape="rect" id="node85" href="$protocol_c_p_t_pie_chart_delegate-p.html" title="Pie chart delegate. " alt="" coords="542,61,720,91"/>
+<area shape="rect" id="node86" href="$protocol_c_p_t_range_plot_delegate-p.html" title="Range plot delegate. " alt="" coords="537,115,725,146"/>
+<area shape="rect" id="node87" href="$protocol_c_p_t_scatter_plot_delegate-p.html" title="Scatter plot delegate. " alt="" coords="534,170,727,201"/>
+<area shape="rect" id="node88" href="$protocol_c_p_t_trading_range_plot_delegate-p.html" title="Trading range plot delegate. " alt="" coords="512,225,749,255"/>
 </map>

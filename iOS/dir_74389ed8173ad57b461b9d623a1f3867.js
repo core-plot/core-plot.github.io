@@ -152,6 +152,7 @@ var dir_74389ed8173ad57b461b9d623a1f3867 =
     [ "CPTPlot.h", "_c_p_t_plot_8h.html", "_c_p_t_plot_8h" ],
     [ "CPTPlot.m", "_c_p_t_plot_8m.html", "_c_p_t_plot_8m" ],
     [ "CPTPlotArea.h", "_c_p_t_plot_area_8h.html", [
+      [ "<CPTPlotAreaDelegate>", "protocol_c_p_t_plot_area_delegate-p.html", "protocol_c_p_t_plot_area_delegate-p" ],
       [ "CPTPlotArea", "interface_c_p_t_plot_area.html", "interface_c_p_t_plot_area" ]
     ] ],
     [ "CPTPlotArea.m", "_c_p_t_plot_area_8m.html", null ],

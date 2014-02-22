@@ -2,6 +2,7 @@ var interface_c_p_t_plot_area =
 [
     [ "initWithFrame:", "interface_c_p_t_plot_area.html#afb45475ab1131edc13db789963420736", null ],
     [ "layoutSublayers", "interface_c_p_t_plot_area.html#af94e10929fc0092e404420c028f97159", null ],
+    [ "pointingDeviceDownEvent:atPoint:", "interface_c_p_t_plot_area.html#ab4f583a803115c829bbf86f451f04f44", null ],
     [ "setAxisSetLayersForType:", "interface_c_p_t_plot_area.html#a0066c0b6b579af4650d53270e1e82381", null ],
     [ "sublayerIndexForAxis:layerType:", "interface_c_p_t_plot_area.html#a86af66098849fb0d8ecf08d224150023", null ],
     [ "sublayersExcludedFromAutomaticLayout", "interface_c_p_t_plot_area.html#ab53ebc1ff31f51c2997e97e99a27e384", null ],
