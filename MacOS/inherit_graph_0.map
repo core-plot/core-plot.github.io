@@ -32,7 +32,7 @@
 <area shape="rect" id="node34" href="$interface_c_p_t_constraints.html" title="Implements a one&#45;dimensional constrained position within a given numeric range. " alt="" coords="571,1386,690,1417"/>
 <area shape="rect" id="node35" href="$interface_c_p_t_fill.html" title="Draws area fills. " alt="" coords="598,1441,663,1471"/>
 <area shape="rect" id="node36" href="$interface_c_p_t_gradient.html" title="Draws color gradient fills. " alt="" coords="580,1495,681,1526"/>
-<area shape="rect" id="node37" href="$interface_c_p_t_image.html" title="An immutable image. " alt="" coords="588,1550,673,1581"/>
+<area shape="rect" id="node37" href="$interface_c_p_t_image.html" title="A bitmap image. " alt="" coords="588,1550,673,1581"/>
 <area shape="rect" id="node38" href="$interface_c_p_t_legend_entry.html" title="A graph legend entry. " alt="" coords="568,1277,693,1307"/>
 <area shape="rect" id="node39" href="$interface_c_p_t_limit_band.html" title="Defines a range and fill used to highlight a band of data. " alt="" coords="576,1659,686,1690"/>
 <area shape="rect" id="node40" href="$interface_c_p_t_line_cap.html" title="End cap decorations for lines. " alt="" coords="582,1714,679,1745"/>

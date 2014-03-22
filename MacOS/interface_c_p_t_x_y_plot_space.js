@@ -1,9 +1,10 @@
 var interface_c_p_t_x_y_plot_space =
 [
-    [ "init", "interface_c_p_t_x_y_plot_space.html#a136358c51d1ee508198f1ce3b50ab29f", null ],
+    [ "init", "interface_c_p_t_x_y_plot_space.html#a7dffa389398a65f1e031583e08b9fb3c", null ],
     [ "pointingDeviceDownEvent:atPoint:", "interface_c_p_t_x_y_plot_space.html#a08faa704355f7f4ad9393a68ab45c423", null ],
     [ "pointingDeviceDraggedEvent:atPoint:", "interface_c_p_t_x_y_plot_space.html#aa7d8e61c8351c7dfea20220f37928924", null ],
     [ "pointingDeviceUpEvent:atPoint:", "interface_c_p_t_x_y_plot_space.html#aac158e80164a2f89b644cd03b642c235", null ],
+    [ "scrollWheelEvent:fromPoint:toPoint:", "interface_c_p_t_x_y_plot_space.html#ab2f68f08adad3cde9769c8796321103f", null ],
     [ "shiftRange:by:usingMomentum:inGlobalRange:withDisplacement:", "interface_c_p_t_x_y_plot_space.html#ae9b92c2c9092bc6eeda15bb59e48926b", null ],
     [ "allowsMomentum", "interface_c_p_t_x_y_plot_space.html#a9fdd1c2961b64bfac4fcc37382f1d2a2", null ],
     [ "allowsMomentumX", "interface_c_p_t_x_y_plot_space.html#a29d449e3aa0838f72bbdcd6a9a139552", null ],

@@ -38,7 +38,6 @@
   <div id="navrow1" class="tabs">
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
-      <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
       <li><a href="modules.html"><span>Animation&#160;&&#160;Constants</span></a></li>
       <li class="current"><a href="annotated.html"><span>Classes</span></a></li>
       <li><a href="files.html"><span>Files</span></a></li>
@@ -102,12 +101,12 @@ $(document).ready(function(){initNavTree('interface_c_p_t_calendar_formatter.htm
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Instance Methods</h2></td></tr>
 <tr><td colspan="2"><div class="groupHeader">Initialization</div></td></tr>
-<tr class="memitem:ab6ad8cd0f0bf399e05d7b779a3b1638a"><td class="memItemLeft" align="right" valign="top">(<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/c/tdef/id">id</a>)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_calendar_formatter.html#ab6ad8cd0f0bf399e05d7b779a3b1638a">initWithDateFormatter:</a></td></tr>
-<tr class="memdesc:ab6ad8cd0f0bf399e05d7b779a3b1638a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes new instance with the date formatter passed.  <a href="#ab6ad8cd0f0bf399e05d7b779a3b1638a">More...</a><br/></td></tr>
-<tr class="separator:ab6ad8cd0f0bf399e05d7b779a3b1638a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a51a60897aa90c1e74f62f6427ec8c532"><td class="memItemLeft" align="right" valign="top">(<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/c/tdef/id">id</a>)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_calendar_formatter.html#a51a60897aa90c1e74f62f6427ec8c532">init</a><code> [implementation]</code></td></tr>
-<tr class="memdesc:a51a60897aa90c1e74f62f6427ec8c532"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes a newly allocated <a class="el" href="interface_c_p_t_calendar_formatter.html" title="A number formatter that converts calendar intervals to dates. ">CPTCalendarFormatter</a> object with a default date formatter. The default formatter uses <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSDateFormatter_Class/Reference/Reference.html#//apple_ref/doc/c_ref/NSDateFormatterMediumStyle">NSDateFormatterMediumStyle</a> for dates and times.  <a href="#a51a60897aa90c1e74f62f6427ec8c532">More...</a><br/></td></tr>
-<tr class="separator:a51a60897aa90c1e74f62f6427ec8c532"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac120bb85d1d6019b34a42805153d09cc"><td class="memItemLeft" align="right" valign="top">(instancetype)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_calendar_formatter.html#ac120bb85d1d6019b34a42805153d09cc">initWithDateFormatter:</a></td></tr>
+<tr class="memdesc:ac120bb85d1d6019b34a42805153d09cc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes new instance with the date formatter passed.  <a href="#ac120bb85d1d6019b34a42805153d09cc">More...</a><br/></td></tr>
+<tr class="separator:ac120bb85d1d6019b34a42805153d09cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abaff1e17ef47c80f5c2ecc08dff01228"><td class="memItemLeft" align="right" valign="top">(instancetype)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_calendar_formatter.html#abaff1e17ef47c80f5c2ecc08dff01228">init</a><code> [implementation]</code></td></tr>
+<tr class="memdesc:abaff1e17ef47c80f5c2ecc08dff01228"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes a newly allocated <a class="el" href="interface_c_p_t_calendar_formatter.html" title="A number formatter that converts calendar intervals to dates. ">CPTCalendarFormatter</a> object with a default date formatter. The default formatter uses <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSDateFormatter_Class/Reference/Reference.html#//apple_ref/doc/c_ref/NSDateFormatterMediumStyle">NSDateFormatterMediumStyle</a> for dates and times.  <a href="#abaff1e17ef47c80f5c2ecc08dff01228">More...</a><br/></td></tr>
+<tr class="separator:abaff1e17ef47c80f5c2ecc08dff01228"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr><td colspan="2"><div class="groupHeader">Formatting</div></td></tr>
 <tr class="memitem:a79e70575bec242938f783674c81f09c6"><td class="memItemLeft" align="right" valign="top">(<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html">NSString</a> *)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_calendar_formatter.html#a79e70575bec242938f783674c81f09c6">stringForObjectValue:</a><code> [implementation]</code></td></tr>
 <tr class="memdesc:a79e70575bec242938f783674c81f09c6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts decimal number for the time into a date string. Uses the date formatter to do the conversion. Conversions are relative to the reference date, unless it is <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/doc/c_ref/nil">nil</a>, in which case the standard reference date of 1 January 2001, GMT is used.  <a href="#a79e70575bec242938f783674c81f09c6">More...</a><br/></td></tr>
@@ -190,7 +189,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="textblock"><p>A number formatter that converts calendar intervals to dates. </p>
 <p>Useful for formatting labels on an axis. The numerical scale of the plot space will be used to increment the specified calendar unit. For example, with a <a class="el" href="interface_c_p_t_axis.html#ac46c911c8e9d1ff891ea5d8a7814a3b0">majorIntervalLength </a> of one (<code>1</code>) and a <a class="el" href="interface_c_p_t_calendar_formatter.html#a1b521c6134c5309112eec09831b9c054">referenceCalendarUnit</a> of <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSCalendar_Class/Reference/NSCalendar.html#//apple_ref/doc/c_ref/NSMonthCalendarUnit">NSMonthCalendarUnit</a>, successive months will be displayed on the axis. Axis labels can be directly generated by setting a <a class="el" href="interface_c_p_t_calendar_formatter.html" title="A number formatter that converts calendar intervals to dates. ">CPTCalendarFormatter</a> as the <a class="el" href="interface_c_p_t_axis.html#ab05c383db96bfc1d86a9972fc9617f5a">labelFormatter </a> and/or <a class="el" href="interface_c_p_t_axis.html#aa5f163e5cc1be724e435a7ca73d015ba">minorTickLabelFormatter </a>. </p>
 </div><h2 class="groupheader">Method Documentation</h2>
-<a class="anchor" id="a51a60897aa90c1e74f62f6427ec8c532"></a>
+<a class="anchor" id="abaff1e17ef47c80f5c2ecc08dff01228"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -198,7 +197,7 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">- (<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/c/tdef/id">id</a>) init </td>
+          <td class="memname">- (instancetype) init </td>
           <td></td>
           <td class="paramname"></td>
           <td></td>
@@ -216,12 +215,12 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="ab6ad8cd0f0bf399e05d7b779a3b1638a"></a>
+<a class="anchor" id="ac120bb85d1d6019b34a42805153d09cc"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">- (<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/c/tdef/id">id</a>) initWithDateFormatter: </td>
+          <td class="memname">- (instancetype) initWithDateFormatter: </td>
           <td></td>
           <td class="paramtype">(<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSDateFormatter_Class/Reference/Reference.html">NSDateFormatter</a> *)&#160;</td>
           <td class="paramname"><em>aDateFormatter</em></td>
@@ -288,7 +287,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">read</span><span class="mlabel">write</span><span class="mlabel">nonatomic</span><span class="mlabel">retain</span></span>  </td>
+<span class="mlabels"><span class="mlabel">read</span><span class="mlabel">write</span><span class="mlabel">nonatomic</span><span class="mlabel">strong</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">

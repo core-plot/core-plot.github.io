@@ -1,7 +1,7 @@
 var interface_c_p_t_legend_entry =
 [
     [ "drawTitleInRect:inContext:scale:", "interface_c_p_t_legend_entry.html#a2f8c70944af02a5086b3cca05fe0dfd6", null ],
-    [ "init", "interface_c_p_t_legend_entry.html#a9cc72b919bfbd9b1009f059a14534c9c", null ],
+    [ "init", "interface_c_p_t_legend_entry.html#aeaa05f8a902c0178eed679070c87fffa", null ],
     [ "column", "interface_c_p_t_legend_entry.html#a8c79d73695d5a4246c0d6e067c20e4c7", null ],
     [ "index", "interface_c_p_t_legend_entry.html#ab02beb7f70015f4e37861e00a30b2056", null ],
     [ "plot", "interface_c_p_t_legend_entry.html#acb53d66d57f8628f7992301c28946863", null ],

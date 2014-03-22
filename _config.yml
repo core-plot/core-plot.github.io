@@ -1,0 +1,19 @@
+exclude: [README.md]
+
+markdown: rdiscount
+
+github:
+  username: core-plot/core-plot.github.io
+  
+# Twitter
+twitter_user: CorePlot
+# twitter_tweet_count: 7
+# twitter_show_replies: false
+twitter_follow_button: true
+# twitter_show_follower_count: false
+# twitter_tweet_button: false
+
+analytics :
+  provider : google
+  google : 
+      tracking_id : 'UA-11026867-2'

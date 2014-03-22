@@ -40,7 +40,6 @@ var hierarchy =
     [ "CPTAxis(AbstractMethods)", "category_c_p_t_axis_07_abstract_methods_08.html", null ],
     [ "CPTColor(CPTPlatformSpecificColorExtensions)", "category_c_p_t_color_07_c_p_t_platform_specific_color_extensions_08.html", null ],
     [ "CPTConstraints(AbstractMethods)", "category_c_p_t_constraints_07_abstract_methods_08.html", null ],
-    [ "CPTContextNode", "struct_c_p_t_context_node.html", null ],
     [ "CPTFill(AbstractMethods)", "category_c_p_t_fill_07_abstract_methods_08.html", null ],
     [ "CPTGradientElement", "struct_c_p_t_gradient_element.html", null ],
     [ "CPTGraph(AbstractFactoryMethods)", "category_c_p_t_graph_07_abstract_factory_methods_08.html", null ],
@@ -106,7 +105,6 @@ var hierarchy =
         ] ]
       ] ]
     ] ],
-    [ "NSColor(CPTPlatformSpecificExtensions)", "category_n_s_color_07_c_p_t_platform_specific_extensions_08.html", null ],
     [ "<NSCopying>", "https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Protocols/NSCopying_Protocol/Reference/Reference.html", [
       [ "CPTColor", "interface_c_p_t_color.html", null ],
       [ "CPTConstraints", "interface_c_p_t_constraints.html", null ],

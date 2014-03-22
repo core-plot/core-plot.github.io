@@ -38,7 +38,6 @@
   <div id="navrow1" class="tabs">
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
-      <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
       <li><a href="modules.html"><span>Animation&#160;&&#160;Constants</span></a></li>
       <li class="current"><a href="annotated.html"><span>Classes</span></a></li>
       <li><a href="files.html"><span>Files</span></a></li>
@@ -113,6 +112,9 @@ Public Instance Methods</h2></td></tr>
 <tr class="memitem:ae1e168c2cf883e9567e18a2ec7c1554c"><td class="memItemLeft" align="right" valign="top">(<a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/c/tdef/BOOL">BOOL</a>)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="protocol_c_p_t_responder-p.html#ae1e168c2cf883e9567e18a2ec7c1554c">pointingDeviceCancelledEvent:</a></td></tr>
 <tr class="memdesc:ae1e168c2cf883e9567e18a2ec7c1554c"><td class="mdescLeft">&#160;</td><td class="mdescRight">(<em>Required</em>) Informs the receiver that tracking of touches has been cancelled for any reason.  <a href="#ae1e168c2cf883e9567e18a2ec7c1554c">More...</a><br/></td></tr>
 <tr class="separator:ae1e168c2cf883e9567e18a2ec7c1554c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a993a4ed87676473f49098ca4436d1666"><td class="memItemLeft" align="right" valign="top">(<a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/c/tdef/BOOL">BOOL</a>)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="protocol_c_p_t_responder-p.html#a993a4ed87676473f49098ca4436d1666">scrollWheelEvent:fromPoint:toPoint:</a></td></tr>
+<tr class="memdesc:a993a4ed87676473f49098ca4436d1666"><td class="mdescLeft">&#160;</td><td class="mdescRight">(<em>Required</em>) Informs the receiver that the user has moved the scroll wheel.  <a href="#a993a4ed87676473f49098ca4436d1666">More...</a><br/></td></tr>
+<tr class="separator:a993a4ed87676473f49098ca4436d1666"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_NSObject"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_NSObject')"><img src="closed.png" alt="-"/>&#160;Public Instance Methods inherited from <a class="el" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/Reference/NSObject.html">&lt;NSObject&gt;</a></td></tr>
 <tr class="memitem://apple_ref/occ/intfm/NSObject/description inherit pub_methods_NSObject"><td class="memItemLeft" align="right" valign="top">(<a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html">NSString</a> *)&#160;</td><td class="memItemRight" valign="bottom">- <a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/Reference/NSObject.html#//apple_ref/occ/intfm/NSObject/description">description</a></td></tr>
 <tr class="separator://apple_ref/occ/intfm/NSObject/description inherit pub_methods_NSObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -147,7 +149,7 @@ Public Instance Methods</h2></td></tr>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>Whether the event was handled or not. </dd></dl>
 
-<p>Reimplemented in <a class="el" href="interface_c_p_t_graph.html#ade1996ed526f4e64cb770c7a92e1a8b7">CPTGraph</a>, <a class="el" href="interface_c_p_t_plot_area_frame.html#ae41c1008226b42a353d6b1a5a0db12e1">CPTPlotAreaFrame</a>, <a class="el" href="interface_c_p_t_layer.html#ac0e5ad9ddd8736055a2b0307d39a8648">CPTLayer</a>, <a class="el" href="interface_c_p_t_annotation_host_layer.html#a3bdbb3700540719404d2ead12872e3c9">CPTAnnotationHostLayer</a>, and <a class="el" href="interface_c_p_t_plot_space.html#ac13506e5cd0a592d71a822a711ed7b10">CPTPlotSpace</a>.</p>
+<p>Reimplemented in <a class="el" href="interface_c_p_t_graph.html#ade1996ed526f4e64cb770c7a92e1a8b7">CPTGraph</a>, <a class="el" href="interface_c_p_t_layer.html#ac0e5ad9ddd8736055a2b0307d39a8648">CPTLayer</a>, <a class="el" href="interface_c_p_t_plot_area_frame.html#ae41c1008226b42a353d6b1a5a0db12e1">CPTPlotAreaFrame</a>, <a class="el" href="interface_c_p_t_plot_space.html#ac13506e5cd0a592d71a822a711ed7b10">CPTPlotSpace</a>, and <a class="el" href="interface_c_p_t_annotation_host_layer.html#a3bdbb3700540719404d2ead12872e3c9">CPTAnnotationHostLayer</a>.</p>
 
 </div>
 </div>
@@ -185,7 +187,7 @@ Public Instance Methods</h2></td></tr>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>Whether the event was handled or not. </dd></dl>
 
-<p>Reimplemented in <a class="el" href="interface_c_p_t_axis.html#a3add925f6f2f32876ad41ee8f2df3fc8">CPTAxis</a>, <a class="el" href="interface_c_p_t_pie_chart.html#a822a081fccd882011f0bf33635f1e13e">CPTPieChart</a>, <a class="el" href="interface_c_p_t_plot.html#a45965abcaead6bd17f4974d87dd1891e">CPTPlot</a>, <a class="el" href="interface_c_p_t_x_y_plot_space.html#a08faa704355f7f4ad9393a68ab45c423">CPTXYPlotSpace</a>, <a class="el" href="interface_c_p_t_trading_range_plot.html#a6a2db305742248c5f64dd01df4131445">CPTTradingRangePlot</a>, <a class="el" href="interface_c_p_t_bar_plot.html#a3dfe65c8efcc3b8a23e7048c943f1b45">CPTBarPlot</a>, <a class="el" href="interface_c_p_t_range_plot.html#a5d3b69661b89f37ab392be4a09cf6890">CPTRangePlot</a>, <a class="el" href="interface_c_p_t_scatter_plot.html#ab374bf8a1ee14e6c1f57ff333cfb3be8">CPTScatterPlot</a>, <a class="el" href="interface_c_p_t_graph.html#abdea20142d2d203b7e58c223660d81ba">CPTGraph</a>, <a class="el" href="interface_c_p_t_legend.html#a7533b8173b1ff48dbe422d4d993a5700">CPTLegend</a>, <a class="el" href="interface_c_p_t_axis_set.html#a7bf20f895757c455693b0941928b96c1">CPTAxisSet</a>, <a class="el" href="interface_c_p_t_plot_area_frame.html#a0e9a0c663d5c493a5c8f4dc64bb2b894">CPTPlotAreaFrame</a>, <a class="el" href="interface_c_p_t_layer.html#aa922c527d0fc072fbf2ff3f9a13068c4">CPTLayer</a>, <a class="el" href="interface_c_p_t_plot_area.html#ab4f583a803115c829bbf86f451f04f44">CPTPlotArea</a>, <a class="el" href="interface_c_p_t_annotation_host_layer.html#ab4dff7a3ec818792055f22e36739b2a6">CPTAnnotationHostLayer</a>, and <a class="el" href="interface_c_p_t_plot_space.html#a78dcb094b3176585aa3e705e882f0758">CPTPlotSpace</a>.</p>
+<p>Reimplemented in <a class="el" href="interface_c_p_t_axis.html#a3add925f6f2f32876ad41ee8f2df3fc8">CPTAxis</a>, <a class="el" href="interface_c_p_t_pie_chart.html#a822a081fccd882011f0bf33635f1e13e">CPTPieChart</a>, <a class="el" href="interface_c_p_t_plot.html#a45965abcaead6bd17f4974d87dd1891e">CPTPlot</a>, <a class="el" href="interface_c_p_t_trading_range_plot.html#a6a2db305742248c5f64dd01df4131445">CPTTradingRangePlot</a>, <a class="el" href="interface_c_p_t_bar_plot.html#a3dfe65c8efcc3b8a23e7048c943f1b45">CPTBarPlot</a>, <a class="el" href="interface_c_p_t_range_plot.html#a5d3b69661b89f37ab392be4a09cf6890">CPTRangePlot</a>, <a class="el" href="interface_c_p_t_scatter_plot.html#ab374bf8a1ee14e6c1f57ff333cfb3be8">CPTScatterPlot</a>, <a class="el" href="interface_c_p_t_graph.html#abdea20142d2d203b7e58c223660d81ba">CPTGraph</a>, <a class="el" href="interface_c_p_t_legend.html#a7533b8173b1ff48dbe422d4d993a5700">CPTLegend</a>, <a class="el" href="interface_c_p_t_x_y_plot_space.html#a08faa704355f7f4ad9393a68ab45c423">CPTXYPlotSpace</a>, <a class="el" href="interface_c_p_t_axis_set.html#a7bf20f895757c455693b0941928b96c1">CPTAxisSet</a>, <a class="el" href="interface_c_p_t_layer.html#aa922c527d0fc072fbf2ff3f9a13068c4">CPTLayer</a>, <a class="el" href="interface_c_p_t_plot_area.html#ab4f583a803115c829bbf86f451f04f44">CPTPlotArea</a>, <a class="el" href="interface_c_p_t_plot_area_frame.html#a0e9a0c663d5c493a5c8f4dc64bb2b894">CPTPlotAreaFrame</a>, <a class="el" href="interface_c_p_t_plot_space.html#a78dcb094b3176585aa3e705e882f0758">CPTPlotSpace</a>, and <a class="el" href="interface_c_p_t_annotation_host_layer.html#ab4dff7a3ec818792055f22e36739b2a6">CPTAnnotationHostLayer</a>.</p>
 
 </div>
 </div>
@@ -223,7 +225,7 @@ Public Instance Methods</h2></td></tr>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>Whether the event was handled or not. </dd></dl>
 
-<p>Reimplemented in <a class="el" href="interface_c_p_t_x_y_plot_space.html#aa7d8e61c8351c7dfea20220f37928924">CPTXYPlotSpace</a>, <a class="el" href="interface_c_p_t_graph.html#a758a20d15a4700d068a47fc912670f26">CPTGraph</a>, <a class="el" href="interface_c_p_t_plot_area_frame.html#a653a419980f02cb5313c3ef105446424">CPTPlotAreaFrame</a>, <a class="el" href="interface_c_p_t_layer.html#ac87a3c12f031e722eb4ecb734320a9f0">CPTLayer</a>, <a class="el" href="interface_c_p_t_annotation_host_layer.html#aed34f9700c33d65b0502f8c09d3b15d6">CPTAnnotationHostLayer</a>, and <a class="el" href="interface_c_p_t_plot_space.html#a387d023fed407222bfca3f830311a13e">CPTPlotSpace</a>.</p>
+<p>Reimplemented in <a class="el" href="interface_c_p_t_graph.html#a758a20d15a4700d068a47fc912670f26">CPTGraph</a>, <a class="el" href="interface_c_p_t_x_y_plot_space.html#aa7d8e61c8351c7dfea20220f37928924">CPTXYPlotSpace</a>, <a class="el" href="interface_c_p_t_layer.html#ac87a3c12f031e722eb4ecb734320a9f0">CPTLayer</a>, <a class="el" href="interface_c_p_t_plot_area_frame.html#a653a419980f02cb5313c3ef105446424">CPTPlotAreaFrame</a>, <a class="el" href="interface_c_p_t_plot_space.html#a387d023fed407222bfca3f830311a13e">CPTPlotSpace</a>, and <a class="el" href="interface_c_p_t_annotation_host_layer.html#aed34f9700c33d65b0502f8c09d3b15d6">CPTAnnotationHostLayer</a>.</p>
 
 </div>
 </div>
@@ -261,7 +263,52 @@ Public Instance Methods</h2></td></tr>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>Whether the event was handled or not. </dd></dl>
 
-<p>Reimplemented in <a class="el" href="interface_c_p_t_x_y_plot_space.html#aac158e80164a2f89b644cd03b642c235">CPTXYPlotSpace</a>, <a class="el" href="interface_c_p_t_graph.html#ae0fcb63eec3a7775e8568299a91cbe20">CPTGraph</a>, <a class="el" href="interface_c_p_t_plot_area_frame.html#a7291246aced12369836d60f44a65637d">CPTPlotAreaFrame</a>, <a class="el" href="interface_c_p_t_layer.html#a3b1237d27a1cd3a2b6804d4de317dec9">CPTLayer</a>, <a class="el" href="interface_c_p_t_annotation_host_layer.html#a7b10f16a39e639266c862968f8a3a6f3">CPTAnnotationHostLayer</a>, and <a class="el" href="interface_c_p_t_plot_space.html#adfdf3d8cc6c7be7cb17b909133344bd4">CPTPlotSpace</a>.</p>
+<p>Reimplemented in <a class="el" href="interface_c_p_t_axis.html#a7eeaa47648cecd7d25b8289f51498b23">CPTAxis</a>, <a class="el" href="interface_c_p_t_pie_chart.html#a09eadb8c2451e6ab1832377351bbecc3">CPTPieChart</a>, <a class="el" href="interface_c_p_t_plot.html#a5102363c0b60cee281d3f9b02602fb52">CPTPlot</a>, <a class="el" href="interface_c_p_t_trading_range_plot.html#a26bc648e8d9b4b9860f977f4455e800b">CPTTradingRangePlot</a>, <a class="el" href="interface_c_p_t_bar_plot.html#a484b6be85fbef4e02567906f11fdb433">CPTBarPlot</a>, <a class="el" href="interface_c_p_t_range_plot.html#a43b5ebfcbc847c2e925fdce57baffc47">CPTRangePlot</a>, <a class="el" href="interface_c_p_t_scatter_plot.html#a2084bf5e549368d03595098560adf4ba">CPTScatterPlot</a>, <a class="el" href="interface_c_p_t_graph.html#ae0fcb63eec3a7775e8568299a91cbe20">CPTGraph</a>, <a class="el" href="interface_c_p_t_legend.html#a902cd0f7db6b2644dbfaa09b7847c0b2">CPTLegend</a>, <a class="el" href="interface_c_p_t_x_y_plot_space.html#aac158e80164a2f89b644cd03b642c235">CPTXYPlotSpace</a>, <a class="el" href="interface_c_p_t_axis_set.html#a56ecd36ff084a47f87aeb7575d0a0e7d">CPTAxisSet</a>, <a class="el" href="interface_c_p_t_layer.html#a3b1237d27a1cd3a2b6804d4de317dec9">CPTLayer</a>, <a class="el" href="interface_c_p_t_plot_area.html#a5955a8fc265679b975a0fc8b86e435c9">CPTPlotArea</a>, <a class="el" href="interface_c_p_t_plot_area_frame.html#a7291246aced12369836d60f44a65637d">CPTPlotAreaFrame</a>, <a class="el" href="interface_c_p_t_plot_space.html#adfdf3d8cc6c7be7cb17b909133344bd4">CPTPlotSpace</a>, and <a class="el" href="interface_c_p_t_annotation_host_layer.html#a7b10f16a39e639266c862968f8a3a6f3">CPTAnnotationHostLayer</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a993a4ed87676473f49098ca4436d1666"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (<a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/c/tdef/BOOL">BOOL</a>) scrollWheelEvent: </td>
+          <td></td>
+          <td class="paramtype">(<a class="el" href="_c_p_t_platform_specific_defines_8h.html#a11ae78e634b63fe8bbf175f8db715c26">CPTNativeEvent</a> *)&#160;</td>
+          <td class="paramname"><em>event</em></td>
+        </tr>
+        <tr>
+          <td class="paramkey">fromPoint:</td>
+          <td></td>
+          <td class="paramtype">(<a class="elRef" href="https://developer.apple.com/library/ios/#documentation/GraphicsImaging/Reference/CGGeometry/Reference/reference.html#//apple_ref/c/tdef/CGPoint">CGPoint</a>)&#160;</td>
+          <td class="paramname"><em>fromPoint</em></td>
+        </tr>
+        <tr>
+          <td class="paramkey">toPoint:</td>
+          <td></td>
+          <td class="paramtype">(<a class="elRef" href="https://developer.apple.com/library/ios/#documentation/GraphicsImaging/Reference/CGGeometry/Reference/reference.html#//apple_ref/c/tdef/CGPoint">CGPoint</a>)&#160;</td>
+          <td class="paramname"><em>toPoint</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>(<em>Required</em>) Informs the receiver that the user has moved the scroll wheel. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">event</td><td>The OS event. </td></tr>
+    <tr><td class="paramname">fromPoint</td><td>The starting coordinates of the interaction. </td></tr>
+    <tr><td class="paramname">toPoint</td><td>The ending coordinates of the interaction. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>Whether the event was handled or not. </dd></dl>
+
+<p>Reimplemented in <a class="el" href="interface_c_p_t_graph.html#a77336d79beb3139ba0ab9aaa3b1dedcd">CPTGraph</a>, <a class="el" href="interface_c_p_t_x_y_plot_space.html#ab2f68f08adad3cde9769c8796321103f">CPTXYPlotSpace</a>, <a class="el" href="interface_c_p_t_layer.html#a90ff9f794287e01412e6ca703ef416ca">CPTLayer</a>, and <a class="el" href="interface_c_p_t_plot_space.html#adf6336efaa9c4283da3be29c57e96190">CPTPlotSpace</a>.</p>
 
 </div>
 </div>

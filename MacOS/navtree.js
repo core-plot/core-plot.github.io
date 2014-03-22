@@ -14,7 +14,6 @@ var NAVTREE =
         [ "Testing", "index.html#testing", null ]
       ] ]
     ] ],
-    [ "Deprecated List", "deprecated.html", null ],
     [ "Animation & Constants", "modules.html", "modules" ],
     [ "Classes", null, [
       [ "Class List", "annotated.html", "annotated" ],
@@ -45,13 +44,13 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_c_p_t_animation_8h.html",
-"_c_p_t_mutable_line_style_8m.html",
-"_c_p_t_utilities_8h.html#a1970a76e2fccbfcf42c75b6f919220f0",
-"functions.html",
-"interface_c_p_t_animation_period.html#aa757f5ce4046f977812c4c8b1fb463da",
-"interface_c_p_t_image.html#a9ffebde730aa2e5ef5cb3dadf549e38c",
-"interface_c_p_t_plot_area.html#a0bca0eb21ae6580732f197e0f4f65a4e",
-"protocol_c_p_t_plot_data_source-p.html#a2756cde65834d2394b3f5ef661f33ff8"
+"_c_p_t_line_cap_8m.html",
+"_c_p_t_trading_range_plot_8m.html#a5c3e3e9b06e7ba491ecd5bd98aac091c",
+"classes.html",
+"interface_c_p_t_animation_operation.html#a77c0ce8c798805be805341806de787a7",
+"interface_c_p_t_graph_hosting_view.html#a377eaa7fab835f4ab3503f533b61117f",
+"interface_c_p_t_plot.html#a9c0c497a111974900062776de03b3738",
+"protocol_c_p_t_axis_delegate-p.html#ab102ae99efcaf69b4ae7371ddc39cf25"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

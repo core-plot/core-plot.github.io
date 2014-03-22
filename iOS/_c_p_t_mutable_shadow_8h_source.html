@@ -38,7 +38,6 @@
   <div id="navrow1" class="tabs">
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
-      <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
       <li><a href="modules.html"><span>Animation&#160;&&#160;Constants</span></a></li>
       <li><a href="annotated.html"><span>Classes</span></a></li>
       <li class="current"><a href="files.html"><span>Files</span></a></li>
@@ -74,18 +73,21 @@ $(document).ready(function(){initNavTree('_c_p_t_mutable_shadow_8h_source.html',
 <div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;</div>
 <div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="keyword">@class</span> <a class="code" href="interface_c_p_t_color.html">CPTColor</a>;</div>
 <div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;</div>
-<div class="line"><a name="l00005"></a><span class="lineno"><a class="line" href="interface_c_p_t_mutable_shadow.html">    5</a></span>&#160;<span class="keyword">@interface </span><a class="code" href="interface_c_p_t_mutable_shadow.html">CPTMutableShadow</a> : <a class="code" href="interface_c_p_t_shadow.html">CPTShadow</a> {</div>
-<div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;}</div>
-<div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;</div>
-<div class="line"><a name="l00008"></a><span class="lineno"><a class="line" href="interface_c_p_t_mutable_shadow.html#ac3e2b971bce51e14140fc76e11c61f14">    8</a></span>&#160;<span class="keyword">@property</span> (nonatomic, readwrite, assign) CGSize shadowOffset;</div>
-<div class="line"><a name="l00009"></a><span class="lineno"><a class="line" href="interface_c_p_t_mutable_shadow.html#aee08d7b8c37f7d32fdca06f41dbbe60d">    9</a></span>&#160;<span class="keyword">@property</span> (nonatomic, readwrite, assign) CGFloat shadowBlurRadius;</div>
-<div class="line"><a name="l00010"></a><span class="lineno"><a class="line" href="interface_c_p_t_mutable_shadow.html#a215705c7c67b5f6722ed968f031aa53e">   10</a></span>&#160;<span class="keyword">@property</span> (nonatomic, readwrite, retain) <a class="code" href="interface_c_p_t_color.html">CPTColor</a> *shadowColor;</div>
-<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;</div>
-<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;<span class="keyword">@end</span></div>
+<div class="line"><a name="l00005"></a><span class="lineno"><a class="line" href="interface_c_p_t_mutable_shadow.html">    5</a></span>&#160;<span class="keyword">@interface </span><a class="code" href="interface_c_p_t_mutable_shadow.html">CPTMutableShadow</a> : <a class="code" href="interface_c_p_t_shadow.html">CPTShadow</a></div>
+<div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;</div>
+<div class="line"><a name="l00007"></a><span class="lineno"><a class="line" href="interface_c_p_t_mutable_shadow.html#ac3e2b971bce51e14140fc76e11c61f14">    7</a></span>&#160;<span class="keyword">@property</span> (nonatomic, readwrite, assign) <a class="codeRef" href="https://developer.apple.com/library/ios/#documentation/GraphicsImaging/Reference/CGGeometry/Reference/reference.html#//apple_ref/c/tdef/CGSize">CGSize</a> <a class="code" href="interface_c_p_t_mutable_shadow.html#ac3e2b971bce51e14140fc76e11c61f14">shadowOffset</a>;</div>
+<div class="line"><a name="l00008"></a><span class="lineno"><a class="line" href="interface_c_p_t_mutable_shadow.html#aee08d7b8c37f7d32fdca06f41dbbe60d">    8</a></span>&#160;<span class="keyword">@property</span> (nonatomic, readwrite, assign) CGFloat <a class="code" href="interface_c_p_t_mutable_shadow.html#aee08d7b8c37f7d32fdca06f41dbbe60d">shadowBlurRadius</a>;</div>
+<div class="line"><a name="l00009"></a><span class="lineno"><a class="line" href="interface_c_p_t_mutable_shadow.html#a215705c7c67b5f6722ed968f031aa53e">    9</a></span>&#160;<span class="keyword">@property</span> (nonatomic, readwrite, strong) <a class="code" href="interface_c_p_t_color.html">CPTColor</a> *<a class="code" href="interface_c_p_t_mutable_shadow.html#a215705c7c67b5f6722ed968f031aa53e">shadowColor</a>;</div>
+<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;</div>
+<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;<span class="keyword">@end</span></div>
 <div class="ttc" id="_c_p_t_shadow_8h_html"><div class="ttname"><a href="_c_p_t_shadow_8h.html">CPTShadow.h</a></div></div>
+<div class="ttc" id="interface_c_p_t_mutable_shadow_html_aee08d7b8c37f7d32fdca06f41dbbe60d"><div class="ttname"><a href="interface_c_p_t_mutable_shadow.html#aee08d7b8c37f7d32fdca06f41dbbe60d">CPTMutableShadow::shadowBlurRadius</a></div><div class="ttdeci">CGFloat shadowBlurRadius</div><div class="ttdoc">The blur radius, measured in the default user coordinate space. A value of 0.0 (the default) indicate...</div><div class="ttdef"><b>Definition:</b> CPTMutableShadow.h:8</div></div>
+<div class="ttc" id="interface_c_p_t_mutable_shadow_html_a215705c7c67b5f6722ed968f031aa53e"><div class="ttname"><a href="interface_c_p_t_mutable_shadow.html#a215705c7c67b5f6722ed968f031aa53e">CPTMutableShadow::shadowColor</a></div><div class="ttdeci">CPTColor * shadowColor</div><div class="ttdoc">The shadow color. If nil (the default), the shadow will not be drawn. </div><div class="ttdef"><b>Definition:</b> CPTMutableShadow.h:9</div></div>
+<div class="ttc" id="reference_html_//apple_ref/c/tdef/CGSize"><div class="ttname"><a href="https://developer.apple.com/library/ios/#documentation/GraphicsImaging/Reference/CGGeometry/Reference/reference.html#//apple_ref/c/tdef/CGSize">CGSize</a></div><div class="ttdeci">typedef CGSize</div></div>
 <div class="ttc" id="interface_c_p_t_mutable_shadow_html"><div class="ttname"><a href="interface_c_p_t_mutable_shadow.html">CPTMutableShadow</a></div><div class="ttdoc">Mutable wrapper for various shadow drawing properties. </div><div class="ttdef"><b>Definition:</b> CPTMutableShadow.h:5</div></div>
 <div class="ttc" id="interface_c_p_t_shadow_html"><div class="ttname"><a href="interface_c_p_t_shadow.html">CPTShadow</a></div><div class="ttdoc">Immutable wrapper for various shadow drawing properties. </div><div class="ttdef"><b>Definition:</b> CPTShadow.h:3</div></div>
 <div class="ttc" id="interface_c_p_t_color_html"><div class="ttname"><a href="interface_c_p_t_color.html">CPTColor</a></div><div class="ttdoc">An immutable color. </div><div class="ttdef"><b>Definition:</b> CPTColor.h:1</div></div>
+<div class="ttc" id="interface_c_p_t_mutable_shadow_html_ac3e2b971bce51e14140fc76e11c61f14"><div class="ttname"><a href="interface_c_p_t_mutable_shadow.html#ac3e2b971bce51e14140fc76e11c61f14">CPTMutableShadow::shadowOffset</a></div><div class="ttdeci">CGSize shadowOffset</div><div class="ttdoc">The horizontal and vertical offset values, specified using the width and height fields of the CGSize ...</div><div class="ttdef"><b>Definition:</b> CPTMutableShadow.h:7</div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

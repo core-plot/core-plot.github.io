@@ -38,7 +38,6 @@
   <div id="navrow1" class="tabs">
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
-      <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
       <li><a href="modules.html"><span>Animation&#160;&&#160;Constants</span></a></li>
       <li class="current"><a href="annotated.html"><span>Classes</span></a></li>
       <li><a href="files.html"><span>Files</span></a></li>
@@ -99,6 +98,9 @@ Properties</h2></td></tr>
 <tr class="memitem:acfeede795ed7311ad4080218927a1236"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/c/tdef/BOOL">BOOL</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="category_c_p_t_fill_07_abstract_methods_08.html#acfeede795ed7311ad4080218927a1236">opaque</a></td></tr>
 <tr class="memdesc:acfeede795ed7311ad4080218927a1236"><td class="mdescLeft">&#160;</td><td class="mdescRight">If <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/doc/c_ref/YES">YES</a>, the fill is completely opaque.  <a href="#acfeede795ed7311ad4080218927a1236">More...</a><br/></td></tr>
 <tr class="separator:acfeede795ed7311ad4080218927a1236"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1ff10ee7f9584469f5344e742d39ed16"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="https://developer.apple.com/library/mac/#documentation/GraphicsImaging/Reference/CGColor/Reference/reference.html#//apple_ref/c/tdef/CGColorRef">CGColorRef</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="category_c_p_t_fill_07_abstract_methods_08.html#a1ff10ee7f9584469f5344e742d39ed16">cgColor</a></td></tr>
+<tr class="memdesc:a1ff10ee7f9584469f5344e742d39ed16"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/GraphicsImaging/Reference/CGColor/Reference/reference.html#//apple_ref/c/tdef/CGColorRef">CGColorRef</a> describing the fill if the fill can be represented as a color, <code>NULL</code> otherwise.  <a href="#a1ff10ee7f9584469f5344e742d39ed16">More...</a><br/></td></tr>
+<tr class="separator:a1ff10ee7f9584469f5344e742d39ed16"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p><a class="el" href="interface_c_p_t_fill.html" title="Draws area fills. ">CPTFill</a> abstract methods—must be overridden by subclasses. </p>
@@ -192,6 +194,30 @@ Properties</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Property Documentation</h2>
+<a class="anchor" id="a1ff10ee7f9584469f5344e742d39ed16"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/GraphicsImaging/Reference/CGColor/Reference/reference.html#//apple_ref/c/tdef/CGColorRef">CGColorRef</a>) cgColor</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">read</span><span class="mlabel">nonatomic</span><span class="mlabel">assign</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Returns a <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/GraphicsImaging/Reference/CGColor/Reference/reference.html#//apple_ref/c/tdef/CGColorRef">CGColorRef</a> describing the fill if the fill can be represented as a color, <code>NULL</code> otherwise. </p>
+
+<p>Extends class <a class="el" href="interface_c_p_t_fill.html#a1ff10ee7f9584469f5344e742d39ed16">CPTFill</a>.</p>
+
+</div>
+</div>
 <a class="anchor" id="acfeede795ed7311ad4080218927a1236"></a>
 <div class="memitem">
 <div class="memproto">

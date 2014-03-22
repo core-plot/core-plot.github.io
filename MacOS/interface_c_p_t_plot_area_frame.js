@@ -1,6 +1,6 @@
 var interface_c_p_t_plot_area_frame =
 [
-    [ "initWithFrame:", "interface_c_p_t_plot_area_frame.html#a24eba376f907c560dd33f86a63c80dc2", null ],
+    [ "initWithFrame:", "interface_c_p_t_plot_area_frame.html#abe052414b447d9f8eae4cb4613627ac7", null ],
     [ "pointingDeviceCancelledEvent:", "interface_c_p_t_plot_area_frame.html#ae41c1008226b42a353d6b1a5a0db12e1", null ],
     [ "pointingDeviceDownEvent:atPoint:", "interface_c_p_t_plot_area_frame.html#a0e9a0c663d5c493a5c8f4dc64bb2b894", null ],
     [ "pointingDeviceDraggedEvent:atPoint:", "interface_c_p_t_plot_area_frame.html#a653a419980f02cb5313c3ef105446424", null ],

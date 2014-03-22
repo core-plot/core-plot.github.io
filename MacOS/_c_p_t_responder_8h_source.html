@@ -38,7 +38,6 @@
   <div id="navrow1" class="tabs">
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
-      <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
       <li><a href="modules.html"><span>Animation&#160;&&#160;Constants</span></a></li>
       <li><a href="annotated.html"><span>Classes</span></a></li>
       <li class="current"><a href="files.html"><span>Files</span></a></li>
@@ -82,8 +81,15 @@ $(document).ready(function(){initNavTree('_c_p_t_responder_8h_source.html','');}
 <div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;-(<a class="codeRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/c/tdef/BOOL">BOOL</a>)pointingDeviceDraggedEvent:(<a class="codeRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ApplicationKit/Classes/NSEvent_Class/Reference/Reference.html">CPTNativeEvent</a> *)event atPoint:(<a class="codeRef" href="https://developer.apple.com/library/mac/#documentation/GraphicsImaging/Reference/CGGeometry/Reference/reference.html#//apple_ref/c/tdef/CGPoint">CGPoint</a>)interactionPoint;</div>
 <div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;</div>
 <div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;-(<a class="codeRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/c/tdef/BOOL">BOOL</a>)pointingDeviceCancelledEvent:(<a class="codeRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ApplicationKit/Classes/NSEvent_Class/Reference/Reference.html">CPTNativeEvent</a> *)event;</div>
-<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;</div>
-<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;<span class="keyword">@end</span></div>
+<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;</div>
+<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;<span class="preprocessor">#if TARGET_IPHONE_SIMULATOR || TARGET_OS_IPHONE</span></div>
+<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;<span class="preprocessor"></span><span class="preprocessor">#else</span></div>
+<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;<span class="preprocessor"></span></div>
+<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;-(<a class="codeRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/c/tdef/BOOL">BOOL</a>)scrollWheelEvent:(<a class="codeRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ApplicationKit/Classes/NSEvent_Class/Reference/Reference.html">CPTNativeEvent</a> *)event fromPoint:(<a class="codeRef" href="https://developer.apple.com/library/mac/#documentation/GraphicsImaging/Reference/CGGeometry/Reference/reference.html#//apple_ref/c/tdef/CGPoint">CGPoint</a>)fromPoint toPoint:(<a class="codeRef" href="https://developer.apple.com/library/mac/#documentation/GraphicsImaging/Reference/CGGeometry/Reference/reference.html#//apple_ref/c/tdef/CGPoint">CGPoint</a>)toPoint;</div>
+<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;<span class="preprocessor">#endif</span></div>
+<div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;<span class="preprocessor"></span></div>
+<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;</div>
+<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;<span class="keyword">@end</span></div>
 <div class="ttc" id="reference_html_//apple_ref/c/tdef/CGPoint"><div class="ttname"><a href="https://developer.apple.com/library/mac/#documentation/GraphicsImaging/Reference/CGGeometry/Reference/reference.html#//apple_ref/c/tdef/CGPoint">CGPoint</a></div><div class="ttdeci">typedef CGPoint</div></div>
 <div class="ttc" id="_c_p_t_platform_specific_defines_8h_html"><div class="ttname"><a href="_c_p_t_platform_specific_defines_8h.html">CPTPlatformSpecificDefines.h</a></div></div>
 <div class="ttc" id="reference_html_//apple_ref/c/tdef/BOOL"><div class="ttname"><a href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/c/tdef/BOOL">BOOL</a></div><div class="ttdeci">typedef BOOL</div></div>

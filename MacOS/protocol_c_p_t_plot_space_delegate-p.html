@@ -38,7 +38,6 @@
   <div id="navrow1" class="tabs">
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
-      <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
       <li><a href="modules.html"><span>Animation&#160;&&#160;Constants</span></a></li>
       <li class="current"><a href="annotated.html"><span>Classes</span></a></li>
       <li><a href="files.html"><span>Files</span></a></li>
@@ -128,6 +127,9 @@ Public Instance Methods</h2></td></tr>
 <tr class="memitem:a4aed90d7f6f54d4412a21aaac9e3e1f3"><td class="memItemLeft" align="right" valign="top">(<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/c/tdef/BOOL">BOOL</a>)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="protocol_c_p_t_plot_space_delegate-p.html#a4aed90d7f6f54d4412a21aaac9e3e1f3">plotSpace:shouldHandlePointingDeviceUpEvent:atPoint:</a></td></tr>
 <tr class="memdesc:a4aed90d7f6f54d4412a21aaac9e3e1f3"><td class="mdescLeft">&#160;</td><td class="mdescRight">(<em>Optional</em>) Notifies that plot space intercepted a device up event.  <a href="#a4aed90d7f6f54d4412a21aaac9e3e1f3">More...</a><br/></td></tr>
 <tr class="separator:a4aed90d7f6f54d4412a21aaac9e3e1f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8f6b624ca0190e1415e8d63a8b9973d8"><td class="memItemLeft" align="right" valign="top">(<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/c/tdef/BOOL">BOOL</a>)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="protocol_c_p_t_plot_space_delegate-p.html#a8f6b624ca0190e1415e8d63a8b9973d8">plotSpace:shouldHandleScrollWheelEvent:fromPoint:toPoint:</a></td></tr>
+<tr class="memdesc:a8f6b624ca0190e1415e8d63a8b9973d8"><td class="mdescLeft">&#160;</td><td class="mdescRight">(<em>Optional</em>) Notifies that plot space intercepted a scroll wheel event.  <a href="#a8f6b624ca0190e1415e8d63a8b9973d8">More...</a><br/></td></tr>
+<tr class="separator:a8f6b624ca0190e1415e8d63a8b9973d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_NSObject"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_NSObject')"><img src="closed.png" alt="-"/>&#160;Public Instance Methods inherited from <a class="el" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/Reference/NSObject.html">&lt;NSObject&gt;</a></td></tr>
 <tr class="memitem://apple_ref/occ/intfm/NSObject/description inherit pub_methods_NSObject"><td class="memItemLeft" align="right" valign="top">(<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html">NSString</a> *)&#160;</td><td class="memItemRight" valign="bottom">- <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/Reference/NSObject.html#//apple_ref/occ/intfm/NSObject/description">description</a></td></tr>
 <tr class="separator://apple_ref/occ/intfm/NSObject/description inherit pub_methods_NSObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -152,7 +154,7 @@ Public Instance Methods</h2></td></tr>
         <tr>
           <td class="paramkey">didChangePlotRangeForCoordinate:</td>
           <td></td>
-          <td class="paramtype">(<a class="el" href="_c_p_t_definitions_8h.html#a26e0566373a7a68bbd54e5747d4ece1b">CPTCoordinate</a>)&#160;</td>
+          <td class="paramtype">(<a class="el" href="_c_p_t_definitions_8h.html#a2124728ad835ea1963ccd6cb59ce7caa">CPTCoordinate</a>)&#160;</td>
           <td class="paramname"><em>coordinate</em>&#160;</td>
         </tr>
         <tr>
@@ -206,7 +208,7 @@ Public Instance Methods</h2></td></tr>
   </table>
   </dd>
 </dl>
-<dl class="section return"><dt>Returns</dt><dd>Whether the plot space should handle the event or not. In either case, the delegate may choose to take extra actions, or handle the scaling itself. </dd></dl>
+<dl class="section return"><dt>Returns</dt><dd>Whether the plot space should handle the event or not. In either case, the delegate may choose to take extra actions, or handle the event itself. </dd></dl>
 
 </div>
 </div>
@@ -249,7 +251,7 @@ Public Instance Methods</h2></td></tr>
   </table>
   </dd>
 </dl>
-<dl class="section return"><dt>Returns</dt><dd>Whether the plot space should handle the event or not. In either case, the delegate may choose to take extra actions, or handle the scaling itself. </dd></dl>
+<dl class="section return"><dt>Returns</dt><dd>Whether the plot space should handle the event or not. In either case, the delegate may choose to take extra actions, or handle the event itself. </dd></dl>
 
 </div>
 </div>
@@ -292,7 +294,7 @@ Public Instance Methods</h2></td></tr>
   </table>
   </dd>
 </dl>
-<dl class="section return"><dt>Returns</dt><dd>Whether the plot space should handle the event or not. In either case, the delegate may choose to take extra actions, or handle the scaling itself. </dd></dl>
+<dl class="section return"><dt>Returns</dt><dd>Whether the plot space should handle the event or not. In either case, the delegate may choose to take extra actions, or handle the event itself. </dd></dl>
 
 </div>
 </div>
@@ -335,7 +337,57 @@ Public Instance Methods</h2></td></tr>
   </table>
   </dd>
 </dl>
-<dl class="section return"><dt>Returns</dt><dd>Whether the plot space should handle the event or not. In either case, the delegate may choose to take extra actions, or handle the scaling itself. </dd></dl>
+<dl class="section return"><dt>Returns</dt><dd>Whether the plot space should handle the event or not. In either case, the delegate may choose to take extra actions, or handle the event itself. </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="a8f6b624ca0190e1415e8d63a8b9973d8"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/c/tdef/BOOL">BOOL</a>) plotSpace: </td>
+          <td></td>
+          <td class="paramtype">(<a class="el" href="interface_c_p_t_plot_space.html">CPTPlotSpace</a> *)&#160;</td>
+          <td class="paramname"><em>space</em></td>
+        </tr>
+        <tr>
+          <td class="paramkey">shouldHandleScrollWheelEvent:</td>
+          <td></td>
+          <td class="paramtype">(<a class="el" href="_c_p_t_platform_specific_defines_8h.html#a083121a0367e861b460a0007c779d422">CPTNativeEvent</a> *)&#160;</td>
+          <td class="paramname"><em>event</em></td>
+        </tr>
+        <tr>
+          <td class="paramkey">fromPoint:</td>
+          <td></td>
+          <td class="paramtype">(<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/GraphicsImaging/Reference/CGGeometry/Reference/reference.html#//apple_ref/c/tdef/CGPoint">CGPoint</a>)&#160;</td>
+          <td class="paramname"><em>fromPoint</em></td>
+        </tr>
+        <tr>
+          <td class="paramkey">toPoint:</td>
+          <td></td>
+          <td class="paramtype">(<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/GraphicsImaging/Reference/CGGeometry/Reference/reference.html#//apple_ref/c/tdef/CGPoint">CGPoint</a>)&#160;</td>
+          <td class="paramname"><em>toPoint</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>(<em>Optional</em>) Notifies that plot space intercepted a scroll wheel event. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">space</td><td>The plot space. </td></tr>
+    <tr><td class="paramname">event</td><td>The native event. </td></tr>
+    <tr><td class="paramname">fromPoint</td><td>The The starting point in the host view. </td></tr>
+    <tr><td class="paramname">toPoint</td><td>The The ending point in the host view. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>Whether the plot space should handle the event or not. In either case, the delegate may choose to take extra actions, or handle the event itself. </dd></dl>
 
 </div>
 </div>
@@ -401,7 +453,7 @@ Public Instance Methods</h2></td></tr>
         <tr>
           <td class="paramkey">forCoordinate:</td>
           <td></td>
-          <td class="paramtype">(<a class="el" href="_c_p_t_definitions_8h.html#a26e0566373a7a68bbd54e5747d4ece1b">CPTCoordinate</a>)&#160;</td>
+          <td class="paramtype">(<a class="el" href="_c_p_t_definitions_8h.html#a2124728ad835ea1963ccd6cb59ce7caa">CPTCoordinate</a>)&#160;</td>
           <td class="paramname"><em>coordinate</em>&#160;</td>
         </tr>
         <tr>

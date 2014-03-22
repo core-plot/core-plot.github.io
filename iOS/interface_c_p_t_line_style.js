@@ -1,6 +1,6 @@
 var interface_c_p_t_line_style =
 [
-    [ "init", "interface_c_p_t_line_style.html#ad1126ac34f822be1b1cfb3d5d999ecfc", null ],
+    [ "init", "interface_c_p_t_line_style.html#a20f870a9a6e522d6d1f51a95f93e6e32", null ],
     [ "isOpaque", "interface_c_p_t_line_style.html#a940b643832175d6be58a88f838bdeafe", null ],
     [ "setLineStyleInContext:", "interface_c_p_t_line_style.html#a81041dd3df05988c4c91f5ad71fa57ab", null ],
     [ "strokePathInContext:", "interface_c_p_t_line_style.html#aed358b6a220869cf5b13f1f7bd2324cb", null ],
