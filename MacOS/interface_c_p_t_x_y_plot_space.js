@@ -13,6 +13,7 @@ var interface_c_p_t_x_y_plot_space =
     [ "bounceAnimationCurve", "interface_c_p_t_x_y_plot_space.html#a3f3bcdebd7f8dd5aa836f6d3518d6d41", null ],
     [ "globalXRange", "interface_c_p_t_x_y_plot_space.html#a21e87799bc5c6a11cac1f14e15f9cbcb", null ],
     [ "globalYRange", "interface_c_p_t_x_y_plot_space.html#a0335e189737848267238b79fc5b88204", null ],
+    [ "minimumDisplacementToDrag", "interface_c_p_t_x_y_plot_space.html#a0b547448440bce1354d0a09c53952124", null ],
     [ "momentumAcceleration", "interface_c_p_t_x_y_plot_space.html#ac7817fa8e091661a82773ec844d79a7f", null ],
     [ "momentumAnimationCurve", "interface_c_p_t_x_y_plot_space.html#a1a99b92983b779424159cc1c18506bbc", null ],
     [ "xRange", "interface_c_p_t_x_y_plot_space.html#a07fbe93a00d43eb81cee9f04993222fe", null ],

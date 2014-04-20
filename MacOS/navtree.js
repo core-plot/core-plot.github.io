@@ -50,7 +50,7 @@ var NAVTREEINDEX =
 "interface_c_p_t_animation_operation.html#a77c0ce8c798805be805341806de787a7",
 "interface_c_p_t_graph_hosting_view.html#a377eaa7fab835f4ab3503f533b61117f",
 "interface_c_p_t_plot.html#a9c0c497a111974900062776de03b3738",
-"protocol_c_p_t_axis_delegate-p.html#ab102ae99efcaf69b4ae7371ddc39cf25"
+"protocol_c_p_t_axis_delegate-p.html#a574dcf534bd84513dee672293dc64e62"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
