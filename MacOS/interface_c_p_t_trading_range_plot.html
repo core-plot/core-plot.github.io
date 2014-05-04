@@ -99,6 +99,19 @@ $(document).ready(function(){initNavTree('interface_c_p_t_trading_range_plot.htm
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Instance Methods</h2></td></tr>
+<tr><td colspan="2"><div class="groupHeader">Bar Style</div></td></tr>
+<tr class="memitem:a39ef5a5e192de6f128148f057b9c6a64"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_trading_range_plot.html#a39ef5a5e192de6f128148f057b9c6a64">reloadBarFills</a></td></tr>
+<tr class="memdesc:a39ef5a5e192de6f128148f057b9c6a64"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reload all bar fills from the data source immediately.  <a href="#a39ef5a5e192de6f128148f057b9c6a64">More...</a><br/></td></tr>
+<tr class="separator:a39ef5a5e192de6f128148f057b9c6a64"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0fb59be5e64d2ef867236bd4b0585012"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_trading_range_plot.html#a0fb59be5e64d2ef867236bd4b0585012">reloadBarFillsInIndexRange:</a></td></tr>
+<tr class="memdesc:a0fb59be5e64d2ef867236bd4b0585012"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reload bar fills in the given index range from the data source immediately.  <a href="#a0fb59be5e64d2ef867236bd4b0585012">More...</a><br/></td></tr>
+<tr class="separator:a0fb59be5e64d2ef867236bd4b0585012"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a290e768f2bba28066d3c1f827dd3b370"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_trading_range_plot.html#a290e768f2bba28066d3c1f827dd3b370">reloadBarLineStyles</a></td></tr>
+<tr class="memdesc:a290e768f2bba28066d3c1f827dd3b370"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reload all bar line styles from the data source immediately.  <a href="#a290e768f2bba28066d3c1f827dd3b370">More...</a><br/></td></tr>
+<tr class="separator:a290e768f2bba28066d3c1f827dd3b370"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2580f7bffa74763c88b6991efc39ca50"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_trading_range_plot.html#a2580f7bffa74763c88b6991efc39ca50">reloadBarLineStylesInIndexRange:</a></td></tr>
+<tr class="memdesc:a2580f7bffa74763c88b6991efc39ca50"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reload bar line styles in the given index range from the data source immediately.  <a href="#a2580f7bffa74763c88b6991efc39ca50">More...</a><br/></td></tr>
+<tr class="separator:a2580f7bffa74763c88b6991efc39ca50"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr><td colspan="2"><div class="groupHeader">Initialization</div></td></tr>
 <tr class="memitem:a388b1955456f2faee8137ce57bcb9776"><td class="memItemLeft" align="right" valign="top">(instancetype)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_trading_range_plot.html#a388b1955456f2faee8137ce57bcb9776">initWithFrame:</a><code> [implementation]</code></td></tr>
 <tr class="memdesc:a388b1955456f2faee8137ce57bcb9776"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes a newly allocated <a class="el" href="interface_c_p_t_trading_range_plot.html" title="A trading range financial plot. ">CPTTradingRangePlot</a> object with the provided frame rectangle.  <a href="#a388b1955456f2faee8137ce57bcb9776">More...</a><br/></td></tr>
@@ -135,13 +148,13 @@ Public Instance Methods</h2></td></tr>
 <tr class="memdesc:acfe6ff4ab292b2e176725746447d00ad inherit pub_methods_interface_c_p_t_plot"><td class="mdescLeft">&#160;</td><td class="mdescRight">Marks the receiver as needing the data source reloaded before the content is next drawn.  <a href="#acfe6ff4ab292b2e176725746447d00ad">More...</a><br/></td></tr>
 <tr class="separator:acfe6ff4ab292b2e176725746447d00ad inherit pub_methods_interface_c_p_t_plot"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa057480faff658c8f29cfe19a62ec0e7 inherit pub_methods_interface_c_p_t_plot"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_plot.html#aa057480faff658c8f29cfe19a62ec0e7">reloadData</a></td></tr>
-<tr class="memdesc:aa057480faff658c8f29cfe19a62ec0e7 inherit pub_methods_interface_c_p_t_plot"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reload all plot data from the data source immediately.  <a href="#aa057480faff658c8f29cfe19a62ec0e7">More...</a><br/></td></tr>
+<tr class="memdesc:aa057480faff658c8f29cfe19a62ec0e7 inherit pub_methods_interface_c_p_t_plot"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reload all plot data, labels, and plot-specific information from the data source immediately.  <a href="#aa057480faff658c8f29cfe19a62ec0e7">More...</a><br/></td></tr>
 <tr class="separator:aa057480faff658c8f29cfe19a62ec0e7 inherit pub_methods_interface_c_p_t_plot"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5e035ab29bb66dfe2c31a3bfdcadc014 inherit pub_methods_interface_c_p_t_plot"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_plot.html#a5e035ab29bb66dfe2c31a3bfdcadc014">reloadDataIfNeeded</a></td></tr>
 <tr class="memdesc:a5e035ab29bb66dfe2c31a3bfdcadc014 inherit pub_methods_interface_c_p_t_plot"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reload plot data from the data source only if the data cache is out of date.  <a href="#a5e035ab29bb66dfe2c31a3bfdcadc014">More...</a><br/></td></tr>
 <tr class="separator:a5e035ab29bb66dfe2c31a3bfdcadc014 inherit pub_methods_interface_c_p_t_plot"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac7a928fc9838d07ac188d4fef2015c07 inherit pub_methods_interface_c_p_t_plot"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_plot.html#ac7a928fc9838d07ac188d4fef2015c07">reloadDataInIndexRange:</a></td></tr>
-<tr class="memdesc:ac7a928fc9838d07ac188d4fef2015c07 inherit pub_methods_interface_c_p_t_plot"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reload plot data in the given index range from the data source immediately.  <a href="#ac7a928fc9838d07ac188d4fef2015c07">More...</a><br/></td></tr>
+<tr class="memdesc:ac7a928fc9838d07ac188d4fef2015c07 inherit pub_methods_interface_c_p_t_plot"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reload plot data, labels, and plot-specific information in the given index range from the data source immediately.  <a href="#ac7a928fc9838d07ac188d4fef2015c07">More...</a><br/></td></tr>
 <tr class="separator:ac7a928fc9838d07ac188d4fef2015c07 inherit pub_methods_interface_c_p_t_plot"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aaf45d3cd5ab07ce4b48f6aef5d846d83 inherit pub_methods_interface_c_p_t_plot"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_plot.html#aaf45d3cd5ab07ce4b48f6aef5d846d83">insertDataAtIndex:numberOfRecords:</a></td></tr>
 <tr class="memdesc:aaf45d3cd5ab07ce4b48f6aef5d846d83 inherit pub_methods_interface_c_p_t_plot"><td class="mdescLeft">&#160;</td><td class="mdescRight">Insert records into the plot data cache at the given index.  <a href="#aaf45d3cd5ab07ce4b48f6aef5d846d83">More...</a><br/></td></tr>
@@ -149,6 +162,12 @@ Public Instance Methods</h2></td></tr>
 <tr class="memitem:aeda28869b1ab7bbcee58ced6635098bd inherit pub_methods_interface_c_p_t_plot"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_plot.html#aeda28869b1ab7bbcee58ced6635098bd">deleteDataInIndexRange:</a></td></tr>
 <tr class="memdesc:aeda28869b1ab7bbcee58ced6635098bd inherit pub_methods_interface_c_p_t_plot"><td class="mdescLeft">&#160;</td><td class="mdescRight">Delete records in the given index range from the plot data cache.  <a href="#aeda28869b1ab7bbcee58ced6635098bd">More...</a><br/></td></tr>
 <tr class="separator:aeda28869b1ab7bbcee58ced6635098bd inherit pub_methods_interface_c_p_t_plot"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a20cf0f3f8924108240a991b97706f0ab inherit pub_methods_interface_c_p_t_plot"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_plot.html#a20cf0f3f8924108240a991b97706f0ab">reloadPlotData</a></td></tr>
+<tr class="memdesc:a20cf0f3f8924108240a991b97706f0ab inherit pub_methods_interface_c_p_t_plot"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reload all plot data from the data source immediately.  <a href="#a20cf0f3f8924108240a991b97706f0ab">More...</a><br/></td></tr>
+<tr class="separator:a20cf0f3f8924108240a991b97706f0ab inherit pub_methods_interface_c_p_t_plot"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a248cd460c8c7958998e9954428c8bb1c inherit pub_methods_interface_c_p_t_plot"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_plot.html#a248cd460c8c7958998e9954428c8bb1c">reloadPlotDataInIndexRange:</a></td></tr>
+<tr class="memdesc:a248cd460c8c7958998e9954428c8bb1c inherit pub_methods_interface_c_p_t_plot"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reload plot data in the given index range from the data source immediately.  <a href="#a248cd460c8c7958998e9954428c8bb1c">More...</a><br/></td></tr>
+<tr class="separator:a248cd460c8c7958998e9954428c8bb1c inherit pub_methods_interface_c_p_t_plot"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aff032ba633d5eb1766ee8849bcd19fb0 inherit pub_methods_interface_c_p_t_plot"><td class="memItemLeft" align="right" valign="top">(<a class="el" href="interface_c_p_t_mutable_numeric_data.html">CPTMutableNumericData</a> *)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_plot.html#aff032ba633d5eb1766ee8849bcd19fb0">cachedNumbersForField:</a></td></tr>
 <tr class="memdesc:aff032ba633d5eb1766ee8849bcd19fb0 inherit pub_methods_interface_c_p_t_plot"><td class="mdescLeft">&#160;</td><td class="mdescRight">Retrieves an array of numbers from the cache.  <a href="#aff032ba633d5eb1766ee8849bcd19fb0">More...</a><br/></td></tr>
 <tr class="separator:aff032ba633d5eb1766ee8849bcd19fb0 inherit pub_methods_interface_c_p_t_plot"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -191,6 +210,12 @@ Public Instance Methods</h2></td></tr>
 <tr class="memitem:a87c902dd9188525c6973f475d83ec381 inherit pub_methods_interface_c_p_t_plot"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_plot.html#a87c902dd9188525c6973f475d83ec381">repositionAllLabelAnnotations</a></td></tr>
 <tr class="memdesc:a87c902dd9188525c6973f475d83ec381 inherit pub_methods_interface_c_p_t_plot"><td class="mdescLeft">&#160;</td><td class="mdescRight">Repositions all existing label annotations.  <a href="#a87c902dd9188525c6973f475d83ec381">More...</a><br/></td></tr>
 <tr class="separator:a87c902dd9188525c6973f475d83ec381 inherit pub_methods_interface_c_p_t_plot"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af87344192f6edaf693acbe36aea96813 inherit pub_methods_interface_c_p_t_plot"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_plot.html#af87344192f6edaf693acbe36aea96813">reloadDataLabels</a></td></tr>
+<tr class="memdesc:af87344192f6edaf693acbe36aea96813 inherit pub_methods_interface_c_p_t_plot"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reload all data labels from the data source immediately.  <a href="#af87344192f6edaf693acbe36aea96813">More...</a><br/></td></tr>
+<tr class="separator:af87344192f6edaf693acbe36aea96813 inherit pub_methods_interface_c_p_t_plot"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3d599979ebe983559300aae8250b7f6b inherit pub_methods_interface_c_p_t_plot"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_plot.html#a3d599979ebe983559300aae8250b7f6b">reloadDataLabelsInIndexRange:</a></td></tr>
+<tr class="memdesc:a3d599979ebe983559300aae8250b7f6b inherit pub_methods_interface_c_p_t_plot"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reload data labels in the given index range from the data source immediately.  <a href="#a3d599979ebe983559300aae8250b7f6b">More...</a><br/></td></tr>
+<tr class="separator:a3d599979ebe983559300aae8250b7f6b inherit pub_methods_interface_c_p_t_plot"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af5f23800375c34d2eb1eeebba17ce2b2 inherit pub_methods_interface_c_p_t_plot"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_plot.html#af5f23800375c34d2eb1eeebba17ce2b2">positionLabelAnnotation:forIndex:</a></td></tr>
 <tr class="memdesc:af5f23800375c34d2eb1eeebba17ce2b2 inherit pub_methods_interface_c_p_t_plot"><td class="mdescLeft">&#160;</td><td class="mdescRight">Adjusts the position of the data label annotation for the plot point at the given index.  <a href="#af5f23800375c34d2eb1eeebba17ce2b2">More...</a><br/></td></tr>
 <tr class="separator:af5f23800375c34d2eb1eeebba17ce2b2 inherit pub_methods_interface_c_p_t_plot"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -685,6 +710,88 @@ See <a class="el" href="group__plot_bindings_trading_range_plot.html">Trading Ra
 <dl class="section return"><dt>Returns</dt><dd>Whether the event was handled or not. </dd></dl>
 
 <p>Reimplemented from <a class="el" href="interface_c_p_t_plot.html#a5102363c0b60cee281d3f9b02602fb52">CPTPlot</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a39ef5a5e192de6f128148f057b9c6a64"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (void) reloadBarFills </td>
+          <td></td>
+          <td class="paramname"></td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Reload all bar fills from the data source immediately. </p>
+
+</div>
+</div>
+<a class="anchor" id="a0fb59be5e64d2ef867236bd4b0585012"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (void) reloadBarFillsInIndexRange: </td>
+          <td></td>
+          <td class="paramtype">(<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Miscellaneous/Foundation_DataTypes/Reference/reference.html#//apple_ref/c/tdef/NSRange">NSRange</a>)&#160;</td>
+          <td class="paramname"><em>indexRange</em></td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Reload bar fills in the given index range from the data source immediately. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">indexRange</td><td>The index range to load. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a class="anchor" id="a290e768f2bba28066d3c1f827dd3b370"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (void) reloadBarLineStyles </td>
+          <td></td>
+          <td class="paramname"></td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Reload all bar line styles from the data source immediately. </p>
+
+</div>
+</div>
+<a class="anchor" id="a2580f7bffa74763c88b6991efc39ca50"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (void) reloadBarLineStylesInIndexRange: </td>
+          <td></td>
+          <td class="paramtype">(<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Miscellaneous/Foundation_DataTypes/Reference/reference.html#//apple_ref/c/tdef/NSRange">NSRange</a>)&#160;</td>
+          <td class="paramname"><em>indexRange</em></td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Reload bar line styles in the given index range from the data source immediately. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">indexRange</td><td>The index range to load. </td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>

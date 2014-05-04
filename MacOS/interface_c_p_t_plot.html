@@ -372,13 +372,13 @@ Data Loading</h2></td></tr>
 <tr class="memdesc:acfe6ff4ab292b2e176725746447d00ad"><td class="mdescLeft">&#160;</td><td class="mdescRight">Marks the receiver as needing the data source reloaded before the content is next drawn.  <a href="#acfe6ff4ab292b2e176725746447d00ad">More...</a><br/></td></tr>
 <tr class="separator:acfe6ff4ab292b2e176725746447d00ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa057480faff658c8f29cfe19a62ec0e7"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_plot.html#aa057480faff658c8f29cfe19a62ec0e7">reloadData</a></td></tr>
-<tr class="memdesc:aa057480faff658c8f29cfe19a62ec0e7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reload all plot data from the data source immediately.  <a href="#aa057480faff658c8f29cfe19a62ec0e7">More...</a><br/></td></tr>
+<tr class="memdesc:aa057480faff658c8f29cfe19a62ec0e7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reload all plot data, labels, and plot-specific information from the data source immediately.  <a href="#aa057480faff658c8f29cfe19a62ec0e7">More...</a><br/></td></tr>
 <tr class="separator:aa057480faff658c8f29cfe19a62ec0e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5e035ab29bb66dfe2c31a3bfdcadc014"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_plot.html#a5e035ab29bb66dfe2c31a3bfdcadc014">reloadDataIfNeeded</a></td></tr>
 <tr class="memdesc:a5e035ab29bb66dfe2c31a3bfdcadc014"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reload plot data from the data source only if the data cache is out of date.  <a href="#a5e035ab29bb66dfe2c31a3bfdcadc014">More...</a><br/></td></tr>
 <tr class="separator:a5e035ab29bb66dfe2c31a3bfdcadc014"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac7a928fc9838d07ac188d4fef2015c07"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_plot.html#ac7a928fc9838d07ac188d4fef2015c07">reloadDataInIndexRange:</a></td></tr>
-<tr class="memdesc:ac7a928fc9838d07ac188d4fef2015c07"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reload plot data in the given index range from the data source immediately.  <a href="#ac7a928fc9838d07ac188d4fef2015c07">More...</a><br/></td></tr>
+<tr class="memdesc:ac7a928fc9838d07ac188d4fef2015c07"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reload plot data, labels, and plot-specific information in the given index range from the data source immediately.  <a href="#ac7a928fc9838d07ac188d4fef2015c07">More...</a><br/></td></tr>
 <tr class="separator:ac7a928fc9838d07ac188d4fef2015c07"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aaf45d3cd5ab07ce4b48f6aef5d846d83"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_plot.html#aaf45d3cd5ab07ce4b48f6aef5d846d83">insertDataAtIndex:numberOfRecords:</a></td></tr>
 <tr class="memdesc:aaf45d3cd5ab07ce4b48f6aef5d846d83"><td class="mdescLeft">&#160;</td><td class="mdescRight">Insert records into the plot data cache at the given index.  <a href="#aaf45d3cd5ab07ce4b48f6aef5d846d83">More...</a><br/></td></tr>
@@ -386,6 +386,12 @@ Data Loading</h2></td></tr>
 <tr class="memitem:aeda28869b1ab7bbcee58ced6635098bd"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_plot.html#aeda28869b1ab7bbcee58ced6635098bd">deleteDataInIndexRange:</a></td></tr>
 <tr class="memdesc:aeda28869b1ab7bbcee58ced6635098bd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Delete records in the given index range from the plot data cache.  <a href="#aeda28869b1ab7bbcee58ced6635098bd">More...</a><br/></td></tr>
 <tr class="separator:aeda28869b1ab7bbcee58ced6635098bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a20cf0f3f8924108240a991b97706f0ab"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_plot.html#a20cf0f3f8924108240a991b97706f0ab">reloadPlotData</a></td></tr>
+<tr class="memdesc:a20cf0f3f8924108240a991b97706f0ab"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reload all plot data from the data source immediately.  <a href="#a20cf0f3f8924108240a991b97706f0ab">More...</a><br/></td></tr>
+<tr class="separator:a20cf0f3f8924108240a991b97706f0ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a248cd460c8c7958998e9954428c8bb1c"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_plot.html#a248cd460c8c7958998e9954428c8bb1c">reloadPlotDataInIndexRange:</a></td></tr>
+<tr class="memdesc:a248cd460c8c7958998e9954428c8bb1c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reload plot data in the given index range from the data source immediately.  <a href="#a248cd460c8c7958998e9954428c8bb1c">More...</a><br/></td></tr>
+<tr class="separator:a248cd460c8c7958998e9954428c8bb1c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="member-group"></a>
 Data Cache</h2></td></tr>
@@ -476,6 +482,12 @@ Data Labels</h2></td></tr>
 <tr class="memitem:a87c902dd9188525c6973f475d83ec381"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_plot.html#a87c902dd9188525c6973f475d83ec381">repositionAllLabelAnnotations</a></td></tr>
 <tr class="memdesc:a87c902dd9188525c6973f475d83ec381"><td class="mdescLeft">&#160;</td><td class="mdescRight">Repositions all existing label annotations.  <a href="#a87c902dd9188525c6973f475d83ec381">More...</a><br/></td></tr>
 <tr class="separator:a87c902dd9188525c6973f475d83ec381"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af87344192f6edaf693acbe36aea96813"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_plot.html#af87344192f6edaf693acbe36aea96813">reloadDataLabels</a></td></tr>
+<tr class="memdesc:af87344192f6edaf693acbe36aea96813"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reload all data labels from the data source immediately.  <a href="#af87344192f6edaf693acbe36aea96813">More...</a><br/></td></tr>
+<tr class="separator:af87344192f6edaf693acbe36aea96813"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3d599979ebe983559300aae8250b7f6b"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_plot.html#a3d599979ebe983559300aae8250b7f6b">reloadDataLabelsInIndexRange:</a></td></tr>
+<tr class="memdesc:a3d599979ebe983559300aae8250b7f6b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reload data labels in the given index range from the data source immediately.  <a href="#a3d599979ebe983559300aae8250b7f6b">More...</a><br/></td></tr>
+<tr class="separator:a3d599979ebe983559300aae8250b7f6b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af5f23800375c34d2eb1eeebba17ce2b2"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_plot.html#af5f23800375c34d2eb1eeebba17ce2b2">positionLabelAnnotation:forIndex:</a></td></tr>
 <tr class="memdesc:af5f23800375c34d2eb1eeebba17ce2b2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Adjusts the position of the data label annotation for the plot point at the given index.  <a href="#af5f23800375c34d2eb1eeebba17ce2b2">More...</a><br/></td></tr>
 <tr class="separator:af5f23800375c34d2eb1eeebba17ce2b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -1517,7 +1529,7 @@ See <a class="el" href="group__plot_bindings.html">Plot Bindings</a> for a list 
       </table>
 </div><div class="memdoc">
 
-<p>Reload all plot data from the data source immediately. </p>
+<p>Reload all plot data, labels, and plot-specific information from the data source immediately. </p>
 
 </div>
 </div>
@@ -1544,6 +1556,88 @@ See <a class="el" href="group__plot_bindings.html">Plot Bindings</a> for a list 
       <table class="memname">
         <tr>
           <td class="memname">- (void) reloadDataInIndexRange: </td>
+          <td></td>
+          <td class="paramtype">(<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Miscellaneous/Foundation_DataTypes/Reference/reference.html#//apple_ref/c/tdef/NSRange">NSRange</a>)&#160;</td>
+          <td class="paramname"><em>indexRange</em></td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Reload plot data, labels, and plot-specific information in the given index range from the data source immediately. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">indexRange</td><td>The index range to load. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a class="anchor" id="af87344192f6edaf693acbe36aea96813"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (void) reloadDataLabels </td>
+          <td></td>
+          <td class="paramname"></td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Reload all data labels from the data source immediately. </p>
+
+</div>
+</div>
+<a class="anchor" id="a3d599979ebe983559300aae8250b7f6b"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (void) reloadDataLabelsInIndexRange: </td>
+          <td></td>
+          <td class="paramtype">(<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Miscellaneous/Foundation_DataTypes/Reference/reference.html#//apple_ref/c/tdef/NSRange">NSRange</a>)&#160;</td>
+          <td class="paramname"><em>indexRange</em></td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Reload data labels in the given index range from the data source immediately. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">indexRange</td><td>The index range to load. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a class="anchor" id="a20cf0f3f8924108240a991b97706f0ab"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (void) reloadPlotData </td>
+          <td></td>
+          <td class="paramname"></td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Reload all plot data from the data source immediately. </p>
+
+</div>
+</div>
+<a class="anchor" id="a248cd460c8c7958998e9954428c8bb1c"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (void) reloadPlotDataInIndexRange: </td>
           <td></td>
           <td class="paramtype">(<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Miscellaneous/Foundation_DataTypes/Reference/reference.html#//apple_ref/c/tdef/NSRange">NSRange</a>)&#160;</td>
           <td class="paramname"><em>indexRange</em></td>
