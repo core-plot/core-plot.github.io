@@ -52,6 +52,8 @@ var _c_p_t_utilities_8m =
     [ "CPTDecimalUnsignedLongLongValue", "_c_p_t_utilities_8m.html#aac297dcc70a6e086654339da0e626a5c", null ],
     [ "CPTDecimalUnsignedLongValue", "_c_p_t_utilities_8m.html#a9cde6ebaf91c8fe7f90c0550734586a0", null ],
     [ "CPTDecimalUnsignedShortValue", "_c_p_t_utilities_8m.html#a00cd4fa9bc439191406e291fcc1d73cb", null ],
+    [ "CPTEdgeInsetsEqualToEdgeInsets", "_c_p_t_utilities_8m.html#a238689d3803571f5a9899f242a01f0b7", null ],
+    [ "CPTEdgeInsetsMake", "_c_p_t_utilities_8m.html#ad1df72083b8ae78792c93982fc49199f", null ],
     [ "CPTExpandedRange", "_c_p_t_utilities_8m.html#a794f89cd14d4cfb21bf8c050b2df8237", null ],
     [ "CPTOrthogonalCoordinate", "_c_p_t_utilities_8m.html#afeb1ea1e2d6486b67ef47c4bf8e3661f", null ],
     [ "CPTRGBAColorFromCGColor", "_c_p_t_utilities_8m.html#a344d9cc450b8f69583b387bc0c5d29cd", null ],

@@ -44,13 +44,13 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_c_p_t_animation_8h.html",
-"_c_p_t_line_cap_8m.html",
-"_c_p_t_trading_range_plot_8m.html#a5c3e3e9b06e7ba491ecd5bd98aac091c",
-"classes.html",
-"interface_c_p_t_animation_operation.html#a77c0ce8c798805be805341806de787a7",
-"interface_c_p_t_graph.html#aefcfec91b4ff0390c13aa9888d9622c8",
-"interface_c_p_t_plot.html#a6d86e8c36c677b9efeb2f599e647a74a",
-"interface_c_p_t_x_y_plot_space.html#ad350a854ee2958626c0c6ee85d6385b6"
+"_c_p_t_line_cap_8h.html#a0f4e6f4f77117709135ca6512999e702ae9171dc5b0e26ae4c2b67557a16be6af",
+"_c_p_t_trading_range_plot_8m.html#a0365781ece8d658eb0eaf822dbd6dcd6",
+"category_n_s_coder_07_c_p_t_extensions_08.html#ae7e9e46a040d14b1e9030282737466ac",
+"interface_c_p_t_animation.html#aef3b16e334b1bf90e5f0ae803f24f7d4",
+"interface_c_p_t_graph.html#acd1fd9fb82de3514eb7dcf90c3fd5db9",
+"interface_c_p_t_plot.html#a437197f6a22e1becd75937efe860873e",
+"interface_c_p_t_x_y_plot_space.html#a3f3bcdebd7f8dd5aa836f6d3518d6d41"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

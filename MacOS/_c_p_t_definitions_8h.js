@@ -1,6 +1,7 @@
 var _c_p_t_definitions_8h =
 [
     [ "CPTRGBAColor", "struct_c_p_t_r_g_b_a_color.html", "struct_c_p_t_r_g_b_a_color" ],
+    [ "CPTEdgeInsets", "struct_c_p_t_edge_insets.html", "struct_c_p_t_edge_insets" ],
     [ "__cpt_weak", "_c_p_t_definitions_8h.html#abd26af4304957387867e6e9e8cef1576", null ],
     [ "cpt_deprecated", "_c_p_t_definitions_8h.html#a6fd501dc7964d3477fa67930f90f5ea3", null ],
     [ "CPT_SDK_SUPPORTS_WEAK", "_c_p_t_definitions_8h.html#ac23f606c1706a1172bc646f5c9c27218", null ],
@@ -55,5 +56,6 @@ var _c_p_t_definitions_8h =
       [ "CPTSignNone", "_c_p_t_definitions_8h.html#a69d8f721aad51ddf8fc88c85b1947c33a8cce324dd6b2465f8c0d9bf0af62e42c", null ],
       [ "CPTSignPositive", "_c_p_t_definitions_8h.html#a69d8f721aad51ddf8fc88c85b1947c33aeea4679decf5729d657f3ed36cc8a1f2", null ],
       [ "CPTSignNegative", "_c_p_t_definitions_8h.html#a69d8f721aad51ddf8fc88c85b1947c33a55e774477ca03c91507faeac62e88ac4", null ]
-    ] ]
+    ] ],
+    [ "CPTEdgeInsetsZero", "_c_p_t_definitions_8h.html#aa4de8f607b98664e9a835faa161d31e3", null ]
 ];

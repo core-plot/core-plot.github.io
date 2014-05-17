@@ -1,6 +1,7 @@
 <map id="Source/CPTImage.h" name="Source/CPTImage.h">
-<area shape="rect" id="node2" href="$_core_plot-_cocoa_touch_8h.html" title="CorePlot&#45;CocoaTouch.h" alt="" coords="5,86,179,117"/>
-<area shape="rect" id="node3" href="$_c_p_t_axis_8m.html" title="Source/CPTAxis.m" alt="" coords="204,86,343,117"/>
-<area shape="rect" id="node4" href="$_c_p_t_fill_8m.html" title="Source/CPTFill.m" alt="" coords="366,86,497,117"/>
-<area shape="rect" id="node5" href="$_c_p_t_image_8m.html" title="Source/CPTImage.m" alt="" coords="521,86,673,117"/>
+<area shape="rect" id="node2" href="$_core_plot-_cocoa_touch_8h.html" title="CorePlot&#45;CocoaTouch.h" alt="" coords="5,95,179,126"/>
+<area shape="rect" id="node3" href="$_c_p_t_axis_8m.html" title="Source/CPTAxis.m" alt="" coords="204,95,343,126"/>
+<area shape="rect" id="node4" href="$_c_p_t_fill_8m.html" title="Source/CPTFill.m" alt="" coords="366,95,497,126"/>
+<area shape="rect" id="node5" href="$_c_p_t_image_8m.html" title="Source/CPTImage.m" alt="" coords="521,95,673,126"/>
+<area shape="rect" id="node6" href="$_c_p_t_image_platform_specific_8m.html" title="iPhoneOnly/CPTImagePlatform\lSpecific.m" alt="" coords="697,86,916,136"/>
 </map>

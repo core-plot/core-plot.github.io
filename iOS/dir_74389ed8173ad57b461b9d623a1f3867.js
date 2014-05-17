@@ -63,7 +63,7 @@ var dir_74389ed8173ad57b461b9d623a1f3867 =
     ] ],
     [ "CPTConstraints.m", "_c_p_t_constraints_8m.html", null ],
     [ "CPTDefinitions.h", "_c_p_t_definitions_8h.html", "_c_p_t_definitions_8h" ],
-    [ "CPTDefinitions.m", "_c_p_t_definitions_8m.html", null ],
+    [ "CPTDefinitions.m", "_c_p_t_definitions_8m.html", "_c_p_t_definitions_8m" ],
     [ "CPTExceptions.h", "_c_p_t_exceptions_8h.html", "_c_p_t_exceptions_8h" ],
     [ "CPTExceptions.m", "_c_p_t_exceptions_8m.html", "_c_p_t_exceptions_8m" ],
     [ "CPTFill.h", "_c_p_t_fill_8h.html", [
@@ -86,7 +86,8 @@ var dir_74389ed8173ad57b461b9d623a1f3867 =
     ] ],
     [ "CPTGridLines.m", "_c_p_t_grid_lines_8m.html", null ],
     [ "CPTImage.h", "_c_p_t_image_8h.html", [
-      [ "CPTImage", "interface_c_p_t_image.html", "interface_c_p_t_image" ]
+      [ "CPTImage", "interface_c_p_t_image.html", "interface_c_p_t_image" ],
+      [ "CPTImage(CPTPlatformSpecificImageExtensions)", "category_c_p_t_image_07_c_p_t_platform_specific_image_extensions_08.html", "category_c_p_t_image_07_c_p_t_platform_specific_image_extensions_08" ]
     ] ],
     [ "CPTImage.m", "_c_p_t_image_8m.html", null ],
     [ "CPTLayer.h", "_c_p_t_layer_8h.html", "_c_p_t_layer_8h" ],
