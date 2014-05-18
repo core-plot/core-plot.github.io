@@ -44,13 +44,13 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_c_p_t_animation_8h.html",
-"_c_p_t_line_cap_8h.html#a0f4e6f4f77117709135ca6512999e702ae9171dc5b0e26ae4c2b67557a16be6af",
-"_c_p_t_trading_range_plot_8m.html#a0365781ece8d658eb0eaf822dbd6dcd6",
-"category_n_s_coder_07_c_p_t_extensions_08.html#ae7e9e46a040d14b1e9030282737466ac",
-"interface_c_p_t_animation.html#aef3b16e334b1bf90e5f0ae803f24f7d4",
-"interface_c_p_t_graph.html#acd1fd9fb82de3514eb7dcf90c3fd5db9",
-"interface_c_p_t_plot.html#a437197f6a22e1becd75937efe860873e",
-"interface_c_p_t_x_y_plot_space.html#a3f3bcdebd7f8dd5aa836f6d3518d6d41"
+"_c_p_t_line_cap_8h.html#a0f4e6f4f77117709135ca6512999e702ae29ca3c0793784acb0dac2ceed5250c2",
+"_c_p_t_trading_range_plot_8m.html",
+"category_n_s_coder_07_c_p_t_extensions_08.html#adcf827ca1ed6af7a65b9e247e45a42c2",
+"interface_c_p_t_animation.html#adbddee5b1b1b924b84f12b89e81e1ea9",
+"interface_c_p_t_graph.html#ab7208a2480e18775bafcc3208c891cee",
+"interface_c_p_t_plot.html#a2d76f1890e3cc9406526f3cf853d3b02",
+"interface_c_p_t_x_y_plot_space.html#a1a99b92983b779424159cc1c18506bbc"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"_c_p_t_trading_range_plot_8m.html":[3,0,1,118],
 "_c_p_t_trading_range_plot_8m.html#a0365781ece8d658eb0eaf822dbd6dcd6":[3,0,1,118,6],
 "_c_p_t_trading_range_plot_8m.html#a306d6a52959ac8bea1230ef5305e8636":[3,0,1,118,3],
 "_c_p_t_trading_range_plot_8m.html#a50d2cb897e004a1cf8d6af5635daaae0":[3,0,1,118,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX2 =
 "category_n_s_coder_07_c_p_t_extensions_08.html#aa56e9710449020066b0cf670abd36568":[2,0,99,0],
 "category_n_s_coder_07_c_p_t_extensions_08.html#aa669b446bc273da8c70412b848b4fe02":[2,0,99,3],
 "category_n_s_coder_07_c_p_t_extensions_08.html#ab55046964ea6c79c481d5293c9c34b12":[2,0,99,7],
-"category_n_s_coder_07_c_p_t_extensions_08.html#ad81d132ed5b9af75e9c796fc68c9cefe":[2,0,99,13],
-"category_n_s_coder_07_c_p_t_extensions_08.html#adcf827ca1ed6af7a65b9e247e45a42c2":[2,0,99,4]
+"category_n_s_coder_07_c_p_t_extensions_08.html#ad81d132ed5b9af75e9c796fc68c9cefe":[2,0,99,13]
 };

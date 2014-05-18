@@ -1,5 +1,6 @@
 var NAVTREEINDEX7 =
 {
+"protocol_c_p_t_axis_delegate-p.html#af2effd8cc66564a83f25a2700c65163c":[2,0,11,2],
 "protocol_c_p_t_bar_plot_data_source-p.html":[2,0,17],
 "protocol_c_p_t_bar_plot_data_source-p.html#a03beba8be2db7660228bb88427ab325a":[2,0,17,4],
 "protocol_c_p_t_bar_plot_data_source-p.html#a0cbed970c248ea694c48fa78a1a4f16c":[2,0,17,1],

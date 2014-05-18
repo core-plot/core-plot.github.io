@@ -1,5 +1,6 @@
 var NAVTREEINDEX6 =
 {
+"interface_c_p_t_plot.html#ae0ffdb3fdef1ae61664791ad07e4217c":[2,0,61,2],
 "interface_c_p_t_plot.html#ae3ebd8478e3bb09584278c3929b499a2":[2,0,61,42],
 "interface_c_p_t_plot.html#aeb020c020b4ae0e61e72d6a92601b7a8":[2,0,61,8],
 "interface_c_p_t_plot.html#aebcf44b046a0d0774f86e9bbeb0a24b2":[2,0,61,41],
@@ -248,6 +249,5 @@ var NAVTREEINDEX6 =
 "protocol_c_p_t_axis_delegate-p.html#ab102ae99efcaf69b4ae7371ddc39cf25":[2,0,11,13],
 "protocol_c_p_t_axis_delegate-p.html#ab27bd14305245d42377355695025920e":[2,0,11,12],
 "protocol_c_p_t_axis_delegate-p.html#ac53bb379f749b1cf9d5f1fb6530a76d1":[2,0,11,0],
-"protocol_c_p_t_axis_delegate-p.html#ad64607f8bc424cc948bdea67a59b6b0f":[2,0,11,14],
-"protocol_c_p_t_axis_delegate-p.html#af2effd8cc66564a83f25a2700c65163c":[2,0,11,2]
+"protocol_c_p_t_axis_delegate-p.html#ad64607f8bc424cc948bdea67a59b6b0f":[2,0,11,14]
 };
