@@ -10,8 +10,8 @@ var _c_p_t_graph_8h =
       [ "CPTGraphLayerTypeAxisLabels", "_c_p_t_graph_8h.html#a595b7421c77e39ac43c3f612218ce250a04f9e01bb43e8478f43b50e4bdae807c", null ],
       [ "CPTGraphLayerTypeAxisTitles", "_c_p_t_graph_8h.html#a595b7421c77e39ac43c3f612218ce250aae98d09207dbb1b83a3da3fdc546fc01", null ]
     ] ],
-    [ "CPTGraphDidAddPlotSpaceNotification", "_c_p_t_graph_8h.html#ga1d9bf8769b67ac2a307025dfc08962d7", null ],
-    [ "CPTGraphDidRemovePlotSpaceNotification", "_c_p_t_graph_8h.html#ga13cf02c67e54f5cd29c8876be3192895", null ],
-    [ "CPTGraphNeedsRedrawNotification", "_c_p_t_graph_8h.html#gacdcc79d94fa2215225c836c3b2f04565", null ],
-    [ "CPTGraphPlotSpaceNotificationKey", "_c_p_t_graph_8h.html#ga0cac26262f7006dc8d088c45c377103b", null ]
+    [ "CPTGraphDidAddPlotSpaceNotification", "group__notification.html#ga1d9bf8769b67ac2a307025dfc08962d7", null ],
+    [ "CPTGraphDidRemovePlotSpaceNotification", "group__notification.html#ga13cf02c67e54f5cd29c8876be3192895", null ],
+    [ "CPTGraphNeedsRedrawNotification", "group__notification.html#gacdcc79d94fa2215225c836c3b2f04565", null ],
+    [ "CPTGraphPlotSpaceNotificationKey", "group__notification.html#ga0cac26262f7006dc8d088c45c377103b", null ]
 ];

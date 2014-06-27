@@ -16,6 +16,7 @@ var interface_c_p_t_scatter_plot =
     [ "areaFill2", "interface_c_p_t_scatter_plot.html#aff0dd9499ac91f20e8c3b0c363677a31", null ],
     [ "dataLineStyle", "interface_c_p_t_scatter_plot.html#a6bdf5bac3682dc86d90e4e7937198624", null ],
     [ "interpolation", "interface_c_p_t_scatter_plot.html#aeb700f644a939b24bc8f78336443af12", null ],
+    [ "newDataLinePath", "interface_c_p_t_scatter_plot.html#a936bdf708c7c1cd463a6fb15b87430c1", null ],
     [ "plotLineMarginForHitDetection", "interface_c_p_t_scatter_plot.html#a80b47efe57c4cefe0997ddd80e6e7dd7", null ],
     [ "plotSymbol", "interface_c_p_t_scatter_plot.html#a4abce1a64aa5aaf4f1e64e1729ebc6b2", null ],
     [ "plotSymbolMarginForHitDetection", "interface_c_p_t_scatter_plot.html#a83d327295d6ac30fdc0edfabb2449334", null ]

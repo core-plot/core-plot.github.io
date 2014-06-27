@@ -9,5 +9,5 @@ var _c_p_t_plot_8h =
       [ "CPTPlotCachePrecisionDouble", "_c_p_t_plot_8h.html#acc522ac2a8f25d323be5d11dfbffe7cba2b615eae0bd10fb48c485c24efc9fa5d", null ],
       [ "CPTPlotCachePrecisionDecimal", "_c_p_t_plot_8h.html#acc522ac2a8f25d323be5d11dfbffe7cba7d555f74e772b887e79d60ce66f8b2e6", null ]
     ] ],
-    [ "CPTPlotBindingDataLabels", "_c_p_t_plot_8h.html#gafc2c14b05a72fa272ad34cb0925a4e9d", null ]
+    [ "CPTPlotBindingDataLabels", "group__plot_bindings_all_plots.html#gafc2c14b05a72fa272ad34cb0925a4e9d", null ]
 ];

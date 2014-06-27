@@ -1,8 +1,8 @@
 <map id="Source/CPTAxis.h" name="Source/CPTAxis.h">
-<area shape="rect" id="node2" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="172,166,300,197"/>
-<area shape="rect" id="node5" href="$_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="340,86,432,117"/>
-<area shape="rect" id="node9" href="$_c_p_t_text_style_8h.html" title="CPTTextStyle.h" alt="" coords="598,86,713,117"/>
-<area shape="rect" id="node6" href="$_c_p_t_responder_8h.html" title="CPTResponder.h" alt="" coords="323,166,449,197"/>
-<area shape="rect" id="node7" href="$_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="312,246,521,277"/>
-<area shape="rect" id="node10" href="$_c_p_t_text_style_platform_specific_8h.html" title="CPTTextStylePlatformSpecific.h" alt="" coords="689,166,908,197"/>
+<area shape="rect" id="node2" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="172,161,300,189"/>
+<area shape="rect" id="node5" href="$_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="340,83,432,111"/>
+<area shape="rect" id="node9" href="$_c_p_t_text_style_8h.html" title="CPTTextStyle.h" alt="" coords="598,83,713,111"/>
+<area shape="rect" id="node6" href="$_c_p_t_responder_8h.html" title="CPTResponder.h" alt="" coords="323,161,449,189"/>
+<area shape="rect" id="node7" href="$_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="312,238,521,266"/>
+<area shape="rect" id="node10" href="$_c_p_t_text_style_platform_specific_8h.html" title="CPTTextStylePlatformSpecific.h" alt="" coords="689,161,908,189"/>
 </map>

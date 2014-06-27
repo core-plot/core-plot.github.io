@@ -1,18 +1,18 @@
 <map id="Source/CPTColor.h" name="Source/CPTColor.h">
-<area shape="rect" id="node2" href="$_core_plot-_cocoa_touch_8h.html" title="CorePlot&#45;CocoaTouch.h" alt="" coords="599,194,773,225"/>
-<area shape="rect" id="node3" href="$_c_p_t_axis_8m.html" title="Source/CPTAxis.m" alt="" coords="29,95,167,126"/>
-<area shape="rect" id="node4" href="$_c_p_t_bar_plot_8m.html" title="Source/CPTBarPlot.m" alt="" coords="191,95,349,126"/>
-<area shape="rect" id="node5" href="$_c_p_t_color_8m.html" title="Source/CPTColor.m" alt="" coords="374,95,521,126"/>
-<area shape="rect" id="node6" href="$_c_p_t_fill_8m.html" title="Source/CPTFill.m" alt="" coords="546,95,677,126"/>
-<area shape="rect" id="node7" href="$_c_p_t_gradient_8m.html" title="Source/CPTGradient.m" alt="" coords="701,95,869,126"/>
-<area shape="rect" id="node8" href="$_c_p_t_line_style_8m.html" title="Source/CPTLineStyle.m" alt="" coords="893,95,1062,126"/>
-<area shape="rect" id="node9" href="$_c_p_t_pie_chart_8m.html" title="Source/CPTPieChart.m" alt="" coords="1087,95,1253,126"/>
-<area shape="rect" id="node10" href="$_c_p_t_shadow_8m.html" title="Source/CPTShadow.m" alt="" coords="1278,95,1439,126"/>
-<area shape="rect" id="node11" href="$_c_p_t_text_style_8m.html" title="Source/CPTTextStyle.m" alt="" coords="1465,95,1635,126"/>
-<area shape="rect" id="node12" href="$_c_p_t_trading_range_plot_8m.html" title="Source/CPTTradingRangePlot.m" alt="" coords="1660,95,1885,126"/>
-<area shape="rect" id="node13" href="$_c_p_t_platform_specific_categories_8h.html" title="iPhoneOnly/CPTPlatformSpecific\lCategories.h" alt="" coords="1910,86,2139,136"/>
-<area shape="rect" id="node17" href="$_c_p_t_text_style_platform_specific_8m.html" title="iPhoneOnly/CPTTextStylePlatform\lSpecific.m" alt="" coords="2163,184,2401,234"/>
-<area shape="rect" id="node14" href="$_c_p_t_legend_entry_8m.html" title="Source/CPTLegendEntry.m" alt="" coords="1494,194,1686,225"/>
-<area shape="rect" id="node15" href="$_c_p_t_text_layer_8m.html" title="Source/CPTTextLayer.m" alt="" coords="1711,194,1885,225"/>
-<area shape="rect" id="node16" href="$_c_p_t_platform_specific_categories_8m.html" title="iPhoneOnly/CPTPlatformSpecific\lCategories.m" alt="" coords="1910,184,2139,234"/>
+<area shape="rect" id="node2" href="$_core_plot-_cocoa_touch_8h.html" title="CorePlot&#45;CocoaTouch.h" alt="" coords="598,185,772,213"/>
+<area shape="rect" id="node3" href="$_c_p_t_axis_8m.html" title="Source/CPTAxis.m" alt="" coords="27,91,166,119"/>
+<area shape="rect" id="node4" href="$_c_p_t_bar_plot_8m.html" title="Source/CPTBarPlot.m" alt="" coords="190,91,348,119"/>
+<area shape="rect" id="node5" href="$_c_p_t_color_8m.html" title="Source/CPTColor.m" alt="" coords="372,91,520,119"/>
+<area shape="rect" id="node6" href="$_c_p_t_fill_8m.html" title="Source/CPTFill.m" alt="" coords="544,91,676,119"/>
+<area shape="rect" id="node7" href="$_c_p_t_gradient_8m.html" title="Source/CPTGradient.m" alt="" coords="699,91,868,119"/>
+<area shape="rect" id="node8" href="$_c_p_t_line_style_8m.html" title="Source/CPTLineStyle.m" alt="" coords="892,91,1061,119"/>
+<area shape="rect" id="node9" href="$_c_p_t_pie_chart_8m.html" title="Source/CPTPieChart.m" alt="" coords="1085,91,1252,119"/>
+<area shape="rect" id="node10" href="$_c_p_t_shadow_8m.html" title="Source/CPTShadow.m" alt="" coords="1277,91,1438,119"/>
+<area shape="rect" id="node11" href="$_c_p_t_text_style_8m.html" title="Source/CPTTextStyle.m" alt="" coords="1464,91,1634,119"/>
+<area shape="rect" id="node12" href="$_c_p_t_trading_range_plot_8m.html" title="Source/CPTTradingRangePlot.m" alt="" coords="1658,91,1884,119"/>
+<area shape="rect" id="node13" href="$_c_p_t_platform_specific_categories_8h.html" title="iPhoneOnly/CPTPlatformSpecific\lCategories.h" alt="" coords="1909,84,2138,127"/>
+<area shape="rect" id="node17" href="$_c_p_t_text_style_platform_specific_8m.html" title="iPhoneOnly/CPTTextStylePlatform\lSpecific.m" alt="" coords="2162,177,2400,220"/>
+<area shape="rect" id="node14" href="$_c_p_t_legend_entry_8m.html" title="Source/CPTLegendEntry.m" alt="" coords="1493,185,1685,213"/>
+<area shape="rect" id="node15" href="$_c_p_t_text_layer_8m.html" title="Source/CPTTextLayer.m" alt="" coords="1710,185,1884,213"/>
+<area shape="rect" id="node16" href="$_c_p_t_platform_specific_categories_8m.html" title="iPhoneOnly/CPTPlatformSpecific\lCategories.m" alt="" coords="1909,177,2138,220"/>
 </map>

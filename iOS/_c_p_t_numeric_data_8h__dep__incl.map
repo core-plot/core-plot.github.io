@@ -1,17 +1,17 @@
 <map id="Source/CPTNumericData.h" name="Source/CPTNumericData.h">
-<area shape="rect" id="node2" href="$_core_plot-_cocoa_touch_8h.html" title="CorePlot&#45;CocoaTouch.h" alt="" coords="156,293,330,323"/>
-<area shape="rect" id="node3" href="$_c_p_t_function_data_source_8m.html" title="Source/CPTFunctionDataSource.m" alt="" coords="987,95,1228,126"/>
-<area shape="rect" id="node4" href="$_c_p_t_mutable_numeric_data_8h.html" title="Source/CPTMutableNumeric\lData.h" alt="" coords="760,86,961,136"/>
-<area shape="rect" id="node10" href="$_c_p_t_numeric_data_8m.html" title="Source/CPTNumericData.m" alt="" coords="297,194,493,225"/>
-<area shape="rect" id="node15" href="$_c_p_t_numeric_data_09_type_conversion_8h.html" title="Source/CPTNumericData\l+TypeConversion.h" alt="" coords="170,86,349,136"/>
-<area shape="rect" id="node5" href="$_c_p_t_bar_plot_8m.html" title="Source/CPTBarPlot.m" alt="" coords="1453,194,1610,225"/>
-<area shape="rect" id="node6" href="$_c_p_t_mutable_numeric_data_09_type_conversion_8h.html" title="Source/CPTMutableNumeric\lData+TypeConversion.h" alt="" coords="1227,184,1428,234"/>
-<area shape="rect" id="node9" href="$_c_p_t_mutable_numeric_data_8m.html" title="Source/CPTMutableNumeric\lData.m" alt="" coords="1635,184,1836,234"/>
-<area shape="rect" id="node11" href="$_c_p_t_pie_chart_8m.html" title="Source/CPTPieChart.m" alt="" coords="1860,194,2026,225"/>
-<area shape="rect" id="node12" href="$_c_p_t_range_plot_8m.html" title="Source/CPTRangePlot.m" alt="" coords="569,194,745,225"/>
-<area shape="rect" id="node13" href="$_c_p_t_scatter_plot_8m.html" title="Source/CPTScatterPlot.m" alt="" coords="770,194,952,225"/>
-<area shape="rect" id="node14" href="$_c_p_t_trading_range_plot_8m.html" title="Source/CPTTradingRangePlot.m" alt="" coords="976,194,1201,225"/>
-<area shape="rect" id="node7" href="$_c_p_t_mutable_numeric_data_09_type_conversion_8m.html" title="Source/CPTMutableNumeric\lData+TypeConversion.m" alt="" coords="596,283,797,333"/>
-<area shape="rect" id="node8" href="$_c_p_t_plot_8m.html" title="Source/CPTPlot.m" alt="" coords="1259,293,1396,323"/>
-<area shape="rect" id="node16" href="$_c_p_t_numeric_data_09_type_conversion_8m.html" title="Source/CPTNumericData\l+TypeConversion.m" alt="" coords="42,184,221,234"/>
+<area shape="rect" id="node2" href="$_core_plot-_cocoa_touch_8h.html" title="CorePlot&#45;CocoaTouch.h" alt="" coords="155,278,329,306"/>
+<area shape="rect" id="node3" href="$_c_p_t_function_data_source_8m.html" title="Source/CPTFunctionDataSource.m" alt="" coords="985,91,1226,119"/>
+<area shape="rect" id="node4" href="$_c_p_t_mutable_numeric_data_8h.html" title="Source/CPTMutableNumeric\lData.h" alt="" coords="758,84,959,127"/>
+<area shape="rect" id="node10" href="$_c_p_t_numeric_data_8m.html" title="Source/CPTNumericData.m" alt="" coords="295,185,491,213"/>
+<area shape="rect" id="node15" href="$_c_p_t_numeric_data_09_type_conversion_8h.html" title="Source/CPTNumericData\l+TypeConversion.h" alt="" coords="168,84,347,127"/>
+<area shape="rect" id="node5" href="$_c_p_t_bar_plot_8m.html" title="Source/CPTBarPlot.m" alt="" coords="1451,185,1609,213"/>
+<area shape="rect" id="node6" href="$_c_p_t_mutable_numeric_data_09_type_conversion_8h.html" title="Source/CPTMutableNumeric\lData+TypeConversion.h" alt="" coords="1225,177,1426,220"/>
+<area shape="rect" id="node9" href="$_c_p_t_mutable_numeric_data_8m.html" title="Source/CPTMutableNumeric\lData.m" alt="" coords="1633,177,1834,220"/>
+<area shape="rect" id="node11" href="$_c_p_t_pie_chart_8m.html" title="Source/CPTPieChart.m" alt="" coords="1858,185,2025,213"/>
+<area shape="rect" id="node12" href="$_c_p_t_range_plot_8m.html" title="Source/CPTRangePlot.m" alt="" coords="567,185,743,213"/>
+<area shape="rect" id="node13" href="$_c_p_t_scatter_plot_8m.html" title="Source/CPTScatterPlot.m" alt="" coords="768,185,950,213"/>
+<area shape="rect" id="node14" href="$_c_p_t_trading_range_plot_8m.html" title="Source/CPTTradingRangePlot.m" alt="" coords="974,185,1199,213"/>
+<area shape="rect" id="node7" href="$_c_p_t_mutable_numeric_data_09_type_conversion_8m.html" title="Source/CPTMutableNumeric\lData+TypeConversion.m" alt="" coords="594,270,795,314"/>
+<area shape="rect" id="node8" href="$_c_p_t_plot_8m.html" title="Source/CPTPlot.m" alt="" coords="1257,278,1394,306"/>
+<area shape="rect" id="node16" href="$_c_p_t_numeric_data_09_type_conversion_8m.html" title="Source/CPTNumericData\l+TypeConversion.m" alt="" coords="40,177,219,220"/>
 </map>
