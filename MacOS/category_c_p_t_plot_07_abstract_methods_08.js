@@ -1,5 +1,6 @@
 var category_c_p_t_plot_07_abstract_methods_08 =
 [
+    [ "coordinateForFieldIdentifier:", "category_c_p_t_plot_07_abstract_methods_08.html#a8e84c8795dc66a2e0c42b7eb046a92d1", null ],
     [ "dataIndexFromInteractionPoint:", "category_c_p_t_plot_07_abstract_methods_08.html#a84a31dbe697c028b41ffda5083daac65", null ],
     [ "fieldIdentifiers", "category_c_p_t_plot_07_abstract_methods_08.html#a2d76f1890e3cc9406526f3cf853d3b02", null ],
     [ "fieldIdentifiersForCoordinate:", "category_c_p_t_plot_07_abstract_methods_08.html#a0467a2b65d0204c0cfb4eeeb59e8ba40", null ],

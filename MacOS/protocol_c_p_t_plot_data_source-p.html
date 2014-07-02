@@ -106,9 +106,9 @@ Public Instance Methods</h2></td></tr>
 <tr class="memitem:a9dbeec1441957bf8b8b64e553499eaf9"><td class="memItemLeft" align="right" valign="top">(<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSArray_Class/Reference/Reference.html">NSArray</a> *)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="protocol_c_p_t_plot_data_source-p.html#a9dbeec1441957bf8b8b64e553499eaf9">numbersForPlot:field:recordIndexRange:</a></td></tr>
 <tr class="memdesc:a9dbeec1441957bf8b8b64e553499eaf9"><td class="mdescLeft">&#160;</td><td class="mdescRight">(<em>Optional</em>) Gets a range of plot data for the given plot and field. Implement one and only one of the optional methods in this section.  <a href="#a9dbeec1441957bf8b8b64e553499eaf9">More...</a><br /></td></tr>
 <tr class="separator:a9dbeec1441957bf8b8b64e553499eaf9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2756cde65834d2394b3f5ef661f33ff8"><td class="memItemLeft" align="right" valign="top">(<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSNumber_Class/Reference/Reference.html">NSNumber</a> *)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="protocol_c_p_t_plot_data_source-p.html#a2756cde65834d2394b3f5ef661f33ff8">numberForPlot:field:recordIndex:</a></td></tr>
-<tr class="memdesc:a2756cde65834d2394b3f5ef661f33ff8"><td class="mdescLeft">&#160;</td><td class="mdescRight">(<em>Optional</em>) Gets a plot data value for the given plot and field. Implement one and only one of the optional methods in this section.  <a href="#a2756cde65834d2394b3f5ef661f33ff8">More...</a><br /></td></tr>
-<tr class="separator:a2756cde65834d2394b3f5ef661f33ff8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9cf249f9368dd0093e4614b4aca48b9a"><td class="memItemLeft" align="right" valign="top">(<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/c/tdef/id">id</a>)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="protocol_c_p_t_plot_data_source-p.html#a9cf249f9368dd0093e4614b4aca48b9a">numberForPlot:field:recordIndex:</a></td></tr>
+<tr class="memdesc:a9cf249f9368dd0093e4614b4aca48b9a"><td class="mdescLeft">&#160;</td><td class="mdescRight">(<em>Optional</em>) Gets a plot data value for the given plot and field. Implement one and only one of the optional methods in this section.  <a href="#a9cf249f9368dd0093e4614b4aca48b9a">More...</a><br /></td></tr>
+<tr class="separator:a9cf249f9368dd0093e4614b4aca48b9a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af3dd375ee459541f0a8b53c700bff9a3"><td class="memItemLeft" align="right" valign="top">(double *)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="protocol_c_p_t_plot_data_source-p.html#af3dd375ee459541f0a8b53c700bff9a3">doublesForPlot:field:recordIndexRange:</a></td></tr>
 <tr class="memdesc:af3dd375ee459541f0a8b53c700bff9a3"><td class="mdescLeft">&#160;</td><td class="mdescRight">(<em>Optional</em>) Gets a range of plot data for the given plot and field. Implement one and only one of the optional methods in this section.  <a href="#af3dd375ee459541f0a8b53c700bff9a3">More...</a><br /></td></tr>
 <tr class="separator:af3dd375ee459541f0a8b53c700bff9a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -409,7 +409,7 @@ Public Instance Methods</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="a2756cde65834d2394b3f5ef661f33ff8"></a>
+<a class="anchor" id="a9cf249f9368dd0093e4614b4aca48b9a"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -417,7 +417,7 @@ Public Instance Methods</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">- (<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSNumber_Class/Reference/Reference.html">NSNumber</a> *) numberForPlot: </td>
+          <td class="memname">- (<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/c/tdef/id">id</a>) numberForPlot: </td>
           <td></td>
           <td class="paramtype">(<a class="el" href="interface_c_p_t_plot.html">CPTPlot</a> *)&#160;</td>
           <td class="paramname"><em>plot</em></td>
@@ -448,6 +448,7 @@ Public Instance Methods</h2></td></tr>
 </div><div class="memdoc">
 
 <p>(<em>Optional</em>) Gets a plot data value for the given plot and field. Implement one and only one of the optional methods in this section. </p>
+<p>For fields where the <a class="el" href="interface_c_p_t_plot.html#a437197f6a22e1becd75937efe860873e">plotSpace </a> scale type is <a class="el" href="_c_p_t_definitions_8h.html#a9984272ee16778b2f61771ec6fd36ad9a23d2e9e1a69491afe683eb3f2d1ecfa4" title="Category axis scale. ">CPTScaleTypeCategory</a>, this method should return an <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html">NSString</a> containing the category name. Otherwise, it should return an <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSNumber_Class/Reference/Reference.html">NSNumber</a> holding the data value. For any scale type, return <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/doc/c_ref/nil">nil</a> or an instance of <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSNull_Class/Reference/Reference.html">NSNull</a> to indicate missing values.</p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">plot</td><td>The plot. </td></tr>
@@ -524,6 +525,7 @@ Public Instance Methods</h2></td></tr>
 </div><div class="memdoc">
 
 <p>(<em>Optional</em>) Gets a range of plot data for the given plot and field. Implement one and only one of the optional methods in this section. </p>
+<p>For fields where the <a class="el" href="interface_c_p_t_plot.html#a437197f6a22e1becd75937efe860873e">plotSpace </a> scale type is <a class="el" href="_c_p_t_definitions_8h.html#a9984272ee16778b2f61771ec6fd36ad9a23d2e9e1a69491afe683eb3f2d1ecfa4" title="Category axis scale. ">CPTScaleTypeCategory</a>, this method should return an array of <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html">NSString</a> objects containing the category names. Otherwise, it should return an array of <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSNumber_Class/Reference/Reference.html">NSNumber</a> objects holding the data values. For any scale type, include instances of <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSNull_Class/Reference/Reference.html">NSNull</a> in the array to indicate missing values.</p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">plot</td><td>The plot. </td></tr>

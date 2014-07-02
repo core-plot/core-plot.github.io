@@ -106,6 +106,7 @@ var NAVTREEINDEX0 =
 "_c_p_t_definitions_8h.html#a2124728ad835ea1963ccd6cb59ce7caaa25da9e1c3ea0a1c2a9ed2039fcde58ca":[3,0,1,32,12,2],
 "_c_p_t_definitions_8h.html#a2124728ad835ea1963ccd6cb59ce7caaa28a6b8aaf54ac0f8c1a89d66c5505620":[3,0,1,32,12,1],
 "_c_p_t_definitions_8h.html#a2124728ad835ea1963ccd6cb59ce7caaad76f12c25a1d9581c7ad04af277b9006":[3,0,1,32,12,0],
+"_c_p_t_definitions_8h.html#a2124728ad835ea1963ccd6cb59ce7caaaefbbc9b1b9ed48fb5bb58519f444f71f":[3,0,1,32,12,3],
 "_c_p_t_definitions_8h.html#a34425543ff6ec67fd965d69c729ba038":[3,0,1,32,14],
 "_c_p_t_definitions_8h.html#a34425543ff6ec67fd965d69c729ba038a0d2f24f4fb83161c04e7c84d14ca2759":[3,0,1,32,14,2],
 "_c_p_t_definitions_8h.html#a34425543ff6ec67fd965d69c729ba038a7cde12fab37f52d68fb1cc8ba98e18b4":[3,0,1,32,14,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX0 =
 "_c_p_t_mutable_plot_range_8h.html":[3,0,1,70],
 "_c_p_t_mutable_plot_range_8h_source.html":[3,0,1,70],
 "_c_p_t_mutable_plot_range_8m.html":[3,0,1,71],
-"_c_p_t_mutable_shadow_8h.html":[3,0,1,72],
-"_c_p_t_mutable_shadow_8h_source.html":[3,0,1,72]
+"_c_p_t_mutable_shadow_8h.html":[3,0,1,72]
 };

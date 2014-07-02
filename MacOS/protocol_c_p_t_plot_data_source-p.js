@@ -6,7 +6,7 @@ var protocol_c_p_t_plot_data_source_p =
     [ "dataLabelsForPlot:recordIndexRange:", "protocol_c_p_t_plot_data_source-p.html#abc9085d1b4dd104b130f362e21ff00ea", null ],
     [ "doubleForPlot:field:recordIndex:", "protocol_c_p_t_plot_data_source-p.html#af7ebe3ffc46200418556e27ccf97c3f6", null ],
     [ "doublesForPlot:field:recordIndexRange:", "protocol_c_p_t_plot_data_source-p.html#af3dd375ee459541f0a8b53c700bff9a3", null ],
-    [ "numberForPlot:field:recordIndex:", "protocol_c_p_t_plot_data_source-p.html#a2756cde65834d2394b3f5ef661f33ff8", null ],
+    [ "numberForPlot:field:recordIndex:", "protocol_c_p_t_plot_data_source-p.html#a9cf249f9368dd0093e4614b4aca48b9a", null ],
     [ "numberOfRecordsForPlot:", "protocol_c_p_t_plot_data_source-p.html#a4f88c11590a2ec86a41bab421d207744", null ],
     [ "numbersForPlot:field:recordIndexRange:", "protocol_c_p_t_plot_data_source-p.html#a9dbeec1441957bf8b8b64e553499eaf9", null ]
 ];

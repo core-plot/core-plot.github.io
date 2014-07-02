@@ -22,7 +22,8 @@ var _c_p_t_definitions_8h =
     [ "CPTCoordinate", "_c_p_t_definitions_8h.html#a2124728ad835ea1963ccd6cb59ce7caa", [
       [ "CPTCoordinateX", "_c_p_t_definitions_8h.html#a2124728ad835ea1963ccd6cb59ce7caaad76f12c25a1d9581c7ad04af277b9006", null ],
       [ "CPTCoordinateY", "_c_p_t_definitions_8h.html#a2124728ad835ea1963ccd6cb59ce7caaa28a6b8aaf54ac0f8c1a89d66c5505620", null ],
-      [ "CPTCoordinateZ", "_c_p_t_definitions_8h.html#a2124728ad835ea1963ccd6cb59ce7caaa25da9e1c3ea0a1c2a9ed2039fcde58ca", null ]
+      [ "CPTCoordinateZ", "_c_p_t_definitions_8h.html#a2124728ad835ea1963ccd6cb59ce7caaa25da9e1c3ea0a1c2a9ed2039fcde58ca", null ],
+      [ "CPTCoordinateNone", "_c_p_t_definitions_8h.html#a2124728ad835ea1963ccd6cb59ce7caaaefbbc9b1b9ed48fb5bb58519f444f71f", null ]
     ] ],
     [ "CPTErrorBarType", "_c_p_t_definitions_8h.html#aaf1949f89a03cd8ad6d5b63e22382917", [
       [ "CPTErrorBarTypeCustom", "_c_p_t_definitions_8h.html#aaf1949f89a03cd8ad6d5b63e22382917ac29f4fc82ecc0fd4cf5dfc0e8ad6cf36", null ],

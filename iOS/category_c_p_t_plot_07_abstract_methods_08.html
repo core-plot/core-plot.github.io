@@ -91,6 +91,9 @@ Public Instance Methods</h2></td></tr>
 <tr class="memitem:a0467a2b65d0204c0cfb4eeeb59e8ba40"><td class="memItemLeft" align="right" valign="top">(<a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSArray_Class/NSArray.html">NSArray</a> *)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="category_c_p_t_plot_07_abstract_methods_08.html#a0467a2b65d0204c0cfb4eeeb59e8ba40">fieldIdentifiersForCoordinate:</a></td></tr>
 <tr class="memdesc:a0467a2b65d0204c0cfb4eeeb59e8ba40"><td class="mdescLeft">&#160;</td><td class="mdescRight">The field identifiers that correspond to a particular coordinate.  <a href="#a0467a2b65d0204c0cfb4eeeb59e8ba40">More...</a><br /></td></tr>
 <tr class="separator:a0467a2b65d0204c0cfb4eeeb59e8ba40"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8e84c8795dc66a2e0c42b7eb046a92d1"><td class="memItemLeft" align="right" valign="top">(<a class="el" href="_c_p_t_definitions_8h.html#a2124728ad835ea1963ccd6cb59ce7caa">CPTCoordinate</a>)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="category_c_p_t_plot_07_abstract_methods_08.html#a8e84c8795dc66a2e0c42b7eb046a92d1">coordinateForFieldIdentifier:</a></td></tr>
+<tr class="memdesc:a8e84c8795dc66a2e0c42b7eb046a92d1"><td class="mdescLeft">&#160;</td><td class="mdescRight">The coordinate value that corresponds to a particular field identifier.  <a href="#a8e84c8795dc66a2e0c42b7eb046a92d1">More...</a><br /></td></tr>
+<tr class="separator:a8e84c8795dc66a2e0c42b7eb046a92d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr><td colspan="2"><div class="groupHeader">Data Labels</div></td></tr>
 <tr class="memitem:af5f23800375c34d2eb1eeebba17ce2b2"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="category_c_p_t_plot_07_abstract_methods_08.html#af5f23800375c34d2eb1eeebba17ce2b2">positionLabelAnnotation:forIndex:</a></td></tr>
 <tr class="memdesc:af5f23800375c34d2eb1eeebba17ce2b2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Adjusts the position of the data label annotation for the plot point at the given index.  <a href="#af5f23800375c34d2eb1eeebba17ce2b2">More...</a><br /></td></tr>
@@ -103,6 +106,33 @@ Public Instance Methods</h2></td></tr>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p><a class="el" href="interface_c_p_t_plot.html" title="An abstract plot class. ">CPTPlot</a> abstract methods—must be overridden by subclasses. </p>
 </div><h2 class="groupheader">Method Documentation</h2>
+<a class="anchor" id="a8e84c8795dc66a2e0c42b7eb046a92d1"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (<a class="el" href="_c_p_t_definitions_8h.html#a2124728ad835ea1963ccd6cb59ce7caa">CPTCoordinate</a>) coordinateForFieldIdentifier: </td>
+          <td></td>
+          <td class="paramtype">(<a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Miscellaneous/Foundation_DataTypes/Reference/reference.html#//apple_ref/c/tdef/NSUInteger">NSUInteger</a>)&#160;</td>
+          <td class="paramname"><em>field</em></td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>The coordinate value that corresponds to a particular field identifier. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">field</td><td>The field identifier for which the corresponding coordinate is desired. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>The coordinate that corresponds to a particular field identifier or <a class="el" href="_c_p_t_definitions_8h.html#a2124728ad835ea1963ccd6cb59ce7caaaefbbc9b1b9ed48fb5bb58519f444f71f" title="Invalid coordinate value. ">CPTCoordinateNone</a> if there is no matching coordinate. </dd></dl>
+
+<p>Extends class <a class="el" href="interface_c_p_t_plot.html#a8e84c8795dc66a2e0c42b7eb046a92d1">CPTPlot</a>.</p>
+
+</div>
+</div>
 <a class="anchor" id="a84a31dbe697c028b41ffda5083daac65"></a>
 <div class="memitem">
 <div class="memproto">
