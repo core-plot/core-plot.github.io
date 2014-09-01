@@ -5,6 +5,7 @@ var interface_c_p_t_plot_range =
     [ "compareToNumber:", "interface_c_p_t_plot_range.html#a45e8fa6852f7d3bc5c021aae072a216c", null ],
     [ "contains:", "interface_c_p_t_plot_range.html#ad0ea31c9410605b61864346b5cf70e48", null ],
     [ "containsDouble:", "interface_c_p_t_plot_range.html#ac9f8c06f95de6f58a7970b0bd1a0d4d5", null ],
+    [ "containsNumber:", "interface_c_p_t_plot_range.html#a91535c5fd2db2fcf00db5a0e403c5e8c", null ],
     [ "containsRange:", "interface_c_p_t_plot_range.html#ab28a7a89cff91e49653777f7ceb40154", null ],
     [ "init", "interface_c_p_t_plot_range.html#ae4b3af2d38a4e8770b424ac501492db4", null ],
     [ "initWithLocation:length:", "interface_c_p_t_plot_range.html#abf8b634ab774f45bab404ea661a00976", null ],

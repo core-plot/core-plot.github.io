@@ -1,5 +1,9 @@
 var NAVTREEINDEX7 =
 {
+"protocol_c_p_t_axis_delegate-p.html":[2,0,11],
+"protocol_c_p_t_axis_delegate-p.html#a0be638dbd688af96a213231dc323e567":[2,0,11,15],
+"protocol_c_p_t_axis_delegate-p.html#a19022261e1fca9c9b129aae6b5939e3f":[2,0,11,7],
+"protocol_c_p_t_axis_delegate-p.html#a2047fd02364b681ab57f57d2933ff2a4":[2,0,11,5],
 "protocol_c_p_t_axis_delegate-p.html#a28e822115856fd694047fba9dfc5af25":[2,0,11,8],
 "protocol_c_p_t_axis_delegate-p.html#a31e15e65e42560186a5e6d7f96f9cafc":[2,0,11,10],
 "protocol_c_p_t_axis_delegate-p.html#a520a0ad92d68d08af10be95de1b684a5":[2,0,11,11],

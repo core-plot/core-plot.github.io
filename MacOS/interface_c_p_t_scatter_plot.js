@@ -1,5 +1,6 @@
 var interface_c_p_t_scatter_plot =
 [
+    [ "addAreaFillBand:", "interface_c_p_t_scatter_plot.html#a45c2d2a881433151d1a0173857e89297", null ],
     [ "indexOfVisiblePointClosestToPlotAreaPoint:", "interface_c_p_t_scatter_plot.html#a57eacc8261a4d4a1399f1196be786cff", null ],
     [ "initWithFrame:", "interface_c_p_t_scatter_plot.html#a1612b74fe9e79fe908bc196cff64f1e9", null ],
     [ "plotAreaPointOfVisiblePointAtIndex:", "interface_c_p_t_scatter_plot.html#a8dbca5232daceaa2c4fb09ed79e64ebd", null ],
@@ -9,11 +10,13 @@ var interface_c_p_t_scatter_plot =
     [ "pointingDeviceUpEvent:atPoint:", "interface_c_p_t_scatter_plot.html#a2084bf5e549368d03595098560adf4ba", null ],
     [ "reloadPlotSymbols", "interface_c_p_t_scatter_plot.html#af81faf012e4f22e1807b06c3debf90ad", null ],
     [ "reloadPlotSymbolsInIndexRange:", "interface_c_p_t_scatter_plot.html#a9101e2d70fcc930f19c75daf2c8d187b", null ],
+    [ "removeAreaFillBand:", "interface_c_p_t_scatter_plot.html#a03cf10dc69e90b35f8ce10aeb1770d41", null ],
     [ "allowSimultaneousSymbolAndPlotSelection", "interface_c_p_t_scatter_plot.html#ab96a0f3a7c7e3cf1b028fcb66ab61e6f", null ],
     [ "areaBaseValue", "interface_c_p_t_scatter_plot.html#a64bb064f84c73f12b9b2960c3f21ae55", null ],
     [ "areaBaseValue2", "interface_c_p_t_scatter_plot.html#a8cefac4a3f4f00635d7c64268a7a27a9", null ],
     [ "areaFill", "interface_c_p_t_scatter_plot.html#a12d8ae74bab77aeab2d481ce6cae69ab", null ],
     [ "areaFill2", "interface_c_p_t_scatter_plot.html#aff0dd9499ac91f20e8c3b0c363677a31", null ],
+    [ "areaFillBands", "interface_c_p_t_scatter_plot.html#a3ae42ed3f3df50226ae2b5330da9fa25", null ],
     [ "dataLineStyle", "interface_c_p_t_scatter_plot.html#a6bdf5bac3682dc86d90e4e7937198624", null ],
     [ "interpolation", "interface_c_p_t_scatter_plot.html#aeb700f644a939b24bc8f78336443af12", null ],
     [ "newDataLinePath", "interface_c_p_t_scatter_plot.html#a936bdf708c7c1cd463a6fb15b87430c1", null ],
