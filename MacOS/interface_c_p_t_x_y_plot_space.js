@@ -1,5 +1,6 @@
 var interface_c_p_t_x_y_plot_space =
 [
+    [ "cancelAnimations", "interface_c_p_t_x_y_plot_space.html#a9b04d5f248befb95c8203888275797df", null ],
     [ "init", "interface_c_p_t_x_y_plot_space.html#a7dffa389398a65f1e031583e08b9fb3c", null ],
     [ "pointingDeviceDownEvent:atPoint:", "interface_c_p_t_x_y_plot_space.html#a08faa704355f7f4ad9393a68ab45c423", null ],
     [ "pointingDeviceDraggedEvent:atPoint:", "interface_c_p_t_x_y_plot_space.html#aa7d8e61c8351c7dfea20220f37928924", null ],
