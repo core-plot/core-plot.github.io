@@ -1,18 +1,18 @@
 <map id="Source/CPTFunctionDataSource.m" name="Source/CPTFunctionDataSource.m">
-<area shape="rect" id="node2" href="$_c_p_t_function_data_source_8h.html" title="CPTFunctionDataSource.h" alt="" coords="412,83,599,111"/>
-<area shape="rect" id="node13" href="$_c_p_t_mutable_plot_range_8h.html" title="CPTMutablePlotRange.h" alt="" coords="5,83,179,111"/>
-<area shape="rect" id="node15" href="$_c_p_t_numeric_data_8h.html" title="CPTNumericData.h" alt="" coords="565,161,707,189"/>
-<area shape="rect" id="node16" href="$_c_p_t_scatter_plot_8h.html" title="CPTScatterPlot.h" alt="" coords="260,83,387,111"/>
-<area shape="rect" id="node17" href="$_c_p_t_utilities_8h.html" title="CPTUtilities.h" alt="" coords="169,161,275,189"/>
-<area shape="rect" id="node18" href="$_c_p_t_x_y_plot_space_8h.html" title="CPTXYPlotSpace.h" alt="" coords="804,238,940,266"/>
-<area shape="rect" id="node3" href="$_c_p_t_plot_8h.html" title="CPTPlot.h" alt="" coords="445,161,528,189"/>
-<area shape="rect" id="node4" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="283,393,411,421"/>
-<area shape="rect" id="node7" href="$_c_p_t_numeric_data_type_8h.html" title="CPTNumericDataType.h" alt="" coords="607,238,779,266"/>
-<area shape="rect" id="node8" href="$_c_p_t_annotation_host_layer_8h.html" title="CPTAnnotationHostLayer.h" alt="" coords="390,238,583,266"/>
-<area shape="rect" id="node9" href="$_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="478,315,569,343"/>
-<area shape="rect" id="node10" href="$_c_p_t_responder_8h.html" title="CPTResponder.h" alt="" coords="714,393,840,421"/>
-<area shape="rect" id="node11" href="$_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="672,470,881,498"/>
-<area shape="rect" id="node14" href="$_c_p_t_plot_range_8h.html" title="CPTPlotRange.h" alt="" coords="23,161,144,189"/>
-<area shape="rect" id="node19" href="$_c_p_t_plot_space_8h.html" title="CPTPlotSpace.h" alt="" coords="777,315,897,343"/>
-<area shape="rect" id="node20" href="$_c_p_t_animation_8h.html" title="CPTAnimation.h" alt="" coords="629,315,752,343"/>
+<area shape="rect" id="node2" href="$_c_p_t_function_data_source_8h.html" title="CPTFunctionDataSource.h" alt="" coords="403,81,583,106"/>
+<area shape="rect" id="node13" href="$_c_p_t_mutable_plot_range_8h.html" title="CPTMutablePlotRange.h" alt="" coords="5,81,173,106"/>
+<area shape="rect" id="node15" href="$_c_p_t_numeric_data_8h.html" title="CPTNumericData.h" alt="" coords="553,155,689,181"/>
+<area shape="rect" id="node16" href="$_c_p_t_scatter_plot_8h.html" title="CPTScatterPlot.h" alt="" coords="255,81,379,106"/>
+<area shape="rect" id="node17" href="$_c_p_t_utilities_8h.html" title="CPTUtilities.h" alt="" coords="166,155,268,181"/>
+<area shape="rect" id="node18" href="$_c_p_t_x_y_plot_space_8h.html" title="CPTXYPlotSpace.h" alt="" coords="779,230,916,255"/>
+<area shape="rect" id="node3" href="$_c_p_t_plot_8h.html" title="CPTPlot.h" alt="" coords="434,155,515,181"/>
+<area shape="rect" id="node4" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="281,379,401,405"/>
+<area shape="rect" id="node7" href="$_c_p_t_numeric_data_type_8h.html" title="CPTNumericDataType.h" alt="" coords="589,230,755,255"/>
+<area shape="rect" id="node8" href="$_c_p_t_annotation_host_layer_8h.html" title="CPTAnnotationHostLayer.h" alt="" coords="384,230,565,255"/>
+<area shape="rect" id="node9" href="$_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="462,305,553,330"/>
+<area shape="rect" id="node10" href="$_c_p_t_responder_8h.html" title="CPTResponder.h" alt="" coords="690,379,813,405"/>
+<area shape="rect" id="node11" href="$_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="652,454,852,479"/>
+<area shape="rect" id="node14" href="$_c_p_t_plot_range_8h.html" title="CPTPlotRange.h" alt="" coords="21,155,141,181"/>
+<area shape="rect" id="node19" href="$_c_p_t_plot_space_8h.html" title="CPTPlotSpace.h" alt="" coords="753,305,872,330"/>
+<area shape="rect" id="node20" href="$_c_p_t_animation_8h.html" title="CPTAnimation.h" alt="" coords="612,305,729,330"/>
 </map>

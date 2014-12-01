@@ -1,17 +1,17 @@
 <map id="Source/CPTPlotRange.h" name="Source/CPTPlotRange.h">
-<area shape="rect" id="node2" href="$_c_p_t_animation_period_8m.html" title="Source/CPTAnimationPeriod.m" alt="" coords="470,83,689,111"/>
-<area shape="rect" id="node3" href="$_c_p_t_limit_band_8m.html" title="Source/CPTLimitBand.m" alt="" coords="714,83,891,111"/>
-<area shape="rect" id="node4" href="$_c_p_t_mutable_plot_range_8h.html" title="Source/CPTMutablePlotRange.h" alt="" coords="916,83,1140,111"/>
-<area shape="rect" id="node10" href="$_c_p_t_plot_range_8m.html" title="Source/CPTPlotRange.m" alt="" coords="1623,161,1800,189"/>
-<area shape="rect" id="node14" href="$_c_p_t_range_plot_8m.html" title="Source/CPTRangePlot.m" alt="" coords="1214,83,1391,111"/>
-<area shape="rect" id="node15" href="$_c_p_t_scatter_plot_8m.html" title="Source/CPTScatterPlot.m" alt="" coords="1416,83,1597,111"/>
-<area shape="rect" id="node16" href="$_c_p_t_trading_range_plot_8m.html" title="Source/CPTTradingRangePlot.m" alt="" coords="1621,83,1847,111"/>
-<area shape="rect" id="node5" href="$_c_p_t_axis_8m.html" title="Source/CPTAxis.m" alt="" coords="5,161,144,189"/>
-<area shape="rect" id="node6" href="$_c_p_t_bar_plot_8m.html" title="Source/CPTBarPlot.m" alt="" coords="168,161,325,189"/>
-<area shape="rect" id="node7" href="$_c_p_t_function_data_source_8m.html" title="Source/CPTFunctionDataSource.m" alt="" coords="350,161,591,189"/>
-<area shape="rect" id="node8" href="$_c_p_t_mutable_plot_range_8m.html" title="Source/CPTMutablePlotRange.m" alt="" coords="616,161,844,189"/>
-<area shape="rect" id="node9" href="$_c_p_t_plot_8m.html" title="Source/CPTPlot.m" alt="" coords="869,161,1005,189"/>
-<area shape="rect" id="node11" href="$_c_p_t_plot_space_8m.html" title="Source/CPTPlotSpace.m" alt="" coords="1030,161,1204,189"/>
-<area shape="rect" id="node12" href="$_c_p_t_x_y_axis_8m.html" title="Source/CPTXYAxis.m" alt="" coords="1229,161,1384,189"/>
-<area shape="rect" id="node13" href="$_c_p_t_x_y_plot_space_8m.html" title="Source/CPTXYPlotSpace.m" alt="" coords="1408,161,1599,189"/>
+<area shape="rect" id="node2" href="$_c_p_t_animation_period_8m.html" title="Source/CPTAnimationPeriod.m" alt="" coords="459,81,664,106"/>
+<area shape="rect" id="node3" href="$_c_p_t_limit_band_8m.html" title="Source/CPTLimitBand.m" alt="" coords="688,81,856,106"/>
+<area shape="rect" id="node4" href="$_c_p_t_mutable_plot_range_8h.html" title="Source/CPTMutablePlotRange.h" alt="" coords="881,81,1095,106"/>
+<area shape="rect" id="node10" href="$_c_p_t_plot_range_8m.html" title="Source/CPTPlotRange.m" alt="" coords="1569,155,1740,181"/>
+<area shape="rect" id="node14" href="$_c_p_t_range_plot_8m.html" title="Source/CPTRangePlot.m" alt="" coords="1170,81,1341,106"/>
+<area shape="rect" id="node15" href="$_c_p_t_scatter_plot_8m.html" title="Source/CPTScatterPlot.m" alt="" coords="1365,81,1539,106"/>
+<area shape="rect" id="node16" href="$_c_p_t_trading_range_plot_8m.html" title="Source/CPTTradingRangePlot.m" alt="" coords="1563,81,1777,106"/>
+<area shape="rect" id="node5" href="$_c_p_t_axis_8m.html" title="Source/CPTAxis.m" alt="" coords="4,155,136,181"/>
+<area shape="rect" id="node6" href="$_c_p_t_bar_plot_8m.html" title="Source/CPTBarPlot.m" alt="" coords="161,155,313,181"/>
+<area shape="rect" id="node7" href="$_c_p_t_function_data_source_8m.html" title="Source/CPTFunctionDataSource.m" alt="" coords="338,155,568,181"/>
+<area shape="rect" id="node8" href="$_c_p_t_mutable_plot_range_8m.html" title="Source/CPTMutablePlotRange.m" alt="" coords="592,155,809,181"/>
+<area shape="rect" id="node9" href="$_c_p_t_plot_8m.html" title="Source/CPTPlot.m" alt="" coords="834,155,965,181"/>
+<area shape="rect" id="node11" href="$_c_p_t_plot_space_8m.html" title="Source/CPTPlotSpace.m" alt="" coords="990,155,1159,181"/>
+<area shape="rect" id="node12" href="$_c_p_t_x_y_axis_8m.html" title="Source/CPTXYAxis.m" alt="" coords="1183,155,1333,181"/>
+<area shape="rect" id="node13" href="$_c_p_t_x_y_plot_space_8m.html" title="Source/CPTXYPlotSpace.m" alt="" coords="1358,155,1545,181"/>
 </map>

@@ -1,9 +1,9 @@
 <map id="Source/CPTAnnotationHostLayer.m" name="Source/CPTAnnotationHostLayer.m">
-<area shape="rect" id="node2" href="$_c_p_t_annotation_host_layer_8h.html" title="CPTAnnotationHostLayer.h" alt="" coords="208,99,400,127"/>
-<area shape="rect" id="node10" href="$_c_p_t_annotation_8h.html" title="CPTAnnotation.h" alt="" coords="398,177,527,205"/>
-<area shape="rect" id="node11" href="$_c_p_t_exceptions_8h.html" title="CPTExceptions.h" alt="" coords="475,99,601,127"/>
-<area shape="rect" id="node3" href="$_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="258,177,349,205"/>
-<area shape="rect" id="node4" href="$_c_p_t_responder_8h.html" title="CPTResponder.h" alt="" coords="46,254,172,282"/>
-<area shape="rect" id="node7" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="411,254,539,282"/>
-<area shape="rect" id="node5" href="$_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="4,331,213,359"/>
+<area shape="rect" id="node2" href="$_c_p_t_annotation_host_layer_8h.html" title="CPTAnnotationHostLayer.h" alt="" coords="198,94,380,119"/>
+<area shape="rect" id="node10" href="$_c_p_t_annotation_8h.html" title="CPTAnnotation.h" alt="" coords="379,169,500,194"/>
+<area shape="rect" id="node11" href="$_c_p_t_exceptions_8h.html" title="CPTExceptions.h" alt="" coords="456,94,580,119"/>
+<area shape="rect" id="node3" href="$_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="243,169,335,194"/>
+<area shape="rect" id="node4" href="$_c_p_t_responder_8h.html" title="CPTResponder.h" alt="" coords="44,243,167,269"/>
+<area shape="rect" id="node7" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="390,243,511,269"/>
+<area shape="rect" id="node5" href="$_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="5,318,205,343"/>
 </map>

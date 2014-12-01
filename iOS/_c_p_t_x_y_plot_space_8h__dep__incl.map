@@ -1,11 +1,11 @@
 <map id="Source/CPTXYPlotSpace.h" name="Source/CPTXYPlotSpace.h">
-<area shape="rect" id="node2" href="$_core_plot-_cocoa_touch_8h.html" title="CorePlot&#45;CocoaTouch.h" alt="" coords="5,83,179,111"/>
-<area shape="rect" id="node3" href="$_c_p_t_bar_plot_8m.html" title="Source/CPTBarPlot.m" alt="" coords="204,83,361,111"/>
-<area shape="rect" id="node4" href="$_c_p_t_function_data_source_8m.html" title="Source/CPTFunctionDataSource.m" alt="" coords="386,83,627,111"/>
-<area shape="rect" id="node5" href="$_c_p_t_range_plot_8m.html" title="Source/CPTRangePlot.m" alt="" coords="651,83,828,111"/>
-<area shape="rect" id="node6" href="$_c_p_t_scatter_plot_8m.html" title="Source/CPTScatterPlot.m" alt="" coords="853,83,1035,111"/>
-<area shape="rect" id="node7" href="$_c_p_t_trading_range_plot_8m.html" title="Source/CPTTradingRangePlot.m" alt="" coords="1059,83,1284,111"/>
-<area shape="rect" id="node8" href="$_c_p_t_x_y_axis_8m.html" title="Source/CPTXYAxis.m" alt="" coords="1309,83,1464,111"/>
-<area shape="rect" id="node9" href="$_c_p_t_x_y_graph_8m.html" title="Source/CPTXYGraph.m" alt="" coords="1489,83,1657,111"/>
-<area shape="rect" id="node10" href="$_c_p_t_x_y_plot_space_8m.html" title="Source/CPTXYPlotSpace.m" alt="" coords="1682,83,1872,111"/>
+<area shape="rect" id="node2" href="$_core_plot-_cocoa_touch_8h.html" title="CorePlot&#45;CocoaTouch.h" alt="" coords="5,81,168,106"/>
+<area shape="rect" id="node3" href="$_c_p_t_bar_plot_8m.html" title="Source/CPTBarPlot.m" alt="" coords="192,81,344,106"/>
+<area shape="rect" id="node4" href="$_c_p_t_function_data_source_8m.html" title="Source/CPTFunctionDataSource.m" alt="" coords="369,81,599,106"/>
+<area shape="rect" id="node5" href="$_c_p_t_range_plot_8m.html" title="Source/CPTRangePlot.m" alt="" coords="624,81,795,106"/>
+<area shape="rect" id="node6" href="$_c_p_t_scatter_plot_8m.html" title="Source/CPTScatterPlot.m" alt="" coords="818,81,992,106"/>
+<area shape="rect" id="node7" href="$_c_p_t_trading_range_plot_8m.html" title="Source/CPTTradingRangePlot.m" alt="" coords="1016,81,1231,106"/>
+<area shape="rect" id="node8" href="$_c_p_t_x_y_axis_8m.html" title="Source/CPTXYAxis.m" alt="" coords="1255,81,1405,106"/>
+<area shape="rect" id="node9" href="$_c_p_t_x_y_graph_8m.html" title="Source/CPTXYGraph.m" alt="" coords="1430,81,1593,106"/>
+<area shape="rect" id="node10" href="$_c_p_t_x_y_plot_space_8m.html" title="Source/CPTXYPlotSpace.m" alt="" coords="1618,81,1805,106"/>
 </map>

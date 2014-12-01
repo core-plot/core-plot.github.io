@@ -1,10 +1,10 @@
 <map id="Source/CPTPlotGroup.m" name="Source/CPTPlotGroup.m">
-<area shape="rect" id="node2" href="$_c_p_t_plot_group_8h.html" title="CPTPlotGroup.h" alt="" coords="26,83,149,111"/>
-<area shape="rect" id="node10" href="$_c_p_t_plot_8h.html" title="CPTPlot.h" alt="" coords="224,83,306,111"/>
-<area shape="rect" id="node3" href="$_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="237,238,329,266"/>
-<area shape="rect" id="node4" href="$_c_p_t_responder_8h.html" title="CPTResponder.h" alt="" coords="220,315,346,343"/>
-<area shape="rect" id="node7" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="386,315,514,343"/>
-<area shape="rect" id="node5" href="$_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="164,393,373,421"/>
-<area shape="rect" id="node11" href="$_c_p_t_numeric_data_type_8h.html" title="CPTNumericDataType.h" alt="" coords="24,161,196,189"/>
-<area shape="rect" id="node12" href="$_c_p_t_annotation_host_layer_8h.html" title="CPTAnnotationHostLayer.h" alt="" coords="221,161,413,189"/>
+<area shape="rect" id="node2" href="$_c_p_t_plot_group_8h.html" title="CPTPlotGroup.h" alt="" coords="23,81,141,106"/>
+<area shape="rect" id="node10" href="$_c_p_t_plot_8h.html" title="CPTPlot.h" alt="" coords="213,81,294,106"/>
+<area shape="rect" id="node3" href="$_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="226,230,317,255"/>
+<area shape="rect" id="node4" href="$_c_p_t_responder_8h.html" title="CPTResponder.h" alt="" coords="210,305,333,330"/>
+<area shape="rect" id="node7" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="371,305,491,330"/>
+<area shape="rect" id="node5" href="$_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="159,379,359,405"/>
+<area shape="rect" id="node11" href="$_c_p_t_numeric_data_type_8h.html" title="CPTNumericDataType.h" alt="" coords="23,155,189,181"/>
+<area shape="rect" id="node12" href="$_c_p_t_annotation_host_layer_8h.html" title="CPTAnnotationHostLayer.h" alt="" coords="212,155,394,181"/>
 </map>

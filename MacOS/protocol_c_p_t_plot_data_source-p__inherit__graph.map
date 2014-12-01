@@ -1,9 +1,9 @@
 <map id="&lt;CPTPlotDataSource&gt;" name="&lt;CPTPlotDataSource&gt;">
-<area shape="rect" id="node3" href="$protocol_c_p_t_bar_plot_data_source-p.html" title="A bar plot data source. " alt="" coords="381,5,566,33"/>
-<area shape="rect" id="node4" href="$interface_c_p_t_function_data_source.html" title="A datasource class that automatically creates scatter plot data from a function or Objective&#45;C block..." alt="" coords="386,57,561,85"/>
-<area shape="rect" id="node5" href="$protocol_c_p_t_pie_chart_data_source-p.html" title="A pie chart data source. " alt="" coords="376,109,570,137"/>
-<area shape="rect" id="node6" href="$protocol_c_p_t_range_plot_data_source-p.html" title="A range plot data source. " alt="" coords="371,161,576,189"/>
-<area shape="rect" id="node7" href="$protocol_c_p_t_scatter_plot_data_source-p.html" title="A scatter plot data source. " alt="" coords="369,213,578,241"/>
-<area shape="rect" id="node8" href="$protocol_c_p_t_trading_range_plot_data_source-p.html" title="A trading range plot data source. " alt="" coords="373,265,573,308"/>
-<area shape="rect" id="node2" href="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-tags.xml$https://developer.apple.com/library/mac/.html#documentation/Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/Reference/NSObject" title="\&lt;NSObject\&gt;" alt="" coords="5,135,107,163"/>
+<area shape="rect" id="node3" href="$protocol_c_p_t_bar_plot_data_source-p.html" title="A bar plot data source. " alt="" coords="363,5,541,30"/>
+<area shape="rect" id="node4" href="$interface_c_p_t_function_data_source.html" title="A datasource class that automatically creates scatter plot data from a function or Objective&#45;C block..." alt="" coords="367,54,537,79"/>
+<area shape="rect" id="node5" href="$protocol_c_p_t_pie_chart_data_source-p.html" title="A pie chart data source. " alt="" coords="359,103,545,129"/>
+<area shape="rect" id="node6" href="$protocol_c_p_t_range_plot_data_source-p.html" title="A range plot data source. " alt="" coords="354,153,550,178"/>
+<area shape="rect" id="node7" href="$protocol_c_p_t_scatter_plot_data_source-p.html" title="A scatter plot data source. " alt="" coords="352,202,552,227"/>
+<area shape="rect" id="node8" href="$protocol_c_p_t_trading_range_plot_data_source-p.html" title="A trading range plot data source. " alt="" coords="357,251,547,290"/>
+<area shape="rect" id="node2" href="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-tags.xml$https://developer.apple.com/library/mac/.html#documentation/Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/Reference/NSObject" title="\&lt;NSObject\&gt;" alt="" coords="5,129,99,154"/>
 </map>

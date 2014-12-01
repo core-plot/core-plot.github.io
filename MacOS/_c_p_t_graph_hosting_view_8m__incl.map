@@ -1,13 +1,13 @@
 <map id="MacOnly/CPTGraphHostingView.m" name="MacOnly/CPTGraphHostingView.m">
-<area shape="rect" id="node2" href="$_c_p_t_graph_hosting_view_8h.html" title="CPTGraphHostingView.h" alt="" coords="5,83,181,111"/>
-<area shape="rect" id="node4" href="$_c_p_t_graph_8h.html" title="CPTGraph.h" alt="" coords="534,161,631,189"/>
-<area shape="rect" id="node14" href="$_c_p_t_plot_area_8h.html" title="CPTPlotArea.h" alt="" coords="264,83,376,111"/>
-<area shape="rect" id="node15" href="$_c_p_t_plot_area_frame_8h.html" title="CPTPlotAreaFrame.h" alt="" coords="357,161,509,189"/>
-<area shape="rect" id="node16" href="$_c_p_t_plot_space_8h.html" title="CPTPlotSpace.h" alt="" coords="175,393,295,421"/>
-<area shape="rect" id="node5" href="$_c_p_t_bordered_layer_8h.html" title="CPTBorderedLayer.h" alt="" coords="358,238,508,266"/>
-<area shape="rect" id="node11" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="331,470,459,498"/>
-<area shape="rect" id="node6" href="$_c_p_t_annotation_host_layer_8h.html" title="CPTAnnotationHostLayer.h" alt="" coords="306,315,499,343"/>
-<area shape="rect" id="node7" href="$_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="348,393,440,421"/>
-<area shape="rect" id="node8" href="$_c_p_t_responder_8h.html" title="CPTResponder.h" alt="" coords="171,470,297,498"/>
-<area shape="rect" id="node9" href="$_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="83,547,292,575"/>
+<area shape="rect" id="node2" href="$_c_p_t_graph_hosting_view_8h.html" title="CPTGraphHostingView.h" alt="" coords="5,81,173,106"/>
+<area shape="rect" id="node4" href="$_c_p_t_graph_8h.html" title="CPTGraph.h" alt="" coords="523,155,619,181"/>
+<area shape="rect" id="node14" href="$_c_p_t_plot_area_8h.html" title="CPTPlotArea.h" alt="" coords="257,81,367,106"/>
+<area shape="rect" id="node15" href="$_c_p_t_plot_area_frame_8h.html" title="CPTPlotAreaFrame.h" alt="" coords="350,155,497,181"/>
+<area shape="rect" id="node16" href="$_c_p_t_plot_space_8h.html" title="CPTPlotSpace.h" alt="" coords="167,379,285,405"/>
+<area shape="rect" id="node5" href="$_c_p_t_bordered_layer_8h.html" title="CPTBorderedLayer.h" alt="" coords="351,230,496,255"/>
+<area shape="rect" id="node11" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="321,454,441,479"/>
+<area shape="rect" id="node6" href="$_c_p_t_annotation_host_layer_8h.html" title="CPTAnnotationHostLayer.h" alt="" coords="298,305,480,330"/>
+<area shape="rect" id="node7" href="$_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="335,379,427,405"/>
+<area shape="rect" id="node8" href="$_c_p_t_responder_8h.html" title="CPTResponder.h" alt="" coords="165,454,288,479"/>
+<area shape="rect" id="node9" href="$_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="85,529,285,554"/>
 </map>

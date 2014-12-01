@@ -1,11 +1,11 @@
 <map id="Source/CPTTheme.m" name="Source/CPTTheme.m">
-<area shape="rect" id="node2" href="$_c_p_t_theme_8h.html" title="CPTTheme.h" alt="" coords="69,83,171,111"/>
-<area shape="rect" id="node3" href="$_c_p_t_exceptions_8h.html" title="CPTExceptions.h" alt="" coords="195,83,321,111"/>
-<area shape="rect" id="node4" href="$_c_p_t_graph_8h.html" title="CPTGraph.h" alt="" coords="346,83,443,111"/>
-<area shape="rect" id="node5" href="$_c_p_t_bordered_layer_8h.html" title="CPTBorderedLayer.h" alt="" coords="244,161,395,189"/>
-<area shape="rect" id="node11" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="411,393,539,421"/>
-<area shape="rect" id="node6" href="$_c_p_t_annotation_host_layer_8h.html" title="CPTAnnotationHostLayer.h" alt="" coords="214,238,407,266"/>
-<area shape="rect" id="node7" href="$_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="252,315,344,343"/>
-<area shape="rect" id="node8" href="$_c_p_t_responder_8h.html" title="CPTResponder.h" alt="" coords="46,393,172,421"/>
-<area shape="rect" id="node9" href="$_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="4,470,213,498"/>
+<area shape="rect" id="node2" href="$_c_p_t_theme_8h.html" title="CPTTheme.h" alt="" coords="52,81,152,106"/>
+<area shape="rect" id="node3" href="$_c_p_t_exceptions_8h.html" title="CPTExceptions.h" alt="" coords="176,81,300,106"/>
+<area shape="rect" id="node4" href="$_c_p_t_graph_8h.html" title="CPTGraph.h" alt="" coords="325,81,421,106"/>
+<area shape="rect" id="node5" href="$_c_p_t_bordered_layer_8h.html" title="CPTBorderedLayer.h" alt="" coords="229,155,375,181"/>
+<area shape="rect" id="node11" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="390,379,511,405"/>
+<area shape="rect" id="node6" href="$_c_p_t_annotation_host_layer_8h.html" title="CPTAnnotationHostLayer.h" alt="" coords="204,230,385,255"/>
+<area shape="rect" id="node7" href="$_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="238,305,329,330"/>
+<area shape="rect" id="node8" href="$_c_p_t_responder_8h.html" title="CPTResponder.h" alt="" coords="44,379,167,405"/>
+<area shape="rect" id="node9" href="$_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="5,454,205,479"/>
 </map>
