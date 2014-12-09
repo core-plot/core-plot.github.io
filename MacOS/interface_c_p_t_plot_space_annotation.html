@@ -69,6 +69,7 @@ $(document).ready(function(){initNavTree('interface_c_p_t_plot_space_annotation.
 <div class="header">
   <div class="summary">
 <a href="class_c_p_t_plot_space_annotation-members.html">List of all members</a> &#124;
+<a href="#pub-methods">Public Instance Methods</a> &#124;
 <a href="#properties">Properties</a>  </div>
   <div class="headertitle">
 <div class="title">CPTPlotSpaceAnnotation Class Reference</div>  </div>
@@ -100,10 +101,13 @@ $(document).ready(function(){initNavTree('interface_c_p_t_plot_space_annotation.
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Instance Methods</h2></td></tr>
+<tr class="memitem:a91b5f33c0ac1ea15fe10b4e3c73e79cc"><td class="memItemLeft" align="right" valign="top">(instancetype)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_plot_space_annotation.html#a91b5f33c0ac1ea15fe10b4e3c73e79cc">initWithCoder:</a></td></tr>
+<tr class="memdesc:a91b5f33c0ac1ea15fe10b4e3c73e79cc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns an object initialized from data in a given unarchiver.  <a href="#a91b5f33c0ac1ea15fe10b4e3c73e79cc">More...</a><br /></td></tr>
+<tr class="separator:a91b5f33c0ac1ea15fe10b4e3c73e79cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr><td colspan="2"><div class="groupHeader">Initialization</div></td></tr>
-<tr class="memitem:ad201a37f50d6c446f3a88d5dff3117b4"><td class="memItemLeft" align="right" valign="top">(instancetype)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_plot_space_annotation.html#ad201a37f50d6c446f3a88d5dff3117b4">initWithPlotSpace:anchorPlotPoint:</a></td></tr>
-<tr class="memdesc:ad201a37f50d6c446f3a88d5dff3117b4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes a newly allocated <a class="el" href="interface_c_p_t_plot_space_annotation.html" title="Positions a content layer relative to some anchor point in a plot space. ">CPTPlotSpaceAnnotation</a> object.  <a href="#ad201a37f50d6c446f3a88d5dff3117b4">More...</a><br /></td></tr>
-<tr class="separator:ad201a37f50d6c446f3a88d5dff3117b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac751b2fe0dcb8b708a548afc737cca13"><td class="memItemLeft" align="right" valign="top">(instancetype)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_plot_space_annotation.html#ac751b2fe0dcb8b708a548afc737cca13">initWithPlotSpace:anchorPlotPoint:</a></td></tr>
+<tr class="memdesc:ac751b2fe0dcb8b708a548afc737cca13"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes a newly allocated <a class="el" href="interface_c_p_t_plot_space_annotation.html" title="Positions a content layer relative to some anchor point in a plot space. ">CPTPlotSpaceAnnotation</a> object.  <a href="#ac751b2fe0dcb8b708a548afc737cca13">More...</a><br /></td></tr>
+<tr class="separator:ac751b2fe0dcb8b708a548afc737cca13"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_interface_c_p_t_annotation"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_interface_c_p_t_annotation')"><img src="closed.png" alt="-"/>&#160;Public Instance Methods inherited from <a class="el" href="interface_c_p_t_annotation.html">CPTAnnotation</a></td></tr>
 <tr class="memitem:a7472a3caf422a7aa317cca012d2d503e inherit pub_methods_interface_c_p_t_annotation"><td class="memItemLeft" align="right" valign="top">(instancetype)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_annotation.html#a7472a3caf422a7aa317cca012d2d503e">init</a><code> [implementation]</code></td></tr>
 <tr class="memdesc:a7472a3caf422a7aa317cca012d2d503e inherit pub_methods_interface_c_p_t_annotation"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes a newly allocated <a class="el" href="interface_c_p_t_annotation.html" title="An annotation positions a content layer relative to some anchor point. ">CPTAnnotation</a> object.  <a href="#a7472a3caf422a7aa317cca012d2d503e">More...</a><br /></td></tr>
@@ -196,7 +200,32 @@ Additional Inherited Members</h2></td></tr>
 <div class="textblock"><p>Positions a content layer relative to some anchor point in a plot space. </p>
 <p>Plot space annotations are positioned relative to a plot space. This allows the annotation content layer to move with the plot when the plot space changes. This is useful for applications such as labels attached to specific data points on a plot. </p>
 </div><h2 class="groupheader">Method Documentation</h2>
-<a class="anchor" id="ad201a37f50d6c446f3a88d5dff3117b4"></a>
+<a class="anchor" id="a91b5f33c0ac1ea15fe10b4e3c73e79cc"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (instancetype) initWithCoder: </td>
+          <td></td>
+          <td class="paramtype">(<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSCoder_Class/Reference/NSCoder.html">NSCoder</a> *)&#160;</td>
+          <td class="paramname"><em>coder</em></td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Returns an object initialized from data in a given unarchiver. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">coder</td><td>An unarchiver object. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>An object initialized from data in a given unarchiver. </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="ac751b2fe0dcb8b708a548afc737cca13"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">

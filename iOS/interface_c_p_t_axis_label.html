@@ -104,9 +104,12 @@ Public Instance Methods</h2></td></tr>
 <tr class="memitem:a99da90e7b8505b9fab0aaf1f57da1498"><td class="memItemLeft" align="right" valign="top">(instancetype)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_axis_label.html#a99da90e7b8505b9fab0aaf1f57da1498">initWithText:textStyle:</a></td></tr>
 <tr class="memdesc:a99da90e7b8505b9fab0aaf1f57da1498"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes a newly allocated text-based <a class="el" href="interface_c_p_t_axis_label.html" title="An axis label. ">CPTAxisLabel</a> object with the provided text and style.  <a href="#a99da90e7b8505b9fab0aaf1f57da1498">More...</a><br /></td></tr>
 <tr class="separator:a99da90e7b8505b9fab0aaf1f57da1498"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac17c0b795f0cad2ee08fb9018593fb0d"><td class="memItemLeft" align="right" valign="top">(instancetype)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_axis_label.html#ac17c0b795f0cad2ee08fb9018593fb0d">initWithContentLayer:</a></td></tr>
-<tr class="memdesc:ac17c0b795f0cad2ee08fb9018593fb0d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes a newly allocated <a class="el" href="interface_c_p_t_axis_label.html" title="An axis label. ">CPTAxisLabel</a> object with the provided layer. This is the designated initializer.  <a href="#ac17c0b795f0cad2ee08fb9018593fb0d">More...</a><br /></td></tr>
-<tr class="separator:ac17c0b795f0cad2ee08fb9018593fb0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0ea3fae519f6ecabedf20a004846525f"><td class="memItemLeft" align="right" valign="top">(instancetype)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_axis_label.html#a0ea3fae519f6ecabedf20a004846525f">initWithContentLayer:</a></td></tr>
+<tr class="memdesc:a0ea3fae519f6ecabedf20a004846525f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes a newly allocated <a class="el" href="interface_c_p_t_axis_label.html" title="An axis label. ">CPTAxisLabel</a> object with the provided layer. This is the designated initializer.  <a href="#a0ea3fae519f6ecabedf20a004846525f">More...</a><br /></td></tr>
+<tr class="separator:a0ea3fae519f6ecabedf20a004846525f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:affc5a3688a7ab2051c9c1c322e962b7a"><td class="memItemLeft" align="right" valign="top">(instancetype)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_axis_label.html#affc5a3688a7ab2051c9c1c322e962b7a">initWithCoder:</a></td></tr>
+<tr class="memdesc:affc5a3688a7ab2051c9c1c322e962b7a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns an object initialized from data in a given unarchiver.  <a href="#affc5a3688a7ab2051c9c1c322e962b7a">More...</a><br /></td></tr>
+<tr class="separator:affc5a3688a7ab2051c9c1c322e962b7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr><td colspan="2"><div class="groupHeader">Layout</div></td></tr>
 <tr class="memitem:ac05596d481daa7c69327ea7ef86f8ba7"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_axis_label.html#ac05596d481daa7c69327ea7ef86f8ba7">positionRelativeToViewPoint:forCoordinate:inDirection:</a></td></tr>
 <tr class="memdesc:ac05596d481daa7c69327ea7ef86f8ba7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Positions the axis label relative to the given point. The algorithm for positioning is different when the rotation property is non-zero. When zero, the anchor point is positioned along the closest side of the label. When non-zero, the anchor point is left at the center. This has consequences for the value taken by the offset.  <a href="#ac05596d481daa7c69327ea7ef86f8ba7">More...</a><br /></td></tr>
@@ -180,7 +183,32 @@ Additional Inherited Members</h2></td></tr>
 <div class="textblock"><p>An axis label. </p>
 <p>The label can be text-based or can be the content of any <a class="el" href="interface_c_p_t_layer.html" title="Base class for all Core Animation layers in Core Plot. ">CPTLayer</a> provided by the user. </p>
 </div><h2 class="groupheader">Method Documentation</h2>
-<a class="anchor" id="ac17c0b795f0cad2ee08fb9018593fb0d"></a>
+<a class="anchor" id="affc5a3688a7ab2051c9c1c322e962b7a"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (instancetype) initWithCoder: </td>
+          <td></td>
+          <td class="paramtype">(<a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSCoder_Class/Reference/NSCoder.html">NSCoder</a> *)&#160;</td>
+          <td class="paramname"><em>coder</em></td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Returns an object initialized from data in a given unarchiver. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">coder</td><td>An unarchiver object. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>An object initialized from data in a given unarchiver. </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="a0ea3fae519f6ecabedf20a004846525f"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">

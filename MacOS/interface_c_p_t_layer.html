@@ -100,9 +100,15 @@ $(document).ready(function(){initNavTree('interface_c_p_t_layer.html','');});
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Instance Methods</h2></td></tr>
 <tr><td colspan="2"><div class="groupHeader">Initialization</div></td></tr>
-<tr class="memitem:ade41036aaf82833fabc6c96b276dffaa"><td class="memItemLeft" align="right" valign="top">(instancetype)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_layer.html#ade41036aaf82833fabc6c96b276dffaa">initWithFrame:</a></td></tr>
-<tr class="memdesc:ade41036aaf82833fabc6c96b276dffaa"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes a newly allocated <a class="el" href="interface_c_p_t_layer.html" title="Base class for all Core Animation layers in Core Plot. ">CPTLayer</a> object with the provided frame rectangle.  <a href="#ade41036aaf82833fabc6c96b276dffaa">More...</a><br /></td></tr>
-<tr class="separator:ade41036aaf82833fabc6c96b276dffaa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac702288e280c3d9499c164adbc027181"><td class="memItemLeft" align="right" valign="top">(instancetype)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_layer.html#ac702288e280c3d9499c164adbc027181">initWithFrame:</a></td></tr>
+<tr class="memdesc:ac702288e280c3d9499c164adbc027181"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes a newly allocated <a class="el" href="interface_c_p_t_layer.html" title="Base class for all Core Animation layers in Core Plot. ">CPTLayer</a> object with the provided frame rectangle.  <a href="#ac702288e280c3d9499c164adbc027181">More...</a><br /></td></tr>
+<tr class="separator:ac702288e280c3d9499c164adbc027181"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a90cc890af3e7873aeac8e995b4ef734d"><td class="memItemLeft" align="right" valign="top">(instancetype)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_layer.html#a90cc890af3e7873aeac8e995b4ef734d">initWithCoder:</a></td></tr>
+<tr class="memdesc:a90cc890af3e7873aeac8e995b4ef734d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns an object initialized from data in a given unarchiver.  <a href="#a90cc890af3e7873aeac8e995b4ef734d">More...</a><br /></td></tr>
+<tr class="separator:a90cc890af3e7873aeac8e995b4ef734d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4d4e185938f428c9646e1270626bbf0d"><td class="memItemLeft" align="right" valign="top">(instancetype)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_layer.html#a4d4e185938f428c9646e1270626bbf0d">initWithLayer:</a></td></tr>
+<tr class="memdesc:a4d4e185938f428c9646e1270626bbf0d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Override to copy or initialize custom fields of the specified layer.  <a href="#a4d4e185938f428c9646e1270626bbf0d">More...</a><br /></td></tr>
+<tr class="separator:a4d4e185938f428c9646e1270626bbf0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a27c4adc47b0b132625e0fb830cd18a20"><td class="memItemLeft" align="right" valign="top">(instancetype)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_layer.html#a27c4adc47b0b132625e0fb830cd18a20">init</a><code> [implementation]</code></td></tr>
 <tr class="memdesc:a27c4adc47b0b132625e0fb830cd18a20"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes a newly allocated <a class="el" href="interface_c_p_t_layer.html" title="Base class for all Core Animation layers in Core Plot. ">CPTLayer</a> object with an empty frame rectangle.  <a href="#a27c4adc47b0b132625e0fb830cd18a20">More...</a><br /></td></tr>
 <tr class="separator:a27c4adc47b0b132625e0fb830cd18a20"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -471,7 +477,32 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="ade41036aaf82833fabc6c96b276dffaa"></a>
+<a class="anchor" id="a90cc890af3e7873aeac8e995b4ef734d"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (instancetype) initWithCoder: </td>
+          <td></td>
+          <td class="paramtype">(<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSCoder_Class/Reference/NSCoder.html">NSCoder</a> *)&#160;</td>
+          <td class="paramname"><em>coder</em></td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Returns an object initialized from data in a given unarchiver. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">coder</td><td>An unarchiver object. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>An object initialized from data in a given unarchiver. </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="ac702288e280c3d9499c164adbc027181"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
@@ -511,6 +542,31 @@ Additional Inherited Members</h2></td></tr>
 <dl class="section return"><dt>Returns</dt><dd>The initialized object. </dd></dl>
 
 <p>Reimplemented in <a class="el" href="interface_c_p_t_axis.html#ac47edee1999fb04f98ded820571aecc2">CPTAxis</a>, <a class="el" href="interface_c_p_t_pie_chart.html#aea6ae423cbc675637a28bdccd547107e">CPTPieChart</a>, <a class="el" href="interface_c_p_t_plot.html#a79e60dd061e0dcb957557abdc0c74242">CPTPlot</a>, <a class="el" href="interface_c_p_t_trading_range_plot.html#a388b1955456f2faee8137ce57bcb9776">CPTTradingRangePlot</a>, <a class="el" href="interface_c_p_t_bar_plot.html#adf2ecfa74c673c94ec359a429f6528c2">CPTBarPlot</a>, <a class="el" href="interface_c_p_t_range_plot.html#aa1434f57bdf707d41563b8bd1f452861">CPTRangePlot</a>, <a class="el" href="interface_c_p_t_scatter_plot.html#a1612b74fe9e79fe908bc196cff64f1e9">CPTScatterPlot</a>, <a class="el" href="interface_c_p_t_graph.html#adca059de2abe6895c054bc70b3464ea2">CPTGraph</a>, <a class="el" href="interface_c_p_t_legend.html#a94f0bbc7bb6be00d189c14421f8158e9">CPTLegend</a>, <a class="el" href="interface_c_p_t_bordered_layer.html#a38fa6cca149cf57783934b023653ee6c">CPTBorderedLayer</a>, <a class="el" href="interface_c_p_t_axis_set.html#a0b0b90234b2749894d2d18f238a4997a">CPTAxisSet</a>, <a class="el" href="interface_c_p_t_plot_area.html#a145566534e4714718b52e78f21bc7b60">CPTPlotArea</a>, <a class="el" href="interface_c_p_t_plot_area_frame.html#abe052414b447d9f8eae4cb4613627ac7">CPTPlotAreaFrame</a>, <a class="el" href="interface_c_p_t_x_y_axis.html#a2cfa2a044421deec34025875d5a46843">CPTXYAxis</a>, <a class="el" href="interface_c_p_t_text_layer.html#a5690161241a084fff5c5ba078e817ca5">CPTTextLayer</a>, <a class="el" href="interface_c_p_t_grid_line_group.html#a962f651960425b8c271b17e23ce13d0e">CPTGridLineGroup</a>, <a class="el" href="interface_c_p_t_grid_lines.html#a37d6fd573bce568d30d0efe630483623">CPTGridLines</a>, <a class="el" href="interface_c_p_t_x_y_axis_set.html#a07dd9974a92ef6a3b61ddc18d59d701d">CPTXYAxisSet</a>, <a class="el" href="interface_c_p_t_x_y_graph.html#ac491745d25aa89d21104ee4977a156c9">CPTXYGraph</a>, and <a class="el" href="interface_c_p_t_annotation_host_layer.html#a3a60f821606b611f100a4dc22a5a15a5">CPTAnnotationHostLayer</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a4d4e185938f428c9646e1270626bbf0d"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (instancetype) initWithLayer: </td>
+          <td></td>
+          <td class="paramtype">(<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/c/tdef/id">id</a>)&#160;</td>
+          <td class="paramname"><em>layer</em></td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Override to copy or initialize custom fields of the specified layer. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">layer</td><td>The layer from which custom fields should be copied. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>A layer instance with any custom instance variables copied from <code><b>layer</b></code>. </dd></dl>
 
 </div>
 </div>

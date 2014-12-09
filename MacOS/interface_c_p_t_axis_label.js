@@ -1,6 +1,7 @@
 var interface_c_p_t_axis_label =
 [
-    [ "initWithContentLayer:", "interface_c_p_t_axis_label.html#ac17c0b795f0cad2ee08fb9018593fb0d", null ],
+    [ "initWithCoder:", "interface_c_p_t_axis_label.html#affc5a3688a7ab2051c9c1c322e962b7a", null ],
+    [ "initWithContentLayer:", "interface_c_p_t_axis_label.html#a0ea3fae519f6ecabedf20a004846525f", null ],
     [ "initWithText:textStyle:", "interface_c_p_t_axis_label.html#a99da90e7b8505b9fab0aaf1f57da1498", null ],
     [ "isEqual:", "interface_c_p_t_axis_label.html#a1abcb1ba715392d59b83914577494453", null ],
     [ "positionBetweenViewPoint:andViewPoint:forCoordinate:inDirection:", "interface_c_p_t_axis_label.html#afca6bb437d8cb042f75e88b957d99778", null ],
