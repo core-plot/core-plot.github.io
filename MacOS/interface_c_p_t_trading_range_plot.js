@@ -15,5 +15,6 @@ var interface_c_p_t_trading_range_plot =
     [ "increaseLineStyle", "interface_c_p_t_trading_range_plot.html#a15eb5edfaa72230069dd03bc833ac9fc", null ],
     [ "lineStyle", "interface_c_p_t_trading_range_plot.html#abddf5fd9394c07a25013a90e7870d3e6", null ],
     [ "plotStyle", "interface_c_p_t_trading_range_plot.html#a9584aee2dddff9e7974ab0b53153afdd", null ],
+    [ "showBarBorder", "group__plot_animation_trading_range_plot.html#ga50da8944b12ac735623cdbe30971beca", null ],
     [ "stickLength", "group__plot_animation_trading_range_plot.html#ga343ebbd30e751ae54bfa6eeb1442e7e7", null ]
 ];

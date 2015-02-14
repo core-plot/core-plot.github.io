@@ -1,5 +1,7 @@
 var NAVTREEINDEX4 =
 {
+"index.html#wheretoaskforhelp":[0,3],
+"interface_c_p_t_animation.html":[2,0,0],
 "interface_c_p_t_animation.html#a06d21b315c6bedcffc716d1213fc4af3":[2,0,0,2],
 "interface_c_p_t_animation.html#a1840ec5dbfb0df40a7e8cc037546577e":[2,0,0,6],
 "interface_c_p_t_animation.html#a6b09abcd1f219f545e35cbea8f4a7ea2":[2,0,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX4 =
 "interface_c_p_t_graph.html#a2a337ef558f8246d8fdd6742843e3201":[2,0,33,0],
 "interface_c_p_t_graph.html#a2fc71ac7ffc3ea91f09b5f5e40fec74c":[2,0,33,3],
 "interface_c_p_t_graph.html#a39907c69e9fa500a2ad5b57667c31047":[2,0,33,12],
-"interface_c_p_t_graph.html#a431079ad3aa0867c39f4aa8aeca10c99":[2,0,33,5],
-"interface_c_p_t_graph.html#a435400c6b127ec31e8bfb8f2eeb5a5ff":[2,0,33,23],
-"interface_c_p_t_graph.html#a50fe83bc9bb69c7fb932472a71d0fa83":[2,0,33,1]
+"interface_c_p_t_graph.html#a431079ad3aa0867c39f4aa8aeca10c99":[2,0,33,5]
 };

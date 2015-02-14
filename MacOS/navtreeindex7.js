@@ -1,5 +1,7 @@
 var NAVTREEINDEX7 =
 {
+"interface_c_p_t_time_formatter.html#a90fd0fcd3d776f80f21b38b6e35ec8e8":[2,0,90,4],
+"interface_c_p_t_time_formatter.html#a99f0e63a53c71dab4ff7bb50a8ea092e":[2,0,90,0],
 "interface_c_p_t_time_formatter.html#a9a2b59e9d4e123e6fb6994218768f810":[2,0,90,2],
 "interface_c_p_t_time_formatter.html#ae26c616be7b1f68d55267331787d0970":[2,0,90,1],
 "interface_c_p_t_trading_range_plot.html":[2,0,91],
