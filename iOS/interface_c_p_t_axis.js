@@ -11,6 +11,7 @@ var interface_c_p_t_axis =
     [ "pointingDeviceDownEvent:atPoint:", "interface_c_p_t_axis.html#a3add925f6f2f32876ad41ee8f2df3fc8", null ],
     [ "pointingDeviceUpEvent:atPoint:", "interface_c_p_t_axis.html#a7eeaa47648cecd7d25b8289f51498b23", null ],
     [ "relabel", "interface_c_p_t_axis.html#a8142c888e487899aa4816a6b865f5cea", null ],
+    [ "removeAllBackgroundLimitBands", "interface_c_p_t_axis.html#acf61321f0167819a37f67a3649896ae4", null ],
     [ "removeBackgroundLimitBand:", "interface_c_p_t_axis.html#ae963f0bb8651f7dfaa74024a8c179f13", null ],
     [ "setNeedsRelabel", "interface_c_p_t_axis.html#ab76319c8e162fe4bb190f4e8545e9375", null ],
     [ "updateAxisTitle", "interface_c_p_t_axis.html#a456a04a537bf6840d6beceb05f466d76", null ],
