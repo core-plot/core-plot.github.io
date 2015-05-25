@@ -106,7 +106,7 @@ Properties</h2></td></tr>
 <tr class="separator:aa7f87b87551dec4a017d62c6bd3a20df"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr><td colspan="2"><div class="groupHeader">Printing</div></td></tr>
 <tr class="memitem:a6071736ed031a4bb173ed519804b4fb3"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Miscellaneous/Foundation_DataTypes/Reference/reference.html#//apple_ref/c/tdef/NSRect">NSRect</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_c_p_t_graph_hosting_view.html#a6071736ed031a4bb173ed519804b4fb3">printRect</a></td></tr>
-<tr class="memdesc:a6071736ed031a4bb173ed519804b4fb3"><td class="mdescLeft">&#160;</td><td class="mdescRight">The bounding rectangle used when printing this view.  <a href="#a6071736ed031a4bb173ed519804b4fb3">More...</a><br /></td></tr>
+<tr class="memdesc:a6071736ed031a4bb173ed519804b4fb3"><td class="mdescLeft">&#160;</td><td class="mdescRight">The bounding rectangle used when printing this view. Default is NSZeroRect.  <a href="#a6071736ed031a4bb173ed519804b4fb3">More...</a><br /></td></tr>
 <tr class="separator:a6071736ed031a4bb173ed519804b4fb3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr><td colspan="2"><div class="groupHeader">Cursors</div></td></tr>
 <tr class="memitem:a33f903887e43a0d7144566d821252d0e"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ApplicationKit/Classes/NSCursor_Class/Reference/Reference.html">NSCursor</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_c_p_t_graph_hosting_view.html#a33f903887e43a0d7144566d821252d0e">closedHandCursor</a></td></tr>
@@ -117,7 +117,7 @@ Properties</h2></td></tr>
 <tr class="separator:aa988a636f9c915bb4d50c8b1ae45d813"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr><td colspan="2"><div class="groupHeader">User Interaction</div></td></tr>
 <tr class="memitem:a377eaa7fab835f4ab3503f533b61117f"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/c/tdef/BOOL">BOOL</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_c_p_t_graph_hosting_view.html#a377eaa7fab835f4ab3503f533b61117f">allowPinchScaling</a></td></tr>
-<tr class="memdesc:a377eaa7fab835f4ab3503f533b61117f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Whether a pinch will trigger plot space scaling. Default is <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/doc/c_ref/YES">YES</a>.  <a href="#a377eaa7fab835f4ab3503f533b61117f">More...</a><br /></td></tr>
+<tr class="memdesc:a377eaa7fab835f4ab3503f533b61117f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Whether a pinch gesture will trigger plot space scaling. Default is <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/doc/c_ref/YES">YES</a>.  <a href="#a377eaa7fab835f4ab3503f533b61117f">More...</a><br /></td></tr>
 <tr class="separator:a377eaa7fab835f4ab3503f533b61117f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="inherited"></a>
@@ -196,7 +196,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Whether a pinch will trigger plot space scaling. Default is <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/doc/c_ref/YES">YES</a>. </p>
+<p>Whether a pinch gesture will trigger plot space scaling. Default is <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/doc/c_ref/YES">YES</a>. </p>
 
 </div>
 </div>
@@ -284,7 +284,8 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>The bounding rectangle used when printing this view. </p>
+<p>The bounding rectangle used when printing this view. Default is NSZeroRect. </p>
+<p>If NSZeroRect (the default), the frame rectangle of the view is used instead. </p>
 
 </div>
 </div>
