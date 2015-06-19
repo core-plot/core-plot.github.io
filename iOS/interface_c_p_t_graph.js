@@ -28,7 +28,7 @@ var interface_c_p_t_graph =
     [ "attributedTitle", "interface_c_p_t_graph.html#ad3b2a1532da0c6b60eb17d1478322b6d", null ],
     [ "axisSet", "interface_c_p_t_graph.html#ac12a501c599f4a8b8ebe0e40230c6802", null ],
     [ "defaultPlotSpace", "interface_c_p_t_graph.html#a26cfc91a892e027a0b48f59f9a8cdf0a", null ],
-    [ "hostingView", "interface_c_p_t_graph.html#ab59b5e0881966d8daa10c0ace44a4065", null ],
+    [ "hostingView", "interface_c_p_t_graph.html#a812c4f8a0f3d28fae10ae47332505e10", null ],
     [ "legend", "interface_c_p_t_graph.html#a99bd8248e51463b8a677a3c612a401d4", null ],
     [ "legendAnchor", "interface_c_p_t_graph.html#a6e97cebb8d0cff47d7c22b47e02798c8", null ],
     [ "legendDisplacement", "group__graph_animation.html#ga262aa2db69e5e4438f8542762f0e1d85", null ],

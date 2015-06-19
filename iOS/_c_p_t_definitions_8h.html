@@ -112,9 +112,9 @@ Macros</h2></td></tr>
 <tr class="memitem:ac23f606c1706a1172bc646f5c9c27218"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="_c_p_t_definitions_8h.html#ac23f606c1706a1172bc646f5c9c27218">CPT_SDK_SUPPORTS_WEAK</a></td></tr>
 <tr class="memdesc:ac23f606c1706a1172bc646f5c9c27218"><td class="mdescLeft">&#160;</td><td class="mdescRight">Defined as <code>1</code> if the compiler and active SDK support weak references, <code>0</code> otherwise.  <a href="#ac23f606c1706a1172bc646f5c9c27218">More...</a><br /></td></tr>
 <tr class="separator:ac23f606c1706a1172bc646f5c9c27218"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abd26af4304957387867e6e9e8cef1576"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="_c_p_t_definitions_8h.html#abd26af4304957387867e6e9e8cef1576">__cpt_weak</a></td></tr>
-<tr class="memdesc:abd26af4304957387867e6e9e8cef1576"><td class="mdescLeft">&#160;</td><td class="mdescRight">A custom definition for automatic reference counting (ARC) weak references that falls back to <code>__unsafe_unretained</code> values on older platforms.  <a href="#abd26af4304957387867e6e9e8cef1576">More...</a><br /></td></tr>
-<tr class="separator:abd26af4304957387867e6e9e8cef1576"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5f3f43392c8987bd3b92f1ea95a4aee1"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="_c_p_t_definitions_8h.html#a5f3f43392c8987bd3b92f1ea95a4aee1">cpt_weak</a></td></tr>
+<tr class="memdesc:a5f3f43392c8987bd3b92f1ea95a4aee1"><td class="mdescLeft">&#160;</td><td class="mdescRight">A custom definition for automatic reference counting (ARC) weak references that falls back to <code>__unsafe_unretained</code> values on older platforms.  <a href="#a5f3f43392c8987bd3b92f1ea95a4aee1">More...</a><br /></td></tr>
+<tr class="separator:a5f3f43392c8987bd3b92f1ea95a4aee1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1133842e0f1c9446242d6a2ce34728ee"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="_c_p_t_definitions_8h.html#a1133842e0f1c9446242d6a2ce34728ee">cpt_weak_property</a></td></tr>
 <tr class="memdesc:a1133842e0f1c9446242d6a2ce34728ee"><td class="mdescLeft">&#160;</td><td class="mdescRight">A custom definition for automatic reference counting (ARC) weak properties that falls back to <code>assign</code> on older platforms.  <a href="#a1133842e0f1c9446242d6a2ce34728ee">More...</a><br /></td></tr>
 <tr class="separator:a1133842e0f1c9446242d6a2ce34728ee"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -211,20 +211,6 @@ Variables</h2></td></tr>
 <tr class="separator:aa4de8f607b98664e9a835faa161d31e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Macro Definition Documentation</h2>
-<a class="anchor" id="abd26af4304957387867e6e9e8cef1576"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define __cpt_weak</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>A custom definition for automatic reference counting (ARC) weak references that falls back to <code>__unsafe_unretained</code> values on older platforms. </p>
-
-</div>
-</div>
 <a class="anchor" id="a6fd501dc7964d3477fa67930f90f5ea3"></a>
 <div class="memitem">
 <div class="memproto">
@@ -250,6 +236,20 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Defined as <code>1</code> if the compiler and active SDK support weak references, <code>0</code> otherwise. </p>
+
+</div>
+</div>
+<a class="anchor" id="a5f3f43392c8987bd3b92f1ea95a4aee1"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define cpt_weak</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>A custom definition for automatic reference counting (ARC) weak references that falls back to <code>__unsafe_unretained</code> values on older platforms. </p>
 
 </div>
 </div>

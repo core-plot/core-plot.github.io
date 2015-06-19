@@ -21,7 +21,7 @@ var interface_c_p_t_layer =
     [ "scrollWheelEvent:fromPoint:toPoint:", "interface_c_p_t_layer.html#a90ff9f794287e01412e6ca703ef416ca", null ],
     [ "sublayerMarginLeft:top:right:bottom:", "interface_c_p_t_layer.html#abceadfd3aa964794f6ec708190ee817c", null ],
     [ "contentsScale", "interface_c_p_t_layer.html#ad95ea54a7ebf06e98e6ae9dd99d9b86a", null ],
-    [ "graph", "interface_c_p_t_layer.html#a8fc618d8979ab2b5a15430700bbe2b99", null ],
+    [ "graph", "interface_c_p_t_layer.html#a44caf498858fbdf81e039b2de92de803", null ],
     [ "identifier", "interface_c_p_t_layer.html#ad864eabdf1f356b56266d2c713721d99", null ],
     [ "innerBorderPath", "interface_c_p_t_layer.html#a1101010e2d09bb239f698885938306dd", null ],
     [ "maskingPath", "interface_c_p_t_layer.html#a00eb8c95b69aa830cead6cb9dd62d549", null ],

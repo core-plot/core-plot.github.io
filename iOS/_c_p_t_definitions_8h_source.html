@@ -85,13 +85,13 @@ $(document).ready(function(){initNavTree('_c_p_t_definitions_8h_source.html','')
 <div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;<span class="preprocessor">#endif</span></div>
 <div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;</div>
 <div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;<span class="preprocessor">#if CPT_SDK_SUPPORTS_WEAK</span></div>
-<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;<span class="preprocessor">#define __cpt_weak        __weak</span></div>
+<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;<span class="preprocessor">#define cpt_weak          __weak</span></div>
 <div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;<span class="preprocessor">#define cpt_weak_property weak</span></div>
 <div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;<span class="preprocessor">#else</span></div>
 <div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;<span class="preprocessor">#if __clang__ &amp;&amp; (__clang_major__ &gt;= 3)</span></div>
-<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;<span class="preprocessor">#define __cpt_weak __unsafe_unretained</span></div>
+<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;<span class="preprocessor">#define cpt_weak __unsafe_unretained</span></div>
 <div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;<span class="preprocessor">#else</span></div>
-<div class="line"><a name="l00043"></a><span class="lineno"><a class="line" href="_c_p_t_definitions_8h.html#abd26af4304957387867e6e9e8cef1576">   43</a></span>&#160;<span class="preprocessor">#define __cpt_weak</span></div>
+<div class="line"><a name="l00043"></a><span class="lineno"><a class="line" href="_c_p_t_definitions_8h.html#a5f3f43392c8987bd3b92f1ea95a4aee1">   43</a></span>&#160;<span class="preprocessor">#define cpt_weak</span></div>
 <div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;<span class="preprocessor">#endif</span></div>
 <div class="line"><a name="l00045"></a><span class="lineno"><a class="line" href="_c_p_t_definitions_8h.html#a1133842e0f1c9446242d6a2ce34728ee">   45</a></span>&#160;<span class="preprocessor">#define cpt_weak_property assign</span></div>
 <div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;<span class="preprocessor">#endif</span></div>
