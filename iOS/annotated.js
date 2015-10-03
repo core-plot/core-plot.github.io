@@ -26,6 +26,7 @@ var annotated =
     [ "CPTColorSpace", "interface_c_p_t_color_space.html", "interface_c_p_t_color_space" ],
     [ "CPTConstraints", "interface_c_p_t_constraints.html", "interface_c_p_t_constraints" ],
     [ "CPTConstraints(AbstractMethods)", "category_c_p_t_constraints_07_abstract_methods_08.html", "category_c_p_t_constraints_07_abstract_methods_08" ],
+    [ "<CPTDebugQuickLook>", "protocol_c_p_t_debug_quick_look-p.html", "protocol_c_p_t_debug_quick_look-p" ],
     [ "CPTEdgeInsets", "struct_c_p_t_edge_insets.html", "struct_c_p_t_edge_insets" ],
     [ "CPTFill", "interface_c_p_t_fill.html", "interface_c_p_t_fill" ],
     [ "CPTFill(AbstractMethods)", "category_c_p_t_fill_07_abstract_methods_08.html", "category_c_p_t_fill_07_abstract_methods_08" ],
@@ -102,5 +103,6 @@ var annotated =
     [ "NSDecimalNumber(CPTExtensions)", "category_n_s_decimal_number_07_c_p_t_extensions_08.html", "category_n_s_decimal_number_07_c_p_t_extensions_08" ],
     [ "NSNumber(CPTExtensions)", "category_n_s_number_07_c_p_t_extensions_08.html", "category_n_s_number_07_c_p_t_extensions_08" ],
     [ "NSNumber(CPTPlatformSpecificNumberExtensions)", "category_n_s_number_07_c_p_t_platform_specific_number_extensions_08.html", "category_n_s_number_07_c_p_t_platform_specific_number_extensions_08" ],
+    [ "NSObject(CPTDebugQuickLookExtension)", "category_n_s_object_07_c_p_t_debug_quick_look_extension_08.html", null ],
     [ "NSString(CPTTextStyleExtensions)", "category_n_s_string_07_c_p_t_text_style_extensions_08.html", "category_n_s_string_07_c_p_t_text_style_extensions_08" ]
 ];
