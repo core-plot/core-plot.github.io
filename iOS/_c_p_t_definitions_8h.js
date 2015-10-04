@@ -11,6 +11,15 @@ var _c_p_t_definitions_8h =
     [ "CPTRectInset", "_c_p_t_definitions_8h.html#aa791cbebc3ff4ba4af5af05a8420dc3d", null ],
     [ "CPTRectMake", "_c_p_t_definitions_8h.html#a12b10fd595dc158fa09df8d6fdb7cc13", null ],
     [ "CPTSizeMake", "_c_p_t_definitions_8h.html#aaf9616f446e3d7eb16e21711bcf40a17", null ],
+    [ "CPTDictionary", "_c_p_t_definitions_8h.html#ae878ff1e7375c93cc653f8f05ec633fd", null ],
+    [ "CPTMutableDictionary", "_c_p_t_definitions_8h.html#a9fa5c25c0bd32eafd1e3c925614a0fcb", null ],
+    [ "CPTMutableNumberArray", "_c_p_t_definitions_8h.html#a032d068025484bda2305e3cd3f6e9dac", null ],
+    [ "CPTMutableNumberSet", "_c_p_t_definitions_8h.html#aea731a8e42984bfb3b4bf1ea344d391c", null ],
+    [ "CPTMutableStringArray", "_c_p_t_definitions_8h.html#a35cc3edef93ceb02cd2e96fee4701569", null ],
+    [ "CPTNumberArray", "_c_p_t_definitions_8h.html#a490d4f557868805fbdae643ad0ab36b9", null ],
+    [ "CPTNumberSet", "_c_p_t_definitions_8h.html#a623b70351d88c89517159ca9da639560", null ],
+    [ "CPTQuickLookImageBlock", "_c_p_t_definitions_8h.html#a4471161575c35ebdb96b641e324b5f3c", null ],
+    [ "CPTStringArray", "_c_p_t_definitions_8h.html#a9f68059318783470fdfe9f17bf8fdd18", null ],
     [ "CPTAlignment", "_c_p_t_definitions_8h.html#ac329e18ab62f4fd7e1be776f5e04cd58", [
       [ "CPTAlignmentLeft", "_c_p_t_definitions_8h.html#ac329e18ab62f4fd7e1be776f5e04cd58ae8f682a93e3fc9cfbf5e41109763e9c9", null ],
       [ "CPTAlignmentCenter", "_c_p_t_definitions_8h.html#ac329e18ab62f4fd7e1be776f5e04cd58a4648db9a75f1c0e92a90b65e18e49704", null ],
@@ -51,7 +60,8 @@ var _c_p_t_definitions_8h =
       [ "CPTScaleTypeLog", "_c_p_t_definitions_8h.html#a9984272ee16778b2f61771ec6fd36ad9a09a6cf5bed15a02bb28fb11769fc0660", null ],
       [ "CPTScaleTypeAngular", "_c_p_t_definitions_8h.html#a9984272ee16778b2f61771ec6fd36ad9aabb231130933c64ebc297665b6e0faf6", null ],
       [ "CPTScaleTypeDateTime", "_c_p_t_definitions_8h.html#a9984272ee16778b2f61771ec6fd36ad9aa4be70857faac370a8f507c381ea0a89", null ],
-      [ "CPTScaleTypeCategory", "_c_p_t_definitions_8h.html#a9984272ee16778b2f61771ec6fd36ad9a23d2e9e1a69491afe683eb3f2d1ecfa4", null ]
+      [ "CPTScaleTypeCategory", "_c_p_t_definitions_8h.html#a9984272ee16778b2f61771ec6fd36ad9a23d2e9e1a69491afe683eb3f2d1ecfa4", null ],
+      [ "CPTScaleTypeLogModulus", "_c_p_t_definitions_8h.html#a9984272ee16778b2f61771ec6fd36ad9ae8c81bac06e00fabb6c5d29ac58be6ee", null ]
     ] ],
     [ "CPTSign", "_c_p_t_definitions_8h.html#a69d8f721aad51ddf8fc88c85b1947c33", [
       [ "CPTSignNone", "_c_p_t_definitions_8h.html#a69d8f721aad51ddf8fc88c85b1947c33a8cce324dd6b2465f8c0d9bf0af62e42c", null ],

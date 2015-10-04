@@ -1,9 +1,12 @@
 <map id="Source/CPTScatterPlot.h" name="Source/CPTScatterPlot.h">
-<area shape="rect" id="node2" href="$_c_p_t_plot_8h.html" title="CPTPlot.h" alt="" coords="288,81,369,106"/>
-<area shape="rect" id="node3" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="397,305,517,330"/>
-<area shape="rect" id="node6" href="$_c_p_t_numeric_data_type_8h.html" title="CPTNumericDataType.h" alt="" coords="5,155,171,181"/>
-<area shape="rect" id="node7" href="$_c_p_t_annotation_host_layer_8h.html" title="CPTAnnotationHostLayer.h" alt="" coords="194,155,376,181"/>
-<area shape="rect" id="node8" href="$_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="239,230,331,255"/>
-<area shape="rect" id="node9" href="$_c_p_t_responder_8h.html" title="CPTResponder.h" alt="" coords="50,305,173,330"/>
-<area shape="rect" id="node10" href="$_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="12,379,212,405"/>
+<area shape="rect" id="node2" href="$_c_p_t_limit_band_8h.html" title="CPTLimitBand.h" alt="" coords="282,81,400,106"/>
+<area shape="rect" id="node3" href="$_c_p_t_plot_8h.html" title="CPTPlot.h" alt="" coords="424,81,505,106"/>
+<area shape="rect" id="node4" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="405,305,525,330"/>
+<area shape="rect" id="node14" href="$_c_p_t_plot_symbol_8h.html" title="CPTPlotSymbol.h" alt="" coords="581,81,707,106"/>
+<area shape="rect" id="node7" href="$_c_p_t_numeric_data_type_8h.html" title="CPTNumericDataType.h" alt="" coords="85,155,251,181"/>
+<area shape="rect" id="node8" href="$_c_p_t_annotation_host_layer_8h.html" title="CPTAnnotationHostLayer.h" alt="" coords="274,155,456,181"/>
+<area shape="rect" id="node9" href="$_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="218,230,309,255"/>
+<area shape="rect" id="node13" href="$_c_p_t_annotation_8h.html" title="CPTAnnotation.h" alt="" coords="334,230,455,255"/>
+<area shape="rect" id="node10" href="$_c_p_t_responder_8h.html" title="CPTResponder.h" alt="" coords="44,305,167,330"/>
+<area shape="rect" id="node11" href="$_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="5,379,205,405"/>
 </map>

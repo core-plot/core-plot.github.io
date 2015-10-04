@@ -166,6 +166,9 @@ var hierarchy =
         [ "CPTXYPlotSpace", "interface_c_p_t_x_y_plot_space.html", null ]
       ] ],
       [ "<CPTAxisDelegate>", "protocol_c_p_t_axis_delegate-p.html", null ],
+      [ "<CPTDebugQuickLook>", "protocol_c_p_t_debug_quick_look-p.html", [
+        [ "NSObject(CPTDebugQuickLookExtension)", "category_n_s_object_07_c_p_t_debug_quick_look_extension_08.html", null ]
+      ] ],
       [ "<CPTLegendDelegate>", "protocol_c_p_t_legend_delegate-p.html", null ],
       [ "<CPTPlotAreaDelegate>", "protocol_c_p_t_plot_area_delegate-p.html", null ],
       [ "<CPTPlotDataSource>", "protocol_c_p_t_plot_data_source-p.html", [

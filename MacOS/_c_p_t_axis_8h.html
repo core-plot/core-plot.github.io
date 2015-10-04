@@ -68,13 +68,18 @@ $(document).ready(function(){initNavTree('_c_p_t_axis_8h.html','');});
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
+<a href="#typedef-members">Typedefs</a> &#124;
 <a href="#enum-members">Enumerations</a>  </div>
   <div class="headertitle">
 <div class="title">CPTAxis.h File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#import &quot;<a class="el" href="_c_p_t_definitions_8h_source.html">CPTDefinitions.h</a>&quot;</code><br />
+<div class="textblock"><code>#import &quot;<a class="el" href="_c_p_t_axis_label_8h_source.html">CPTAxisLabel.h</a>&quot;</code><br />
+<code>#import &quot;<a class="el" href="_c_p_t_definitions_8h_source.html">CPTDefinitions.h</a>&quot;</code><br />
+<code>#import &quot;<a class="el" href="_c_p_t_fill_8h_source.html">CPTFill.h</a>&quot;</code><br />
 <code>#import &quot;<a class="el" href="_c_p_t_layer_8h_source.html">CPTLayer.h</a>&quot;</code><br />
+<code>#import &quot;<a class="el" href="_c_p_t_limit_band_8h_source.html">CPTLimitBand.h</a>&quot;</code><br />
+<code>#import &quot;<a class="el" href="_c_p_t_plot_range_8h_source.html">CPTPlotRange.h</a>&quot;</code><br />
 <code>#import &quot;<a class="el" href="_c_p_t_text_style_8h_source.html">CPTTextStyle.h</a>&quot;</code><br />
 </div><div class="textblock"><div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Include dependency graph for CPTAxis.h:</div>
@@ -83,12 +88,16 @@ $(document).ready(function(){initNavTree('_c_p_t_axis_8h.html','');});
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
 <div class="center"><img src="_c_p_t_axis_8h__incl.png" border="0" usemap="#_source_2_c_p_t_axis_8h" alt=""/></div>
 <map name="_source_2_c_p_t_axis_8h" id="_source_2_c_p_t_axis_8h">
-<area shape="rect" id="node2" href="_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="158,155,279,181"/>
-<area shape="rect" id="node5" href="_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="319,81,411,106"/>
-<area shape="rect" id="node9" href="_c_p_t_text_style_8h.html" title="CPTTextStyle.h" alt="" coords="566,81,679,106"/>
-<area shape="rect" id="node6" href="_c_p_t_responder_8h.html" title="CPTResponder.h" alt="" coords="304,155,427,181"/>
-<area shape="rect" id="node7" href="_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="290,230,491,255"/>
-<area shape="rect" id="node10" href="_c_p_t_text_style_platform_specific_8h.html" title="CPTTextStylePlatformSpecific.h" alt="" coords="650,155,859,181"/>
+<area shape="rect" id="node2" href="_c_p_t_axis_label_8h.html" title="CPTAxisLabel.h" alt="" coords="733,81,848,106"/>
+<area shape="rect" id="node3" href="_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="445,155,565,181"/>
+<area shape="rect" id="node6" href="_c_p_t_fill_8h.html" title="CPTFill.h" alt="" coords="345,81,420,106"/>
+<area shape="rect" id="node7" href="_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="178,81,269,106"/>
+<area shape="rect" id="node11" href="_c_p_t_limit_band_8h.html" title="CPTLimitBand.h" alt="" coords="590,81,708,106"/>
+<area shape="rect" id="node12" href="_c_p_t_plot_range_8h.html" title="CPTPlotRange.h" alt="" coords="445,81,565,106"/>
+<area shape="rect" id="node13" href="_c_p_t_text_style_8h.html" title="CPTTextStyle.h" alt="" coords="873,81,985,106"/>
+<area shape="rect" id="node8" href="_c_p_t_responder_8h.html" title="CPTResponder.h" alt="" coords="44,155,167,181"/>
+<area shape="rect" id="node9" href="_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="5,230,205,255"/>
+<area shape="rect" id="node14" href="_c_p_t_text_style_platform_specific_8h.html" title="CPTTextStylePlatformSpecific.h" alt="" coords="825,155,1033,181"/>
 </map>
 </div>
 </div><div class="textblock"><div id="dynsection-1" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
@@ -98,16 +107,20 @@ $(document).ready(function(){initNavTree('_c_p_t_axis_8h.html','');});
 <div id="dynsection-1-content" class="dyncontent" style="display:none;">
 <div class="center"><img src="_c_p_t_axis_8h__dep__incl.png" border="0" usemap="#_source_2_c_p_t_axis_8hdep" alt=""/></div>
 <map name="_source_2_c_p_t_axis_8hdep" id="_source_2_c_p_t_axis_8hdep">
-<area shape="rect" id="node2" href="_c_p_t_axis_8m.html" title="Source/CPTAxis.m" alt="" coords="4,81,136,106"/>
-<area shape="rect" id="node3" href="_c_p_t_axis_set_8m.html" title="Source/CPTAxisSet.m" alt="" coords="161,81,313,106"/>
-<area shape="rect" id="node4" href="_c_p_t_graph_8m.html" title="Source/CPTGraph.m" alt="" coords="338,81,483,106"/>
-<area shape="rect" id="node5" href="_c_p_t_grid_line_group_8m.html" title="Source/CPTGridLineGroup.m" alt="" coords="507,81,703,106"/>
-<area shape="rect" id="node6" href="_c_p_t_grid_lines_8m.html" title="Source/CPTGridLines.m" alt="" coords="728,81,893,106"/>
-<area shape="rect" id="node7" href="_c_p_t_plot_area_8m.html" title="Source/CPTPlotArea.m" alt="" coords="917,81,1076,106"/>
-<area shape="rect" id="node8" href="_c_p_t_x_y_axis_8h.html" title="Source/CPTXYAxis.h" alt="" coords="1101,81,1248,106"/>
-<area shape="rect" id="node9" href="_c_p_t_x_y_axis_8m.html" title="Source/CPTXYAxis.m" alt="" coords="914,155,1064,181"/>
-<area shape="rect" id="node10" href="_c_p_t_x_y_axis_set_8m.html" title="Source/CPTXYAxisSet.m" alt="" coords="1089,155,1260,181"/>
-<area shape="rect" id="node11" href="_c_p_t_x_y_graph_8m.html" title="Source/CPTXYGraph.m" alt="" coords="1284,155,1447,181"/>
+<area shape="rect" id="node2" href="_c_p_t_axis_8m.html" title="Source/CPTAxis.m" alt="" coords="4,155,136,181"/>
+<area shape="rect" id="node3" href="_c_p_t_axis_set_8h.html" title="Source/CPTAxisSet.h" alt="" coords="571,81,719,106"/>
+<area shape="rect" id="node5" href="_c_p_t_graph_8m.html" title="Source/CPTGraph.m" alt="" coords="162,155,307,181"/>
+<area shape="rect" id="node6" href="_c_p_t_grid_line_group_8m.html" title="Source/CPTGridLineGroup.m" alt="" coords="331,155,527,181"/>
+<area shape="rect" id="node7" href="_c_p_t_plot_area_8m.html" title="Source/CPTPlotArea.m" alt="" coords="1355,155,1513,181"/>
+<area shape="rect" id="node13" href="_c_p_t_grid_lines_8m.html" title="Source/CPTGridLines.m" alt="" coords="845,81,1011,106"/>
+<area shape="rect" id="node14" href="_c_p_t_x_y_axis_8h.html" title="Source/CPTXYAxis.h" alt="" coords="1538,155,1685,181"/>
+<area shape="rect" id="node4" href="_c_p_t_axis_set_8m.html" title="Source/CPTAxisSet.m" alt="" coords="764,155,916,181"/>
+<area shape="rect" id="node8" href="_c_p_t_plot_area_frame_8m.html" title="Source/CPTPlotAreaFrame.m" alt="" coords="941,155,1139,181"/>
+<area shape="rect" id="node9" href="_c_p_t_x_y_axis_set_8h.html" title="Source/CPTXYAxisSet.h" alt="" coords="1163,155,1329,181"/>
+<area shape="rect" id="node12" href="_c_p_t_x_y_plot_space_8m.html" title="Source/CPTXYPlotSpace.m" alt="" coords="552,155,739,181"/>
+<area shape="rect" id="node10" href="_c_p_t_x_y_axis_set_8m.html" title="Source/CPTXYAxisSet.m" alt="" coords="1352,230,1523,255"/>
+<area shape="rect" id="node11" href="_c_p_t_x_y_graph_8m.html" title="Source/CPTXYGraph.m" alt="" coords="1165,230,1328,255"/>
+<area shape="rect" id="node15" href="_c_p_t_x_y_axis_8m.html" title="Source/CPTXYAxis.m" alt="" coords="1547,230,1697,255"/>
 </map>
 </div>
 </div>
@@ -125,6 +138,15 @@ Classes</h2></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="interface_c_p_t_axis.html" title="An abstract axis class. ">CPTAxis</a> abstract methods—must be overridden by subclasses.  <a href="category_c_p_t_axis_07_abstract_methods_08.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a28479fa50595e9bf9d5d24b89d0cb325"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSArray_Class/Reference/Reference.html">NSArray</a>&lt; __kindof <a class="el" href="interface_c_p_t_axis.html">CPTAxis</a> * &gt; *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="_c_p_t_axis_8h.html#a28479fa50595e9bf9d5d24b89d0cb325">CPTAxisArray</a></td></tr>
+<tr class="memdesc:a28479fa50595e9bf9d5d24b89d0cb325"><td class="mdescLeft">&#160;</td><td class="mdescRight">An array of axes.  <a href="#a28479fa50595e9bf9d5d24b89d0cb325">More...</a><br /></td></tr>
+<tr class="separator:a28479fa50595e9bf9d5d24b89d0cb325"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab95d5722da8506191198ba84b7489972"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSMutableArray_Class/Reference/Reference.html">NSMutableArray</a>&lt; __kindof <a class="el" href="interface_c_p_t_axis.html">CPTAxis</a> * &gt; *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="_c_p_t_axis_8h.html#ab95d5722da8506191198ba84b7489972">CPTMutableAxisArray</a></td></tr>
+<tr class="memdesc:ab95d5722da8506191198ba84b7489972"><td class="mdescLeft">&#160;</td><td class="mdescRight">A mutable array of axes.  <a href="#ab95d5722da8506191198ba84b7489972">More...</a><br /></td></tr>
+<tr class="separator:ab95d5722da8506191198ba84b7489972"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="enum-members"></a>
 Enumerations</h2></td></tr>
 <tr class="memitem:abbc64feaff419eeea652e9276e27961c"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="_c_p_t_axis_8h.html#abbc64feaff419eeea652e9276e27961c">CPTAxisLabelingPolicy</a> : NSInteger { <br />
@@ -139,6 +161,35 @@ Enumerations</h2></td></tr>
 <tr class="separator:abbc64feaff419eeea652e9276e27961c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </td></tr>
 </table>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a class="anchor" id="a28479fa50595e9bf9d5d24b89d0cb325"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSArray_Class/Reference/Reference.html">NSArray</a>&lt;__kindof <a class="el" href="interface_c_p_t_axis.html">CPTAxis</a> *&gt;* <a class="el" href="_c_p_t_axis_8h.html#a28479fa50595e9bf9d5d24b89d0cb325">CPTAxisArray</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>An array of axes. </p>
+
+</div>
+</div>
+<a class="anchor" id="ab95d5722da8506191198ba84b7489972"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSMutableArray_Class/Reference/Reference.html">NSMutableArray</a>&lt;__kindof <a class="el" href="interface_c_p_t_axis.html">CPTAxis</a> *&gt;* <a class="el" href="_c_p_t_axis_8h.html#ab95d5722da8506191198ba84b7489972">CPTMutableAxisArray</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>A mutable array of axes. </p>
+
+</div>
+</div>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
 <a class="anchor" id="abbc64feaff419eeea652e9276e27961c"></a>
 <div class="memitem">

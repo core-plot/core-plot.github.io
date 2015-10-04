@@ -1,12 +1,12 @@
 var protocol_c_p_t_plot_space_delegate_p =
 [
-    [ "plotSpace:didChangePlotRangeForCoordinate:", "protocol_c_p_t_plot_space_delegate-p.html#a2c84c596a90b7a503e318e3b17f3fece", null ],
-    [ "plotSpace:shouldHandlePointingDeviceCancelledEvent:", "protocol_c_p_t_plot_space_delegate-p.html#a3af0a98f1335e004059e01628e9708c4", null ],
-    [ "plotSpace:shouldHandlePointingDeviceDownEvent:atPoint:", "protocol_c_p_t_plot_space_delegate-p.html#a7f9e7ef1e8d69786324efec6719f4684", null ],
-    [ "plotSpace:shouldHandlePointingDeviceDraggedEvent:atPoint:", "protocol_c_p_t_plot_space_delegate-p.html#ad5cab960f1ecace02b8fc97d90dbe457", null ],
-    [ "plotSpace:shouldHandlePointingDeviceUpEvent:atPoint:", "protocol_c_p_t_plot_space_delegate-p.html#a4aed90d7f6f54d4412a21aaac9e3e1f3", null ],
-    [ "plotSpace:shouldHandleScrollWheelEvent:fromPoint:toPoint:", "protocol_c_p_t_plot_space_delegate-p.html#a8f6b624ca0190e1415e8d63a8b9973d8", null ],
-    [ "plotSpace:shouldScaleBy:aboutPoint:", "protocol_c_p_t_plot_space_delegate-p.html#a1a843136901996431030fdd0b1c80912", null ],
-    [ "plotSpace:willChangePlotRangeTo:forCoordinate:", "protocol_c_p_t_plot_space_delegate-p.html#a9a3198807fe7c9c20cd741750482a530", null ],
-    [ "plotSpace:willDisplaceBy:", "protocol_c_p_t_plot_space_delegate-p.html#ae40134caba3131a51133b2da00fd10e9", null ]
+    [ "plotSpace:didChangePlotRangeForCoordinate:", "protocol_c_p_t_plot_space_delegate-p.html#a40a08caf8956c0be349ec6f49a8402f7", null ],
+    [ "plotSpace:shouldHandlePointingDeviceCancelledEvent:", "protocol_c_p_t_plot_space_delegate-p.html#a4783bc51a1eb7aef0e7f448b98ea72e2", null ],
+    [ "plotSpace:shouldHandlePointingDeviceDownEvent:atPoint:", "protocol_c_p_t_plot_space_delegate-p.html#ac1f28c6814843d2d9850649b8a9248ad", null ],
+    [ "plotSpace:shouldHandlePointingDeviceDraggedEvent:atPoint:", "protocol_c_p_t_plot_space_delegate-p.html#a25cf66663405f4fd5b6d35ac808ed3f9", null ],
+    [ "plotSpace:shouldHandlePointingDeviceUpEvent:atPoint:", "protocol_c_p_t_plot_space_delegate-p.html#a0f8af3c6f5a83f74b01d131437c37678", null ],
+    [ "plotSpace:shouldHandleScrollWheelEvent:fromPoint:toPoint:", "protocol_c_p_t_plot_space_delegate-p.html#a3532eb2eb055499239e8ee5405485979", null ],
+    [ "plotSpace:shouldScaleBy:aboutPoint:", "protocol_c_p_t_plot_space_delegate-p.html#a0a1fe9c8bd8b186a83f23d60a60e8f0a", null ],
+    [ "plotSpace:willChangePlotRangeTo:forCoordinate:", "protocol_c_p_t_plot_space_delegate-p.html#a4fad45fe04fec8a2782ceb80d5f04a59", null ],
+    [ "plotSpace:willDisplaceBy:", "protocol_c_p_t_plot_space_delegate-p.html#a386b30b6f4f399142956800bab956127", null ]
 ];

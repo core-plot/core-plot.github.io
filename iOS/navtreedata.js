@@ -44,13 +44,14 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_c_p_t_animation_8h.html",
-"_c_p_t_mutable_plot_range_8h_source.html",
-"_c_p_t_utilities_8h.html#a5ed2ce247bc38d2b436ddb5db5f956a0",
-"functions_func_e.html",
-"interface_c_p_t_annotation.html#a43f600c8c5794e9d0c80d5b61cf80dbd",
-"interface_c_p_t_image.html#a053f834455cb47b3519eb43d72f2d360",
-"interface_c_p_t_plot.html#a8ea1af2352130e3f994fb57340222331",
-"interface_c_p_t_x_y_plot_space.html#a21e87799bc5c6a11cac1f14e15f9cbcb"
+"_c_p_t_line_cap_8h.html#a0f4e6f4f77117709135ca6512999e702a2e1451998e51513cee6424da98e7bcac",
+"_c_p_t_trading_range_plot_8h.html#a8f503cef60686b8e2b4dc066d300dab2a3d54a828cf54db92e940948bfe7d3076",
+"category_c_p_t_plot_space_07_abstract_methods_08.html#a5fa425b04dfa12ee83584cceaffa3e43",
+"group__plot_animation_all_plots.html#ga205ca158d787fd439ec6122fe67c79a3",
+"interface_c_p_t_bordered_layer.html#ab16acb1d28e96a1885cf907e449a7325",
+"interface_c_p_t_legend.html#a88cf4dd69f0608efd029742a505565a0",
+"interface_c_p_t_plot_area.html#af97eb4c6983b8c00cc64d7a44354fc1f",
+"interface_c_p_t_x_y_graph.html#af4a33e0650a944103c0d038ed987751b"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

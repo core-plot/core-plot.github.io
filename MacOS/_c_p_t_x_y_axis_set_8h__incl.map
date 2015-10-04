@@ -1,7 +1,14 @@
 <map id="Source/CPTXYAxisSet.h" name="Source/CPTXYAxisSet.h">
-<area shape="rect" id="node2" href="$_c_p_t_axis_set_8h.html" title="CPTAxisSet.h" alt="" coords="227,81,329,106"/>
-<area shape="rect" id="node3" href="$_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="233,155,324,181"/>
-<area shape="rect" id="node4" href="$_c_p_t_responder_8h.html" title="CPTResponder.h" alt="" coords="44,230,167,255"/>
-<area shape="rect" id="node7" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="390,230,511,255"/>
-<area shape="rect" id="node5" href="$_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="5,305,205,330"/>
+<area shape="rect" id="node2" href="$_c_p_t_axis_set_8h.html" title="CPTAxisSet.h" alt="" coords="398,81,500,106"/>
+<area shape="rect" id="node3" href="$_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="230,230,321,255"/>
+<area shape="rect" id="node10" href="$_c_p_t_axis_8h.html" title="CPTAxis.h" alt="" coords="472,155,555,181"/>
+<area shape="rect" id="node4" href="$_c_p_t_responder_8h.html" title="CPTResponder.h" alt="" coords="44,305,167,330"/>
+<area shape="rect" id="node7" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="393,305,513,330"/>
+<area shape="rect" id="node5" href="$_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="5,379,205,405"/>
+<area shape="rect" id="node11" href="$_c_p_t_axis_label_8h.html" title="CPTAxisLabel.h" alt="" coords="395,230,511,255"/>
+<area shape="rect" id="node12" href="$_c_p_t_fill_8h.html" title="CPTFill.h" alt="" coords="535,230,611,255"/>
+<area shape="rect" id="node13" href="$_c_p_t_limit_band_8h.html" title="CPTLimitBand.h" alt="" coords="635,230,753,255"/>
+<area shape="rect" id="node14" href="$_c_p_t_plot_range_8h.html" title="CPTPlotRange.h" alt="" coords="778,230,899,255"/>
+<area shape="rect" id="node15" href="$_c_p_t_text_style_8h.html" title="CPTTextStyle.h" alt="" coords="923,230,1036,255"/>
+<area shape="rect" id="node16" href="$_c_p_t_text_style_platform_specific_8h.html" title="CPTTextStylePlatformSpecific.h" alt="" coords="875,305,1084,330"/>
 </map>

@@ -1,5 +1,7 @@
 <map id="Source/CPTPlotSymbol.h" name="Source/CPTPlotSymbol.h">
-<area shape="rect" id="node2" href="$_core_plot-_cocoa_touch_8h.html" title="CorePlot&#45;CocoaTouch.h" alt="" coords="5,81,168,106"/>
-<area shape="rect" id="node3" href="$_c_p_t_plot_symbol_8m.html" title="Source/CPTPlotSymbol.m" alt="" coords="192,81,368,106"/>
-<area shape="rect" id="node4" href="$_c_p_t_scatter_plot_8m.html" title="Source/CPTScatterPlot.m" alt="" coords="392,81,565,106"/>
+<area shape="rect" id="node2" href="$_core_plot-_cocoa_touch_8h.html" title="CorePlot&#45;CocoaTouch.h" alt="" coords="5,155,168,181"/>
+<area shape="rect" id="node3" href="$_c_p_t_scatter_plot_8h.html" title="Source/CPTScatterPlot.h" alt="" coords="196,81,365,106"/>
+<area shape="rect" id="node6" href="$_c_p_t_plot_symbol_8m.html" title="Source/CPTPlotSymbol.m" alt="" coords="391,81,567,106"/>
+<area shape="rect" id="node4" href="$_c_p_t_function_data_source_8m.html" title="Source/CPTFunctionDataSource.m" alt="" coords="192,155,421,181"/>
+<area shape="rect" id="node5" href="$_c_p_t_scatter_plot_8m.html" title="Source/CPTScatterPlot.m" alt="" coords="446,155,620,181"/>
 </map>

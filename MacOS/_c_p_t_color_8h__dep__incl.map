@@ -1,17 +1,18 @@
 <map id="Source/CPTColor.h" name="Source/CPTColor.h">
 <area shape="rect" id="node2" href="$_c_p_t_axis_8m.html" title="Source/CPTAxis.m" alt="" coords="4,87,136,113"/>
 <area shape="rect" id="node3" href="$_c_p_t_bar_plot_8m.html" title="Source/CPTBarPlot.m" alt="" coords="161,87,313,113"/>
-<area shape="rect" id="node4" href="$_c_p_t_color_8m.html" title="Source/CPTColor.m" alt="" coords="338,87,477,113"/>
-<area shape="rect" id="node5" href="$_c_p_t_fill_8m.html" title="Source/CPTFill.m" alt="" coords="502,87,628,113"/>
-<area shape="rect" id="node6" href="$_c_p_t_gradient_8m.html" title="Source/CPTGradient.m" alt="" coords="652,87,811,113"/>
-<area shape="rect" id="node7" href="$_c_p_t_line_style_8m.html" title="Source/CPTLineStyle.m" alt="" coords="836,87,999,113"/>
-<area shape="rect" id="node8" href="$_c_p_t_pie_chart_8m.html" title="Source/CPTPieChart.m" alt="" coords="1024,87,1184,113"/>
-<area shape="rect" id="node9" href="$_c_p_t_shadow_8m.html" title="Source/CPTShadow.m" alt="" coords="1209,87,1364,113"/>
-<area shape="rect" id="node10" href="$_c_p_t_text_style_8m.html" title="Source/CPTTextStyle.m" alt="" coords="1389,87,1552,113"/>
-<area shape="rect" id="node11" href="$_c_p_t_trading_range_plot_8m.html" title="Source/CPTTradingRangePlot.m" alt="" coords="1576,87,1791,113"/>
-<area shape="rect" id="node12" href="$_c_p_t_platform_specific_categories_8h.html" title="MacOnly/CPTPlatformSpecific\lCategories.h" alt="" coords="1816,81,2016,119"/>
-<area shape="rect" id="node13" href="$_c_p_t_legend_entry_8m.html" title="Source/CPTLegendEntry.m" alt="" coords="1522,175,1704,201"/>
-<area shape="rect" id="node14" href="$_c_p_t_text_layer_8m.html" title="Source/CPTTextLayer.m" alt="" coords="1729,175,1895,201"/>
-<area shape="rect" id="node15" href="$_c_p_t_platform_specific_categories_8m.html" title="MacOnly/CPTPlatformSpecific\lCategories.m" alt="" coords="1918,169,2119,207"/>
-<area shape="rect" id="node16" href="$_c_p_t_text_style_platform_specific_8m.html" title="MacOnly/CPTTextStylePlatform\lSpecific.m" alt="" coords="2143,169,2351,207"/>
+<area shape="rect" id="node4" href="$_c_p_t_color_8m.html" title="Source/CPTColor.m" alt="" coords="731,175,871,201"/>
+<area shape="rect" id="node5" href="$_c_p_t_fill_8m.html" title="Source/CPTFill.m" alt="" coords="388,87,513,113"/>
+<area shape="rect" id="node6" href="$_c_p_t_gradient_8m.html" title="Source/CPTGradient.m" alt="" coords="537,87,696,113"/>
+<area shape="rect" id="node7" href="$_c_p_t_line_style_8m.html" title="Source/CPTLineStyle.m" alt="" coords="721,87,884,113"/>
+<area shape="rect" id="node8" href="$_c_p_t_pie_chart_8m.html" title="Source/CPTPieChart.m" alt="" coords="909,87,1069,113"/>
+<area shape="rect" id="node9" href="$_c_p_t_shadow_8m.html" title="Source/CPTShadow.m" alt="" coords="1094,87,1249,113"/>
+<area shape="rect" id="node10" href="$_c_p_t_text_style_8m.html" title="Source/CPTTextStyle.m" alt="" coords="1275,87,1437,113"/>
+<area shape="rect" id="node11" href="$_c_p_t_trading_range_plot_8m.html" title="Source/CPTTradingRangePlot.m" alt="" coords="1461,87,1676,113"/>
+<area shape="rect" id="node12" href="$_c_p_t_platform_specific_categories_8h.html" title="MacOnly/CPTPlatformSpecific\lCategories.h" alt="" coords="1701,81,1901,119"/>
+<area shape="rect" id="node13" href="$_c_p_t_layer_8m.html" title="Source/CPTLayer.m" alt="" coords="1345,175,1487,201"/>
+<area shape="rect" id="node14" href="$_c_p_t_legend_entry_8m.html" title="Source/CPTLegendEntry.m" alt="" coords="1511,175,1693,201"/>
+<area shape="rect" id="node15" href="$_c_p_t_text_layer_8m.html" title="Source/CPTTextLayer.m" alt="" coords="1718,175,1884,201"/>
+<area shape="rect" id="node16" href="$_c_p_t_platform_specific_categories_8m.html" title="MacOnly/CPTPlatformSpecific\lCategories.m" alt="" coords="1908,169,2108,207"/>
+<area shape="rect" id="node17" href="$_c_p_t_text_style_platform_specific_8m.html" title="MacOnly/CPTTextStylePlatform\lSpecific.m" alt="" coords="2132,169,2340,207"/>
 </map>

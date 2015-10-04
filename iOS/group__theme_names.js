@@ -1,8 +1,8 @@
 var group__theme_names =
 [
-    [ "kCPTDarkGradientTheme", "group__theme_names.html#ga5f7f2a396df2807d9df225b546bc83fd", null ],
-    [ "kCPTPlainBlackTheme", "group__theme_names.html#gaee2ee00fc6afe67c17bc2dab26dad06c", null ],
-    [ "kCPTPlainWhiteTheme", "group__theme_names.html#gafe03a5ec2d0a2c236b5b2ae68927b4b6", null ],
-    [ "kCPTSlateTheme", "group__theme_names.html#ga13f6afa3e4abf27f50cf8798ba48f615", null ],
-    [ "kCPTStocksTheme", "group__theme_names.html#gad0fd9a9b2a53d2fe4f5ae1c8b580ecac", null ]
+    [ "kCPTDarkGradientTheme", "group__theme_names.html#gaf4974ea5fc14d57d1f4ed023e475202c", null ],
+    [ "kCPTPlainBlackTheme", "group__theme_names.html#gabe04647aa58f8deda1dea4a2a35b5156", null ],
+    [ "kCPTPlainWhiteTheme", "group__theme_names.html#ga7aeab02f6c9fc0a63ded183808bf9691", null ],
+    [ "kCPTSlateTheme", "group__theme_names.html#ga8b2c56c6016484fb1b288329d454fcc2", null ],
+    [ "kCPTStocksTheme", "group__theme_names.html#ga03ff7f958860337762cd10252f331524", null ]
 ];

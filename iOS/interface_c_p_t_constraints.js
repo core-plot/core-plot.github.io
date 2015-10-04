@@ -4,5 +4,6 @@ var interface_c_p_t_constraints =
     [ "initWithRelativeOffset:", "interface_c_p_t_constraints.html#aa3c38db905c5727f2f0f859435943edd", null ],
     [ "initWithUpperOffset:", "interface_c_p_t_constraints.html#a37862b0aae8b4ebe3c8018ee36889517", null ],
     [ "isEqualToConstraint:", "interface_c_p_t_constraints.html#abfb058646b0a84ec182fad04bda0f91f", null ],
+    [ "isEqualToConstraint:", "interface_c_p_t_constraints.html#a016c02a043785a66f0ab97479e8ef5ac", null ],
     [ "positionForLowerBound:upperBound:", "interface_c_p_t_constraints.html#a1acc2b64398c613591a0b316822c9c3c", null ]
 ];

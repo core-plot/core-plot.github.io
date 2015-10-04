@@ -1,9 +1,13 @@
 var interface_c_p_t_gradient =
 [
-    [ "addColorStop:atPosition:", "interface_c_p_t_gradient.html#a6138b7d9b8e913c91bb026f6a8e2740b", null ],
-    [ "drawSwatchInRect:inContext:", "interface_c_p_t_gradient.html#a25b0a26d315183c8d48f91ae08a929b2", null ],
+    [ "addColorStop:atPosition:", "interface_c_p_t_gradient.html#a41e520e974877815c3ce2fb9ba3710e3", null ],
+    [ "addColorStop:atPosition:", "interface_c_p_t_gradient.html#a2b6adbd39e6ff1c605ac5db4859a6a06", null ],
+    [ "drawSwatchInRect:inContext:", "interface_c_p_t_gradient.html#adf91aa2b187d744099769a6aac6edf50", null ],
+    [ "drawSwatchInRect:inContext:", "interface_c_p_t_gradient.html#ab580e3957b01a1a6d0d27dc1a514c5a4", null ],
+    [ "fillPathInContext:", "interface_c_p_t_gradient.html#a9e8157141c1ee005bbaa7336adc86915", null ],
     [ "fillPathInContext:", "interface_c_p_t_gradient.html#a9b263110f33aefd250a8c3479df0903f", null ],
-    [ "fillRect:inContext:", "interface_c_p_t_gradient.html#a1a67405990a41768a2bd8655202557d5", null ],
+    [ "fillRect:inContext:", "interface_c_p_t_gradient.html#a97a4f3922d44c93f0c16d23965f7f76b", null ],
+    [ "fillRect:inContext:", "interface_c_p_t_gradient.html#a704bbee98943f2ccd3a20c22c2c5bf91", null ],
     [ "gradientWithAlphaComponent:", "interface_c_p_t_gradient.html#aa236bd219d89be3a6e6e3d7424d4f815", null ],
     [ "gradientWithBlendingMode:", "interface_c_p_t_gradient.html#af84c12a31b6e5eb3cc05bb6a56e49a5b", null ],
     [ "init", "interface_c_p_t_gradient.html#ae7b969c2bdd0a5b65a9694d0d996b9a2", null ],

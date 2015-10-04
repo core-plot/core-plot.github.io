@@ -1,9 +1,9 @@
 var protocol_c_p_t_pie_chart_delegate_p =
 [
-    [ "pieChart:sliceTouchDownAtRecordIndex:", "protocol_c_p_t_pie_chart_delegate-p.html#a940e41bdc1a3f342624355fd1b3d54b7", null ],
-    [ "pieChart:sliceTouchDownAtRecordIndex:withEvent:", "protocol_c_p_t_pie_chart_delegate-p.html#a68463316f28d42feecfe1963d25beaa2", null ],
-    [ "pieChart:sliceTouchUpAtRecordIndex:", "protocol_c_p_t_pie_chart_delegate-p.html#ad25c0657f87a3f9968f1583cfb70ac28", null ],
-    [ "pieChart:sliceTouchUpAtRecordIndex:withEvent:", "protocol_c_p_t_pie_chart_delegate-p.html#a0ce1e6eb3274663a180648602cc68796", null ],
-    [ "pieChart:sliceWasSelectedAtRecordIndex:", "protocol_c_p_t_pie_chart_delegate-p.html#a35e676ca5c0fe07fec852453eb26bab4", null ],
-    [ "pieChart:sliceWasSelectedAtRecordIndex:withEvent:", "protocol_c_p_t_pie_chart_delegate-p.html#a0e5ea05533c6214aec611a11c21c0c46", null ]
+    [ "pieChart:sliceTouchDownAtRecordIndex:", "protocol_c_p_t_pie_chart_delegate-p.html#a69c4033c1f43143e8b0760b1b42123f9", null ],
+    [ "pieChart:sliceTouchDownAtRecordIndex:withEvent:", "protocol_c_p_t_pie_chart_delegate-p.html#a6acded7f89d58d80576f0af0fcc2a60a", null ],
+    [ "pieChart:sliceTouchUpAtRecordIndex:", "protocol_c_p_t_pie_chart_delegate-p.html#a0bbc613059a8411686c1bca36b02fffa", null ],
+    [ "pieChart:sliceTouchUpAtRecordIndex:withEvent:", "protocol_c_p_t_pie_chart_delegate-p.html#ab00c439f86303710885cad15ca23f4d7", null ],
+    [ "pieChart:sliceWasSelectedAtRecordIndex:", "protocol_c_p_t_pie_chart_delegate-p.html#a72a12db3d321882c4cc0e17c0bfba43c", null ],
+    [ "pieChart:sliceWasSelectedAtRecordIndex:withEvent:", "protocol_c_p_t_pie_chart_delegate-p.html#a035c7a58a732ec0654350dbc96758f04", null ]
 ];

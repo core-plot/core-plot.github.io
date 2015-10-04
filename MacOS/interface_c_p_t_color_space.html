@@ -70,6 +70,7 @@ $(document).ready(function(){initNavTree('interface_c_p_t_color_space.html','');
 <div class="header">
   <div class="summary">
 <a href="class_c_p_t_color_space-members.html">List of all members</a> &#124;
+<a href="#pub-methods">Public Instance Methods</a> &#124;
 <a href="#properties">Properties</a>  </div>
   <div class="headertitle">
 <div class="title">CPTColorSpace Class Reference</div>  </div>
@@ -110,7 +111,7 @@ $(document).ready(function(){initNavTree('interface_c_p_t_color_space.html','');
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
 Public Class Methods</h2></td></tr>
 <tr><td colspan="2"><div class="groupHeader">Factory Methods</div></td></tr>
-<tr class="memitem:a993e698b890804b2e18de5d1e0eb5b40"><td class="memItemLeft" align="right" valign="top">(instancetype)&#160;</td><td class="memItemRight" valign="bottom">+ <a class="el" href="interface_c_p_t_color_space.html#a993e698b890804b2e18de5d1e0eb5b40">genericRGBSpace</a></td></tr>
+<tr class="memitem:a993e698b890804b2e18de5d1e0eb5b40"><td class="memItemLeft" align="right" valign="top">(nonnull instancetype)&#160;</td><td class="memItemRight" valign="bottom">+ <a class="el" href="interface_c_p_t_color_space.html#a993e698b890804b2e18de5d1e0eb5b40">genericRGBSpace</a></td></tr>
 <tr class="memdesc:a993e698b890804b2e18de5d1e0eb5b40"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a shared instance of <a class="el" href="interface_c_p_t_color_space.html" title="An immutable color space. ">CPTColorSpace</a> initialized with the standard RGB space.  <a href="#a993e698b890804b2e18de5d1e0eb5b40">More...</a><br /></td></tr>
 <tr class="separator:a993e698b890804b2e18de5d1e0eb5b40"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_static_methods_Reference"><td colspan="2" onclick="javascript:toggleInherit('pub_static_methods_Reference')"><img src="closed.png" alt="-"/>&#160;Public Class Methods inherited from <a class="el" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSObject_Class/Reference/Reference.html">NSObject</a></td></tr>
@@ -130,13 +131,17 @@ Public Class Methods</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Instance Methods</h2></td></tr>
+<tr class="memitem:aa63432cbed47b58d7298c56bcbf156c6"><td class="memItemLeft" align="right" valign="top">(instancetype)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_color_space.html#aa63432cbed47b58d7298c56bcbf156c6">initWithCGColorSpace:</a><code> [implementation]</code></td></tr>
+<tr class="memdesc:aa63432cbed47b58d7298c56bcbf156c6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes a newly allocated colorspace object with the specified color space. This is the designated initializer.  <a href="#aa63432cbed47b58d7298c56bcbf156c6">More...</a><br /></td></tr>
+<tr class="separator:aa63432cbed47b58d7298c56bcbf156c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8f2bc7caa4417ae9e348de839ffdd2c8"><td class="memItemLeft" align="right" valign="top">(instancetype)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_color_space.html#a8f2bc7caa4417ae9e348de839ffdd2c8">initWithCoder:</a><code> [implementation]</code></td></tr>
+<tr class="memdesc:a8f2bc7caa4417ae9e348de839ffdd2c8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns an object initialized from data in a given unarchiver.  <a href="#a8f2bc7caa4417ae9e348de839ffdd2c8">More...</a><br /></td></tr>
+<tr class="separator:a8f2bc7caa4417ae9e348de839ffdd2c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr><td colspan="2"><div class="groupHeader">Initialization</div></td></tr>
-<tr class="memitem:a2de5b56ab87b99adb10f3818bbbcf532"><td class="memItemLeft" align="right" valign="top">(instancetype)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_color_space.html#a2de5b56ab87b99adb10f3818bbbcf532">initWithCGColorSpace:</a></td></tr>
-<tr class="memdesc:a2de5b56ab87b99adb10f3818bbbcf532"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes a newly allocated colorspace object with the specified color space. This is the designated initializer.  <a href="#a2de5b56ab87b99adb10f3818bbbcf532">More...</a><br /></td></tr>
-<tr class="separator:a2de5b56ab87b99adb10f3818bbbcf532"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a36e9318de2e3161574265326469e9066"><td class="memItemLeft" align="right" valign="top">(instancetype)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_color_space.html#a36e9318de2e3161574265326469e9066">initWithCoder:</a></td></tr>
-<tr class="memdesc:a36e9318de2e3161574265326469e9066"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns an object initialized from data in a given unarchiver.  <a href="#a36e9318de2e3161574265326469e9066">More...</a><br /></td></tr>
-<tr class="separator:a36e9318de2e3161574265326469e9066"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8d2738a43c3e6296b2169ddfe12f6b74"><td class="memItemLeft" align="right" valign="top">(nonnull instancetype)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_color_space.html#a8d2738a43c3e6296b2169ddfe12f6b74">initWithCGColorSpace:</a></td></tr>
+<tr class="separator:a8d2738a43c3e6296b2169ddfe12f6b74"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a502d3ed5718fa6c7df7a7d98aca9b7a4"><td class="memItemLeft" align="right" valign="top">(nonnull instancetype)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_color_space.html#a502d3ed5718fa6c7df7a7d98aca9b7a4">initWithCoder:</a></td></tr>
+<tr class="separator:a502d3ed5718fa6c7df7a7d98aca9b7a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_Reference"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_Reference')"><img src="closed.png" alt="-"/>&#160;Public Instance Methods inherited from <a class="el" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSObject_Class/Reference/Reference.html">NSObject</a></td></tr>
 <tr class="memitem://apple_ref/occ/instm/NSObject/classForCoder inherit pub_methods_Reference"><td class="memItemLeft" align="right" valign="top">(<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/c/tdef/Class">Class</a>)&#160;</td><td class="memItemRight" valign="bottom">- <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSObject_Class/Reference/Reference.html#//apple_ref/occ/instm/NSObject/classForCoder">classForCoder</a></td></tr>
 <tr class="separator://apple_ref/occ/instm/NSObject/classForCoder inherit pub_methods_Reference"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -204,9 +209,28 @@ Properties</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="a2de5b56ab87b99adb10f3818bbbcf532"></a>
+<a class="anchor" id="a8d2738a43c3e6296b2169ddfe12f6b74"></a>
 <div class="memitem">
 <div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (nonnull instancetype) initWithCGColorSpace: </td>
+          <td></td>
+          <td class="paramtype">(nonnull <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/GraphicsImaging/Reference/CGColorSpace/Reference/reference.html#//apple_ref/c/tdef/CGColorSpaceRef">CGColorSpaceRef</a>)&#160;</td>
+          <td class="paramname"><em>NS_DESIGNATED_INITIALIZER</em></td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="aa63432cbed47b58d7298c56bcbf156c6"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname">- (instancetype) initWithCGColorSpace: </td>
@@ -216,6 +240,11 @@ Properties</h2></td></tr>
           <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">implementation</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 <p>Initializes a newly allocated colorspace object with the specified color space. This is the designated initializer. </p>
@@ -229,9 +258,28 @@ Properties</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="a36e9318de2e3161574265326469e9066"></a>
+<a class="anchor" id="a502d3ed5718fa6c7df7a7d98aca9b7a4"></a>
 <div class="memitem">
 <div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (nonnull instancetype) initWithCoder: </td>
+          <td></td>
+          <td class="paramtype">(nonnull <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSCoder_Class/Reference/NSCoder.html">NSCoder</a> *)&#160;</td>
+          <td class="paramname"><em>NS_DESIGNATED_INITIALIZER</em></td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a8f2bc7caa4417ae9e348de839ffdd2c8"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname">- (instancetype) initWithCoder: </td>
@@ -241,6 +289,11 @@ Properties</h2></td></tr>
           <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">implementation</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 <p>Returns an object initialized from data in a given unarchiver. </p>

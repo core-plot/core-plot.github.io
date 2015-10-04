@@ -1,7 +1,8 @@
 <map id="Source/CPTPlotAreaFrame.h" name="Source/CPTPlotAreaFrame.h">
-<area shape="rect" id="node2" href="$_c_p_t_bordered_layer_8h.html" title="CPTBorderedLayer.h" alt="" coords="205,81,351,106"/>
-<area shape="rect" id="node3" href="$_c_p_t_annotation_host_layer_8h.html" title="CPTAnnotationHostLayer.h" alt="" coords="188,155,369,181"/>
-<area shape="rect" id="node4" href="$_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="233,230,324,255"/>
+<area shape="rect" id="node2" href="$_c_p_t_bordered_layer_8h.html" title="CPTBorderedLayer.h" alt="" coords="291,81,436,106"/>
+<area shape="rect" id="node3" href="$_c_p_t_annotation_host_layer_8h.html" title="CPTAnnotationHostLayer.h" alt="" coords="273,155,455,181"/>
+<area shape="rect" id="node4" href="$_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="243,230,335,255"/>
+<area shape="rect" id="node11" href="$_c_p_t_annotation_8h.html" title="CPTAnnotation.h" alt="" coords="379,230,500,255"/>
 <area shape="rect" id="node5" href="$_c_p_t_responder_8h.html" title="CPTResponder.h" alt="" coords="44,305,167,330"/>
 <area shape="rect" id="node8" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="390,305,511,330"/>
 <area shape="rect" id="node6" href="$_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="5,379,205,405"/>

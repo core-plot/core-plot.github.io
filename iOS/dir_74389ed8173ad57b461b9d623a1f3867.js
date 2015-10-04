@@ -12,10 +12,7 @@ var dir_74389ed8173ad57b461b9d623a1f3867 =
       [ "CPTAnimation(CPTAnimationPeriodAdditions)", "category_c_p_t_animation_07_c_p_t_animation_period_additions_08.html", null ]
     ] ],
     [ "CPTAnimationPeriod.m", "_c_p_t_animation_period_8m.html", null ],
-    [ "CPTAnnotation.h", "_c_p_t_annotation_8h.html", [
-      [ "CPTAnnotation", "interface_c_p_t_annotation.html", "interface_c_p_t_annotation" ],
-      [ "CPTAnnotation(AbstractMethods)", "category_c_p_t_annotation_07_abstract_methods_08.html", "category_c_p_t_annotation_07_abstract_methods_08" ]
-    ] ],
+    [ "CPTAnnotation.h", "_c_p_t_annotation_8h.html", "_c_p_t_annotation_8h" ],
     [ "CPTAnnotation.m", "_c_p_t_annotation_8m.html", null ],
     [ "CPTAnnotationHostLayer.h", "_c_p_t_annotation_host_layer_8h.html", [
       [ "CPTAnnotationHostLayer", "interface_c_p_t_annotation_host_layer.html", "interface_c_p_t_annotation_host_layer" ]
@@ -23,9 +20,7 @@ var dir_74389ed8173ad57b461b9d623a1f3867 =
     [ "CPTAnnotationHostLayer.m", "_c_p_t_annotation_host_layer_8m.html", null ],
     [ "CPTAxis.h", "_c_p_t_axis_8h.html", "_c_p_t_axis_8h" ],
     [ "CPTAxis.m", "_c_p_t_axis_8m.html", null ],
-    [ "CPTAxisLabel.h", "_c_p_t_axis_label_8h.html", [
-      [ "CPTAxisLabel", "interface_c_p_t_axis_label.html", "interface_c_p_t_axis_label" ]
-    ] ],
+    [ "CPTAxisLabel.h", "_c_p_t_axis_label_8h.html", "_c_p_t_axis_label_8h" ],
     [ "CPTAxisLabel.m", "_c_p_t_axis_label_8m.html", null ],
     [ "CPTAxisLabelGroup.h", "_c_p_t_axis_label_group_8h.html", [
       [ "CPTAxisLabelGroup", "interface_c_p_t_axis_label_group.html", "interface_c_p_t_axis_label_group" ]
@@ -62,14 +57,15 @@ var dir_74389ed8173ad57b461b9d623a1f3867 =
       [ "CPTConstraints(AbstractMethods)", "category_c_p_t_constraints_07_abstract_methods_08.html", "category_c_p_t_constraints_07_abstract_methods_08" ]
     ] ],
     [ "CPTConstraints.m", "_c_p_t_constraints_8m.html", null ],
+    [ "CPTDebugQuickLook.h", "_c_p_t_debug_quick_look_8h.html", [
+      [ "<CPTDebugQuickLook>", "protocol_c_p_t_debug_quick_look-p.html", "protocol_c_p_t_debug_quick_look-p" ],
+      [ "NSObject(CPTDebugQuickLookExtension)", "category_n_s_object_07_c_p_t_debug_quick_look_extension_08.html", null ]
+    ] ],
     [ "CPTDefinitions.h", "_c_p_t_definitions_8h.html", "_c_p_t_definitions_8h" ],
     [ "CPTDefinitions.m", "_c_p_t_definitions_8m.html", "_c_p_t_definitions_8m" ],
     [ "CPTExceptions.h", "_c_p_t_exceptions_8h.html", "_c_p_t_exceptions_8h" ],
     [ "CPTExceptions.m", "_c_p_t_exceptions_8m.html", "_c_p_t_exceptions_8m" ],
-    [ "CPTFill.h", "_c_p_t_fill_8h.html", [
-      [ "CPTFill", "interface_c_p_t_fill.html", "interface_c_p_t_fill" ],
-      [ "CPTFill(AbstractMethods)", "category_c_p_t_fill_07_abstract_methods_08.html", "category_c_p_t_fill_07_abstract_methods_08" ]
-    ] ],
+    [ "CPTFill.h", "_c_p_t_fill_8h.html", "_c_p_t_fill_8h" ],
     [ "CPTFill.m", "_c_p_t_fill_8m.html", null ],
     [ "CPTFunctionDataSource.h", "_c_p_t_function_data_source_8h.html", "_c_p_t_function_data_source_8h" ],
     [ "CPTFunctionDataSource.m", "_c_p_t_function_data_source_8m.html", null ],
@@ -98,19 +94,13 @@ var dir_74389ed8173ad57b461b9d623a1f3867 =
     [ "CPTLayerAnnotation.m", "_c_p_t_layer_annotation_8m.html", null ],
     [ "CPTLegend.h", "_c_p_t_legend_8h.html", "_c_p_t_legend_8h" ],
     [ "CPTLegend.m", "_c_p_t_legend_8m.html", "_c_p_t_legend_8m" ],
-    [ "CPTLegendEntry.h", "_c_p_t_legend_entry_8h.html", [
-      [ "CPTLegendEntry", "interface_c_p_t_legend_entry.html", "interface_c_p_t_legend_entry" ]
-    ] ],
+    [ "CPTLegendEntry.h", "_c_p_t_legend_entry_8h.html", "_c_p_t_legend_entry_8h" ],
     [ "CPTLegendEntry.m", "_c_p_t_legend_entry_8m.html", null ],
-    [ "CPTLimitBand.h", "_c_p_t_limit_band_8h.html", [
-      [ "CPTLimitBand", "interface_c_p_t_limit_band.html", "interface_c_p_t_limit_band" ]
-    ] ],
+    [ "CPTLimitBand.h", "_c_p_t_limit_band_8h.html", "_c_p_t_limit_band_8h" ],
     [ "CPTLimitBand.m", "_c_p_t_limit_band_8m.html", null ],
     [ "CPTLineCap.h", "_c_p_t_line_cap_8h.html", "_c_p_t_line_cap_8h" ],
     [ "CPTLineCap.m", "_c_p_t_line_cap_8m.html", null ],
-    [ "CPTLineStyle.h", "_c_p_t_line_style_8h.html", [
-      [ "CPTLineStyle", "interface_c_p_t_line_style.html", "interface_c_p_t_line_style" ]
-    ] ],
+    [ "CPTLineStyle.h", "_c_p_t_line_style_8h.html", "_c_p_t_line_style_8h" ],
     [ "CPTLineStyle.m", "_c_p_t_line_style_8m.html", null ],
     [ "CPTMutableLineStyle.h", "_c_p_t_mutable_line_style_8h.html", [
       [ "CPTMutableLineStyle", "interface_c_p_t_mutable_line_style.html", "interface_c_p_t_mutable_line_style" ]
@@ -188,11 +178,7 @@ var dir_74389ed8173ad57b461b9d623a1f3867 =
     [ "CPTShadow.m", "_c_p_t_shadow_8m.html", null ],
     [ "CPTTextLayer.h", "_c_p_t_text_layer_8h.html", "_c_p_t_text_layer_8h" ],
     [ "CPTTextLayer.m", "_c_p_t_text_layer_8m.html", "_c_p_t_text_layer_8m" ],
-    [ "CPTTextStyle.h", "_c_p_t_text_style_8h.html", [
-      [ "CPTTextStyle", "interface_c_p_t_text_style.html", "interface_c_p_t_text_style" ],
-      [ "CPTTextStyle(CPTPlatformSpecificTextStyleExtensions)", "category_c_p_t_text_style_07_c_p_t_platform_specific_text_style_extensions_08.html", "category_c_p_t_text_style_07_c_p_t_platform_specific_text_style_extensions_08" ],
-      [ "NSString(CPTTextStyleExtensions)", "category_n_s_string_07_c_p_t_text_style_extensions_08.html", "category_n_s_string_07_c_p_t_text_style_extensions_08" ]
-    ] ],
+    [ "CPTTextStyle.h", "_c_p_t_text_style_8h.html", "_c_p_t_text_style_8h" ],
     [ "CPTTextStyle.m", "_c_p_t_text_style_8m.html", null ],
     [ "CPTTheme.h", "_c_p_t_theme_8h.html", "_c_p_t_theme_8h" ],
     [ "CPTTheme.m", "_c_p_t_theme_8m.html", null ],

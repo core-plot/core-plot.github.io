@@ -1,10 +1,11 @@
 <map id="Source/CPTBorderedLayer.m" name="Source/CPTBorderedLayer.m">
-<area shape="rect" id="node2" href="$_c_p_t_bordered_layer_8h.html" title="CPTBorderedLayer.h" alt="" coords="205,81,351,106"/>
-<area shape="rect" id="node11" href="$_c_p_t_fill_8h.html" title="CPTFill.h" alt="" coords="377,81,452,106"/>
-<area shape="rect" id="node12" href="$_c_p_t_line_style_8h.html" title="CPTLineStyle.h" alt="" coords="476,81,589,106"/>
-<area shape="rect" id="node13" href="$_c_p_t_path_extensions_8h.html" title="CPTPathExtensions.h" alt="" coords="615,81,765,106"/>
-<area shape="rect" id="node3" href="$_c_p_t_annotation_host_layer_8h.html" title="CPTAnnotationHostLayer.h" alt="" coords="188,155,369,181"/>
+<area shape="rect" id="node2" href="$_c_p_t_bordered_layer_8h.html" title="CPTBorderedLayer.h" alt="" coords="223,81,368,106"/>
+<area shape="rect" id="node12" href="$_c_p_t_fill_8h.html" title="CPTFill.h" alt="" coords="394,81,469,106"/>
+<area shape="rect" id="node13" href="$_c_p_t_line_style_8h.html" title="CPTLineStyle.h" alt="" coords="451,155,564,181"/>
+<area shape="rect" id="node14" href="$_c_p_t_path_extensions_8h.html" title="CPTPathExtensions.h" alt="" coords="545,81,696,106"/>
+<area shape="rect" id="node3" href="$_c_p_t_annotation_host_layer_8h.html" title="CPTAnnotationHostLayer.h" alt="" coords="205,155,387,181"/>
 <area shape="rect" id="node4" href="$_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="233,230,324,255"/>
+<area shape="rect" id="node11" href="$_c_p_t_annotation_8h.html" title="CPTAnnotation.h" alt="" coords="348,230,469,255"/>
 <area shape="rect" id="node5" href="$_c_p_t_responder_8h.html" title="CPTResponder.h" alt="" coords="44,305,167,330"/>
 <area shape="rect" id="node8" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="390,305,511,330"/>
 <area shape="rect" id="node6" href="$_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="5,379,205,405"/>

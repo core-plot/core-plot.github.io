@@ -1,6 +1,11 @@
 <map id="MacOnly/CPTPlatformSpecificFunctions.h" name="MacOnly/CPTPlatformSpecificFunctions.h">
-<area shape="rect" id="node2" href="$_c_p_t_layer_8m.html" title="Source/CPTLayer.m" alt="" coords="5,101,147,126"/>
-<area shape="rect" id="node3" href="$_c_p_t_platform_specific_categories_8m.html" title="MacOnly/CPTPlatformSpecific\lCategories.m" alt="" coords="170,94,371,133"/>
-<area shape="rect" id="node4" href="$_c_p_t_platform_specific_functions_8m.html" title="MacOnly/CPTPlatformSpecific\lFunctions.m" alt="" coords="394,94,595,133"/>
-<area shape="rect" id="node5" href="$_c_p_t_text_style_platform_specific_8m.html" title="MacOnly/CPTTextStylePlatform\lSpecific.m" alt="" coords="619,94,827,133"/>
+<area shape="rect" id="node2" href="$_c_p_t_fill_8m.html" title="Source/CPTFill.m" alt="" coords="5,101,131,126"/>
+<area shape="rect" id="node3" href="$_c_p_t_gradient_8m.html" title="Source/CPTGradient.m" alt="" coords="155,101,313,126"/>
+<area shape="rect" id="node4" href="$_c_p_t_layer_8m.html" title="Source/CPTLayer.m" alt="" coords="339,101,480,126"/>
+<area shape="rect" id="node5" href="$_c_p_t_line_cap_8m.html" title="Source/CPTLineCap.m" alt="" coords="503,101,661,126"/>
+<area shape="rect" id="node6" href="$_c_p_t_line_style_8m.html" title="Source/CPTLineStyle.m" alt="" coords="686,101,849,126"/>
+<area shape="rect" id="node7" href="$_c_p_t_plot_symbol_8m.html" title="Source/CPTPlotSymbol.m" alt="" coords="873,101,1049,126"/>
+<area shape="rect" id="node8" href="$_c_p_t_platform_specific_categories_8m.html" title="MacOnly/CPTPlatformSpecific\lCategories.m" alt="" coords="1073,94,1273,133"/>
+<area shape="rect" id="node9" href="$_c_p_t_platform_specific_functions_8m.html" title="MacOnly/CPTPlatformSpecific\lFunctions.m" alt="" coords="1297,94,1497,133"/>
+<area shape="rect" id="node10" href="$_c_p_t_text_style_platform_specific_8m.html" title="MacOnly/CPTTextStylePlatform\lSpecific.m" alt="" coords="1521,94,1729,133"/>
 </map>

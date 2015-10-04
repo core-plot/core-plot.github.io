@@ -1,4 +1,6 @@
 <map id="Source/CPTPlotSymbol.h" name="Source/CPTPlotSymbol.h">
-<area shape="rect" id="node2" href="$_c_p_t_plot_symbol_8m.html" title="Source/CPTPlotSymbol.m" alt="" coords="5,81,181,106"/>
-<area shape="rect" id="node3" href="$_c_p_t_scatter_plot_8m.html" title="Source/CPTScatterPlot.m" alt="" coords="205,81,379,106"/>
+<area shape="rect" id="node2" href="$_c_p_t_scatter_plot_8h.html" title="Source/CPTScatterPlot.h" alt="" coords="148,81,317,106"/>
+<area shape="rect" id="node5" href="$_c_p_t_plot_symbol_8m.html" title="Source/CPTPlotSymbol.m" alt="" coords="343,81,519,106"/>
+<area shape="rect" id="node3" href="$_c_p_t_function_data_source_8m.html" title="Source/CPTFunctionDataSource.m" alt="" coords="5,155,235,181"/>
+<area shape="rect" id="node4" href="$_c_p_t_scatter_plot_8m.html" title="Source/CPTScatterPlot.m" alt="" coords="260,155,433,181"/>
 </map>

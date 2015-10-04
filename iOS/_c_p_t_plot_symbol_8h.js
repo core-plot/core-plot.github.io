@@ -1,6 +1,8 @@
 var _c_p_t_plot_symbol_8h =
 [
     [ "CPTPlotSymbol", "interface_c_p_t_plot_symbol.html", "interface_c_p_t_plot_symbol" ],
+    [ "CPTMutablePlotSymbolArray", "_c_p_t_plot_symbol_8h.html#ade918ace0d6232678755a79df558dcdb", null ],
+    [ "CPTPlotSymbolArray", "_c_p_t_plot_symbol_8h.html#a957515ff3d31cd863dc2178cdb35c024", null ],
     [ "CPTPlotSymbolType", "_c_p_t_plot_symbol_8h.html#ac1a31882cf02ac92ef03fc79cb74552d", [
       [ "CPTPlotSymbolTypeNone", "_c_p_t_plot_symbol_8h.html#ac1a31882cf02ac92ef03fc79cb74552da8ff5c6532afe05954d0e4d6828bea178", null ],
       [ "CPTPlotSymbolTypeRectangle", "_c_p_t_plot_symbol_8h.html#ac1a31882cf02ac92ef03fc79cb74552dad73759c2e064a1f5a6df2d688566e6fd", null ],

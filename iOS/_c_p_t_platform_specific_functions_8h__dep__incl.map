@@ -1,7 +1,12 @@
 <map id="iPhoneOnly/CPTPlatformSpecificFunctions.h" name="iPhoneOnly/CPTPlatformSpecificFunctions.h">
 <area shape="rect" id="node2" href="$_core_plot-_cocoa_touch_8h.html" title="CorePlot&#45;CocoaTouch.h" alt="" coords="5,101,168,126"/>
-<area shape="rect" id="node3" href="$_c_p_t_layer_8m.html" title="Source/CPTLayer.m" alt="" coords="192,101,333,126"/>
-<area shape="rect" id="node4" href="$_c_p_t_platform_specific_categories_8m.html" title="iPhoneOnly/CPTPlatformSpecific\lCategories.m" alt="" coords="357,94,573,133"/>
-<area shape="rect" id="node5" href="$_c_p_t_platform_specific_functions_8m.html" title="iPhoneOnly/CPTPlatformSpecific\lFunctions.m" alt="" coords="598,94,815,133"/>
-<area shape="rect" id="node6" href="$_c_p_t_text_style_platform_specific_8m.html" title="iPhoneOnly/CPTTextStylePlatform\lSpecific.m" alt="" coords="840,94,1064,133"/>
+<area shape="rect" id="node3" href="$_c_p_t_fill_8m.html" title="Source/CPTFill.m" alt="" coords="192,101,317,126"/>
+<area shape="rect" id="node4" href="$_c_p_t_gradient_8m.html" title="Source/CPTGradient.m" alt="" coords="341,101,500,126"/>
+<area shape="rect" id="node5" href="$_c_p_t_layer_8m.html" title="Source/CPTLayer.m" alt="" coords="525,101,667,126"/>
+<area shape="rect" id="node6" href="$_c_p_t_line_cap_8m.html" title="Source/CPTLineCap.m" alt="" coords="690,101,848,126"/>
+<area shape="rect" id="node7" href="$_c_p_t_line_style_8m.html" title="Source/CPTLineStyle.m" alt="" coords="873,101,1036,126"/>
+<area shape="rect" id="node8" href="$_c_p_t_plot_symbol_8m.html" title="Source/CPTPlotSymbol.m" alt="" coords="1060,101,1236,126"/>
+<area shape="rect" id="node9" href="$_c_p_t_platform_specific_categories_8m.html" title="iPhoneOnly/CPTPlatformSpecific\lCategories.m" alt="" coords="1260,94,1476,133"/>
+<area shape="rect" id="node10" href="$_c_p_t_platform_specific_functions_8m.html" title="iPhoneOnly/CPTPlatformSpecific\lFunctions.m" alt="" coords="1501,94,1717,133"/>
+<area shape="rect" id="node11" href="$_c_p_t_text_style_platform_specific_8m.html" title="iPhoneOnly/CPTTextStylePlatform\lSpecific.m" alt="" coords="1742,94,1967,133"/>
 </map>

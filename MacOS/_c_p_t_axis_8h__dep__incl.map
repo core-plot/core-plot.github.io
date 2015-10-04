@@ -1,12 +1,16 @@
 <map id="Source/CPTAxis.h" name="Source/CPTAxis.h">
-<area shape="rect" id="node2" href="$_c_p_t_axis_8m.html" title="Source/CPTAxis.m" alt="" coords="4,81,136,106"/>
-<area shape="rect" id="node3" href="$_c_p_t_axis_set_8m.html" title="Source/CPTAxisSet.m" alt="" coords="161,81,313,106"/>
-<area shape="rect" id="node4" href="$_c_p_t_graph_8m.html" title="Source/CPTGraph.m" alt="" coords="338,81,483,106"/>
-<area shape="rect" id="node5" href="$_c_p_t_grid_line_group_8m.html" title="Source/CPTGridLineGroup.m" alt="" coords="507,81,703,106"/>
-<area shape="rect" id="node6" href="$_c_p_t_grid_lines_8m.html" title="Source/CPTGridLines.m" alt="" coords="728,81,893,106"/>
-<area shape="rect" id="node7" href="$_c_p_t_plot_area_8m.html" title="Source/CPTPlotArea.m" alt="" coords="917,81,1076,106"/>
-<area shape="rect" id="node8" href="$_c_p_t_x_y_axis_8h.html" title="Source/CPTXYAxis.h" alt="" coords="1101,81,1248,106"/>
-<area shape="rect" id="node9" href="$_c_p_t_x_y_axis_8m.html" title="Source/CPTXYAxis.m" alt="" coords="914,155,1064,181"/>
-<area shape="rect" id="node10" href="$_c_p_t_x_y_axis_set_8m.html" title="Source/CPTXYAxisSet.m" alt="" coords="1089,155,1260,181"/>
-<area shape="rect" id="node11" href="$_c_p_t_x_y_graph_8m.html" title="Source/CPTXYGraph.m" alt="" coords="1284,155,1447,181"/>
+<area shape="rect" id="node2" href="$_c_p_t_axis_8m.html" title="Source/CPTAxis.m" alt="" coords="4,155,136,181"/>
+<area shape="rect" id="node3" href="$_c_p_t_axis_set_8h.html" title="Source/CPTAxisSet.h" alt="" coords="571,81,719,106"/>
+<area shape="rect" id="node5" href="$_c_p_t_graph_8m.html" title="Source/CPTGraph.m" alt="" coords="162,155,307,181"/>
+<area shape="rect" id="node6" href="$_c_p_t_grid_line_group_8m.html" title="Source/CPTGridLineGroup.m" alt="" coords="331,155,527,181"/>
+<area shape="rect" id="node7" href="$_c_p_t_plot_area_8m.html" title="Source/CPTPlotArea.m" alt="" coords="1355,155,1513,181"/>
+<area shape="rect" id="node13" href="$_c_p_t_grid_lines_8m.html" title="Source/CPTGridLines.m" alt="" coords="845,81,1011,106"/>
+<area shape="rect" id="node14" href="$_c_p_t_x_y_axis_8h.html" title="Source/CPTXYAxis.h" alt="" coords="1538,155,1685,181"/>
+<area shape="rect" id="node4" href="$_c_p_t_axis_set_8m.html" title="Source/CPTAxisSet.m" alt="" coords="764,155,916,181"/>
+<area shape="rect" id="node8" href="$_c_p_t_plot_area_frame_8m.html" title="Source/CPTPlotAreaFrame.m" alt="" coords="941,155,1139,181"/>
+<area shape="rect" id="node9" href="$_c_p_t_x_y_axis_set_8h.html" title="Source/CPTXYAxisSet.h" alt="" coords="1163,155,1329,181"/>
+<area shape="rect" id="node12" href="$_c_p_t_x_y_plot_space_8m.html" title="Source/CPTXYPlotSpace.m" alt="" coords="552,155,739,181"/>
+<area shape="rect" id="node10" href="$_c_p_t_x_y_axis_set_8m.html" title="Source/CPTXYAxisSet.m" alt="" coords="1352,230,1523,255"/>
+<area shape="rect" id="node11" href="$_c_p_t_x_y_graph_8m.html" title="Source/CPTXYGraph.m" alt="" coords="1165,230,1328,255"/>
+<area shape="rect" id="node15" href="$_c_p_t_x_y_axis_8m.html" title="Source/CPTXYAxis.m" alt="" coords="1547,230,1697,255"/>
 </map>

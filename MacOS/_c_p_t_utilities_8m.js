@@ -55,6 +55,8 @@ var _c_p_t_utilities_8m =
     [ "CPTEdgeInsetsEqualToEdgeInsets", "_c_p_t_utilities_8m.html#a238689d3803571f5a9899f242a01f0b7", null ],
     [ "CPTEdgeInsetsMake", "_c_p_t_utilities_8m.html#ad1df72083b8ae78792c93982fc49199f", null ],
     [ "CPTExpandedRange", "_c_p_t_utilities_8m.html#a794f89cd14d4cfb21bf8c050b2df8237", null ],
+    [ "CPTInverseLogModulus", "_c_p_t_utilities_8m.html#a2c88b94919dad25738e3e0ddbb117004", null ],
+    [ "CPTLogModulus", "_c_p_t_utilities_8m.html#a86be607a7137bf2030c2d6c273e1e497", null ],
     [ "CPTOrthogonalCoordinate", "_c_p_t_utilities_8m.html#afeb1ea1e2d6486b67ef47c4bf8e3661f", null ],
     [ "CPTRGBAColorFromCGColor", "_c_p_t_utilities_8m.html#a344d9cc450b8f69583b387bc0c5d29cd", null ],
     [ "CPTStringFromPoint", "_c_p_t_utilities_8m.html#a63b4f83bf1143a073a8b1cf8bd2672a7", null ],
