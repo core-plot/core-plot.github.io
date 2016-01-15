@@ -1,6 +1,6 @@
 var interface_c_p_t_animation_operation =
 [
-    [ "init", "interface_c_p_t_animation_operation.html#a280a020a2b997e6c9157caef27c15542", null ],
+    [ "initWithAnimationPeriod:animationCurve:object:getter:setter:", "interface_c_p_t_animation_operation.html#a1bf21359c84bd7de475578d877863ae9", null ],
     [ "animationCurve", "interface_c_p_t_animation_operation.html#a5b87e6aa5eff638d95ce67629eb16ec2", null ],
     [ "boundGetter", "interface_c_p_t_animation_operation.html#a31fb17d564f43fd4b8d7667ab2d87e50", null ],
     [ "boundObject", "interface_c_p_t_animation_operation.html#ab8f6a1f80c3339f0c5eecb0ce2b34bb8", null ],

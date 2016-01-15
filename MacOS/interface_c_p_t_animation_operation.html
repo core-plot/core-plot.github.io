@@ -114,9 +114,9 @@ $(document).ready(function(){initNavTree('interface_c_p_t_animation_operation.ht
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Instance Methods</h2></td></tr>
 <tr><td colspan="2"><div class="groupHeader">Initialization</div></td></tr>
-<tr class="memitem:a280a020a2b997e6c9157caef27c15542"><td class="memItemLeft" align="right" valign="top">(instancetype)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_animation_operation.html#a280a020a2b997e6c9157caef27c15542">init</a><code> [implementation]</code></td></tr>
-<tr class="memdesc:a280a020a2b997e6c9157caef27c15542"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes a newly allocated <a class="el" href="interface_c_p_t_animation_operation.html" title="Describes all aspects of an animation operation, including the value range, duration, animation curve, property to update, and the delegate. ">CPTAnimationOperation</a> object.  <a href="#a280a020a2b997e6c9157caef27c15542">More...</a><br /></td></tr>
-<tr class="separator:a280a020a2b997e6c9157caef27c15542"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1bf21359c84bd7de475578d877863ae9"><td class="memItemLeft" align="right" valign="top">(nonnull instancetype)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_c_p_t_animation_operation.html#a1bf21359c84bd7de475578d877863ae9">initWithAnimationPeriod:animationCurve:object:getter:setter:</a></td></tr>
+<tr class="memdesc:a1bf21359c84bd7de475578d877863ae9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes a newly allocated <a class="el" href="interface_c_p_t_animation_operation.html" title="Describes all aspects of an animation operation, including the value range, duration, animation curve, property to update, and the delegate. ">CPTAnimationOperation</a> object.  <a href="#a1bf21359c84bd7de475578d877863ae9">More...</a><br /></td></tr>
+<tr class="separator:a1bf21359c84bd7de475578d877863ae9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_Reference"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_Reference')"><img src="closed.png" alt="-"/>&#160;Public Instance Methods inherited from <a class="el" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSObject_Class/Reference/Reference.html">NSObject</a></td></tr>
 <tr class="memitem://apple_ref/occ/instm/NSObject/classForCoder inherit pub_methods_Reference"><td class="memItemLeft" align="right" valign="top">(<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/c/tdef/Class">Class</a>)&#160;</td><td class="memItemRight" valign="bottom">- <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSObject_Class/Reference/Reference.html#//apple_ref/occ/instm/NSObject/classForCoder">classForCoder</a></td></tr>
 <tr class="separator://apple_ref/occ/instm/NSObject/classForCoder inherit pub_methods_Reference"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -180,7 +180,7 @@ Properties</h2></td></tr>
 <tr class="separator:a77c0ce8c798805be805341806de787a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr><td colspan="2"><div class="groupHeader">Identification</div></td></tr>
 <tr class="memitem:a5e59d6c5e7f3ba0345dc79b25d635cf8"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/c/tdef/id">id</a>&lt; <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Protocols/NSCopying_Protocol/Reference/Reference.html">NSCopying</a>, <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSObject_Class/Reference/Reference.html">NSObject</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_c_p_t_animation_operation.html#a5e59d6c5e7f3ba0345dc79b25d635cf8">identifier</a></td></tr>
-<tr class="memdesc:a5e59d6c5e7f3ba0345dc79b25d635cf8"><td class="mdescLeft">&#160;</td><td class="mdescRight">An object used to identify the layer in collections.  <a href="#a5e59d6c5e7f3ba0345dc79b25d635cf8">More...</a><br /></td></tr>
+<tr class="memdesc:a5e59d6c5e7f3ba0345dc79b25d635cf8"><td class="mdescLeft">&#160;</td><td class="mdescRight">An object used to identify the animation operation in collections.  <a href="#a5e59d6c5e7f3ba0345dc79b25d635cf8">More...</a><br /></td></tr>
 <tr class="separator:a5e59d6c5e7f3ba0345dc79b25d635cf8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a33223d013aa8964e82c1f20fcb1a9228"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSDictionary_Class/Reference/Reference.html">NSDictionary</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_c_p_t_animation_operation.html#a33223d013aa8964e82c1f20fcb1a9228">userInfo</a></td></tr>
 <tr class="memdesc:a33223d013aa8964e82c1f20fcb1a9228"><td class="mdescLeft">&#160;</td><td class="mdescRight">Application-specific user info that can be attached to the operation.  <a href="#a33223d013aa8964e82c1f20fcb1a9228">More...</a><br /></td></tr>
@@ -206,39 +206,70 @@ Additional Inherited Members</h2></td></tr>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Describes all aspects of an animation operation, including the value range, duration, animation curve, property to update, and the delegate. </p>
 </div><h2 class="groupheader">Method Documentation</h2>
-<a class="anchor" id="a280a020a2b997e6c9157caef27c15542"></a>
+<a class="anchor" id="a1bf21359c84bd7de475578d877863ae9"></a>
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">- (instancetype) init </td>
+          <td class="memname">- (nonnull instancetype) initWithAnimationPeriod: </td>
           <td></td>
-          <td class="paramname"></td>
+          <td class="paramtype">(nonnull <a class="el" href="interface_c_p_t_animation_period.html">CPTAnimationPeriod</a> *)&#160;</td>
+          <td class="paramname"><em>animationPeriod</em></td>
+        </tr>
+        <tr>
+          <td class="paramkey">animationCurve:</td>
           <td></td>
+          <td class="paramtype">(<a class="el" href="_c_p_t_animation_8h.html#a73754eee8997628fc329abc39544b93e">CPTAnimationCurve</a>)&#160;</td>
+          <td class="paramname"><em>curve</em></td>
+        </tr>
+        <tr>
+          <td class="paramkey">object:</td>
+          <td></td>
+          <td class="paramtype">(nonnull <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/c/tdef/id">id</a>)&#160;</td>
+          <td class="paramname"><em>object</em></td>
+        </tr>
+        <tr>
+          <td class="paramkey">getter:</td>
+          <td></td>
+          <td class="paramtype">(nonnull <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/c/tdef/SEL">SEL</a>)&#160;</td>
+          <td class="paramname"><em>getter</em></td>
+        </tr>
+        <tr>
+          <td class="paramkey">setter:</td>
+          <td></td>
+          <td class="paramtype">(nonnull <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/c/tdef/SEL">SEL</a>)&#160;</td>
+          <td class="paramname"><em>setter</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+          <td></td><td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">implementation</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
 <p>Initializes a newly allocated <a class="el" href="interface_c_p_t_animation_operation.html" title="Describes all aspects of an animation operation, including the value range, duration, animation curve, property to update, and the delegate. ">CPTAnimationOperation</a> object. </p>
 <p>This is the designated initializer. The initialized object will have the following properties:</p><ul>
-<li><a class="el" href="interface_c_p_t_animation_operation.html#a5c3f2f648d83a19ac2d99578fd673bf4">period</a> = <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/doc/c_ref/nil">nil</a></li>
-<li><a class="el" href="interface_c_p_t_animation_operation.html#a5b87e6aa5eff638d95ce67629eb16ec2">animationCurve</a> = <a class="el" href="_c_p_t_animation_8h.html#a73754eee8997628fc329abc39544b93ea72c28f4e152289ef31f106444cdfd2a3" title="Use the default animation curve. ">CPTAnimationCurveDefault</a></li>
-<li><a class="el" href="interface_c_p_t_animation_operation.html#ab8f6a1f80c3339f0c5eecb0ce2b34bb8">boundObject</a> = <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/doc/c_ref/nil">nil</a></li>
-<li><a class="el" href="interface_c_p_t_animation_operation.html#a31fb17d564f43fd4b8d7667ab2d87e50">boundGetter</a> = <code>NULL</code></li>
-<li><a class="el" href="interface_c_p_t_animation_operation.html#a609dd9c1f4b5329a628b93b24a7963b9">boundSetter</a> = <code>NULL</code></li>
+<li><a class="el" href="interface_c_p_t_animation_operation.html#a5c3f2f648d83a19ac2d99578fd673bf4">period</a> = <code><b>animationPeriod</b></code></li>
+<li><a class="el" href="interface_c_p_t_animation_operation.html#a5b87e6aa5eff638d95ce67629eb16ec2">animationCurve</a> = <code><b>curve</b></code></li>
+<li><a class="el" href="interface_c_p_t_animation_operation.html#ab8f6a1f80c3339f0c5eecb0ce2b34bb8">boundObject</a> = <code><b>object</b></code></li>
+<li><a class="el" href="interface_c_p_t_animation_operation.html#a31fb17d564f43fd4b8d7667ab2d87e50">boundGetter</a> = <code><b>getter</b></code></li>
+<li><a class="el" href="interface_c_p_t_animation_operation.html#a609dd9c1f4b5329a628b93b24a7963b9">boundSetter</a> = <code><b>setter</b></code></li>
 <li><a class="el" href="interface_c_p_t_animation_operation.html#abd803899c0799efd0eedec8c8cab6573">delegate</a> = <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/doc/c_ref/nil">nil</a></li>
 <li><a class="el" href="interface_c_p_t_animation_operation.html#a77c0ce8c798805be805341806de787a7">canceled</a> = <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/doc/c_ref/NO">NO</a></li>
 <li><a class="el" href="interface_c_p_t_animation_operation.html#a5e59d6c5e7f3ba0345dc79b25d635cf8">identifier</a> = <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/doc/c_ref/nil">nil</a></li>
 <li><a class="el" href="interface_c_p_t_animation_operation.html#a33223d013aa8964e82c1f20fcb1a9228">userInfo</a> = <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/doc/c_ref/nil">nil</a></li>
 </ul>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">animationPeriod</td><td>The animation period. </td></tr>
+    <tr><td class="paramname">curve</td><td>The animation curve. </td></tr>
+    <tr><td class="paramname">object</td><td>The object to update for each animation frame. </td></tr>
+    <tr><td class="paramname">getter</td><td>The <a class="el" href="interface_c_p_t_animation_operation.html#ab8f6a1f80c3339f0c5eecb0ce2b34bb8">boundObject</a> getter method for the property to update for each animation frame. </td></tr>
+    <tr><td class="paramname">setter</td><td>The <a class="el" href="interface_c_p_t_animation_operation.html#ab8f6a1f80c3339f0c5eecb0ce2b34bb8">boundObject</a> setter method for the property to update for each animation frame.</td></tr>
+  </table>
+  </dd>
+</dl>
 <dl class="section return"><dt>Returns</dt><dd>The initialized object. </dd></dl>
 
 </div>
@@ -394,7 +425,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>An object used to identify the layer in collections. </p>
+<p>An object used to identify the animation operation in collections. </p>
 
 </div>
 </div>
