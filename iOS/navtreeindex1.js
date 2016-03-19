@@ -1,5 +1,6 @@
 var NAVTREEINDEX1 =
 {
+"_c_p_t_line_cap_8h.html#a0f4e6f4f77117709135ca6512999e702":[3,0,1,61,1],
 "_c_p_t_line_cap_8h.html#a0f4e6f4f77117709135ca6512999e702a2e1451998e51513cee6424da98e7bcac":[3,0,1,61,1,1],
 "_c_p_t_line_cap_8h.html#a0f4e6f4f77117709135ca6512999e702a45684ac7120eb0993f9f1b94a4ea07fa":[3,0,1,61,1,10],
 "_c_p_t_line_cap_8h.html#a0f4e6f4f77117709135ca6512999e702a4b9a49e595fcfb838a99774a021a4a4d":[3,0,1,61,1,12],
@@ -62,8 +63,8 @@ var NAVTREEINDEX1 =
 "_c_p_t_numeric_data_type_8h.html#ad93cae77ebeee18937ec36ec28e4d4a9":[3,0,1,81,4],
 "_c_p_t_numeric_data_type_8h_source.html":[3,0,1,81],
 "_c_p_t_numeric_data_type_8m.html":[3,0,1,82],
-"_c_p_t_numeric_data_type_8m.html#a287d220e26a98dd1a8ec009394d07dc9":[3,0,1,82,4],
 "_c_p_t_numeric_data_type_8m.html#a43fbd7520ce09dd3111ae35b7dfdc99b":[3,0,1,82,3],
+"_c_p_t_numeric_data_type_8m.html#a5c86ab88619a199bb5be30de2ac08fe7":[3,0,1,82,4],
 "_c_p_t_numeric_data_type_8m.html#a940d1fda41fd6ad9da29d26ccc929f25":[3,0,1,82,2],
 "_c_p_t_numeric_data_type_8m.html#ac00abad966bbdb7e7033cf4fa081ed5a":[3,0,1,82,0],
 "_c_p_t_numeric_data_type_8m.html#ad93cae77ebeee18937ec36ec28e4d4a9":[3,0,1,82,1],
@@ -72,8 +73,8 @@ var NAVTREEINDEX1 =
 "_c_p_t_path_extensions_8h.html#aa2e094cd60cf375d788ce88eb3c18e60":[3,0,1,83,1],
 "_c_p_t_path_extensions_8h_source.html":[3,0,1,83],
 "_c_p_t_path_extensions_8m.html":[3,0,1,84],
-"_c_p_t_path_extensions_8m.html#a4758ab4009014b6ec21a690d4a850428":[3,0,1,84,1],
-"_c_p_t_path_extensions_8m.html#afa93ea5e371e2c6abbb2e5b2ca2c3f45":[3,0,1,84,0],
+"_c_p_t_path_extensions_8m.html#a35a63be172a92b1ad4a6ba3a736ddd29":[3,0,1,84,0],
+"_c_p_t_path_extensions_8m.html#aa2e094cd60cf375d788ce88eb3c18e60":[3,0,1,84,1],
 "_c_p_t_pie_chart_8h.html":[3,0,1,85],
 "_c_p_t_pie_chart_8h.html#a1152d51659ba070d0ac6224c258d08bf":[3,0,1,85,3],
 "_c_p_t_pie_chart_8h.html#a1152d51659ba070d0ac6224c258d08bfa15db0cd33b30788aa50b97aa726f6dc9":[3,0,1,85,3,0],
@@ -105,7 +106,7 @@ var NAVTREEINDEX1 =
 "_c_p_t_platform_specific_functions_8h_source.html":[3,0,0,7],
 "_c_p_t_platform_specific_functions_8m.html":[3,0,0,8],
 "_c_p_t_platform_specific_functions_8m.html#a051491dc9b125d3611754f602412f9e4":[3,0,0,8,2],
-"_c_p_t_platform_specific_functions_8m.html#af6d0cffe2f7fd5d5c9b96622d8472eee":[3,0,0,8,1],
+"_c_p_t_platform_specific_functions_8m.html#a60b4e903e4076970905779f919e5bca5":[3,0,0,8,1],
 "_c_p_t_platform_specific_functions_8m.html#af83544397fc336d1c14e66f2b7e473be":[3,0,0,8,0],
 "_c_p_t_plot_8h.html":[3,0,1,87],
 "_c_p_t_plot_8h.html#a75dceaa18af81baa2d982fcd9def38d6":[3,0,1,87,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX1 =
 "_c_p_t_trading_range_plot_8h.html#a62cb54c558777098a0fa2deab345113a":[3,0,1,118,13],
 "_c_p_t_trading_range_plot_8h.html#a6739b7e7c24b28d3dcbb6b426a19354b":[3,0,1,118,7],
 "_c_p_t_trading_range_plot_8h.html#a73163ea3915821228ac259d29414602c":[3,0,1,118,14],
-"_c_p_t_trading_range_plot_8h.html#a8f503cef60686b8e2b4dc066d300dab2":[3,0,1,118,4],
-"_c_p_t_trading_range_plot_8h.html#a8f503cef60686b8e2b4dc066d300dab2a1577be7fb34f7364efc4006066bb6d88":[3,0,1,118,4,0]
+"_c_p_t_trading_range_plot_8h.html#a8f503cef60686b8e2b4dc066d300dab2":[3,0,1,118,4]
 };

@@ -44,14 +44,13 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_c_p_t_animation_8h.html",
-"_c_p_t_line_cap_8h.html#a0f4e6f4f77117709135ca6512999e702a2e1451998e51513cee6424da98e7bcac",
-"_c_p_t_trading_range_plot_8h.html#a8f503cef60686b8e2b4dc066d300dab2a3d54a828cf54db92e940948bfe7d3076",
-"category_c_p_t_plot_space_07_abstract_methods_08.html#a5fa425b04dfa12ee83584cceaffa3e43",
-"group__plot_animation_all_plots.html#ga205ca158d787fd439ec6122fe67c79a3",
-"interface_c_p_t_bordered_layer.html#ab16acb1d28e96a1885cf907e449a7325",
-"interface_c_p_t_legend.html#a88cf4dd69f0608efd029742a505565a0",
-"interface_c_p_t_plot_area.html#af97eb4c6983b8c00cc64d7a44354fc1f",
-"interface_c_p_t_x_y_graph.html#af4a33e0650a944103c0d038ed987751b"
+"_c_p_t_line_cap_8h.html#a0f4e6f4f77117709135ca6512999e702",
+"_c_p_t_trading_range_plot_8h.html#a8f503cef60686b8e2b4dc066d300dab2a1577be7fb34f7364efc4006066bb6d88",
+"category_c_p_t_theme_07_abstract_methods_08.html#ac6bcc5d481350882a1fc31e6fe3aaf7b",
+"group__theme_names.html#gabe04647aa58f8deda1dea4a2a35b5156",
+"interface_c_p_t_graph.html#a144c58552647c6e7a3fe3ea4f50322d1",
+"interface_c_p_t_numeric_data.html#ae307c9981911f62b846442e835a06d8a",
+"interface_c_p_t_text_style.html#a361d4d93aa837c7d1139c063bbad51d7"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

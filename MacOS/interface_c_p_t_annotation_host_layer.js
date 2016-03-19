@@ -1,14 +1,12 @@
 var interface_c_p_t_annotation_host_layer =
 [
     [ "addAnnotation:", "interface_c_p_t_annotation_host_layer.html#af459ee396db542b2f3fb075baded8739", null ],
-    [ "addAnnotation:", "interface_c_p_t_annotation_host_layer.html#ae7118f2ca923d0b34c7cd917cf5cdfa1", null ],
-    [ "initWithFrame:", "interface_c_p_t_annotation_host_layer.html#a3a60f821606b611f100a4dc22a5a15a5", null ],
-    [ "pointingDeviceCancelledEvent:", "interface_c_p_t_annotation_host_layer.html#a3bdbb3700540719404d2ead12872e3c9", null ],
-    [ "pointingDeviceDownEvent:atPoint:", "interface_c_p_t_annotation_host_layer.html#ab4dff7a3ec818792055f22e36739b2a6", null ],
-    [ "pointingDeviceDraggedEvent:atPoint:", "interface_c_p_t_annotation_host_layer.html#aed34f9700c33d65b0502f8c09d3b15d6", null ],
-    [ "pointingDeviceUpEvent:atPoint:", "interface_c_p_t_annotation_host_layer.html#a7b10f16a39e639266c862968f8a3a6f3", null ],
+    [ "initWithFrame:", "interface_c_p_t_annotation_host_layer.html#aab895d93f4ffa2b33cdb69f4d001703f", null ],
+    [ "pointingDeviceCancelledEvent:", "interface_c_p_t_annotation_host_layer.html#a1eed8c1f5f38ba5b616158e3f122a278", null ],
+    [ "pointingDeviceDownEvent:atPoint:", "interface_c_p_t_annotation_host_layer.html#a5523f32f4c3619a0c33c5aa93bb0b9da", null ],
+    [ "pointingDeviceDraggedEvent:atPoint:", "interface_c_p_t_annotation_host_layer.html#addfd873e3611f2310687de4f045f40f6", null ],
+    [ "pointingDeviceUpEvent:atPoint:", "interface_c_p_t_annotation_host_layer.html#a34c39f4ce9158b56c89f56e8d26176c8", null ],
     [ "removeAllAnnotations", "interface_c_p_t_annotation_host_layer.html#abe6aabd7481a42ff239da13851c56b76", null ],
     [ "removeAnnotation:", "interface_c_p_t_annotation_host_layer.html#ab87a611fea2eb909b186ad6f945913d2", null ],
-    [ "removeAnnotation:", "interface_c_p_t_annotation_host_layer.html#ad748afbf51ccfb2c93e5fda2cdd6a11d", null ],
-    [ "annotations", "interface_c_p_t_annotation_host_layer.html#afe1b1907b3d6381592392664c08afd0f", null ]
+    [ "annotations", "interface_c_p_t_annotation_host_layer.html#a1f5693ffb21ce3c6058a39d34fe6ce3a", null ]
 ];

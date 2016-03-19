@@ -7,6 +7,7 @@ var _c_p_t_definitions_8h =
     [ "cpt_weak", "_c_p_t_definitions_8h.html#a5f3f43392c8987bd3b92f1ea95a4aee1", null ],
     [ "cpt_weak_property", "_c_p_t_definitions_8h.html#a1133842e0f1c9446242d6a2ce34728ee", null ],
     [ "CPTFloat", "_c_p_t_definitions_8h.html#a479e1c605b12da89dc3c76f572435269", null ],
+    [ "CPTNAN", "_c_p_t_definitions_8h.html#aabcc72737fef9c22c05bbb21b857b098", null ],
     [ "CPTPointMake", "_c_p_t_definitions_8h.html#a13b0594fffae7b4f59cd91ea61b09573", null ],
     [ "CPTRectInset", "_c_p_t_definitions_8h.html#aa791cbebc3ff4ba4af5af05a8420dc3d", null ],
     [ "CPTRectMake", "_c_p_t_definitions_8h.html#a12b10fd595dc158fa09df8d6fdb7cc13", null ],

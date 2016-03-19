@@ -1,13 +1,11 @@
 var interface_c_p_t_calendar_formatter =
 [
-    [ "init", "interface_c_p_t_calendar_formatter.html#abaff1e17ef47c80f5c2ecc08dff01228", null ],
-    [ "initWithCoder:", "interface_c_p_t_calendar_formatter.html#aae7a3408b66b30660fda1025372ba1cc", null ],
-    [ "initWithCoder:", "interface_c_p_t_calendar_formatter.html#a72b28bc329ef266634b375f0eb3c1d80", null ],
-    [ "initWithDateFormatter:", "interface_c_p_t_calendar_formatter.html#ac120bb85d1d6019b34a42805153d09cc", null ],
-    [ "initWithDateFormatter:", "interface_c_p_t_calendar_formatter.html#af5c13bf6c706b4f971eeb48f6862659b", null ],
-    [ "stringForObjectValue:", "interface_c_p_t_calendar_formatter.html#a79e70575bec242938f783674c81f09c6", null ],
-    [ "dateFormatter", "interface_c_p_t_calendar_formatter.html#ab9cfe4e2423eac8014563c1dfbfb0c22", null ],
-    [ "referenceCalendar", "interface_c_p_t_calendar_formatter.html#af263990bf7287b7387e7bfc6a4e20a17", null ],
+    [ "init", "interface_c_p_t_calendar_formatter.html#ac6ebcfa58e611239848d70c480aa4bcd", null ],
+    [ "initWithCoder:", "interface_c_p_t_calendar_formatter.html#a9fe1268e2ff01faa16f8211c63d38245", null ],
+    [ "initWithDateFormatter:", "interface_c_p_t_calendar_formatter.html#a98cbcd03fb1f59ce7e5e668bb7b7c51e", null ],
+    [ "stringForObjectValue:", "interface_c_p_t_calendar_formatter.html#ad8efc1bf08ad3eef1462630028c568ec", null ],
+    [ "dateFormatter", "interface_c_p_t_calendar_formatter.html#a0cdc602a62bbf01012b680c3118db36c", null ],
+    [ "referenceCalendar", "interface_c_p_t_calendar_formatter.html#a5c79f5ecb6b5f381b690d63c80334727", null ],
     [ "referenceCalendarUnit", "interface_c_p_t_calendar_formatter.html#a1b521c6134c5309112eec09831b9c054", null ],
-    [ "referenceDate", "interface_c_p_t_calendar_formatter.html#ad7414d3bacd6ffb655afe8623c02c142", null ]
+    [ "referenceDate", "interface_c_p_t_calendar_formatter.html#a42b5d5d7cda2c54a873fdff470eb0f43", null ]
 ];

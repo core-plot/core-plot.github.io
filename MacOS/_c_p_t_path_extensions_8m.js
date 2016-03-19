@@ -1,5 +1,5 @@
 var _c_p_t_path_extensions_8m =
 [
-    [ "CPTAddRoundedRectPath", "_c_p_t_path_extensions_8m.html#afa93ea5e371e2c6abbb2e5b2ca2c3f45", null ],
-    [ "CPTCreateRoundedRectPath", "_c_p_t_path_extensions_8m.html#a4758ab4009014b6ec21a690d4a850428", null ]
+    [ "CPTAddRoundedRectPath", "_c_p_t_path_extensions_8m.html#a35a63be172a92b1ad4a6ba3a736ddd29", null ],
+    [ "CPTCreateRoundedRectPath", "_c_p_t_path_extensions_8m.html#aa2e094cd60cf375d788ce88eb3c18e60", null ]
 ];

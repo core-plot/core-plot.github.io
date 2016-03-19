@@ -84,13 +84,15 @@ $(document).ready(function(){initNavTree('category_c_p_t_animation_period_07_abs
 Public Instance Methods</h2></td></tr>
 <tr><td colspan="2"><div class="groupHeader">Initialization</div></td></tr>
 <tr class="memitem:a9227a75f81ba10fe365d49d86e5b9629"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="category_c_p_t_animation_period_07_abstract_methods_08.html#a9227a75f81ba10fe365d49d86e5b9629">setStartValueFromObject:propertyGetter:</a></td></tr>
+<tr class="memdesc:a9227a75f81ba10fe365d49d86e5b9629"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initialize the start value from the property getter.  <a href="#a9227a75f81ba10fe365d49d86e5b9629">More...</a><br /></td></tr>
 <tr class="separator:a9227a75f81ba10fe365d49d86e5b9629"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr><td colspan="2"><div class="groupHeader">Interpolation</div></td></tr>
 <tr class="memitem:a8d85d87017b3d219d0efe305828657bb"><td class="memItemLeft" align="right" valign="top">(nonnull <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSValue_Class/Reference/Reference.html">NSValue</a> *)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="category_c_p_t_animation_period_07_abstract_methods_08.html#a8d85d87017b3d219d0efe305828657bb">tweenedValueForProgress:</a></td></tr>
-<tr class="memdesc:a8d85d87017b3d219d0efe305828657bb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Calculates a value between <a class="el" href="interface_c_p_t_animation_period.html#a816ca7005649bb9ecf4cf55993bbf1d1">startValue </a> and <a class="el" href="interface_c_p_t_animation_period.html#ae221c4f2ae1b9b844c275f1af6f3611f">endValue </a>.  <a href="#a8d85d87017b3d219d0efe305828657bb">More...</a><br /></td></tr>
+<tr class="memdesc:a8d85d87017b3d219d0efe305828657bb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Calculates a value between <a class="el" href="interface_c_p_t_animation_period.html#a65826e2a0f434602e7a0a7807aa17c91">startValue </a> and <a class="el" href="interface_c_p_t_animation_period.html#ae0c4c644da771830686af80bb82a4075">endValue </a>.  <a href="#a8d85d87017b3d219d0efe305828657bb">More...</a><br /></td></tr>
 <tr class="separator:a8d85d87017b3d219d0efe305828657bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr><td colspan="2"><div class="groupHeader">Comparison</div></td></tr>
 <tr class="memitem:ae8e11f9c8a7faa1880b14db4090c2ccb"><td class="memItemLeft" align="right" valign="top">(<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/c/tdef/BOOL">BOOL</a>)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="category_c_p_t_animation_period_07_abstract_methods_08.html#ae8e11f9c8a7faa1880b14db4090c2ccb">canStartWithValueFromObject:propertyGetter:</a></td></tr>
+<tr class="memdesc:ae8e11f9c8a7faa1880b14db4090c2ccb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Determines if the current value of the bound property is between the start and end value.  <a href="#ae8e11f9c8a7faa1880b14db4090c2ccb">More...</a><br /></td></tr>
 <tr class="separator:ae8e11f9c8a7faa1880b14db4090c2ccb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
@@ -120,7 +122,17 @@ Public Instance Methods</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Extends class <a class="el" href="interface_c_p_t_animation_period.html#ae3e51681fd88e945dd23ae3d6d11dab8">CPTAnimationPeriod</a>.</p>
+<p>Determines if the current value of the bound property is between the start and end value. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">boundObject</td><td>The object to update for each animation frame. </td></tr>
+    <tr><td class="paramname">boundGetter</td><td>The getter method for the property to update. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd><a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/doc/c_ref/YES">YES</a> if the current value of the bound property is between the start and end value. </dd></dl>
+
+<p>Extends class <a class="el" href="interface_c_p_t_animation_period.html#a44d55cc8f9bb9cabb903235607d9c0a5">CPTAnimationPeriod</a>.</p>
 
 </div>
 </div>
@@ -148,7 +160,16 @@ Public Instance Methods</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Extends class <a class="el" href="interface_c_p_t_animation_period.html#af63ca2eff0d8e94596330001b170a3af">CPTAnimationPeriod</a>.</p>
+<p>Initialize the start value from the property getter. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">boundObject</td><td>The object to update for each animation frame. </td></tr>
+    <tr><td class="paramname">boundGetter</td><td>The getter method for the property to update. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p>Extends class <a class="el" href="interface_c_p_t_animation_period.html#af81d790345c33f4496b4fa949614d945">CPTAnimationPeriod</a>.</p>
 
 </div>
 </div>
@@ -166,8 +187,8 @@ Public Instance Methods</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Calculates a value between <a class="el" href="interface_c_p_t_animation_period.html#a816ca7005649bb9ecf4cf55993bbf1d1">startValue </a> and <a class="el" href="interface_c_p_t_animation_period.html#ae221c4f2ae1b9b844c275f1af6f3611f">endValue </a>. </p>
-<p>A <code><b>progress</b></code> value of zero (<code>0</code>) returns the <a class="el" href="interface_c_p_t_animation_period.html#a816ca7005649bb9ecf4cf55993bbf1d1">startValue </a> and a value of one (<code>1</code>) returns the <a class="el" href="interface_c_p_t_animation_period.html#ae221c4f2ae1b9b844c275f1af6f3611f">endValue </a>.</p>
+<p>Calculates a value between <a class="el" href="interface_c_p_t_animation_period.html#a65826e2a0f434602e7a0a7807aa17c91">startValue </a> and <a class="el" href="interface_c_p_t_animation_period.html#ae0c4c644da771830686af80bb82a4075">endValue </a>. </p>
+<p>A <code><b>progress</b></code> value of zero (<code>0</code>) returns the <a class="el" href="interface_c_p_t_animation_period.html#a65826e2a0f434602e7a0a7807aa17c91">startValue </a> and a value of one (<code>1</code>) returns the <a class="el" href="interface_c_p_t_animation_period.html#ae0c4c644da771830686af80bb82a4075">endValue </a>.</p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">progress</td><td>The fraction of the animation progress. </td></tr>
@@ -176,7 +197,7 @@ Public Instance Methods</h2></td></tr>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>The computed value. </dd></dl>
 
-<p>Extends class <a class="el" href="interface_c_p_t_animation_period.html#a843278bf4e80a43026c6b72e641b84d0">CPTAnimationPeriod</a>.</p>
+<p>Extends class <a class="el" href="interface_c_p_t_animation_period.html#ae94f120b2a5f8b9adc534ba6822a771a">CPTAnimationPeriod</a>.</p>
 
 </div>
 </div>
