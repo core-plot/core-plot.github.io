@@ -49,8 +49,8 @@ var NAVTREEINDEX =
 "category_c_p_t_theme_07_abstract_methods_08.html#ac6bcc5d481350882a1fc31e6fe3aaf7b",
 "group__theme_names.html#gabe04647aa58f8deda1dea4a2a35b5156",
 "interface_c_p_t_graph.html#a144c58552647c6e7a3fe3ea4f50322d1",
-"interface_c_p_t_numeric_data.html#ae307c9981911f62b846442e835a06d8a",
-"interface_c_p_t_text_style.html#a361d4d93aa837c7d1139c063bbad51d7"
+"interface_c_p_t_numeric_data.html#ae5c1e5109785720c3efe50c552c5381b",
+"interface_c_p_t_text_style.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -1,5 +1,7 @@
 var NAVTREEINDEX7 =
 {
+"interface_c_p_t_text_style.html":[2,0,86],
+"interface_c_p_t_text_style.html#a21699910b97ad33d4ad3877bfdabc3e6":[2,0,86,0],
 "interface_c_p_t_text_style.html#a361d4d93aa837c7d1139c063bbad51d7":[2,0,86,5],
 "interface_c_p_t_text_style.html#a3fa7c61325f90a770cddcada731cacda":[2,0,86,6],
 "interface_c_p_t_text_style.html#a73b90a8b9974a53b99b4f6d6ce52206e":[2,0,86,2],
@@ -45,8 +47,10 @@ var NAVTREEINDEX7 =
 "interface_c_p_t_x_y_axis_set.html#aa6e4b096cd4702b71aa87956e8802b0b":[2,0,95,2],
 "interface_c_p_t_x_y_axis_set.html#ae5c3a086bd88039390df9843abe90211":[2,0,95,3],
 "interface_c_p_t_x_y_graph.html":[2,0,96],
-"interface_c_p_t_x_y_graph.html#a2be0f5e40961ce22d91b6377a5c3a939":[2,0,96,1],
-"interface_c_p_t_x_y_graph.html#a33597bdde981c2fe91fc19ee21e3997c":[2,0,96,0],
+"interface_c_p_t_x_y_graph.html#a2be0f5e40961ce22d91b6377a5c3a939":[2,0,96,2],
+"interface_c_p_t_x_y_graph.html#a33597bdde981c2fe91fc19ee21e3997c":[2,0,96,1],
+"interface_c_p_t_x_y_graph.html#a4a11ada6d8a31559151240fbfb51c66d":[2,0,96,0],
+"interface_c_p_t_x_y_graph.html#a777872fbabbbea5be4393580d28faf68":[2,0,96,3],
 "interface_c_p_t_x_y_plot_space.html":[2,0,97],
 "interface_c_p_t_x_y_plot_space.html#a0b547448440bce1354d0a09c53952124":[2,0,97,14],
 "interface_c_p_t_x_y_plot_space.html#a151f3a429d7240c0e1fd482a6e3c4406":[2,0,97,9],
