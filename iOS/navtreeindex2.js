@@ -1,6 +1,5 @@
 var NAVTREEINDEX2 =
 {
-"_c_p_t_trading_range_plot_8h.html#a8f503cef60686b8e2b4dc066d300dab2a1577be7fb34f7364efc4006066bb6d88":[3,0,1,118,4,0],
 "_c_p_t_trading_range_plot_8h.html#a8f503cef60686b8e2b4dc066d300dab2a3d54a828cf54db92e940948bfe7d3076":[3,0,1,118,4,1],
 "_c_p_t_trading_range_plot_8h.html#abe47a7124d08367ae59b2c5fa557de42":[3,0,1,118,12],
 "_c_p_t_trading_range_plot_8h.html#aeef77912bdf640384442257a25e92552":[3,0,1,118,8],
@@ -249,5 +248,6 @@ var NAVTREEINDEX2 =
 "category_c_p_t_theme_07_abstract_methods_08.html":[2,0,89],
 "category_c_p_t_theme_07_abstract_methods_08.html#a03fffac207c1015919e5f9c5839d716d":[2,0,89,2],
 "category_c_p_t_theme_07_abstract_methods_08.html#a2229d38476d3cdbe6e504c9f0ad03825":[2,0,89,0],
-"category_c_p_t_theme_07_abstract_methods_08.html#a4bdb159cc86819afbe0b58be5e99e6a3":[2,0,89,1]
+"category_c_p_t_theme_07_abstract_methods_08.html#a4bdb159cc86819afbe0b58be5e99e6a3":[2,0,89,1],
+"category_c_p_t_theme_07_abstract_methods_08.html#ac6bcc5d481350882a1fc31e6fe3aaf7b":[2,0,89,3]
 };

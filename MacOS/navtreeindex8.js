@@ -1,6 +1,5 @@
 var NAVTREEINDEX8 =
 {
-"protocol_c_p_t_scatter_plot_delegate-p.html#ad252f79cf6a2a8f31e7601b60addcb1b":[2,0,84,3],
 "protocol_c_p_t_scatter_plot_delegate-p.html#af693332f497dbeddea3aeb7f01228524":[2,0,84,10],
 "protocol_c_p_t_scatter_plot_delegate-p.html#af97a3d4def26db47a302b8241f1d528a":[2,0,84,1],
 "protocol_c_p_t_trading_range_plot_data_source-p.html":[2,0,93],

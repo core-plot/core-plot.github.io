@@ -33,8 +33,8 @@ var interface_c_p_t_plot_space =
     [ "setPlotRange:forCoordinate:", "interface_c_p_t_plot_space.html#a4e205a9aaab0488dd93a9cbdd9bace7a", null ],
     [ "setScaleType:forCoordinate:", "interface_c_p_t_plot_space.html#aed4e84809aaa825c2e50f83b2a2c34a5", null ],
     [ "allowsUserInteraction", "interface_c_p_t_plot_space.html#a281b47b1cf26f73dc8dab59d4d299aec", null ],
-    [ "delegate", "interface_c_p_t_plot_space.html#a9a425cf49df1f57ed023f879b8504e95", null ],
-    [ "graph", "interface_c_p_t_plot_space.html#aa7c450212e9d3a5a50fcedef60854249", null ],
+    [ "delegate", "interface_c_p_t_plot_space.html#ac400b0f55dedaac7be40e68cacdc0c30", null ],
+    [ "graph", "interface_c_p_t_plot_space.html#ac4bf83c334fd917685de8235b6bb1050", null ],
     [ "identifier", "interface_c_p_t_plot_space.html#ae912185e8d3bff1e14cf33da7453b962", null ],
     [ "isDragging", "interface_c_p_t_plot_space.html#a410a0ae88d27bd0be8affe618adc0f32", null ],
     [ "numberOfCoordinates", "interface_c_p_t_plot_space.html#ac5d18418b2f8c88e6a8a82a0b8d49e7d", null ]

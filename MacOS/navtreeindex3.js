@@ -1,6 +1,5 @@
 var NAVTREEINDEX3 =
 {
-"category_n_s_string_07_c_p_t_text_style_extensions_08.html#ae2620c4795093be01e55321b174922fa":[2,0,104,1],
 "category_n_s_string_07_c_p_t_text_style_extensions_08.html#af1254b063deabf5200d9399fbfc111c9":[2,0,104,0],
 "classes.html":[2,1],
 "dir_719a1481e016274160317e9f826dfe6d.html":[3,0,0],
@@ -145,14 +144,14 @@ var NAVTREEINDEX3 =
 "group__notification.html#ga6948fc8813e1f8786be0ed942abea6d0":[1,1,6],
 "group__notification.html#ga6948fc8813e1f8786be0ed942abea6d0":[3,0,1,55,3],
 "group__notification.html#ga6948fc8813e1f8786be0ed942abea6d0":[3,0,1,56,1],
-"group__notification.html#ga8b53b0d1b387a93152be53e577cbd34d":[3,0,1,55,2],
 "group__notification.html#ga8b53b0d1b387a93152be53e577cbd34d":[1,1,5],
+"group__notification.html#ga8b53b0d1b387a93152be53e577cbd34d":[3,0,1,55,2],
 "group__notification.html#ga8b53b0d1b387a93152be53e577cbd34d":[3,0,1,56,0],
 "group__notification.html#ga8c3268e10f0b0673eb0502226b820d89":[3,0,1,51,5],
 "group__notification.html#ga8c3268e10f0b0673eb0502226b820d89":[3,0,1,52,0],
 "group__notification.html#ga8c3268e10f0b0673eb0502226b820d89":[1,1,4],
-"group__notification.html#gaa9ce42498e044f017a7eda3a2411fea3":[1,1,7],
 "group__notification.html#gaa9ce42498e044f017a7eda3a2411fea3":[3,0,1,55,4],
+"group__notification.html#gaa9ce42498e044f017a7eda3a2411fea3":[1,1,7],
 "group__notification.html#gaa9ce42498e044f017a7eda3a2411fea3":[3,0,1,56,2],
 "group__notification.html#gab2fcd3dfc149593448bdb56c9701ec5d":[1,1,8],
 "group__notification.html#gab2fcd3dfc149593448bdb56c9701ec5d":[3,0,1,98,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX3 =
 "group__plot_bindings_range_plot.html#gacd4ed43e2656865b293ddc2cd81f0e73":[3,0,1,103,5],
 "group__plot_bindings_range_plot.html#gad9b8098a982694ecb04979f6085e21d7":[1,2,3,6],
 "group__plot_bindings_range_plot.html#gad9b8098a982694ecb04979f6085e21d7":[3,0,1,103,10],
-"group__plot_bindings_range_plot.html#gadcc2e424479790a6af62be58ba3b5ae5":[1,2,3,3]
+"group__plot_bindings_range_plot.html#gadcc2e424479790a6af62be58ba3b5ae5":[1,2,3,3],
+"group__plot_bindings_range_plot.html#gadcc2e424479790a6af62be58ba3b5ae5":[3,0,1,103,7]
 };
