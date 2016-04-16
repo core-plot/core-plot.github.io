@@ -3,8 +3,8 @@ var interface_c_p_t_graph =
     [ "addPlot:", "interface_c_p_t_graph.html#a9c2fe379b64b98bbd0ff0a7e54217dc6", null ],
     [ "addPlot:toPlotSpace:", "interface_c_p_t_graph.html#a9863a565b35ace91e23181f3b55e58a5", null ],
     [ "addPlotSpace:", "interface_c_p_t_graph.html#a99154768a14e1bc1531065459a047860", null ],
-    [ "allPlots", "interface_c_p_t_graph.html#ad2a215abe998d9ce40bf4bf695134756", null ],
-    [ "allPlotSpaces", "interface_c_p_t_graph.html#ab6a185a7df563a3310c8603c5bc220a8", null ],
+    [ "allPlots", "interface_c_p_t_graph.html#a4debb1027d365350dea492a705b49fd9", null ],
+    [ "allPlotSpaces", "interface_c_p_t_graph.html#ab9cc4a1214ebba915b45baf8cdc26962", null ],
     [ "applyTheme:", "interface_c_p_t_graph.html#a0eba06472cbca82671671a3e2eb709fc", null ],
     [ "initWithFrame:", "interface_c_p_t_graph.html#a2b5c72a5ea2afac52d076e9ec0cadce9", null ],
     [ "insertPlot:atIndex:", "interface_c_p_t_graph.html#a44843de1c41131b817a6a21c6786f504", null ],
@@ -37,5 +37,5 @@ var interface_c_p_t_graph =
     [ "titleDisplacement", "group__graph_animation.html#ga058f6bfd86f7f738b99250069c1f7fcb", null ],
     [ "titlePlotAreaFrameAnchor", "interface_c_p_t_graph.html#afd2dd137ca9744576057b33b2e9b3f4a", null ],
     [ "titleTextStyle", "interface_c_p_t_graph.html#ad3f5d13d23d3338d4a3bcf3302e84926", null ],
-    [ "topDownLayerOrder", "interface_c_p_t_graph.html#aa514a898918cc342922671e6085e2cc5", null ]
+    [ "topDownLayerOrder", "interface_c_p_t_graph.html#a18eb1bba0d84b8327ba2110c51484de2", null ]
 ];

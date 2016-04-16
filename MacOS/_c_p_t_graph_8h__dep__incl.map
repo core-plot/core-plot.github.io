@@ -7,8 +7,9 @@
 <area shape="rect" id="node18" href="$_c_p_t_graph_hosting_view_8m.html" title="MacOnly/CPTGraphHostingView.m" alt="" coords="2927,155,3155,181"/>
 <area shape="rect" id="node19" href="$_c_p_t_layer_8m.html" title="Source/CPTLayer.m" alt="" coords="1667,81,1808,106"/>
 <area shape="rect" id="node20" href="$_c_p_t_legend_8m.html" title="Source/CPTLegend.m" alt="" coords="1831,81,1984,106"/>
-<area shape="rect" id="node21" href="$_c_p_t_theme_8m.html" title="Source/CPTTheme.m" alt="" coords="2009,81,2159,106"/>
-<area shape="rect" id="node22" href="$_c_p_t_x_y_graph_8h.html" title="Source/CPTXYGraph.h" alt="" coords="2723,81,2881,106"/>
+<area shape="rect" id="node21" href="$_c_p_t_plot_space_8m.html" title="Source/CPTPlotSpace.m" alt="" coords="2009,81,2177,106"/>
+<area shape="rect" id="node22" href="$_c_p_t_theme_8m.html" title="Source/CPTTheme.m" alt="" coords="2202,81,2352,106"/>
+<area shape="rect" id="node23" href="$_c_p_t_x_y_graph_8h.html" title="Source/CPTXYGraph.h" alt="" coords="2820,81,2979,106"/>
 <area shape="rect" id="node3" href="$_c_p_t_axis_8m.html" title="Source/CPTAxis.m" alt="" coords="1314,155,1445,181"/>
 <area shape="rect" id="node5" href="$_c_p_t_bar_plot_8m.html" title="Source/CPTBarPlot.m" alt="" coords="1470,155,1623,181"/>
 <area shape="rect" id="node7" href="$_c_p_t_grid_line_group_8m.html" title="Source/CPTGridLineGroup.m" alt="" coords="1647,155,1843,181"/>
@@ -20,5 +21,5 @@
 <area shape="rect" id="node14" href="$_c_p_t_scatter_plot_8m.html" title="Source/CPTScatterPlot.m" alt="" coords="702,155,876,181"/>
 <area shape="rect" id="node15" href="$_c_p_t_trading_range_plot_8m.html" title="Source/CPTTradingRangePlot.m" alt="" coords="900,155,1115,181"/>
 <area shape="rect" id="node16" href="$_c_p_t_x_y_axis_8m.html" title="Source/CPTXYAxis.m" alt="" coords="1139,155,1289,181"/>
-<area shape="rect" id="node23" href="$_c_p_t_x_y_graph_8m.html" title="Source/CPTXYGraph.m" alt="" coords="3180,155,3343,181"/>
+<area shape="rect" id="node24" href="$_c_p_t_x_y_graph_8m.html" title="Source/CPTXYGraph.m" alt="" coords="3180,155,3343,181"/>
 </map>

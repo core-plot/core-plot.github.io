@@ -103,6 +103,12 @@ Appearance</h2></td></tr>
 <tr class="memitem:ga7661d40e57470db463877fcd5c7236c9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="_c_p_t_scatter_plot_8h.html#a6c523e9e707e3cc85597b4529e1ad7b6">CPTScatterPlotHistogramOption</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__plot_bindings_scatter_plot.html#ga7661d40e57470db463877fcd5c7236c9">CPTScatterPlot::histogramOption</a></td></tr>
 <tr class="memdesc:ga7661d40e57470db463877fcd5c7236c9"><td class="mdescLeft">&#160;</td><td class="mdescRight">The drawing style for a histogram plot line (<a class="el" href="group__plot_bindings_scatter_plot.html#gaeb700f644a939b24bc8f78336443af12">interpolation</a> = <a class="el" href="_c_p_t_scatter_plot_8h.html#a9fd27703c96dc44875d2ddf3073eecf1a56c2cfd36a6b5b8b1ccb61d1ef6e37eb" title="Steps centered at data point. ">CPTScatterPlotInterpolationHistogram</a>). Default is <a class="el" href="_c_p_t_scatter_plot_8h.html#a6c523e9e707e3cc85597b4529e1ad7b6ac8f8fc3e8e089a4e55fb0902bb2824cd" title="Standard histogram. ">CPTScatterPlotHistogramNormal</a>.  <a href="#ga7661d40e57470db463877fcd5c7236c9">More...</a><br /></td></tr>
 <tr class="separator:ga7661d40e57470db463877fcd5c7236c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga1536f534b6b9b22a9a6c960fc9de3e49"><td class="memItemLeft" align="right" valign="top"><a class="el" href="_c_p_t_scatter_plot_8h.html#a41b09a0dc52d265097dd6a2ee72a6260">CPTScatterPlotCurvedInterpolationOption</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__plot_bindings_scatter_plot.html#ga1536f534b6b9b22a9a6c960fc9de3e49">CPTScatterPlot::curvedInterpolationOption</a></td></tr>
+<tr class="memdesc:ga1536f534b6b9b22a9a6c960fc9de3e49"><td class="mdescLeft">&#160;</td><td class="mdescRight">The interpolation method used to generate the curved plot line (<a class="el" href="group__plot_bindings_scatter_plot.html#gaeb700f644a939b24bc8f78336443af12">interpolation</a> = <a class="el" href="_c_p_t_scatter_plot_8h.html#a9fd27703c96dc44875d2ddf3073eecf1aaa0ba9a6e0e682794e28c6640bdee064" title="Curved interpolation. ">CPTScatterPlotInterpolationCurved</a>) Default is <a class="el" href="_c_p_t_scatter_plot_8h.html#a41b09a0dc52d265097dd6a2ee72a6260abf4b6057aea9dcfff5c84ebda071e1fe" title="Standard Curved Interpolation (Bezier Curve) ">CPTScatterPlotCurvedInterpolationNormal</a>.  <a href="#ga1536f534b6b9b22a9a6c960fc9de3e49">More...</a><br /></td></tr>
+<tr class="separator:ga1536f534b6b9b22a9a6c960fc9de3e49"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga78379ddbc341be584997307e1124c098"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="https://developer.apple.com/library/mac/#documentation/GraphicsImaging/Reference/CGGeometry/Reference/reference.html#//apple_ref/c/tdef/CGFloat">CGFloat</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__plot_bindings_scatter_plot.html#ga78379ddbc341be584997307e1124c098">CPTScatterPlot::curvedInterpolationCustomAlpha</a></td></tr>
+<tr class="memdesc:ga78379ddbc341be584997307e1124c098"><td class="mdescLeft">&#160;</td><td class="mdescRight">The custom alpha value used when the <a class="el" href="_c_p_t_scatter_plot_8h.html#a41b09a0dc52d265097dd6a2ee72a6260a95432587ecaa7e739fa63fd2c1d4111a" title="Catmull-Rom Spline Interpolation with a custom alpha value. ">CPTScatterPlotCurvedInterpolationCatmullCustomAlpha</a> interpolation is selected. Default is <code>0.5</code>.  <a href="#ga78379ddbc341be584997307e1124c098">More...</a><br /></td></tr>
+<tr class="separator:ga78379ddbc341be584997307e1124c098"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <p>Binding identifiers for scatter plots. </p>
@@ -193,6 +199,51 @@ Appearance</h2></td></tr>
 
 <p>The Y coordinate of the straight boundary of the secondary area fill. If not a number, the area is not filled. </p>
 <p>Typically set to the maximum value of the Y range, but it can be any value that gives the desired appearance. </p>
+
+</div>
+</div>
+<a class="anchor" id="ga78379ddbc341be584997307e1124c098"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/GraphicsImaging/Reference/CGGeometry/Reference/reference.html#//apple_ref/c/tdef/CGFloat">CGFloat</a>) curvedInterpolationCustomAlpha</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">read</span><span class="mlabel">write</span><span class="mlabel">nonatomic</span><span class="mlabel">assign</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>The custom alpha value used when the <a class="el" href="_c_p_t_scatter_plot_8h.html#a41b09a0dc52d265097dd6a2ee72a6260a95432587ecaa7e739fa63fd2c1d4111a" title="Catmull-Rom Spline Interpolation with a custom alpha value. ">CPTScatterPlotCurvedInterpolationCatmullCustomAlpha</a> interpolation is selected. Default is <code>0.5</code>. </p>
+<dl class="section note"><dt>Note</dt><dd>Must be between <code>0.0</code> and <code>1.0</code>. </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="ga1536f534b6b9b22a9a6c960fc9de3e49"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (<a class="el" href="_c_p_t_scatter_plot_8h.html#a41b09a0dc52d265097dd6a2ee72a6260">CPTScatterPlotCurvedInterpolationOption</a>) curvedInterpolationOption</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">read</span><span class="mlabel">write</span><span class="mlabel">nonatomic</span><span class="mlabel">assign</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>The interpolation method used to generate the curved plot line (<a class="el" href="group__plot_bindings_scatter_plot.html#gaeb700f644a939b24bc8f78336443af12">interpolation</a> = <a class="el" href="_c_p_t_scatter_plot_8h.html#a9fd27703c96dc44875d2ddf3073eecf1aaa0ba9a6e0e682794e28c6640bdee064" title="Curved interpolation. ">CPTScatterPlotInterpolationCurved</a>) Default is <a class="el" href="_c_p_t_scatter_plot_8h.html#a41b09a0dc52d265097dd6a2ee72a6260abf4b6057aea9dcfff5c84ebda071e1fe" title="Standard Curved Interpolation (Bezier Curve) ">CPTScatterPlotCurvedInterpolationNormal</a>. </p>
 
 </div>
 </div>

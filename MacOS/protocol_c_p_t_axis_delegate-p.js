@@ -12,8 +12,8 @@ var protocol_c_p_t_axis_delegate_p =
     [ "axis:minorTickTouchDown:withEvent:", "protocol_c_p_t_axis_delegate-p.html#a1d8b5d882b0be3af9486e51a39c0e09e", null ],
     [ "axis:minorTickTouchUp:", "protocol_c_p_t_axis_delegate-p.html#a9361977a650e79ce459bb91b93493679", null ],
     [ "axis:minorTickTouchUp:withEvent:", "protocol_c_p_t_axis_delegate-p.html#ae3b2778ceaac1cda400f6bd535df80ff", null ],
-    [ "axis:shouldUpdateAxisLabelsAtLocations:", "protocol_c_p_t_axis_delegate-p.html#ab7be630b1c598d547d23f4c9365a0d88", null ],
-    [ "axis:shouldUpdateMinorAxisLabelsAtLocations:", "protocol_c_p_t_axis_delegate-p.html#aa005f5b500879400317163bd849d0d4a", null ],
+    [ "axis:shouldUpdateAxisLabelsAtLocations:", "protocol_c_p_t_axis_delegate-p.html#a859270e9a0fb2a7174ffe760e9663ac7", null ],
+    [ "axis:shouldUpdateMinorAxisLabelsAtLocations:", "protocol_c_p_t_axis_delegate-p.html#ac7a9dc7e0f937a5f3b27045757df8f6a", null ],
     [ "axisDidRelabel:", "protocol_c_p_t_axis_delegate-p.html#ac4fba48acc57ff9447cd74a1e6b69e8d", null ],
     [ "axisShouldRelabel:", "protocol_c_p_t_axis_delegate-p.html#aa9c33273d591cbfb18d622c53e5650f9", null ]
 ];

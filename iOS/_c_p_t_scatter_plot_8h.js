@@ -3,6 +3,14 @@ var _c_p_t_scatter_plot_8h =
     [ "<CPTScatterPlotDataSource>", "protocol_c_p_t_scatter_plot_data_source-p.html", "protocol_c_p_t_scatter_plot_data_source-p" ],
     [ "<CPTScatterPlotDelegate>", "protocol_c_p_t_scatter_plot_delegate-p.html", "protocol_c_p_t_scatter_plot_delegate-p" ],
     [ "CPTScatterPlot", "interface_c_p_t_scatter_plot.html", "interface_c_p_t_scatter_plot" ],
+    [ "CPTScatterPlotCurvedInterpolationOption", "_c_p_t_scatter_plot_8h.html#a41b09a0dc52d265097dd6a2ee72a6260", [
+      [ "CPTScatterPlotCurvedInterpolationNormal", "_c_p_t_scatter_plot_8h.html#a41b09a0dc52d265097dd6a2ee72a6260abf4b6057aea9dcfff5c84ebda071e1fe", null ],
+      [ "CPTScatterPlotCurvedInterpolationCatmullRomUniform", "_c_p_t_scatter_plot_8h.html#a41b09a0dc52d265097dd6a2ee72a6260a6c8352cf797c37fc8feffb3beda996fe", null ],
+      [ "CPTScatterPlotCurvedInterpolationCatmullRomCentripetal", "_c_p_t_scatter_plot_8h.html#a41b09a0dc52d265097dd6a2ee72a6260a793ef666a0b8b36b0cbf6d6c9ffd276c", null ],
+      [ "CPTScatterPlotCurvedInterpolationCatmullRomChordal", "_c_p_t_scatter_plot_8h.html#a41b09a0dc52d265097dd6a2ee72a6260ab4a23000fc2fc5119515097823c82796", null ],
+      [ "CPTScatterPlotCurvedInterpolationCatmullCustomAlpha", "_c_p_t_scatter_plot_8h.html#a41b09a0dc52d265097dd6a2ee72a6260a95432587ecaa7e739fa63fd2c1d4111a", null ],
+      [ "CPTScatterPlotCurvedInterpolationHermiteCubic", "_c_p_t_scatter_plot_8h.html#a41b09a0dc52d265097dd6a2ee72a6260a19d42733afd6ce8b9fe1cb4c4601dfde", null ]
+    ] ],
     [ "CPTScatterPlotField", "_c_p_t_scatter_plot_8h.html#a39afb4ad387bbed51af1831f7659c5f5", [
       [ "CPTScatterPlotFieldX", "_c_p_t_scatter_plot_8h.html#a39afb4ad387bbed51af1831f7659c5f5ace7a95b26de1883d8f69dafc57cf0a1d", null ],
       [ "CPTScatterPlotFieldY", "_c_p_t_scatter_plot_8h.html#a39afb4ad387bbed51af1831f7659c5f5afe5068b0719ce6f450911178dab9bafd", null ]

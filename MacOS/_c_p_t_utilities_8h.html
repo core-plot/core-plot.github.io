@@ -285,6 +285,9 @@ Functions</h2></td></tr>
 <tr class="memitem:ad9d394bd9b4cc942a9fe7f8a447dbe39"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html">NSString</a> *__nonnull&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="_c_p_t_utilities_8h.html#ad9d394bd9b4cc942a9fe7f8a447dbe39">CPTStringFromRect</a> (<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/GraphicsImaging/Reference/CGGeometry/Reference/reference.html#//apple_ref/c/tdef/CGRect">CGRect</a> rect)</td></tr>
 <tr class="memdesc:ad9d394bd9b4cc942a9fe7f8a447dbe39"><td class="mdescLeft">&#160;</td><td class="mdescRight">Creates a string representation of the given rectangle.  <a href="#ad9d394bd9b4cc942a9fe7f8a447dbe39">More...</a><br /></td></tr>
 <tr class="separator:ad9d394bd9b4cc942a9fe7f8a447dbe39"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4a0e4a10a45a251593fca2cf11fa5d7e"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html">NSString</a> *__nonnull&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="_c_p_t_utilities_8h.html#a4a0e4a10a45a251593fca2cf11fa5d7e">CPTStringFromVector</a> (CGVector vector)</td></tr>
+<tr class="memdesc:a4a0e4a10a45a251593fca2cf11fa5d7e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Creates a string representation of the given vector.  <a href="#a4a0e4a10a45a251593fca2cf11fa5d7e">More...</a><br /></td></tr>
+<tr class="separator:a4a0e4a10a45a251593fca2cf11fa5d7e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr><td colspan="2"><div class="groupHeader">CGPoint Utilities</div></td></tr>
 <tr class="memitem:a4e2f173fa3724527e7af5d3a091b1563"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="https://developer.apple.com/library/mac/#documentation/GraphicsImaging/Reference/CGGeometry/Reference/reference.html#//apple_ref/c/tdef/CGFloat">CGFloat</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="_c_p_t_utilities_8h.html#a4e2f173fa3724527e7af5d3a091b1563">squareOfDistanceBetweenPoints</a> (<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/GraphicsImaging/Reference/CGGeometry/Reference/reference.html#//apple_ref/c/tdef/CGPoint">CGPoint</a> point1, <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/GraphicsImaging/Reference/CGGeometry/Reference/reference.html#//apple_ref/c/tdef/CGPoint">CGPoint</a> point2)</td></tr>
 <tr class="memdesc:a4e2f173fa3724527e7af5d3a091b1563"><td class="mdescLeft">&#160;</td><td class="mdescRight">Computes the square of the distance between two points.  <a href="#a4e2f173fa3724527e7af5d3a091b1563">More...</a><br /></td></tr>
@@ -2116,6 +2119,31 @@ Quartz Pixel-Alignment Functions</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>A string with the format <code> {width, height}</code>. </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="a4a0e4a10a45a251593fca2cf11fa5d7e"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html">NSString</a>* __nonnull CPTStringFromVector </td>
+          <td>(</td>
+          <td class="paramtype">CGVector&#160;</td>
+          <td class="paramname"><em>vector</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Creates a string representation of the given vector. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">vector</td><td>The vector. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>A string with the format <code> {dx, dy}</code>. </dd></dl>
 
 </div>
 </div>

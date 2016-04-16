@@ -140,6 +140,40 @@ Variables</h2></td></tr>
 <tr class="separator:a8a5d9ca227a1412ed2a72f3bce567b96"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
+<a class="anchor" id="a41b09a0dc52d265097dd6a2ee72a6260"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="_c_p_t_scatter_plot_8h.html#a41b09a0dc52d265097dd6a2ee72a6260">CPTScatterPlotCurvedInterpolationOption</a> : <a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Miscellaneous/Foundation_DataTypes/Reference/reference.html#//apple_ref/c/tdef/NSInteger">NSInteger</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Enumration of scatter plot curved interpolation style options. </p>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a class="anchor" id="a41b09a0dc52d265097dd6a2ee72a6260abf4b6057aea9dcfff5c84ebda071e1fe"></a>CPTScatterPlotCurvedInterpolationNormal&#160;</td><td class="fielddoc">
+<p>Standard Curved Interpolation (Bezier Curve) </p>
+</td></tr>
+<tr><td class="fieldname"><a class="anchor" id="a41b09a0dc52d265097dd6a2ee72a6260a6c8352cf797c37fc8feffb3beda996fe"></a>CPTScatterPlotCurvedInterpolationCatmullRomUniform&#160;</td><td class="fielddoc">
+<p>Catmull-Rom Spline Interpolation with alpha = <code>0.0</code>. </p>
+</td></tr>
+<tr><td class="fieldname"><a class="anchor" id="a41b09a0dc52d265097dd6a2ee72a6260a793ef666a0b8b36b0cbf6d6c9ffd276c"></a>CPTScatterPlotCurvedInterpolationCatmullRomCentripetal&#160;</td><td class="fielddoc">
+<p>Catmull-Rom Spline Interpolation with alpha = <code>0.5</code>. </p>
+</td></tr>
+<tr><td class="fieldname"><a class="anchor" id="a41b09a0dc52d265097dd6a2ee72a6260ab4a23000fc2fc5119515097823c82796"></a>CPTScatterPlotCurvedInterpolationCatmullRomChordal&#160;</td><td class="fielddoc">
+<p>Catmull-Rom Spline Interpolation with alpha = <code>1.0</code>. </p>
+</td></tr>
+<tr><td class="fieldname"><a class="anchor" id="a41b09a0dc52d265097dd6a2ee72a6260a95432587ecaa7e739fa63fd2c1d4111a"></a>CPTScatterPlotCurvedInterpolationCatmullCustomAlpha&#160;</td><td class="fielddoc">
+<p>Catmull-Rom Spline Interpolation with a custom alpha value. </p>
+</td></tr>
+<tr><td class="fieldname"><a class="anchor" id="a41b09a0dc52d265097dd6a2ee72a6260a19d42733afd6ce8b9fe1cb4c4601dfde"></a>CPTScatterPlotCurvedInterpolationHermiteCubic&#160;</td><td class="fielddoc">
+<p>Hermite Cubic Spline Interpolation. </p>
+</td></tr>
+</table>
+
+</div>
+</div>
 <a class="anchor" id="a39afb4ad387bbed51af1831f7659c5f5"></a>
 <div class="memitem">
 <div class="memproto">
@@ -212,7 +246,7 @@ Variables</h2></td></tr>
 <p>Steps centered at data point. </p>
 </td></tr>
 <tr><td class="fieldname"><a class="anchor" id="a9fd27703c96dc44875d2ddf3073eecf1aaa0ba9a6e0e682794e28c6640bdee064"></a>CPTScatterPlotInterpolationCurved&#160;</td><td class="fielddoc">
-<p>Bezier curve interpolation. </p>
+<p>Curved interpolation. </p>
 </td></tr>
 </table>
 

@@ -34,6 +34,6 @@ var interface_c_p_t_layer =
     [ "shadow", "interface_c_p_t_layer.html#a5d02df0255dcbd533fddf5cf3bfaf1a4", null ],
     [ "shadowMargin", "interface_c_p_t_layer.html#ab3a471615d0f555c19105f535d3c16c5", null ],
     [ "sublayerMaskingPath", "interface_c_p_t_layer.html#a26e156916d598fa73116c05ed3a98a38", null ],
-    [ "sublayersExcludedFromAutomaticLayout", "interface_c_p_t_layer.html#ad8916bfc0be2e2214e9e5174a8583e6e", null ],
+    [ "sublayersExcludedFromAutomaticLayout", "interface_c_p_t_layer.html#acec32c14417d23f0346eba6b7866405d", null ],
     [ "useFastRendering", "interface_c_p_t_layer.html#a2caa71c1ac233aed316ff1f034913262", null ]
 ];

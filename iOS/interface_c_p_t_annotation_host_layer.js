@@ -8,5 +8,5 @@ var interface_c_p_t_annotation_host_layer =
     [ "pointingDeviceUpEvent:atPoint:", "interface_c_p_t_annotation_host_layer.html#a34c39f4ce9158b56c89f56e8d26176c8", null ],
     [ "removeAllAnnotations", "interface_c_p_t_annotation_host_layer.html#abe6aabd7481a42ff239da13851c56b76", null ],
     [ "removeAnnotation:", "interface_c_p_t_annotation_host_layer.html#ab87a611fea2eb909b186ad6f945913d2", null ],
-    [ "annotations", "interface_c_p_t_annotation_host_layer.html#a1f5693ffb21ce3c6058a39d34fe6ce3a", null ]
+    [ "annotations", "interface_c_p_t_annotation_host_layer.html#a6b0a11d393d632a8147d6f9fd05db742", null ]
 ];

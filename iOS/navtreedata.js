@@ -44,13 +44,14 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_c_p_t_animation_8h.html",
-"_c_p_t_line_cap_8h.html#a0f4e6f4f77117709135ca6512999e702a2e1451998e51513cee6424da98e7bcac",
-"_c_p_t_trading_range_plot_8h.html#a8f503cef60686b8e2b4dc066d300dab2a3d54a828cf54db92e940948bfe7d3076",
-"category_n_s_attributed_string_07_c_p_t_platform_specific_attributed_string_extensions_08.html",
-"group__theme_names.html#gabe04647aa58f8deda1dea4a2a35b5156",
-"interface_c_p_t_graph.html#a144c58552647c6e7a3fe3ea4f50322d1",
-"interface_c_p_t_numeric_data.html#aee3b168cd567840efd2bdadc26069ccd",
-"interface_c_p_t_text_style.html#a21699910b97ad33d4ad3877bfdabc3e6"
+"_c_p_t_limit_band_8h.html#afd00fc7c0c0244d44f3439eb07ceb743",
+"_c_p_t_time_formatter_8m.html",
+"category_c_p_t_plot_space_07_abstract_methods_08.html#a769547a1f95a562d9f88bb6967815174",
+"group__plot_animation_scatter_plot.html",
+"interface_c_p_t_gradient.html#a5f8a994778c4744510b84844439c4a4b",
+"interface_c_p_t_numeric_data.html#a4603a620bf12344bf5f16a331bb7caeb",
+"interface_c_p_t_scatter_plot.html#ab269873a297cb382942558117c1b396d",
+"protocol_c_p_t_trading_range_plot_delegate-p.html#a5cf43508392331fa55fb47508bb26fb3"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

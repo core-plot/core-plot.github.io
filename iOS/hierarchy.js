@@ -70,6 +70,7 @@ var hierarchy =
       [ "CPTConstraints", "interface_c_p_t_constraints.html", null ],
       [ "CPTFill", "interface_c_p_t_fill.html", null ],
       [ "CPTGradient", "interface_c_p_t_gradient.html", null ],
+      [ "CPTGraphHostingView", "interface_c_p_t_graph_hosting_view.html", null ],
       [ "CPTImage", "interface_c_p_t_image.html", null ],
       [ "CPTLegendEntry", "interface_c_p_t_legend_entry.html", null ],
       [ "CPTLimitBand", "interface_c_p_t_limit_band.html", null ],
@@ -192,6 +193,29 @@ var hierarchy =
         [ "CPTPlotSpace", "interface_c_p_t_plot_space.html", null ]
       ] ],
       [ "NSObject", "https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSObject_Class/Reference/Reference.html", null ]
+    ] ],
+    [ "<NSSecureCoding>", "https://developer.apple.com/library/ios/documentation/Foundation/Reference/NSSecureCoding_Protocol_Ref/.html", [
+      [ "CPTAnnotation", "interface_c_p_t_annotation.html", null ],
+      [ "CPTAxisLabel", "interface_c_p_t_axis_label.html", null ],
+      [ "CPTColor", "interface_c_p_t_color.html", null ],
+      [ "CPTColorSpace", "interface_c_p_t_color_space.html", null ],
+      [ "CPTConstraints", "interface_c_p_t_constraints.html", null ],
+      [ "CPTFill", "interface_c_p_t_fill.html", null ],
+      [ "CPTGradient", "interface_c_p_t_gradient.html", null ],
+      [ "CPTGraphHostingView", "interface_c_p_t_graph_hosting_view.html", null ],
+      [ "CPTImage", "interface_c_p_t_image.html", null ],
+      [ "CPTLayer", "interface_c_p_t_layer.html", null ],
+      [ "CPTLegendEntry", "interface_c_p_t_legend_entry.html", null ],
+      [ "CPTLimitBand", "interface_c_p_t_limit_band.html", null ],
+      [ "CPTLineCap", "interface_c_p_t_line_cap.html", null ],
+      [ "CPTLineStyle", "interface_c_p_t_line_style.html", null ],
+      [ "CPTNumericData", "interface_c_p_t_numeric_data.html", null ],
+      [ "CPTPlotRange", "interface_c_p_t_plot_range.html", null ],
+      [ "CPTPlotSpace", "interface_c_p_t_plot_space.html", null ],
+      [ "CPTPlotSymbol", "interface_c_p_t_plot_symbol.html", null ],
+      [ "CPTShadow", "interface_c_p_t_shadow.html", null ],
+      [ "CPTTextStyle", "interface_c_p_t_text_style.html", null ],
+      [ "CPTTheme", "interface_c_p_t_theme.html", null ]
     ] ],
     [ "NSString(CPTTextStyleExtensions)", "category_n_s_string_07_c_p_t_text_style_extensions_08.html", null ]
 ];

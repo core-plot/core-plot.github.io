@@ -44,14 +44,14 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_c_p_t_animation_8h.html",
-"_c_p_t_line_cap_8h.html#a0f4e6f4f77117709135ca6512999e702a5fac803b81061bf3daa4481f2f5d535f",
-"_c_p_t_utilities_8h.html#a22c1b63e82c9a3e701128d3f3ec80df8",
-"category_n_s_string_07_c_p_t_text_style_extensions_08.html#af1254b063deabf5200d9399fbfc111c9",
-"group__plot_bindings_range_plot.html#gadcc2e424479790a6af62be58ba3b5ae5",
-"interface_c_p_t_color_space.html#ad8c88ec4060e887275453e29bf4a33fe",
-"interface_c_p_t_mutable_plot_range.html#a5038671bce3e1ab973212d7649f797c0",
-"interface_c_p_t_range_plot.html#a8925d8b0466734f22a8eabc1063cc89f",
-"protocol_c_p_t_scatter_plot_delegate-p.html#ad252f79cf6a2a8f31e7601b60addcb1b"
+"_c_p_t_line_cap_8h.html",
+"_c_p_t_trading_range_plot_8m.html#a6d25c69831bde5aedd4564bccc13b734",
+"category_n_s_coder_07_c_p_t_extensions_08.html#a86b01ee2213dd571198b6555e53c23c0",
+"group__plot_bindings_pie_chart.html#gaf059f68dab1182dd92237526a1b49f91",
+"interface_c_p_t_bordered_layer.html#a3e798b492c8d7d67e1a2b232e64c2c07",
+"interface_c_p_t_line_style.html#ac88fdac017362df967dd29d303dbebb0",
+"interface_c_p_t_plot_space.html#ae912185e8d3bff1e14cf33da7453b962",
+"protocol_c_p_t_range_plot_data_source-p.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -1,8 +1,9 @@
 <map id="Source/CPTFill.m" name="Source/CPTFill.m">
 <area shape="rect" id="node2" href="$_c_p_t_fill_8h.html" title="CPTFill.h" alt="" coords="5,81,80,106"/>
 <area shape="rect" id="node3" href="$_c_p_t_color_8h.html" title="CPTColor.h" alt="" coords="104,81,193,106"/>
-<area shape="rect" id="node4" href="$_c_p_t_image_8h.html" title="CPTImage.h" alt="" coords="456,81,552,106"/>
-<area shape="rect" id="node9" href="$_c_p_t_platform_specific_functions_8h.html" title="CPTPlatformSpecificFunctions.h" alt="" coords="219,81,431,106"/>
-<area shape="rect" id="node5" href="$_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="221,155,421,181"/>
-<area shape="rect" id="node6" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="446,155,567,181"/>
+<area shape="rect" id="node4" href="$_c_p_t_gradient_8h.html" title="CPTGradient.h" alt="" coords="218,81,328,106"/>
+<area shape="rect" id="node8" href="$_c_p_t_image_8h.html" title="CPTImage.h" alt="" coords="352,81,448,106"/>
+<area shape="rect" id="node10" href="$_c_p_t_platform_specific_functions_8h.html" title="CPTPlatformSpecificFunctions.h" alt="" coords="472,81,684,106"/>
+<area shape="rect" id="node5" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="333,155,453,181"/>
+<area shape="rect" id="node9" href="$_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="478,155,679,181"/>
 </map>
