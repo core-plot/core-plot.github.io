@@ -1,5 +1,6 @@
 var NAVTREEINDEX7 =
 {
+"interface_c_p_t_text_style.html#a21699910b97ad33d4ad3877bfdabc3e6":[2,0,86,0],
 "interface_c_p_t_text_style.html#a361d4d93aa837c7d1139c063bbad51d7":[2,0,86,5],
 "interface_c_p_t_text_style.html#a3fa7c61325f90a770cddcada731cacda":[2,0,86,6],
 "interface_c_p_t_text_style.html#a73b90a8b9974a53b99b4f6d6ce52206e":[2,0,86,2],

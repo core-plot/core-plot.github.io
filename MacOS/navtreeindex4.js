@@ -1,5 +1,6 @@
 var NAVTREEINDEX4 =
 {
+"group__plot_bindings_range_plot.html#gadcc2e424479790a6af62be58ba3b5ae5":[3,0,1,103,7],
 "group__plot_bindings_scatter_plot.html":[1,2,4],
 "group__plot_bindings_scatter_plot.html#ga298e78a446bdbee8f448e356c32effad":[1,2,4,1],
 "group__plot_bindings_scatter_plot.html#ga298e78a446bdbee8f448e356c32effad":[3,0,1,107,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX4 =
 "interface_c_p_t_color.html#afdd3b52f19da27704bc92b319ba7b2dd":[2,0,21,1],
 "interface_c_p_t_color_space.html":[2,0,23],
 "interface_c_p_t_color_space.html#a4f7c128de567fa4454f92e701fa15827":[2,0,23,0],
-"interface_c_p_t_color_space.html#a81b8c8599d962898582168d5ab1141f6":[2,0,23,2],
-"interface_c_p_t_color_space.html#ad8c88ec4060e887275453e29bf4a33fe":[2,0,23,1]
+"interface_c_p_t_color_space.html#a81b8c8599d962898582168d5ab1141f6":[2,0,23,2]
 };

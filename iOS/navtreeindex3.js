@@ -134,6 +134,7 @@ var NAVTREEINDEX3 =
 "globals_type.html":[3,1,3],
 "globals_u.html":[3,1,0,19],
 "globals_vars.html":[3,1,2],
+"globals_w.html":[3,1,0,20],
 "group__animation.html":[1,0],
 "group__axis_animation.html":[1,0,0],
 "group__axis_animation.html#ga4916a1d51e3dc4cb9caf6f7b3b6c3ded":[1,0,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX3 =
 "group__theme_names.html#ga7aeab02f6c9fc0a63ded183808bf9691":[1,2,2],
 "group__theme_names.html#ga7aeab02f6c9fc0a63ded183808bf9691":[3,0,1,114,4],
 "group__theme_names.html#ga8b2c56c6016484fb1b288329d454fcc2":[1,2,3],
-"group__theme_names.html#ga8b2c56c6016484fb1b288329d454fcc2":[3,0,1,114,5],
-"group__theme_names.html#gabe04647aa58f8deda1dea4a2a35b5156":[1,2,1]
+"group__theme_names.html#ga8b2c56c6016484fb1b288329d454fcc2":[3,0,1,114,5]
 };

@@ -47,11 +47,11 @@ var NAVTREEINDEX =
 "_c_p_t_line_cap_8h.html#a0f4e6f4f77117709135ca6512999e702a5fac803b81061bf3daa4481f2f5d535f",
 "_c_p_t_utilities_8h.html#a22c1b63e82c9a3e701128d3f3ec80df8",
 "category_n_s_string_07_c_p_t_text_style_extensions_08.html#af1254b063deabf5200d9399fbfc111c9",
-"group__plot_bindings_scatter_plot.html",
-"interface_c_p_t_constraints.html",
-"interface_c_p_t_mutable_plot_range.html#a5762de5feda794abf5b10900e68b050e",
-"interface_c_p_t_range_plot.html#ace3d717da2033b808572d61c3beba293",
-"protocol_c_p_t_scatter_plot_delegate-p.html#af693332f497dbeddea3aeb7f01228524"
+"group__plot_bindings_range_plot.html#gadcc2e424479790a6af62be58ba3b5ae5",
+"interface_c_p_t_color_space.html#ad8c88ec4060e887275453e29bf4a33fe",
+"interface_c_p_t_mutable_plot_range.html#a5038671bce3e1ab973212d7649f797c0",
+"interface_c_p_t_range_plot.html#a8925d8b0466734f22a8eabc1063cc89f",
+"protocol_c_p_t_scatter_plot_delegate-p.html#ad252f79cf6a2a8f31e7601b60addcb1b"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

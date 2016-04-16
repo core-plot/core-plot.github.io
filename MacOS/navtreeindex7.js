@@ -1,5 +1,6 @@
 var NAVTREEINDEX7 =
 {
+"interface_c_p_t_range_plot.html#a8925d8b0466734f22a8eabc1063cc89f":[2,0,77,0],
 "interface_c_p_t_range_plot.html#ace3d717da2033b808572d61c3beba293":[2,0,77,4],
 "interface_c_p_t_range_plot.html#ae21256c4b051b450d47a8e8ec447da9e":[2,0,77,1],
 "interface_c_p_t_range_plot.html#af41bce62d9297f2c3fa6edf602583f11":[2,0,77,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX7 =
 "protocol_c_p_t_scatter_plot_delegate-p.html#a5ff421f3b269fe28b73a781be860d944":[2,0,84,0],
 "protocol_c_p_t_scatter_plot_delegate-p.html#a6d9c78406ff373ba174ec4fa9e41444e":[2,0,84,2],
 "protocol_c_p_t_scatter_plot_delegate-p.html#a81f57e34937b156cc258cd5d8aadca60":[2,0,84,5],
-"protocol_c_p_t_scatter_plot_delegate-p.html#ad1ea5f314fc90b63e9dbb3ac260d3fee":[2,0,84,4],
-"protocol_c_p_t_scatter_plot_delegate-p.html#ad252f79cf6a2a8f31e7601b60addcb1b":[2,0,84,3]
+"protocol_c_p_t_scatter_plot_delegate-p.html#ad1ea5f314fc90b63e9dbb3ac260d3fee":[2,0,84,4]
 };
