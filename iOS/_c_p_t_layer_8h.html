@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.11"/>
-<title>Core Plot (iOS): Source/CPTLayer.h File Reference</title>
+<title>Core Plot (iOS and tvOS): Source/CPTLayer.h File Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -26,9 +26,9 @@
  <tr style="height: 56px;">
   <td id="projectlogo"><img alt="Logo" src="core-plot-logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">Core Plot (iOS)
+   <div id="projectname">Core Plot (iOS and tvOS)
    </div>
-   <div id="projectbrief">Cocoa plotting framework for Mac OS X and iOS</div>
+   <div id="projectbrief">Cocoa plotting framework for Mac OS X, iOS, and tvOS</div>
   </td>
  </tr>
  </tbody>
@@ -166,12 +166,30 @@ $(document).ready(function(){initNavTree('_c_p_t_layer_8h.html','');});
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">protocol &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="protocol_c_p_t_layer_delegate-p.html">&lt;CPTLayerDelegate&gt;</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Layer delegate.  <a href="protocol_c_p_t_layer_delegate-p.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_c_p_t_layer.html">CPTLayer</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Base class for all Core Animation layers in Core Plot.  <a href="interface_c_p_t_layer.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="typedef-members"></a>
 Typedefs</h2></td></tr>
+<tr class="memitem:a5038e2d5d31cfe6ab687329c59a1dfb0"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html">NSString</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="_c_p_t_layer_8h.html#a5038e2d5d31cfe6ab687329c59a1dfb0">CPTLayerNotification</a></td></tr>
+<tr class="memdesc:a5038e2d5d31cfe6ab687329c59a1dfb0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Layer notification type.  <a href="#a5038e2d5d31cfe6ab687329c59a1dfb0">More...</a><br /></td></tr>
+<tr class="separator:a5038e2d5d31cfe6ab687329c59a1dfb0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a33a90451a17bcb88e7e1d749c588beaf"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSArray_Class/NSArray.html">NSArray</a>&lt; <a class="el" href="interface_c_p_t_layer.html">CPTLayer</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="_c_p_t_layer_8h.html#a33a90451a17bcb88e7e1d749c588beaf">CPTLayerArray</a></td></tr>
+<tr class="memdesc:a33a90451a17bcb88e7e1d749c588beaf"><td class="mdescLeft">&#160;</td><td class="mdescRight">An array of <a class="el" href="interface_c_p_t_layer.html" title="Base class for all Core Animation layers in Core Plot. ">CPTLayer</a> objects.  <a href="#a33a90451a17bcb88e7e1d749c588beaf">More...</a><br /></td></tr>
+<tr class="separator:a33a90451a17bcb88e7e1d749c588beaf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7c014786bb8e382834aa827d22c83b19"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSMutableArray_Class/Reference/Reference.html">NSMutableArray</a>&lt; <a class="el" href="interface_c_p_t_layer.html">CPTLayer</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="_c_p_t_layer_8h.html#a7c014786bb8e382834aa827d22c83b19">CPTMutableLayerArray</a></td></tr>
+<tr class="memdesc:a7c014786bb8e382834aa827d22c83b19"><td class="mdescLeft">&#160;</td><td class="mdescRight">A mutable array of <a class="el" href="interface_c_p_t_layer.html" title="Base class for all Core Animation layers in Core Plot. ">CPTLayer</a> objects.  <a href="#a7c014786bb8e382834aa827d22c83b19">More...</a><br /></td></tr>
+<tr class="separator:a7c014786bb8e382834aa827d22c83b19"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a645278ebb0afec02e148294e305b0cd8"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSSet_Class/Reference/Reference.html">NSSet</a>&lt; <a class="el" href="interface_c_p_t_layer.html">CPTLayer</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="_c_p_t_layer_8h.html#a645278ebb0afec02e148294e305b0cd8">CPTLayerSet</a></td></tr>
+<tr class="memdesc:a645278ebb0afec02e148294e305b0cd8"><td class="mdescLeft">&#160;</td><td class="mdescRight">A set of <a class="el" href="interface_c_p_t_layer.html" title="Base class for all Core Animation layers in Core Plot. ">CPTLayer</a> objects.  <a href="#a645278ebb0afec02e148294e305b0cd8">More...</a><br /></td></tr>
+<tr class="separator:a645278ebb0afec02e148294e305b0cd8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a10cb1bd53c8b310a07c26cd5f8655ccd"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSMutableSet_Class/Reference/Reference.html">NSMutableSet</a>&lt; <a class="el" href="interface_c_p_t_layer.html">CPTLayer</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="_c_p_t_layer_8h.html#a10cb1bd53c8b310a07c26cd5f8655ccd">CPTMutableLayerSet</a></td></tr>
+<tr class="memdesc:a10cb1bd53c8b310a07c26cd5f8655ccd"><td class="mdescLeft">&#160;</td><td class="mdescRight">A mutable set of <a class="el" href="interface_c_p_t_layer.html" title="Base class for all Core Animation layers in Core Plot. ">CPTLayer</a> objects.  <a href="#a10cb1bd53c8b310a07c26cd5f8655ccd">More...</a><br /></td></tr>
+<tr class="separator:a10cb1bd53c8b310a07c26cd5f8655ccd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aafe18c0b82c17aa603e7bcc3a83fac63"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSArray_Class/NSArray.html">NSArray</a>&lt; <a class="elRef" href="https://developer.apple.com/library/ios/#documentation/GraphicsImaging/Reference/CALayer_class/Introduction/Introduction.html">CALayer</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="_c_p_t_layer_8h.html#aafe18c0b82c17aa603e7bcc3a83fac63">CPTSublayerArray</a></td></tr>
 <tr class="memdesc:aafe18c0b82c17aa603e7bcc3a83fac63"><td class="mdescLeft">&#160;</td><td class="mdescRight">An array of <a class="elRef" href="https://developer.apple.com/library/ios/#documentation/GraphicsImaging/Reference/CALayer_class/Introduction/Introduction.html">CALayer</a> objects.  <a href="#aafe18c0b82c17aa603e7bcc3a83fac63">More...</a><br /></td></tr>
 <tr class="separator:aafe18c0b82c17aa603e7bcc3a83fac63"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -188,11 +206,81 @@ Typedefs</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="var-members"></a>
 Variables</h2></td></tr>
 <tr><td colspan="2"><div class="groupHeader">Layout</div></td></tr>
-<tr class="memitem:ga8c3268e10f0b0673eb0502226b820d89"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html">NSString</a> *__nonnull const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__notification.html#ga8c3268e10f0b0673eb0502226b820d89">CPTLayerBoundsDidChangeNotification</a></td></tr>
-<tr class="memdesc:ga8c3268e10f0b0673eb0502226b820d89"><td class="mdescLeft">&#160;</td><td class="mdescRight">Notification sent by all layers when the layer <a class="elRef" href="https://developer.apple.com/library/ios/#documentation/GraphicsImaging/Reference/CALayer_class/Introduction/Introduction.html#//apple_ref/occ/instp/CALayer/bounds">bounds </a> change.  <a href="group__notification.html#ga8c3268e10f0b0673eb0502226b820d89">More...</a><br /></td></tr>
-<tr class="separator:ga8c3268e10f0b0673eb0502226b820d89"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga0d8d74ad3d59ea1fd506db2ab8b95943"><td class="memItemLeft" align="right" valign="top"><a class="el" href="_c_p_t_layer_8h.html#a5038e2d5d31cfe6ab687329c59a1dfb0">CPTLayerNotification</a> __nonnull const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__notification.html#ga0d8d74ad3d59ea1fd506db2ab8b95943">CPTLayerBoundsDidChangeNotification</a></td></tr>
+<tr class="memdesc:ga0d8d74ad3d59ea1fd506db2ab8b95943"><td class="mdescLeft">&#160;</td><td class="mdescRight">Notification sent by all layers when the layer <a class="elRef" href="https://developer.apple.com/library/ios/#documentation/GraphicsImaging/Reference/CALayer_class/Introduction/Introduction.html#//apple_ref/occ/instp/CALayer/bounds">bounds </a> change.  <a href="group__notification.html#ga0d8d74ad3d59ea1fd506db2ab8b95943">More...</a><br /></td></tr>
+<tr class="separator:ga0d8d74ad3d59ea1fd506db2ab8b95943"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Typedef Documentation</h2>
+<a class="anchor" id="a33a90451a17bcb88e7e1d749c588beaf"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef <a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSArray_Class/NSArray.html">NSArray</a>&lt;<a class="el" href="interface_c_p_t_layer.html">CPTLayer</a> *&gt; <a class="el" href="_c_p_t_layer_8h.html#a33a90451a17bcb88e7e1d749c588beaf">CPTLayerArray</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>An array of <a class="el" href="interface_c_p_t_layer.html" title="Base class for all Core Animation layers in Core Plot. ">CPTLayer</a> objects. </p>
+
+</div>
+</div>
+<a class="anchor" id="a5038e2d5d31cfe6ab687329c59a1dfb0"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef <a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html">NSString</a>* <a class="el" href="_c_p_t_layer_8h.html#a5038e2d5d31cfe6ab687329c59a1dfb0">CPTLayerNotification</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Layer notification type. </p>
+
+</div>
+</div>
+<a class="anchor" id="a645278ebb0afec02e148294e305b0cd8"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef <a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSSet_Class/Reference/Reference.html">NSSet</a>&lt;<a class="el" href="interface_c_p_t_layer.html">CPTLayer</a> *&gt; <a class="el" href="_c_p_t_layer_8h.html#a645278ebb0afec02e148294e305b0cd8">CPTLayerSet</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>A set of <a class="el" href="interface_c_p_t_layer.html" title="Base class for all Core Animation layers in Core Plot. ">CPTLayer</a> objects. </p>
+
+</div>
+</div>
+<a class="anchor" id="a7c014786bb8e382834aa827d22c83b19"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef <a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSMutableArray_Class/Reference/Reference.html">NSMutableArray</a>&lt;<a class="el" href="interface_c_p_t_layer.html">CPTLayer</a> *&gt; <a class="el" href="_c_p_t_layer_8h.html#a7c014786bb8e382834aa827d22c83b19">CPTMutableLayerArray</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>A mutable array of <a class="el" href="interface_c_p_t_layer.html" title="Base class for all Core Animation layers in Core Plot. ">CPTLayer</a> objects. </p>
+
+</div>
+</div>
+<a class="anchor" id="a10cb1bd53c8b310a07c26cd5f8655ccd"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef <a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSMutableSet_Class/Reference/Reference.html">NSMutableSet</a>&lt;<a class="el" href="interface_c_p_t_layer.html">CPTLayer</a> *&gt; <a class="el" href="_c_p_t_layer_8h.html#a10cb1bd53c8b310a07c26cd5f8655ccd">CPTMutableLayerSet</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>A mutable set of <a class="el" href="interface_c_p_t_layer.html" title="Base class for all Core Animation layers in Core Plot. ">CPTLayer</a> objects. </p>
+
+</div>
+</div>
 <a class="anchor" id="a4232226dc88b3a0fa206efa355378f09"></a>
 <div class="memitem">
 <div class="memproto">

@@ -3,6 +3,7 @@ var _c_p_t_scatter_plot_8h =
     [ "<CPTScatterPlotDataSource>", "protocol_c_p_t_scatter_plot_data_source-p.html", "protocol_c_p_t_scatter_plot_data_source-p" ],
     [ "<CPTScatterPlotDelegate>", "protocol_c_p_t_scatter_plot_delegate-p.html", "protocol_c_p_t_scatter_plot_delegate-p" ],
     [ "CPTScatterPlot", "interface_c_p_t_scatter_plot.html", "interface_c_p_t_scatter_plot" ],
+    [ "CPTScatterPlotBinding", "_c_p_t_scatter_plot_8h.html#a673b92c7b52101161a368b0743232608", null ],
     [ "CPTScatterPlotCurvedInterpolationOption", "_c_p_t_scatter_plot_8h.html#a41b09a0dc52d265097dd6a2ee72a6260", [
       [ "CPTScatterPlotCurvedInterpolationNormal", "_c_p_t_scatter_plot_8h.html#a41b09a0dc52d265097dd6a2ee72a6260abf4b6057aea9dcfff5c84ebda071e1fe", null ],
       [ "CPTScatterPlotCurvedInterpolationCatmullRomUniform", "_c_p_t_scatter_plot_8h.html#a41b09a0dc52d265097dd6a2ee72a6260a6c8352cf797c37fc8feffb3beda996fe", null ],
@@ -27,7 +28,7 @@ var _c_p_t_scatter_plot_8h =
       [ "CPTScatterPlotInterpolationHistogram", "_c_p_t_scatter_plot_8h.html#a9fd27703c96dc44875d2ddf3073eecf1a56c2cfd36a6b5b8b1ccb61d1ef6e37eb", null ],
       [ "CPTScatterPlotInterpolationCurved", "_c_p_t_scatter_plot_8h.html#a9fd27703c96dc44875d2ddf3073eecf1aaa0ba9a6e0e682794e28c6640bdee064", null ]
     ] ],
-    [ "CPTScatterPlotBindingPlotSymbols", "group__plot_bindings_scatter_plot.html#ga8a5d9ca227a1412ed2a72f3bce567b96", null ],
-    [ "CPTScatterPlotBindingXValues", "group__plot_bindings_scatter_plot.html#ga298e78a446bdbee8f448e356c32effad", null ],
-    [ "CPTScatterPlotBindingYValues", "group__plot_bindings_scatter_plot.html#gaf9a55ca5eec047a48ac46865c540d240", null ]
+    [ "CPTScatterPlotBindingPlotSymbols", "group__plot_bindings_scatter_plot.html#ga0c2ebbb7ba1d16187b00c518c20acdfa", null ],
+    [ "CPTScatterPlotBindingXValues", "group__plot_bindings_scatter_plot.html#ga4860a0c9f8a73f3a395d70a20849fd61", null ],
+    [ "CPTScatterPlotBindingYValues", "group__plot_bindings_scatter_plot.html#gac8daaae2e33f8fb37e95f028e8ba87c9", null ]
 ];

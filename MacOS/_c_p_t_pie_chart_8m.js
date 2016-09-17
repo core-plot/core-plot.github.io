@@ -1,6 +1,6 @@
 var _c_p_t_pie_chart_8m =
 [
-    [ "CPTPieChartBindingPieSliceFills", "_c_p_t_pie_chart_8m.html#a669ff2bea50080be885d4eab0a8776e3", null ],
-    [ "CPTPieChartBindingPieSliceRadialOffsets", "_c_p_t_pie_chart_8m.html#a555f962bbc83f50c82ea227f02792027", null ],
-    [ "CPTPieChartBindingPieSliceWidthValues", "group__plot_bindings_pie_chart.html#gac9c7875d513f453bb92e74269b7bea5c", null ]
+    [ "CPTPieChartBindingPieSliceFills", "_c_p_t_pie_chart_8m.html#a1a03666c1ac6284e5d865637b1ebd2c5", null ],
+    [ "CPTPieChartBindingPieSliceRadialOffsets", "_c_p_t_pie_chart_8m.html#adb8d7d3eaa92d0489371d0921cbf038f", null ],
+    [ "CPTPieChartBindingPieSliceWidthValues", "group__plot_bindings_pie_chart.html#ga50f39b32f4e92efe17e4ef6eecdff807", null ]
 ];

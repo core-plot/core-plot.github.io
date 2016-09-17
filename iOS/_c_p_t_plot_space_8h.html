@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.11"/>
-<title>Core Plot (iOS): Source/CPTPlotSpace.h File Reference</title>
+<title>Core Plot (iOS and tvOS): Source/CPTPlotSpace.h File Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -26,9 +26,9 @@
  <tr style="height: 56px;">
   <td id="projectlogo"><img alt="Logo" src="core-plot-logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">Core Plot (iOS)
+   <div id="projectname">Core Plot (iOS and tvOS)
    </div>
-   <div id="projectbrief">Cocoa plotting framework for Mac OS X and iOS</div>
+   <div id="projectbrief">Cocoa plotting framework for Mac OS X, iOS, and tvOS</div>
   </td>
  </tr>
  </tbody>
@@ -146,6 +146,12 @@ Classes</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="typedef-members"></a>
 Typedefs</h2></td></tr>
+<tr class="memitem:a15c8e1ea0da64f28202b79ec80cf09ef"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html">NSString</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="_c_p_t_plot_space_8h.html#a15c8e1ea0da64f28202b79ec80cf09ef">CPTPlotSpaceCoordinateMapping</a></td></tr>
+<tr class="memdesc:a15c8e1ea0da64f28202b79ec80cf09ef"><td class="mdescLeft">&#160;</td><td class="mdescRight">Plot space mapping notification type.  <a href="#a15c8e1ea0da64f28202b79ec80cf09ef">More...</a><br /></td></tr>
+<tr class="separator:a15c8e1ea0da64f28202b79ec80cf09ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a33ac0ad3d42becd2ab59924b5a599da2"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html">NSString</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="_c_p_t_plot_space_8h.html#a33ac0ad3d42becd2ab59924b5a599da2">CPTPlotSpaceInfoKey</a></td></tr>
+<tr class="memdesc:a33ac0ad3d42becd2ab59924b5a599da2"><td class="mdescLeft">&#160;</td><td class="mdescRight">The <code>userInfo</code> dictionary keys used by <a class="el" href="group__notification.html#ga57fe80870913dde80a2a93ba643e7798" title="Plot space coordinate change notification. ">CPTPlotSpaceCoordinateMappingDidChangeNotification</a> notifications.  <a href="#a33ac0ad3d42becd2ab59924b5a599da2">More...</a><br /></td></tr>
+<tr class="separator:a33ac0ad3d42becd2ab59924b5a599da2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a17edc5995c93c1a06b4d6eb1127dbb66"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSArray_Class/NSArray.html">NSArray</a>&lt; __kindof <a class="el" href="interface_c_p_t_plot_space.html">CPTPlotSpace</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="_c_p_t_plot_space_8h.html#a17edc5995c93c1a06b4d6eb1127dbb66">CPTPlotSpaceArray</a></td></tr>
 <tr class="memdesc:a17edc5995c93c1a06b4d6eb1127dbb66"><td class="mdescLeft">&#160;</td><td class="mdescRight">An array of plot spaces.  <a href="#a17edc5995c93c1a06b4d6eb1127dbb66">More...</a><br /></td></tr>
 <tr class="separator:a17edc5995c93c1a06b4d6eb1127dbb66"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -156,18 +162,18 @@ Typedefs</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="var-members"></a>
 Variables</h2></td></tr>
 <tr><td colspan="2"><div class="groupHeader">Plot Space</div></td></tr>
-<tr class="memitem:ga431ba50dc7e62c3fb6b5fec32fb2fb07"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html">NSString</a> *__nonnull const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__notification.html#ga431ba50dc7e62c3fb6b5fec32fb2fb07">CPTPlotSpaceCoordinateMappingDidChangeNotification</a></td></tr>
-<tr class="memdesc:ga431ba50dc7e62c3fb6b5fec32fb2fb07"><td class="mdescLeft">&#160;</td><td class="mdescRight">Plot space coordinate change notification.  <a href="group__notification.html#ga431ba50dc7e62c3fb6b5fec32fb2fb07">More...</a><br /></td></tr>
-<tr class="separator:ga431ba50dc7e62c3fb6b5fec32fb2fb07"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gab2fcd3dfc149593448bdb56c9701ec5d"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html">NSString</a> *__nonnull const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__notification.html#gab2fcd3dfc149593448bdb56c9701ec5d">CPTPlotSpaceCoordinateKey</a></td></tr>
-<tr class="memdesc:gab2fcd3dfc149593448bdb56c9701ec5d"><td class="mdescLeft">&#160;</td><td class="mdescRight">The <code>userInfo</code> dictionary key used by the CPTPlotSpaceCoordinateMappingDidChangeNotification to indicate the plot coordinate affected by the mapping change.  <a href="group__notification.html#gab2fcd3dfc149593448bdb56c9701ec5d">More...</a><br /></td></tr>
-<tr class="separator:gab2fcd3dfc149593448bdb56c9701ec5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga49659cf3ebd9986966098b6966ee58ad"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html">NSString</a> *__nonnull const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__notification.html#ga49659cf3ebd9986966098b6966ee58ad">CPTPlotSpaceScrollingKey</a></td></tr>
-<tr class="memdesc:ga49659cf3ebd9986966098b6966ee58ad"><td class="mdescLeft">&#160;</td><td class="mdescRight">The <code>userInfo</code> dictionary key used by the CPTPlotSpaceCoordinateMappingDidChangeNotification to indicate whether the mapping change is a scroll movement or other change.  <a href="group__notification.html#ga49659cf3ebd9986966098b6966ee58ad">More...</a><br /></td></tr>
-<tr class="separator:ga49659cf3ebd9986966098b6966ee58ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gaf1ed48f28ca53d57d53ca6373ba376d6"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html">NSString</a> *__nonnull const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__notification.html#gaf1ed48f28ca53d57d53ca6373ba376d6">CPTPlotSpaceDisplacementKey</a></td></tr>
-<tr class="memdesc:gaf1ed48f28ca53d57d53ca6373ba376d6"><td class="mdescLeft">&#160;</td><td class="mdescRight">The <code>userInfo</code> dictionary key used by the CPTPlotSpaceCoordinateMappingDidChangeNotification to indicate the displacement offset for scrolling changes in drawing coordinates.  <a href="group__notification.html#gaf1ed48f28ca53d57d53ca6373ba376d6">More...</a><br /></td></tr>
-<tr class="separator:gaf1ed48f28ca53d57d53ca6373ba376d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga57fe80870913dde80a2a93ba643e7798"><td class="memItemLeft" align="right" valign="top"><a class="el" href="_c_p_t_plot_space_8h.html#a15c8e1ea0da64f28202b79ec80cf09ef">CPTPlotSpaceCoordinateMapping</a> __nonnull const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__notification.html#ga57fe80870913dde80a2a93ba643e7798">CPTPlotSpaceCoordinateMappingDidChangeNotification</a></td></tr>
+<tr class="memdesc:ga57fe80870913dde80a2a93ba643e7798"><td class="mdescLeft">&#160;</td><td class="mdescRight">Plot space coordinate change notification.  <a href="group__notification.html#ga57fe80870913dde80a2a93ba643e7798">More...</a><br /></td></tr>
+<tr class="separator:ga57fe80870913dde80a2a93ba643e7798"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:gafb8d43941d445adf7ff9fa09e35d6a49"><td class="memItemLeft" align="right" valign="top"><a class="el" href="_c_p_t_plot_space_8h.html#a33ac0ad3d42becd2ab59924b5a599da2">CPTPlotSpaceInfoKey</a> __nonnull const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__notification.html#gafb8d43941d445adf7ff9fa09e35d6a49">CPTPlotSpaceCoordinateKey</a></td></tr>
+<tr class="memdesc:gafb8d43941d445adf7ff9fa09e35d6a49"><td class="mdescLeft">&#160;</td><td class="mdescRight">The <code>userInfo</code> dictionary key used by the <a class="el" href="group__notification.html#ga57fe80870913dde80a2a93ba643e7798" title="Plot space coordinate change notification. ">CPTPlotSpaceCoordinateMappingDidChangeNotification</a> to indicate the plot coordinate affected by the mapping change.  <a href="group__notification.html#gafb8d43941d445adf7ff9fa09e35d6a49">More...</a><br /></td></tr>
+<tr class="separator:gafb8d43941d445adf7ff9fa09e35d6a49"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga81983773463e1a52350d9e397d4a75fa"><td class="memItemLeft" align="right" valign="top"><a class="el" href="_c_p_t_plot_space_8h.html#a33ac0ad3d42becd2ab59924b5a599da2">CPTPlotSpaceInfoKey</a> __nonnull const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__notification.html#ga81983773463e1a52350d9e397d4a75fa">CPTPlotSpaceScrollingKey</a></td></tr>
+<tr class="memdesc:ga81983773463e1a52350d9e397d4a75fa"><td class="mdescLeft">&#160;</td><td class="mdescRight">The <code>userInfo</code> dictionary key used by the <a class="el" href="group__notification.html#ga57fe80870913dde80a2a93ba643e7798" title="Plot space coordinate change notification. ">CPTPlotSpaceCoordinateMappingDidChangeNotification</a> to indicate whether the mapping change is a scroll movement or other change.  <a href="group__notification.html#ga81983773463e1a52350d9e397d4a75fa">More...</a><br /></td></tr>
+<tr class="separator:ga81983773463e1a52350d9e397d4a75fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:gadaceba362657b580b81460f48c226a49"><td class="memItemLeft" align="right" valign="top"><a class="el" href="_c_p_t_plot_space_8h.html#a33ac0ad3d42becd2ab59924b5a599da2">CPTPlotSpaceInfoKey</a> __nonnull const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__notification.html#gadaceba362657b580b81460f48c226a49">CPTPlotSpaceDisplacementKey</a></td></tr>
+<tr class="memdesc:gadaceba362657b580b81460f48c226a49"><td class="mdescLeft">&#160;</td><td class="mdescRight">The <code>userInfo</code> dictionary key used by the <a class="el" href="group__notification.html#ga57fe80870913dde80a2a93ba643e7798" title="Plot space coordinate change notification. ">CPTPlotSpaceCoordinateMappingDidChangeNotification</a> to indicate the displacement offset for scrolling changes in drawing coordinates.  <a href="group__notification.html#gadaceba362657b580b81460f48c226a49">More...</a><br /></td></tr>
+<tr class="separator:gadaceba362657b580b81460f48c226a49"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Typedef Documentation</h2>
 <a class="anchor" id="ab5f17693b7b6d0b2c71b79c86f3d738d"></a>
@@ -195,6 +201,34 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 
 <p>An array of plot spaces. </p>
+
+</div>
+</div>
+<a class="anchor" id="a15c8e1ea0da64f28202b79ec80cf09ef"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef <a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html">NSString</a>* <a class="el" href="_c_p_t_plot_space_8h.html#a15c8e1ea0da64f28202b79ec80cf09ef">CPTPlotSpaceCoordinateMapping</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Plot space mapping notification type. </p>
+
+</div>
+</div>
+<a class="anchor" id="a33ac0ad3d42becd2ab59924b5a599da2"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef <a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html">NSString</a>* <a class="el" href="_c_p_t_plot_space_8h.html#a33ac0ad3d42becd2ab59924b5a599da2">CPTPlotSpaceInfoKey</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>The <code>userInfo</code> dictionary keys used by <a class="el" href="group__notification.html#ga57fe80870913dde80a2a93ba643e7798" title="Plot space coordinate change notification. ">CPTPlotSpaceCoordinateMappingDidChangeNotification</a> notifications. </p>
 
 </div>
 </div>

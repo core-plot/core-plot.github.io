@@ -1,4 +1,5 @@
 <map id="&lt;CPTScatterPlotDelegate&gt;" name="&lt;CPTScatterPlotDelegate&gt;">
-<area shape="rect" id="node2" href="$protocol_c_p_t_plot_delegate-p.html" title="Plot delegate. " alt="" coords="26,81,165,106"/>
-<area shape="rect" id="node3" href="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-touch-tags.xml$https://developer.apple.com/library/ios/.html#documentation/Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/Reference/NSObject" title="\&lt;NSObject\&gt;" alt="" coords="49,6,143,31"/>
+<area shape="rect" id="node2" href="$protocol_c_p_t_plot_delegate-p.html" title="Plot delegate. " alt="" coords="26,155,165,181"/>
+<area shape="rect" id="node3" href="$protocol_c_p_t_layer_delegate-p.html" title="Layer delegate. " alt="" coords="21,81,171,106"/>
+<area shape="rect" id="node4" href="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-touch-tags.xml$https://developer.apple.com/library/ios/.html#documentation/Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/Reference/NSObject" title="\&lt;NSObject\&gt;" alt="" coords="49,6,143,31"/>
 </map>

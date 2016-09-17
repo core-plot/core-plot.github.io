@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.11"/>
-<title>Core Plot (iOS): Source/CPTTheme.h File Reference</title>
+<title>Core Plot (iOS and tvOS): Source/CPTTheme.h File Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -26,9 +26,9 @@
  <tr style="height: 56px;">
   <td id="projectlogo"><img alt="Logo" src="core-plot-logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">Core Plot (iOS)
+   <div id="projectname">Core Plot (iOS and tvOS)
    </div>
-   <div id="projectbrief">Cocoa plotting framework for Mac OS X and iOS</div>
+   <div id="projectbrief">Cocoa plotting framework for Mac OS X, iOS, and tvOS</div>
   </td>
  </tr>
  </tbody>
@@ -67,16 +67,28 @@ $(document).ready(function(){initNavTree('_c_p_t_theme_8h.html','');});
 <div id="doc-content">
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a>  </div>
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#typedef-members">Typedefs</a>  </div>
   <div class="headertitle">
 <div class="title">CPTTheme.h File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> This graph shows which files directly or indirectly include this file:</div>
+<div class="textblock"><code>#import &quot;<a class="el" href="_c_p_t_definitions_8h_source.html">CPTDefinitions.h</a>&quot;</code><br />
+</div><div class="textblock"><div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Include dependency graph for CPTTheme.h:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
+<div class="center"><img src="_c_p_t_theme_8h__incl.png" border="0" usemap="#_source_2_c_p_t_theme_8h" alt=""/></div>
+<map name="_source_2_c_p_t_theme_8h" id="_source_2_c_p_t_theme_8h">
+<area shape="rect" id="node2" href="_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="86,81,207,106"/>
+</map>
+</div>
+</div><div class="textblock"><div id="dynsection-1" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
+  <img id="dynsection-1-trigger" src="closed.png" alt="+"/> This graph shows which files directly or indirectly include this file:</div>
+<div id="dynsection-1-summary" class="dynsummary" style="display:block;">
+</div>
+<div id="dynsection-1-content" class="dyncontent" style="display:none;">
 <div class="center"><img src="_c_p_t_theme_8h__dep__incl.png" border="0" usemap="#_source_2_c_p_t_theme_8hdep" alt=""/></div>
 <map name="_source_2_c_p_t_theme_8hdep" id="_source_2_c_p_t_theme_8hdep">
 <area shape="rect" id="node2" href="_core_plot-_cocoa_touch_8h.html" title="CorePlot&#45;CocoaTouch.h" alt="" coords="5,81,168,106"/>
@@ -96,24 +108,45 @@ Classes</h2></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="interface_c_p_t_theme.html" title="Creates a CPTGraph instance formatted with a predefined style. ">CPTTheme</a> abstract methods—must be overridden by subclasses.  <a href="category_c_p_t_theme_07_abstract_methods_08.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:ab1e73e78afbc167f94fc7c719870a24a"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html">NSString</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="_c_p_t_theme_8h.html#ab1e73e78afbc167f94fc7c719870a24a">CPTThemeName</a></td></tr>
+<tr class="memdesc:ab1e73e78afbc167f94fc7c719870a24a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Theme name type.  <a href="#ab1e73e78afbc167f94fc7c719870a24a">More...</a><br /></td></tr>
+<tr class="separator:ab1e73e78afbc167f94fc7c719870a24a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="var-members"></a>
 Variables</h2></td></tr>
 <tr><td colspan="2"><div class="groupHeader"></div></td></tr>
-<tr class="memitem:gaf4974ea5fc14d57d1f4ed023e475202c"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html">NSString</a> *__nonnull const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__theme_names.html#gaf4974ea5fc14d57d1f4ed023e475202c">kCPTDarkGradientTheme</a></td></tr>
-<tr class="memdesc:gaf4974ea5fc14d57d1f4ed023e475202c"><td class="mdescLeft">&#160;</td><td class="mdescRight">A graph theme with dark gray gradient backgrounds and light gray lines.  <a href="group__theme_names.html#gaf4974ea5fc14d57d1f4ed023e475202c">More...</a><br /></td></tr>
-<tr class="separator:gaf4974ea5fc14d57d1f4ed023e475202c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gabe04647aa58f8deda1dea4a2a35b5156"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html">NSString</a> *__nonnull const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__theme_names.html#gabe04647aa58f8deda1dea4a2a35b5156">kCPTPlainBlackTheme</a></td></tr>
-<tr class="memdesc:gabe04647aa58f8deda1dea4a2a35b5156"><td class="mdescLeft">&#160;</td><td class="mdescRight">A graph theme with black backgrounds and white lines.  <a href="group__theme_names.html#gabe04647aa58f8deda1dea4a2a35b5156">More...</a><br /></td></tr>
-<tr class="separator:gabe04647aa58f8deda1dea4a2a35b5156"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga7aeab02f6c9fc0a63ded183808bf9691"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html">NSString</a> *__nonnull const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__theme_names.html#ga7aeab02f6c9fc0a63ded183808bf9691">kCPTPlainWhiteTheme</a></td></tr>
-<tr class="memdesc:ga7aeab02f6c9fc0a63ded183808bf9691"><td class="mdescLeft">&#160;</td><td class="mdescRight">A graph theme with white backgrounds and black lines.  <a href="group__theme_names.html#ga7aeab02f6c9fc0a63ded183808bf9691">More...</a><br /></td></tr>
-<tr class="separator:ga7aeab02f6c9fc0a63ded183808bf9691"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga8b2c56c6016484fb1b288329d454fcc2"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html">NSString</a> *__nonnull const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__theme_names.html#ga8b2c56c6016484fb1b288329d454fcc2">kCPTSlateTheme</a></td></tr>
-<tr class="memdesc:ga8b2c56c6016484fb1b288329d454fcc2"><td class="mdescLeft">&#160;</td><td class="mdescRight">A graph theme with colors that match the default iPhone navigation bar, toolbar buttons, and table views.  <a href="group__theme_names.html#ga8b2c56c6016484fb1b288329d454fcc2">More...</a><br /></td></tr>
-<tr class="separator:ga8b2c56c6016484fb1b288329d454fcc2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga03ff7f958860337762cd10252f331524"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html">NSString</a> *__nonnull const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__theme_names.html#ga03ff7f958860337762cd10252f331524">kCPTStocksTheme</a></td></tr>
-<tr class="separator:ga03ff7f958860337762cd10252f331524"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga943578109192f562ce5125174ddc4d8a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="_c_p_t_theme_8h.html#ab1e73e78afbc167f94fc7c719870a24a">CPTThemeName</a> __nonnull const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__theme_names.html#ga943578109192f562ce5125174ddc4d8a">kCPTDarkGradientTheme</a></td></tr>
+<tr class="memdesc:ga943578109192f562ce5125174ddc4d8a"><td class="mdescLeft">&#160;</td><td class="mdescRight">A graph theme with dark gray gradient backgrounds and light gray lines.  <a href="group__theme_names.html#ga943578109192f562ce5125174ddc4d8a">More...</a><br /></td></tr>
+<tr class="separator:ga943578109192f562ce5125174ddc4d8a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:gadc797bdc8eeea8500de92515f653b6ec"><td class="memItemLeft" align="right" valign="top"><a class="el" href="_c_p_t_theme_8h.html#ab1e73e78afbc167f94fc7c719870a24a">CPTThemeName</a> __nonnull const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__theme_names.html#gadc797bdc8eeea8500de92515f653b6ec">kCPTPlainBlackTheme</a></td></tr>
+<tr class="memdesc:gadc797bdc8eeea8500de92515f653b6ec"><td class="mdescLeft">&#160;</td><td class="mdescRight">A graph theme with black backgrounds and white lines.  <a href="group__theme_names.html#gadc797bdc8eeea8500de92515f653b6ec">More...</a><br /></td></tr>
+<tr class="separator:gadc797bdc8eeea8500de92515f653b6ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga946e2b3bc21c195819ffc4b6cc32d245"><td class="memItemLeft" align="right" valign="top"><a class="el" href="_c_p_t_theme_8h.html#ab1e73e78afbc167f94fc7c719870a24a">CPTThemeName</a> __nonnull const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__theme_names.html#ga946e2b3bc21c195819ffc4b6cc32d245">kCPTPlainWhiteTheme</a></td></tr>
+<tr class="memdesc:ga946e2b3bc21c195819ffc4b6cc32d245"><td class="mdescLeft">&#160;</td><td class="mdescRight">A graph theme with white backgrounds and black lines.  <a href="group__theme_names.html#ga946e2b3bc21c195819ffc4b6cc32d245">More...</a><br /></td></tr>
+<tr class="separator:ga946e2b3bc21c195819ffc4b6cc32d245"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga80bafafe953f6839b09db1d7b9295374"><td class="memItemLeft" align="right" valign="top"><a class="el" href="_c_p_t_theme_8h.html#ab1e73e78afbc167f94fc7c719870a24a">CPTThemeName</a> __nonnull const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__theme_names.html#ga80bafafe953f6839b09db1d7b9295374">kCPTSlateTheme</a></td></tr>
+<tr class="memdesc:ga80bafafe953f6839b09db1d7b9295374"><td class="mdescLeft">&#160;</td><td class="mdescRight">A graph theme with colors that match the default iPhone navigation bar, toolbar buttons, and table views.  <a href="group__theme_names.html#ga80bafafe953f6839b09db1d7b9295374">More...</a><br /></td></tr>
+<tr class="separator:ga80bafafe953f6839b09db1d7b9295374"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:gae00dd1bc02d67f244728587bdf0da3f0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="_c_p_t_theme_8h.html#ab1e73e78afbc167f94fc7c719870a24a">CPTThemeName</a> __nonnull const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__theme_names.html#gae00dd1bc02d67f244728587bdf0da3f0">kCPTStocksTheme</a></td></tr>
+<tr class="separator:gae00dd1bc02d67f244728587bdf0da3f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a class="anchor" id="ab1e73e78afbc167f94fc7c719870a24a"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef <a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html">NSString</a>* <a class="el" href="_c_p_t_theme_8h.html#ab1e73e78afbc167f94fc7c719870a24a">CPTThemeName</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Theme name type. </p>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

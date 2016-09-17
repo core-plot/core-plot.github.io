@@ -1,6 +1,6 @@
 var _c_p_t_exceptions_8m =
 [
-    [ "CPTDataException", "_c_p_t_exceptions_8m.html#aa3f9816eacc1f18c5da9c627a48026ce", null ],
-    [ "CPTException", "_c_p_t_exceptions_8m.html#ac3562c537cd90511d3f4c75420d499af", null ],
-    [ "CPTNumericDataException", "_c_p_t_exceptions_8m.html#ac5ed491df8cff631a121dcfeb5c47384", null ]
+    [ "CPTDataException", "_c_p_t_exceptions_8m.html#aa87ea2dcc58f487a631fd266725a2f81", null ],
+    [ "CPTException", "_c_p_t_exceptions_8m.html#aa76047b2ad265603d2a923ac155ee15b", null ],
+    [ "CPTNumericDataException", "_c_p_t_exceptions_8m.html#a2be13be7925f15c60adb20bd4b6d629c", null ]
 ];

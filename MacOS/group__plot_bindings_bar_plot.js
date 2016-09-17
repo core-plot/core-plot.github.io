@@ -1,8 +1,8 @@
 var group__plot_bindings_bar_plot =
 [
-    [ "CPTBarPlotBindingBarBases", "group__plot_bindings_bar_plot.html#gad69bfd279995d6c63105c0b6d9e1591c", null ],
-    [ "CPTBarPlotBindingBarFills", "group__plot_bindings_bar_plot.html#gaee048110e907607d71b9204b52916850", null ],
-    [ "CPTBarPlotBindingBarLineStyles", "group__plot_bindings_bar_plot.html#gaef25da33460f7dfce2a5df91a40f99d1", null ],
-    [ "CPTBarPlotBindingBarLocations", "group__plot_bindings_bar_plot.html#ga9c7e14d74c5f4a5806d8ce055758d475", null ],
-    [ "CPTBarPlotBindingBarTips", "group__plot_bindings_bar_plot.html#ga181063475365d7ed7b3d101988b75344", null ]
+    [ "CPTBarPlotBindingBarBases", "group__plot_bindings_bar_plot.html#ga10f57640ed4341956bbeb4ddee00cdb9", null ],
+    [ "CPTBarPlotBindingBarFills", "group__plot_bindings_bar_plot.html#gaaf9e8bd5407d194b07e112b02b3abefc", null ],
+    [ "CPTBarPlotBindingBarLineStyles", "group__plot_bindings_bar_plot.html#ga4cb6649b705c31309810839dbc238fe2", null ],
+    [ "CPTBarPlotBindingBarLocations", "group__plot_bindings_bar_plot.html#gaa8d3317f4d99187b87dd0a68502d0a94", null ],
+    [ "CPTBarPlotBindingBarTips", "group__plot_bindings_bar_plot.html#gab2befe659c17485de3406bbf8f4a92cb", null ]
 ];

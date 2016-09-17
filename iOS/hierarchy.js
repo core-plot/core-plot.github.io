@@ -166,12 +166,21 @@ var hierarchy =
       [ "<CPTAnimationDelegate>", "protocol_c_p_t_animation_delegate-p.html", [
         [ "CPTXYPlotSpace", "interface_c_p_t_x_y_plot_space.html", null ]
       ] ],
-      [ "<CPTAxisDelegate>", "protocol_c_p_t_axis_delegate-p.html", null ],
       [ "<CPTDebugQuickLook>", "protocol_c_p_t_debug_quick_look-p.html", [
         [ "NSObject(CPTDebugQuickLookExtension)", "category_n_s_object_07_c_p_t_debug_quick_look_extension_08.html", null ]
       ] ],
-      [ "<CPTLegendDelegate>", "protocol_c_p_t_legend_delegate-p.html", null ],
-      [ "<CPTPlotAreaDelegate>", "protocol_c_p_t_plot_area_delegate-p.html", null ],
+      [ "<CPTLayerDelegate>", "protocol_c_p_t_layer_delegate-p.html", [
+        [ "<CPTAxisDelegate>", "protocol_c_p_t_axis_delegate-p.html", null ],
+        [ "<CPTLegendDelegate>", "protocol_c_p_t_legend_delegate-p.html", null ],
+        [ "<CPTPlotAreaDelegate>", "protocol_c_p_t_plot_area_delegate-p.html", null ],
+        [ "<CPTPlotDelegate>", "protocol_c_p_t_plot_delegate-p.html", [
+          [ "<CPTBarPlotDelegate>", "protocol_c_p_t_bar_plot_delegate-p.html", null ],
+          [ "<CPTPieChartDelegate>", "protocol_c_p_t_pie_chart_delegate-p.html", null ],
+          [ "<CPTRangePlotDelegate>", "protocol_c_p_t_range_plot_delegate-p.html", null ],
+          [ "<CPTScatterPlotDelegate>", "protocol_c_p_t_scatter_plot_delegate-p.html", null ],
+          [ "<CPTTradingRangePlotDelegate>", "protocol_c_p_t_trading_range_plot_delegate-p.html", null ]
+        ] ]
+      ] ],
       [ "<CPTPlotDataSource>", "protocol_c_p_t_plot_data_source-p.html", [
         [ "<CPTBarPlotDataSource>", "protocol_c_p_t_bar_plot_data_source-p.html", null ],
         [ "CPTFunctionDataSource", "interface_c_p_t_function_data_source.html", null ],
@@ -179,13 +188,6 @@ var hierarchy =
         [ "<CPTRangePlotDataSource>", "protocol_c_p_t_range_plot_data_source-p.html", null ],
         [ "<CPTScatterPlotDataSource>", "protocol_c_p_t_scatter_plot_data_source-p.html", null ],
         [ "<CPTTradingRangePlotDataSource>", "protocol_c_p_t_trading_range_plot_data_source-p.html", null ]
-      ] ],
-      [ "<CPTPlotDelegate>", "protocol_c_p_t_plot_delegate-p.html", [
-        [ "<CPTBarPlotDelegate>", "protocol_c_p_t_bar_plot_delegate-p.html", null ],
-        [ "<CPTPieChartDelegate>", "protocol_c_p_t_pie_chart_delegate-p.html", null ],
-        [ "<CPTRangePlotDelegate>", "protocol_c_p_t_range_plot_delegate-p.html", null ],
-        [ "<CPTScatterPlotDelegate>", "protocol_c_p_t_scatter_plot_delegate-p.html", null ],
-        [ "<CPTTradingRangePlotDelegate>", "protocol_c_p_t_trading_range_plot_delegate-p.html", null ]
       ] ],
       [ "<CPTPlotSpaceDelegate>", "protocol_c_p_t_plot_space_delegate-p.html", null ],
       [ "<CPTResponder>", "protocol_c_p_t_responder-p.html", [

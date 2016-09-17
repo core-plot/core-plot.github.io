@@ -44,6 +44,7 @@ var annotated_dup =
     [ "CPTLayer", "interface_c_p_t_layer.html", "interface_c_p_t_layer" ],
     [ "CPTLayer(CPTPlatformSpecificLayerExtensions)", "category_c_p_t_layer_07_c_p_t_platform_specific_layer_extensions_08.html", "category_c_p_t_layer_07_c_p_t_platform_specific_layer_extensions_08" ],
     [ "CPTLayerAnnotation", "interface_c_p_t_layer_annotation.html", "interface_c_p_t_layer_annotation" ],
+    [ "<CPTLayerDelegate>", "protocol_c_p_t_layer_delegate-p.html", null ],
     [ "CPTLegend", "interface_c_p_t_legend.html", "interface_c_p_t_legend" ],
     [ "<CPTLegendDelegate>", "protocol_c_p_t_legend_delegate-p.html", "protocol_c_p_t_legend_delegate-p" ],
     [ "CPTLegendEntry", "interface_c_p_t_legend_entry.html", "interface_c_p_t_legend_entry" ],

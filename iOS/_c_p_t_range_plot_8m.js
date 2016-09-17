@@ -1,10 +1,10 @@
 var _c_p_t_range_plot_8m =
 [
-    [ "CPTRangePlotBindingBarLineStyles", "_c_p_t_range_plot_8m.html#aed64f0e0d49887fbb2db282adadb9477", null ],
-    [ "CPTRangePlotBindingHighValues", "_c_p_t_range_plot_8m.html#a88df7d7c5739bef9f7847782adf640c9", null ],
-    [ "CPTRangePlotBindingLeftValues", "_c_p_t_range_plot_8m.html#a56bb63fda4a812b779ea388fdc68787f", null ],
-    [ "CPTRangePlotBindingLowValues", "_c_p_t_range_plot_8m.html#a5fdb3c2fe524a43b0dad31cca96dc371", null ],
-    [ "CPTRangePlotBindingRightValues", "_c_p_t_range_plot_8m.html#abf1b5c831f9bcb7f2f57820f968b7865", null ],
-    [ "CPTRangePlotBindingXValues", "_c_p_t_range_plot_8m.html#a2c9e3d725baa04dc080b6725df20b786", null ],
-    [ "CPTRangePlotBindingYValues", "_c_p_t_range_plot_8m.html#aa1ff8d22cbb0bab62ac405730aa45173", null ]
+    [ "CPTRangePlotBindingBarLineStyles", "_c_p_t_range_plot_8m.html#a93677aa0ae95fe9c4a390b1a2fd60bed", null ],
+    [ "CPTRangePlotBindingHighValues", "_c_p_t_range_plot_8m.html#a2e636f2416433e5180c8640926a260ae", null ],
+    [ "CPTRangePlotBindingLeftValues", "_c_p_t_range_plot_8m.html#ade0efe4a82f7467b72d7a8f8f6e89e50", null ],
+    [ "CPTRangePlotBindingLowValues", "_c_p_t_range_plot_8m.html#a3d132c9378b7171edde804aba9c978b7", null ],
+    [ "CPTRangePlotBindingRightValues", "_c_p_t_range_plot_8m.html#aad5b55914790c0dde2d974e1c280b8db", null ],
+    [ "CPTRangePlotBindingXValues", "_c_p_t_range_plot_8m.html#a15066ee8fa8f9b598ef71babdd52eb88", null ],
+    [ "CPTRangePlotBindingYValues", "_c_p_t_range_plot_8m.html#a9c9e67615f1d4191873a63470f471704", null ]
 ];

@@ -1,8 +1,9 @@
 <map id="&lt;CPTPlotDelegate&gt;" name="&lt;CPTPlotDelegate&gt;">
-<area shape="rect" id="node3" href="$protocol_c_p_t_bar_plot_delegate-p.html" title="Bar plot delegate. " alt="" coords="368,5,528,30"/>
-<area shape="rect" id="node4" href="$protocol_c_p_t_pie_chart_delegate-p.html" title="Pie chart delegate. " alt="" coords="364,54,532,79"/>
-<area shape="rect" id="node5" href="$protocol_c_p_t_range_plot_delegate-p.html" title="Range plot delegate. " alt="" coords="358,103,538,129"/>
-<area shape="rect" id="node6" href="$protocol_c_p_t_scatter_plot_delegate-p.html" title="Scatter plot delegate. " alt="" coords="357,153,539,178"/>
-<area shape="rect" id="node7" href="$protocol_c_p_t_trading_range_plot_delegate-p.html" title="Trading range plot delegate. " alt="" coords="336,202,560,227"/>
-<area shape="rect" id="node2" href="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-touch-tags.xml$https://developer.apple.com/library/ios/.html#documentation/Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/Reference/NSObject" title="\&lt;NSObject\&gt;" alt="" coords="5,103,99,129"/>
+<area shape="rect" id="node4" href="$protocol_c_p_t_bar_plot_delegate-p.html" title="Bar plot delegate. " alt="" coords="568,5,728,30"/>
+<area shape="rect" id="node5" href="$protocol_c_p_t_pie_chart_delegate-p.html" title="Pie chart delegate. " alt="" coords="564,54,732,79"/>
+<area shape="rect" id="node6" href="$protocol_c_p_t_range_plot_delegate-p.html" title="Range plot delegate. " alt="" coords="558,103,738,129"/>
+<area shape="rect" id="node7" href="$protocol_c_p_t_scatter_plot_delegate-p.html" title="Scatter plot delegate. " alt="" coords="557,153,739,178"/>
+<area shape="rect" id="node8" href="$protocol_c_p_t_trading_range_plot_delegate-p.html" title="Trading range plot delegate. " alt="" coords="536,202,760,227"/>
+<area shape="rect" id="node2" href="$protocol_c_p_t_layer_delegate-p.html" title="Layer delegate. " alt="" coords="148,103,298,129"/>
+<area shape="rect" id="node3" href="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-touch-tags.xml$https://developer.apple.com/library/ios/.html#documentation/Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/Reference/NSObject" title="\&lt;NSObject\&gt;" alt="" coords="5,103,99,129"/>
 </map>

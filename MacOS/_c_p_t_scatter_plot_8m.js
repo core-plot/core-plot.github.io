@@ -1,6 +1,6 @@
 var _c_p_t_scatter_plot_8m =
 [
-    [ "CPTScatterPlotBindingPlotSymbols", "_c_p_t_scatter_plot_8m.html#ae416eb41cbdffa71534a085dcbb1f206", null ],
-    [ "CPTScatterPlotBindingXValues", "group__plot_bindings_scatter_plot.html#ga298e78a446bdbee8f448e356c32effad", null ],
-    [ "CPTScatterPlotBindingYValues", "_c_p_t_scatter_plot_8m.html#a07dbc798c8a8758cc7a1770cf670492b", null ]
+    [ "CPTScatterPlotBindingPlotSymbols", "_c_p_t_scatter_plot_8m.html#a03b93135e306d63e6411c81c3a23878f", null ],
+    [ "CPTScatterPlotBindingXValues", "group__plot_bindings_scatter_plot.html#ga4860a0c9f8a73f3a395d70a20849fd61", null ],
+    [ "CPTScatterPlotBindingYValues", "_c_p_t_scatter_plot_8m.html#aa15e7dbe4acb65eb1d913587ecc731b8", null ]
 ];

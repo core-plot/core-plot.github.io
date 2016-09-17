@@ -4,6 +4,8 @@ var _c_p_t_definitions_8h =
     [ "CPTEdgeInsets", "struct_c_p_t_edge_insets.html", "struct_c_p_t_edge_insets" ],
     [ "cpt_deprecated", "_c_p_t_definitions_8h.html#a6fd501dc7964d3477fa67930f90f5ea3", null ],
     [ "CPT_SDK_SUPPORTS_WEAK", "_c_p_t_definitions_8h.html#ac23f606c1706a1172bc646f5c9c27218", null ],
+    [ "cpt_swift_enum", "_c_p_t_definitions_8h.html#a110f2d285b00df05256c6afb93da4ac9", null ],
+    [ "cpt_swift_struct", "_c_p_t_definitions_8h.html#a8e72867ece37411180ae0596cf49a015", null ],
     [ "cpt_weak_property", "_c_p_t_definitions_8h.html#a1133842e0f1c9446242d6a2ce34728ee", null ],
     [ "CPTFloat", "_c_p_t_definitions_8h.html#a479e1c605b12da89dc3c76f572435269", null ],
     [ "CPTNAN", "_c_p_t_definitions_8h.html#aabcc72737fef9c22c05bbb21b857b098", null ],
@@ -70,5 +72,6 @@ var _c_p_t_definitions_8h =
       [ "CPTSignPositive", "_c_p_t_definitions_8h.html#a69d8f721aad51ddf8fc88c85b1947c33aeea4679decf5729d657f3ed36cc8a1f2", null ],
       [ "CPTSignNegative", "_c_p_t_definitions_8h.html#a69d8f721aad51ddf8fc88c85b1947c33a55e774477ca03c91507faeac62e88ac4", null ]
     ] ],
-    [ "CPTEdgeInsetsZero", "_c_p_t_definitions_8h.html#aa4de8f607b98664e9a835faa161d31e3", null ]
+    [ "CPTEdgeInsetsZero", "_c_p_t_definitions_8h.html#aa4de8f607b98664e9a835faa161d31e3", null ],
+    [ "CPTStringDrawingOptions", "_c_p_t_definitions_8h.html#aa1cb24989ddc45cc69f93dc6d875d37c", null ]
 ];

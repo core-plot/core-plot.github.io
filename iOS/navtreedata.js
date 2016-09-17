@@ -1,6 +1,6 @@
 var NAVTREE =
 [
-  [ "Core Plot (iOS)", "index.html", [
+  [ "Core Plot (iOS and tvOS)", "index.html", [
     [ "Core Plot", "index.html", [
       [ "Introduction", "index.html#intro", null ],
       [ "Getting Started", "index.html#start", null ],
@@ -44,14 +44,14 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_c_p_t_animation_8h.html",
-"_c_p_t_limit_band_8h.html#afd00fc7c0c0244d44f3439eb07ceb743",
-"_c_p_t_time_formatter_8m.html",
-"category_c_p_t_plot_space_07_abstract_methods_08.html#a769547a1f95a562d9f88bb6967815174",
-"group__plot_animation_scatter_plot.html",
-"interface_c_p_t_gradient.html#a5f8a994778c4744510b84844439c4a4b",
-"interface_c_p_t_numeric_data.html#a4603a620bf12344bf5f16a331bb7caeb",
-"interface_c_p_t_scatter_plot.html#ab269873a297cb382942558117c1b396d",
-"protocol_c_p_t_trading_range_plot_delegate-p.html#a5cf43508392331fa55fb47508bb26fb3"
+"_c_p_t_legend_8h.html",
+"_c_p_t_text_layer_8m.html#aac3e77177bea87569a70ef179cab5291",
+"category_c_p_t_numeric_data_07_type_conversion_08.html#a0b67bfbd3bf25aae6dbee5dcec33df29",
+"group__plot_animation_bar_plot.html#ga8066c7ab2e192ba8b4064b26d713247c",
+"interface_c_p_t_constraints.html#a016c02a043785a66f0ab97479e8ef5ac",
+"interface_c_p_t_mutable_plot_range.html#ab49c88714d01fb935c9ff54d24a2a7f6",
+"interface_c_p_t_range_plot.html#a8925d8b0466734f22a8eabc1063cc89f",
+"protocol_c_p_t_scatter_plot_delegate-p.html#a1f7be00c209c13c63e637036a2435598"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

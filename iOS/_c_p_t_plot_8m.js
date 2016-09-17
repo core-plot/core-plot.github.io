@@ -1,4 +1,4 @@
 var _c_p_t_plot_8m =
 [
-    [ "CPTPlotBindingDataLabels", "_c_p_t_plot_8m.html#afc2c14b05a72fa272ad34cb0925a4e9d", null ]
+    [ "CPTPlotBindingDataLabels", "_c_p_t_plot_8m.html#afe2ae84e1944f39bb314e4041a52212b", null ]
 ];

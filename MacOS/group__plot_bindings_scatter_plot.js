@@ -1,8 +1,8 @@
 var group__plot_bindings_scatter_plot =
 [
-    [ "CPTScatterPlotBindingPlotSymbols", "group__plot_bindings_scatter_plot.html#ga8a5d9ca227a1412ed2a72f3bce567b96", null ],
-    [ "CPTScatterPlotBindingXValues", "group__plot_bindings_scatter_plot.html#ga298e78a446bdbee8f448e356c32effad", null ],
-    [ "CPTScatterPlotBindingYValues", "group__plot_bindings_scatter_plot.html#gaf9a55ca5eec047a48ac46865c540d240", null ],
+    [ "CPTScatterPlotBindingPlotSymbols", "group__plot_bindings_scatter_plot.html#ga0c2ebbb7ba1d16187b00c518c20acdfa", null ],
+    [ "CPTScatterPlotBindingXValues", "group__plot_bindings_scatter_plot.html#ga4860a0c9f8a73f3a395d70a20849fd61", null ],
+    [ "CPTScatterPlotBindingYValues", "group__plot_bindings_scatter_plot.html#gac8daaae2e33f8fb37e95f028e8ba87c9", null ],
     [ "areaBaseValue", "group__plot_bindings_scatter_plot.html#ga91d73d53a86dc183f2d28b3731ceb376", null ],
     [ "areaBaseValue2", "group__plot_bindings_scatter_plot.html#ga66f5527a86649ef4bb85a8905c89513a", null ],
     [ "curvedInterpolationCustomAlpha", "group__plot_bindings_scatter_plot.html#ga78379ddbc341be584997307e1124c098", null ],

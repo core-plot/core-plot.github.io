@@ -1,7 +1,7 @@
 var _c_p_t_graph_8m =
 [
-    [ "CPTGraphDidAddPlotSpaceNotification", "group__notification.html#ga53cfc79a2b326d20c2cb65540a46e2ce", null ],
-    [ "CPTGraphDidRemovePlotSpaceNotification", "group__notification.html#ga18b9bb76b059600b4a1ee51d635d5c70", null ],
-    [ "CPTGraphNeedsRedrawNotification", "group__notification.html#gac079adb77dbec32e517c71d9386574d6", null ],
-    [ "CPTGraphPlotSpaceNotificationKey", "group__notification.html#ga3a99f051079cc330049eed05ba53a81d", null ]
+    [ "CPTGraphDidAddPlotSpaceNotification", "group__notification.html#ga978c77fef8bf4b9e10624090dc5bb518", null ],
+    [ "CPTGraphDidRemovePlotSpaceNotification", "group__notification.html#ga085115052c70ee39fa01834f33f2c192", null ],
+    [ "CPTGraphNeedsRedrawNotification", "group__notification.html#gaa05680ad683bdc05cf167ae7c32451d6", null ],
+    [ "CPTGraphPlotSpaceNotificationKey", "group__notification.html#ga20b3700187b4fc9e69ec6a3a8ae1f229", null ]
 ];
