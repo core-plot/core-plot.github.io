@@ -1,10 +1,10 @@
 var interface_c_p_t_image =
 [
-    [ "drawInRect:inContext:", "interface_c_p_t_image.html#af8e5715292771e3066167be595d26e46", null ],
+    [ "drawInRect:inContext:", "interface_c_p_t_image.html#a4c86a6de7c16d1d6a713fa93ae58b118", null ],
     [ "init", "interface_c_p_t_image.html#adca0df174ea86ac4dacce8c3b6a2f537", null ],
     [ "initForPNGFile:", "interface_c_p_t_image.html#a95f039876edc4f978e01b2374feb782c", null ],
     [ "initWithCGImage:", "interface_c_p_t_image.html#aa202a3a4016719f2021b73651eb7f1d8", null ],
-    [ "initWithCGImage:scale:", "interface_c_p_t_image.html#a42d9fea6d2a8274730213c240388360e", null ],
+    [ "initWithCGImage:scale:", "interface_c_p_t_image.html#a2c5252044f4e970ad093adc497299722", null ],
     [ "initWithCoder:", "interface_c_p_t_image.html#a2b80858c2b666db682588d0f6349cd80", null ],
     [ "initWithContentsOfFile:", "interface_c_p_t_image.html#a18fd933acc9405205950edd36c9f902b", null ],
     [ "initWithNativeImage:", "interface_c_p_t_image.html#a50d0aae89e17e7b98aabcf1693ed6abf", null ],

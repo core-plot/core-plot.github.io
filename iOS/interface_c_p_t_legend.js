@@ -5,7 +5,7 @@ var interface_c_p_t_legend =
     [ "initWithFrame:", "interface_c_p_t_legend.html#a42f6a18b5cba29bea9454f42106bc488", null ],
     [ "initWithGraph:", "interface_c_p_t_legend.html#a80d8fb82d5335febc4125344259c75d0", null ],
     [ "initWithPlots:", "interface_c_p_t_legend.html#a5fb28444569d9a9ce70b1adaca00de43", null ],
-    [ "insertPlot:atIndex:", "interface_c_p_t_legend.html#a3c88d38b1b1ecc6810cbba8466b1ddba", null ],
+    [ "insertPlot:atIndex:", "interface_c_p_t_legend.html#a1224b6862a368ffedc22fefe0a915488", null ],
     [ "plotAtIndex:", "interface_c_p_t_legend.html#aafc8557b48d67bdeb0a33be91812682d", null ],
     [ "plotWithIdentifier:", "interface_c_p_t_legend.html#ad6a7d44b5f6e40b2fc322b099208a34b", null ],
     [ "pointingDeviceDownEvent:atPoint:", "interface_c_p_t_legend.html#a0ab1e28e29e8f76082a8e17317f42a48", null ],

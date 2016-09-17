@@ -5,7 +5,7 @@ var interface_c_p_t_plot_area =
     [ "pointingDeviceDownEvent:atPoint:", "interface_c_p_t_plot_area.html#ad9c9a76da6c4688d2edc3fdf518f3dd7", null ],
     [ "pointingDeviceUpEvent:atPoint:", "interface_c_p_t_plot_area.html#a607bf1554f9894818e25e00ec43f6599", null ],
     [ "setAxisSetLayersForType:", "interface_c_p_t_plot_area.html#a0066c0b6b579af4650d53270e1e82381", null ],
-    [ "sublayerIndexForAxis:layerType:", "interface_c_p_t_plot_area.html#ad0618c8ec7317a3b625e6eac285a0a21", null ],
+    [ "sublayerIndexForAxis:layerType:", "interface_c_p_t_plot_area.html#aaef9208b30b978e6d23bfe648fd781be", null ],
     [ "updateAxisSetLayersForType:", "interface_c_p_t_plot_area.html#a5eab7932d8e866d0169b3d1dbc33201b", null ],
     [ "axisLabelGroup", "interface_c_p_t_plot_area.html#a21151f179b8c8cdfdc67bf26f493ac98", null ],
     [ "axisSet", "interface_c_p_t_plot_area.html#a03dbf640fd6852a8cf180ab4e3253ff1", null ],

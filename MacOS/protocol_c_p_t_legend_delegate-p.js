@@ -1,14 +1,14 @@
 var protocol_c_p_t_legend_delegate_p =
 [
-    [ "legend:fillForEntryAtIndex:forPlot:", "protocol_c_p_t_legend_delegate-p.html#a8d389314d94763bc09e733ff8baa4693", null ],
-    [ "legend:fillForSwatchAtIndex:forPlot:", "protocol_c_p_t_legend_delegate-p.html#ab7b039ca5ab26c51c0b3d9096c732672", null ],
-    [ "legend:legendEntryForPlot:touchDownAtIndex:", "protocol_c_p_t_legend_delegate-p.html#a0a729f72c95fc1da08c5c8a550af3fbf", null ],
-    [ "legend:legendEntryForPlot:touchDownAtIndex:withEvent:", "protocol_c_p_t_legend_delegate-p.html#aa0f6a0fe145e840caf91daaa359fc8bf", null ],
-    [ "legend:legendEntryForPlot:touchUpAtIndex:", "protocol_c_p_t_legend_delegate-p.html#a7f7bcf2bcb207319cf481d2fb999c147", null ],
-    [ "legend:legendEntryForPlot:touchUpAtIndex:withEvent:", "protocol_c_p_t_legend_delegate-p.html#a8fa4edd6de828fc7feea3997a581bb6e", null ],
-    [ "legend:legendEntryForPlot:wasSelectedAtIndex:", "protocol_c_p_t_legend_delegate-p.html#a5276f9afa4aec310fa5515c2ebc6cc87", null ],
-    [ "legend:legendEntryForPlot:wasSelectedAtIndex:withEvent:", "protocol_c_p_t_legend_delegate-p.html#a596252a671c445e87093ae6ddb3c5dec", null ],
-    [ "legend:lineStyleForEntryAtIndex:forPlot:", "protocol_c_p_t_legend_delegate-p.html#af36d3a7b33330d8f0012f13b33c38342", null ],
-    [ "legend:lineStyleForSwatchAtIndex:forPlot:", "protocol_c_p_t_legend_delegate-p.html#a588d1688c2e831eea3629278d63da76f", null ],
-    [ "legend:shouldDrawSwatchAtIndex:forPlot:inRect:inContext:", "protocol_c_p_t_legend_delegate-p.html#ab1b4c8c05007eabb5cfc3496bd5a24bc", null ]
+    [ "legend:fillForEntryAtIndex:forPlot:", "protocol_c_p_t_legend_delegate-p.html#a568734421af4eb48d4324f3d3a55144e", null ],
+    [ "legend:fillForSwatchAtIndex:forPlot:", "protocol_c_p_t_legend_delegate-p.html#ac80f3d28507c63969722ad6b0a7f83f0", null ],
+    [ "legend:legendEntryForPlot:touchDownAtIndex:", "protocol_c_p_t_legend_delegate-p.html#ad955ade0af871e9fcbea0e15aedd7edd", null ],
+    [ "legend:legendEntryForPlot:touchDownAtIndex:withEvent:", "protocol_c_p_t_legend_delegate-p.html#a7ab9997728f37e96f689053a31ccaeee", null ],
+    [ "legend:legendEntryForPlot:touchUpAtIndex:", "protocol_c_p_t_legend_delegate-p.html#a891165350c8e31915dd903794f4adb9a", null ],
+    [ "legend:legendEntryForPlot:touchUpAtIndex:withEvent:", "protocol_c_p_t_legend_delegate-p.html#aa26e8b0b41650dd61e113058de2ad640", null ],
+    [ "legend:legendEntryForPlot:wasSelectedAtIndex:", "protocol_c_p_t_legend_delegate-p.html#a19752d3da7ee464f5faeff34a54e7698", null ],
+    [ "legend:legendEntryForPlot:wasSelectedAtIndex:withEvent:", "protocol_c_p_t_legend_delegate-p.html#a5910019ee3960b043fe68fedbca23ae0", null ],
+    [ "legend:lineStyleForEntryAtIndex:forPlot:", "protocol_c_p_t_legend_delegate-p.html#a8cf16badda0f649b210d4f6cbaf53cf7", null ],
+    [ "legend:lineStyleForSwatchAtIndex:forPlot:", "protocol_c_p_t_legend_delegate-p.html#a96eaa1593cc6cd495d94ddb76750f599", null ],
+    [ "legend:shouldDrawSwatchAtIndex:forPlot:inRect:inContext:", "protocol_c_p_t_legend_delegate-p.html#af2f253e34078585116f32db12fb5ed12", null ]
 ];

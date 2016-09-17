@@ -1,9 +1,9 @@
 var protocol_c_p_t_bar_plot_data_source_p =
 [
-    [ "attributedLegendTitleForBarPlot:recordIndex:", "protocol_c_p_t_bar_plot_data_source-p.html#a8c68256f5545a7a25271a0518a06afff", null ],
-    [ "barFillForBarPlot:recordIndex:", "protocol_c_p_t_bar_plot_data_source-p.html#aa4f21393301ba30d5ad14996568d28c1", null ],
-    [ "barFillsForBarPlot:recordIndexRange:", "protocol_c_p_t_bar_plot_data_source-p.html#a1ce8b974f7a05fc40625d43fb7990e6b", null ],
-    [ "barLineStyleForBarPlot:recordIndex:", "protocol_c_p_t_bar_plot_data_source-p.html#aad6fe6ba19ef990936fbe9058e123edc", null ],
-    [ "barLineStylesForBarPlot:recordIndexRange:", "protocol_c_p_t_bar_plot_data_source-p.html#ac66008abe9713979c86d6854fe89f68c", null ],
-    [ "legendTitleForBarPlot:recordIndex:", "protocol_c_p_t_bar_plot_data_source-p.html#ae5cc931deb9179c772aa8e189ce8775a", null ]
+    [ "attributedLegendTitleForBarPlot:recordIndex:", "protocol_c_p_t_bar_plot_data_source-p.html#a0e1795cddb4a2fae402fee50767861f2", null ],
+    [ "barFillForBarPlot:recordIndex:", "protocol_c_p_t_bar_plot_data_source-p.html#aa297462b94f65d941c6434ce6b2bd0ad", null ],
+    [ "barFillsForBarPlot:recordIndexRange:", "protocol_c_p_t_bar_plot_data_source-p.html#ad2b4e390dab4b4ff89937627fd2507e4", null ],
+    [ "barLineStyleForBarPlot:recordIndex:", "protocol_c_p_t_bar_plot_data_source-p.html#a0671d7be31fe761e9f79159b0a9f9073", null ],
+    [ "barLineStylesForBarPlot:recordIndexRange:", "protocol_c_p_t_bar_plot_data_source-p.html#a6fba960432a2e1beca0562ce90a21f43", null ],
+    [ "legendTitleForBarPlot:recordIndex:", "protocol_c_p_t_bar_plot_data_source-p.html#a712f2ae375aefbb73cb901641aab88bc", null ]
 ];

@@ -1,9 +1,9 @@
 var protocol_c_p_t_bar_plot_delegate_p =
 [
-    [ "barPlot:barTouchDownAtRecordIndex:", "protocol_c_p_t_bar_plot_delegate-p.html#a1ec567d76761157953a1ee4ead56ac67", null ],
-    [ "barPlot:barTouchDownAtRecordIndex:withEvent:", "protocol_c_p_t_bar_plot_delegate-p.html#ae5b3f53d6194eabe9caac1dee47b7625", null ],
-    [ "barPlot:barTouchUpAtRecordIndex:", "protocol_c_p_t_bar_plot_delegate-p.html#ad78bf9dcfb456736d6615b14b95ccd44", null ],
-    [ "barPlot:barTouchUpAtRecordIndex:withEvent:", "protocol_c_p_t_bar_plot_delegate-p.html#ab490e01857bbdf4732a5f6215486bd1b", null ],
-    [ "barPlot:barWasSelectedAtRecordIndex:", "protocol_c_p_t_bar_plot_delegate-p.html#a9e3e24f0966e49a6edee4c25b8dd4989", null ],
-    [ "barPlot:barWasSelectedAtRecordIndex:withEvent:", "protocol_c_p_t_bar_plot_delegate-p.html#a8459240fd936ef936a9bb01bfd9840eb", null ]
+    [ "barPlot:barTouchDownAtRecordIndex:", "protocol_c_p_t_bar_plot_delegate-p.html#a83cf1f7de5b6276dba9151c8c727164d", null ],
+    [ "barPlot:barTouchDownAtRecordIndex:withEvent:", "protocol_c_p_t_bar_plot_delegate-p.html#a0fb77ff09e6d8500a9333f7637d6e5c6", null ],
+    [ "barPlot:barTouchUpAtRecordIndex:", "protocol_c_p_t_bar_plot_delegate-p.html#aaf61fcda82b58df5715506f240c2f2d0", null ],
+    [ "barPlot:barTouchUpAtRecordIndex:withEvent:", "protocol_c_p_t_bar_plot_delegate-p.html#a8a3b7c083e2b50a37ccded357fa6e741", null ],
+    [ "barPlot:barWasSelectedAtRecordIndex:", "protocol_c_p_t_bar_plot_delegate-p.html#a1df7af58a3cce2379ff60d3f4521a19d", null ],
+    [ "barPlot:barWasSelectedAtRecordIndex:withEvent:", "protocol_c_p_t_bar_plot_delegate-p.html#a8028e23c374c115c461707736ae135cc", null ]
 ];

@@ -3,7 +3,7 @@ var interface_c_p_t_axis =
     [ "addBackgroundLimitBand:", "interface_c_p_t_axis.html#afb4ce40e9d18ed73473577c7c535790c", null ],
     [ "drawBackgroundBandsInContext:", "interface_c_p_t_axis.html#ab358fc4bc117b2babe4d8bccc45f6295", null ],
     [ "drawBackgroundLimitsInContext:", "interface_c_p_t_axis.html#a1beb58e26196760016ad7f88da32239b", null ],
-    [ "drawGridLinesInContext:isMajor:", "interface_c_p_t_axis.html#a8216e875512416dd7b94f017b8286429", null ],
+    [ "drawGridLinesInContext:isMajor:", "interface_c_p_t_axis.html#a48591f5994ba9d0ece392cb684712194", null ],
     [ "filteredMajorTickLocations:", "interface_c_p_t_axis.html#a6692d1d18768ac96f539c17a1c55f086", null ],
     [ "filteredMinorTickLocations:", "interface_c_p_t_axis.html#a22c5fcc0e654b34e2db8fecff906f4f4", null ],
     [ "initWithFrame:", "interface_c_p_t_axis.html#a639876c8eca11dd4eeefe5b49fbd4eee", null ],

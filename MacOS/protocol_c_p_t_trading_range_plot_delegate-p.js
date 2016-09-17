@@ -1,9 +1,9 @@
 var protocol_c_p_t_trading_range_plot_delegate_p =
 [
-    [ "tradingRangePlot:barTouchDownAtRecordIndex:", "protocol_c_p_t_trading_range_plot_delegate-p.html#abb176a0627608db8f76aec415e8dee50", null ],
-    [ "tradingRangePlot:barTouchDownAtRecordIndex:withEvent:", "protocol_c_p_t_trading_range_plot_delegate-p.html#a4d9e9acd27cbc5578677f2d30fecd761", null ],
-    [ "tradingRangePlot:barTouchUpAtRecordIndex:", "protocol_c_p_t_trading_range_plot_delegate-p.html#a5cf43508392331fa55fb47508bb26fb3", null ],
-    [ "tradingRangePlot:barTouchUpAtRecordIndex:withEvent:", "protocol_c_p_t_trading_range_plot_delegate-p.html#a35084c507852c1bcdcb74b920d46e943", null ],
-    [ "tradingRangePlot:barWasSelectedAtRecordIndex:", "protocol_c_p_t_trading_range_plot_delegate-p.html#a9f7353f228a39516ccb64cea0564a336", null ],
-    [ "tradingRangePlot:barWasSelectedAtRecordIndex:withEvent:", "protocol_c_p_t_trading_range_plot_delegate-p.html#a5dfae83ad0dc80a3522389a33b9073d8", null ]
+    [ "tradingRangePlot:barTouchDownAtRecordIndex:", "protocol_c_p_t_trading_range_plot_delegate-p.html#a4a0d6a1efd2058d27b4fa27a8f35c598", null ],
+    [ "tradingRangePlot:barTouchDownAtRecordIndex:withEvent:", "protocol_c_p_t_trading_range_plot_delegate-p.html#a7337578756ed84a442ea41e00f7c4322", null ],
+    [ "tradingRangePlot:barTouchUpAtRecordIndex:", "protocol_c_p_t_trading_range_plot_delegate-p.html#aa5028fb5bc72467f6d989c71176e2451", null ],
+    [ "tradingRangePlot:barTouchUpAtRecordIndex:withEvent:", "protocol_c_p_t_trading_range_plot_delegate-p.html#a41a390fb993c7b72b30f18ce0608593c", null ],
+    [ "tradingRangePlot:barWasSelectedAtRecordIndex:", "protocol_c_p_t_trading_range_plot_delegate-p.html#a2387b202b70e20e0744d3fc794bfd0e5", null ],
+    [ "tradingRangePlot:barWasSelectedAtRecordIndex:withEvent:", "protocol_c_p_t_trading_range_plot_delegate-p.html#a64b9d481fa10094bf479022594cd3792", null ]
 ];

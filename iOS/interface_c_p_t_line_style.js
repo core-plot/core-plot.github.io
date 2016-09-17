@@ -3,7 +3,7 @@ var interface_c_p_t_line_style =
     [ "init", "interface_c_p_t_line_style.html#a61c9cb743a6eb09ecf9c9602219e193f", null ],
     [ "setLineStyleInContext:", "interface_c_p_t_line_style.html#a16f79728896db0e23df9051b7873ed2a", null ],
     [ "strokePathInContext:", "interface_c_p_t_line_style.html#a67f5ae52dac13e05062874ff1555f58b", null ],
-    [ "strokeRect:inContext:", "interface_c_p_t_line_style.html#a4379c9a8c890a18a0a59cf84ec472977", null ],
+    [ "strokeRect:inContext:", "interface_c_p_t_line_style.html#a374e05ae88dcd397d78670bd75ca3187", null ],
     [ "dashPattern", "interface_c_p_t_line_style.html#a5c11d3c4bf3da304d052cb22b02206e4", null ],
     [ "lineCap", "interface_c_p_t_line_style.html#a6766f6b71b5802ae5d68ed5eb6a9f02d", null ],
     [ "lineColor", "interface_c_p_t_line_style.html#a9528694a0eab5076c01006fb8bbe1e57", null ],
