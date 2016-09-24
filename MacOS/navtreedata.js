@@ -1,6 +1,6 @@
 var NAVTREE =
 [
-  [ "Core Plot (Mac OS)", "index.html", [
+  [ "Core Plot (macOS)", "index.html", [
     [ "Core Plot", "index.html", [
       [ "Introduction", "index.html#intro", null ],
       [ "Getting Started", "index.html#start", null ],
