@@ -67,14 +67,14 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_c_p_t_animation_8h.html",
-"_c_p_t_legend_8h.html#af8630caad81a42391a1988908c5d4deea4b94ac0e4fe50dc1829de21c754fd287",
-"_c_p_t_theme_8h_source.html",
-"category_c_p_t_plot_space_07_abstract_methods_08.html#ace7fc651fb73f15cb821bde3b72e6a5c",
-"group__plot_bindings_all_plots.html",
-"interface_c_p_t_axis_set.html#a94670949ee600ef078271b03ebb8492b",
-"interface_c_p_t_limit_band.html#ac1783d7320e22f4aa11370fefbf51008",
-"interface_c_p_t_plot_space.html#a410a0ae88d27bd0be8affe618adc0f32",
-"protocol_c_p_t_plot_data_source-p.html#a7ceb0a2b5b225e89e21aff393b01b265"
+"_c_p_t_legend_8h.html#a661c61e1c6e55b6afc1f8f9fbe5f43f1",
+"_c_p_t_text_style_platform_specific_8h.html",
+"category_c_p_t_plot_07_abstract_methods_08.html#a8e84c8795dc66a2e0c42b7eb046a92d1",
+"group__plot_animation_bar_plot.html#ga1ba05e25fedbec2194ab2ade17ac78b8",
+"interface_c_p_t_axis.html#a97acd0e8400a3a5050008c74cc37adc7",
+"interface_c_p_t_layer.html#ae0db7ba3c88397b256c433db533cb1ef",
+"interface_c_p_t_plot_area.html#a29aeccafdffb25a1df2d81566a02c37d",
+"interface_c_p_t_x_y_plot_space.html#a3f3bcdebd7f8dd5aa836f6d3518d6d41"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -1,5 +1,6 @@
 var _c_p_t_trading_range_plot_8m =
 [
+    [ "CPTTradingRangePlotBindingBarWidths", "_c_p_t_trading_range_plot_8m.html#aec9b583071a81344a6523c91fc569adc", null ],
     [ "CPTTradingRangePlotBindingCloseValues", "_c_p_t_trading_range_plot_8m.html#afccd6de9146bc2bb93f0b75f4b3a01be", null ],
     [ "CPTTradingRangePlotBindingDecreaseFills", "_c_p_t_trading_range_plot_8m.html#a782a2c042c906b5e35810d5dc1cc3155", null ],
     [ "CPTTradingRangePlotBindingDecreaseLineStyles", "_c_p_t_trading_range_plot_8m.html#af8475e155c6c5381f3ab10f2459e7c7b", null ],

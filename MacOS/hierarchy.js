@@ -38,7 +38,6 @@ var hierarchy =
     [ "CPTAnimationPeriod(AbstractMethods)", "category_c_p_t_animation_period_07_abstract_methods_08.html", null ],
     [ "CPTAnnotation(AbstractMethods)", "category_c_p_t_annotation_07_abstract_methods_08.html", null ],
     [ "CPTAxis(AbstractMethods)", "category_c_p_t_axis_07_abstract_methods_08.html", null ],
-    [ "CPTColor(CPTPlatformSpecificColorExtensions)", "category_c_p_t_color_07_c_p_t_platform_specific_color_extensions_08.html", null ],
     [ "CPTConstraints(AbstractMethods)", "category_c_p_t_constraints_07_abstract_methods_08.html", null ],
     [ "CPTEdgeInsets", "struct_c_p_t_edge_insets.html", null ],
     [ "CPTFill(AbstractMethods)", "category_c_p_t_fill_07_abstract_methods_08.html", null ],

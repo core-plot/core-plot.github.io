@@ -12,7 +12,12 @@ var _c_p_t_range_plot_8h =
       [ "CPTRangePlotFieldLeft", "_c_p_t_range_plot_8h.html#a211fa4c7854ac144208335b5f5813d4cadbfe3be0caecbed6cc7325a44993fb53", null ],
       [ "CPTRangePlotFieldRight", "_c_p_t_range_plot_8h.html#a211fa4c7854ac144208335b5f5813d4ca74e695001b141f0fcad014d309a11244", null ]
     ] ],
+    [ "CPTRangePlotFillDirection", "_c_p_t_range_plot_8h.html#aeac5560ecc078993bb8201e9903833a6", [
+      [ "CPTRangePlotFillHorizontal", "_c_p_t_range_plot_8h.html#aeac5560ecc078993bb8201e9903833a6a83a2fd70706ec648b6c31452c7af6021", null ],
+      [ "CPTRangePlotFillVertical", "_c_p_t_range_plot_8h.html#aeac5560ecc078993bb8201e9903833a6a02722f0ec316f1fe971b665c245f4750", null ]
+    ] ],
     [ "CPTRangePlotBindingBarLineStyles", "_c_p_t_range_plot_8h.html#aa0ebccc1b1c46c020d0fae82fdc73b97", null ],
+    [ "CPTRangePlotBindingBarWidths", "_c_p_t_range_plot_8h.html#a55c00dd46da597cd1f37f1970eb9e27e", null ],
     [ "CPTRangePlotBindingHighValues", "_c_p_t_range_plot_8h.html#a461a96899a5e3c6a0d12b7883e20db51", null ],
     [ "CPTRangePlotBindingLeftValues", "_c_p_t_range_plot_8h.html#a2e3a0975ad7150b69807781649217505", null ],
     [ "CPTRangePlotBindingLowValues", "_c_p_t_range_plot_8h.html#a886114006e1b0ce3fee4aab2a4b4326a", null ],

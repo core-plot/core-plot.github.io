@@ -113,6 +113,12 @@ Public Instance Methods</h2></td></tr>
 <tr class="memitem:a0671d7be31fe761e9f79159b0a9f9073"><td class="memItemLeft" align="right" valign="top">(nullable <a class="el" href="interface_c_p_t_line_style.html">CPTLineStyle</a> *)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="protocol_c_p_t_bar_plot_data_source-p.html#a0671d7be31fe761e9f79159b0a9f9073">barLineStyleForBarPlot:recordIndex:</a></td></tr>
 <tr class="memdesc:a0671d7be31fe761e9f79159b0a9f9073"><td class="mdescLeft">&#160;</td><td class="mdescRight">(<em>Optional</em>) Gets a bar line style for the given bar plot. This method will not be called if <a class="el" href="protocol_c_p_t_bar_plot_data_source-p.html#a6fba960432a2e1beca0562ce90a21f43">-barLineStylesForBarPlot:recordIndexRange: </a> is also implemented in the datasource.  <a href="#a0671d7be31fe761e9f79159b0a9f9073">More...</a><br /></td></tr>
 <tr class="separator:a0671d7be31fe761e9f79159b0a9f9073"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8c6a4845dbae022c906d147cd3e45a79"><td class="memItemLeft" align="right" valign="top">(nullable <a class="el" href="_c_p_t_definitions_8h.html#ab724431377dfda2f65b8162c9d781920">CPTNumberArray</a> *)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="protocol_c_p_t_bar_plot_data_source-p.html#a8c6a4845dbae022c906d147cd3e45a79">barWidthsForBarPlot:recordIndexRange:</a></td></tr>
+<tr class="memdesc:a8c6a4845dbae022c906d147cd3e45a79"><td class="mdescLeft">&#160;</td><td class="mdescRight">(<em>Optional</em>) Gets an array of bar widths for the given bar plot.  <a href="#a8c6a4845dbae022c906d147cd3e45a79">More...</a><br /></td></tr>
+<tr class="separator:a8c6a4845dbae022c906d147cd3e45a79"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0b191fa44feb1c82b791521ef48f7065"><td class="memItemLeft" align="right" valign="top">(nullable <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSNumber_Class/Reference/Reference.html">NSNumber</a> *)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="protocol_c_p_t_bar_plot_data_source-p.html#a0b191fa44feb1c82b791521ef48f7065">barWidthForBarPlot:recordIndex:</a></td></tr>
+<tr class="memdesc:a0b191fa44feb1c82b791521ef48f7065"><td class="mdescLeft">&#160;</td><td class="mdescRight">(<em>Optional</em>) Gets a bar width for the given bar plot. This method will not be called if <a class="el" href="protocol_c_p_t_bar_plot_data_source-p.html#a8c6a4845dbae022c906d147cd3e45a79">-barWidthsForBarPlot:recordIndexRange: </a> is also implemented in the datasource.  <a href="#a0b191fa44feb1c82b791521ef48f7065">More...</a><br /></td></tr>
+<tr class="separator:a0b191fa44feb1c82b791521ef48f7065"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr><td colspan="2"><div class="groupHeader">Legends</div></td></tr>
 <tr class="memitem:a712f2ae375aefbb73cb901641aab88bc"><td class="memItemLeft" align="right" valign="top">(nullable <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html">NSString</a> *)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="protocol_c_p_t_bar_plot_data_source-p.html#a712f2ae375aefbb73cb901641aab88bc">legendTitleForBarPlot:recordIndex:</a></td></tr>
 <tr class="memdesc:a712f2ae375aefbb73cb901641aab88bc"><td class="mdescLeft">&#160;</td><td class="mdescRight">(<em>Optional</em>) Gets the legend title for the given bar plot bar.  <a href="#a712f2ae375aefbb73cb901641aab88bc">More...</a><br /></td></tr>
@@ -346,6 +352,82 @@ Public Instance Methods</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>An array of line styles. </dd></dl>
+
+</div>
+</div>
+<a id="a0b191fa44feb1c82b791521ef48f7065"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0b191fa44feb1c82b791521ef48f7065">&#9670;&nbsp;</a></span>barWidthForBarPlot:recordIndex:()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (nullable <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSNumber_Class/Reference/Reference.html">NSNumber</a> *) barWidthForBarPlot: </td>
+          <td></td>
+          <td class="paramtype">(nonnull <a class="el" href="interface_c_p_t_bar_plot.html">CPTBarPlot</a> *)&#160;</td>
+          <td class="paramname"><em>barPlot</em></td>
+        </tr>
+        <tr>
+          <td class="paramkey">recordIndex:</td>
+          <td></td>
+          <td class="paramtype">(<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Miscellaneous/Foundation_DataTypes/Reference/reference.html#//apple_ref/c/tdef/NSUInteger">NSUInteger</a>)&#160;</td>
+          <td class="paramname"><em>idx</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>(<em>Optional</em>) Gets a bar width for the given bar plot. This method will not be called if <a class="el" href="protocol_c_p_t_bar_plot_data_source-p.html#a8c6a4845dbae022c906d147cd3e45a79">-barWidthsForBarPlot:recordIndexRange: </a> is also implemented in the datasource. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">barPlot</td><td>The bar plot. </td></tr>
+    <tr><td class="paramname">idx</td><td>The data index of interest. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>The bar width for the bar with the given index. If the data source returns <a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/doc/c_ref/nil">nil</a>, the default barWidth is used. </dd></dl>
+
+</div>
+</div>
+<a id="a8c6a4845dbae022c906d147cd3e45a79"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8c6a4845dbae022c906d147cd3e45a79">&#9670;&nbsp;</a></span>barWidthsForBarPlot:recordIndexRange:()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (nullable <a class="el" href="_c_p_t_definitions_8h.html#ab724431377dfda2f65b8162c9d781920">CPTNumberArray</a> *) barWidthsForBarPlot: </td>
+          <td></td>
+          <td class="paramtype">(nonnull <a class="el" href="interface_c_p_t_bar_plot.html">CPTBarPlot</a> *)&#160;</td>
+          <td class="paramname"><em>barPlot</em></td>
+        </tr>
+        <tr>
+          <td class="paramkey">recordIndexRange:</td>
+          <td></td>
+          <td class="paramtype">(<a class="elRef" href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Miscellaneous/Foundation_DataTypes/Reference/reference.html#//apple_ref/c/tdef/NSRange">NSRange</a>)&#160;</td>
+          <td class="paramname"><em>indexRange</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>(<em>Optional</em>) Gets an array of bar widths for the given bar plot. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">barPlot</td><td>The bar plot. </td></tr>
+    <tr><td class="paramname">indexRange</td><td>The range of the data indexes of interest. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>An array of bar widths. </dd></dl>
 
 </div>
 </div>

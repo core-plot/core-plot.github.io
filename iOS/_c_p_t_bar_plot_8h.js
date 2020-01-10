@@ -13,5 +13,6 @@ var _c_p_t_bar_plot_8h =
     [ "CPTBarPlotBindingBarFills", "_c_p_t_bar_plot_8h.html#aaf9e8bd5407d194b07e112b02b3abefc", null ],
     [ "CPTBarPlotBindingBarLineStyles", "_c_p_t_bar_plot_8h.html#a4cb6649b705c31309810839dbc238fe2", null ],
     [ "CPTBarPlotBindingBarLocations", "_c_p_t_bar_plot_8h.html#aa8d3317f4d99187b87dd0a68502d0a94", null ],
-    [ "CPTBarPlotBindingBarTips", "_c_p_t_bar_plot_8h.html#ab2befe659c17485de3406bbf8f4a92cb", null ]
+    [ "CPTBarPlotBindingBarTips", "_c_p_t_bar_plot_8h.html#ab2befe659c17485de3406bbf8f4a92cb", null ],
+    [ "CPTBarPlotBindingBarWidths", "_c_p_t_bar_plot_8h.html#afcf5e38b6ac85bd1c1afe17942b39f95", null ]
 ];

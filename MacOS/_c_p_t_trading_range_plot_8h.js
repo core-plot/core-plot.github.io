@@ -15,6 +15,7 @@ var _c_p_t_trading_range_plot_8h =
       [ "CPTTradingRangePlotStyleOHLC", "_c_p_t_trading_range_plot_8h.html#a8f503cef60686b8e2b4dc066d300dab2a1577be7fb34f7364efc4006066bb6d88", null ],
       [ "CPTTradingRangePlotStyleCandleStick", "_c_p_t_trading_range_plot_8h.html#a8f503cef60686b8e2b4dc066d300dab2a3d54a828cf54db92e940948bfe7d3076", null ]
     ] ],
+    [ "CPTTradingRangePlotBindingBarWidths", "group__plot_bindings_trading_range_plot.html#gafe328775c0ddb5d5138022d44213b976", null ],
     [ "CPTTradingRangePlotBindingCloseValues", "group__plot_bindings_trading_range_plot.html#ga6665b14b0af45bcfa7031c1e25223a72", null ],
     [ "CPTTradingRangePlotBindingDecreaseFills", "group__plot_bindings_trading_range_plot.html#gaa76da6506eaf7e8f03d59d2ba0273b7e", null ],
     [ "CPTTradingRangePlotBindingDecreaseLineStyles", "group__plot_bindings_trading_range_plot.html#gaa4350b1c18418a97c709784985c78fdc", null ],

@@ -7,6 +7,8 @@ var interface_c_p_t_trading_range_plot =
     [ "reloadBarFillsInIndexRange:", "interface_c_p_t_trading_range_plot.html#a0fb59be5e64d2ef867236bd4b0585012", null ],
     [ "reloadBarLineStyles", "interface_c_p_t_trading_range_plot.html#a290e768f2bba28066d3c1f827dd3b370", null ],
     [ "reloadBarLineStylesInIndexRange:", "interface_c_p_t_trading_range_plot.html#a2580f7bffa74763c88b6991efc39ca50", null ],
+    [ "reloadBarWidths", "interface_c_p_t_trading_range_plot.html#a01ee3755082a95f01028733f332d3374", null ],
+    [ "reloadBarWidthsInIndexRange:", "interface_c_p_t_trading_range_plot.html#a104a5d037f4fa31ade4922563423f53f", null ],
     [ "barCornerRadius", "group__plot_animation_trading_range_plot.html#ga2e9f919d3391c00618891cf4b187e0b7", null ],
     [ "barWidth", "group__plot_animation_trading_range_plot.html#gabb195850cc3e10886c76e4d326563e4f", null ],
     [ "decreaseFill", "interface_c_p_t_trading_range_plot.html#ac7f79a72bd190fddd8cd97a72a31dd99", null ],

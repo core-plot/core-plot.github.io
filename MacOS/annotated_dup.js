@@ -22,7 +22,6 @@ var annotated_dup =
     [ "CPTBorderedLayer", "interface_c_p_t_bordered_layer.html", "interface_c_p_t_bordered_layer" ],
     [ "CPTCalendarFormatter", "interface_c_p_t_calendar_formatter.html", "interface_c_p_t_calendar_formatter" ],
     [ "CPTColor", "interface_c_p_t_color.html", "interface_c_p_t_color" ],
-    [ "CPTColor(CPTPlatformSpecificColorExtensions)", "category_c_p_t_color_07_c_p_t_platform_specific_color_extensions_08.html", "category_c_p_t_color_07_c_p_t_platform_specific_color_extensions_08" ],
     [ "CPTColorSpace", "interface_c_p_t_color_space.html", "interface_c_p_t_color_space" ],
     [ "CPTConstraints", "interface_c_p_t_constraints.html", "interface_c_p_t_constraints" ],
     [ "CPTConstraints(AbstractMethods)", "category_c_p_t_constraints_07_abstract_methods_08.html", "category_c_p_t_constraints_07_abstract_methods_08" ],

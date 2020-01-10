@@ -2,7 +2,7 @@ var interface_c_p_t_text_layer =
 [
     [ "initWithAttributedText:", "interface_c_p_t_text_layer.html#a596d813e67878710991679d7d6f10f93", null ],
     [ "initWithCoder:", "interface_c_p_t_text_layer.html#a6e98d70d63634a7b8074246e6d11356c", null ],
-    [ "initWithFrame:", "interface_c_p_t_text_layer.html#ada0e2703e4f74ba76e670008f17273e4", null ],
+    [ "initWithFrame:", "interface_c_p_t_text_layer.html#ab8ccb931099c12ccdab894a6b7bd55cf", null ],
     [ "initWithLayer:", "interface_c_p_t_text_layer.html#ad925a63c3c20fcc369d5effca5eaaf1f", null ],
     [ "initWithText:", "interface_c_p_t_text_layer.html#aada9d9862292daa8bf37a2494ee3979c", null ],
     [ "initWithText:style:", "interface_c_p_t_text_layer.html#a4975fcc302ab8bc2bc99117962eb687c", null ],

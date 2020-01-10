@@ -1,5 +1,7 @@
 var protocol_c_p_t_trading_range_plot_data_source_p =
 [
+    [ "barWidthForTradingRangePlot:recordIndex:", "protocol_c_p_t_trading_range_plot_data_source-p.html#a96cda7a1b22501cf7873f576b5b1fb06", null ],
+    [ "barWidthsForTradingRangePlot:recordIndexRange:", "protocol_c_p_t_trading_range_plot_data_source-p.html#a4a2b422607ff06334a60fbadf1ce9633", null ],
     [ "decreaseFillForTradingRangePlot:recordIndex:", "protocol_c_p_t_trading_range_plot_data_source-p.html#aadd41a10434fb349e0077ff64f5efc8c", null ],
     [ "decreaseFillsForTradingRangePlot:recordIndexRange:", "protocol_c_p_t_trading_range_plot_data_source-p.html#a9771a8e415965faa0d4134bdac98d77c", null ],
     [ "decreaseLineStyleForTradingRangePlot:recordIndex:", "protocol_c_p_t_trading_range_plot_data_source-p.html#a445a55ecddbbf72e7163e2edbe8184b3", null ],

@@ -6,7 +6,6 @@ var dir_8e887900a77229ab8eb235fe2838d0f9 =
     [ "CPTGraphHostingView.m", "_c_p_t_graph_hosting_view_8m.html", null ],
     [ "CPTImagePlatformSpecific.m", "_c_p_t_image_platform_specific_8m.html", null ],
     [ "CPTPlatformSpecificCategories.h", "_c_p_t_platform_specific_categories_8h.html", [
-      [ "CPTColor(CPTPlatformSpecificColorExtensions)", "category_c_p_t_color_07_c_p_t_platform_specific_color_extensions_08.html", "category_c_p_t_color_07_c_p_t_platform_specific_color_extensions_08" ],
       [ "CPTLayer(CPTPlatformSpecificLayerExtensions)", "category_c_p_t_layer_07_c_p_t_platform_specific_layer_extensions_08.html", "category_c_p_t_layer_07_c_p_t_platform_specific_layer_extensions_08" ],
       [ "NSNumber(CPTPlatformSpecificNumberExtensions)", "category_n_s_number_07_c_p_t_platform_specific_number_extensions_08.html", "category_n_s_number_07_c_p_t_platform_specific_number_extensions_08" ],
       [ "NSAttributedString(CPTPlatformSpecificAttributedStringExtensions)", "category_n_s_attributed_string_07_c_p_t_platform_specific_attributed_string_extensions_08.html", "category_n_s_attributed_string_07_c_p_t_platform_specific_attributed_string_extensions_08" ]

@@ -1,6 +1,8 @@
 var interface_c_p_t_fill =
 [
     [ "fillPathInContext:", "interface_c_p_t_fill.html#aeab36a4de8f9ec4b509e368779d3a931", null ],
+    [ "fillPathInContext:", "interface_c_p_t_fill.html#a51e151995a878c240d97ec24bbed2ca9", null ],
+    [ "fillRect:inContext:", "interface_c_p_t_fill.html#a7fb324a49118e9aa7eac033e44189023", null ],
     [ "fillRect:inContext:", "interface_c_p_t_fill.html#ac56fbd77bbce80a3f24f2b7341c01e38", null ],
     [ "initWithColor:", "interface_c_p_t_fill.html#a6060a7ddee8a5f8f8b283695af9607a4", null ],
     [ "initWithGradient:", "interface_c_p_t_fill.html#ad9c3ca31ef94768436bb4b7580fea6f6", null ],

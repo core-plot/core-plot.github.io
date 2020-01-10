@@ -8,6 +8,8 @@ var interface_c_p_t_bar_plot =
     [ "reloadBarFillsInIndexRange:", "interface_c_p_t_bar_plot.html#a12b7193a9de077d448210b2e5f2a4df4", null ],
     [ "reloadBarLineStyles", "interface_c_p_t_bar_plot.html#a33b2c6457ab3214ed9d8c66e5c1c85b9", null ],
     [ "reloadBarLineStylesInIndexRange:", "interface_c_p_t_bar_plot.html#a016e463e30f5fca53f2b67aab2834f57", null ],
+    [ "reloadBarWidths", "interface_c_p_t_bar_plot.html#a6741b28c776779a44ab38a116bd8cd57", null ],
+    [ "reloadBarWidthsInIndexRange:", "interface_c_p_t_bar_plot.html#ad0ee423bee45a5c311e4916f6d4a6195", null ],
     [ "barBaseCornerRadius", "group__plot_animation_bar_plot.html#ga1ba05e25fedbec2194ab2ade17ac78b8", null ],
     [ "barBasesVary", "interface_c_p_t_bar_plot.html#aa8ae06060f09c97697a051358def4d4e", null ],
     [ "barCornerRadius", "group__plot_animation_bar_plot.html#ga872d2d85e4df97a300dbd553900d96ca", null ],

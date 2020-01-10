@@ -113,6 +113,12 @@ Public Instance Methods</h2></td></tr>
 <tr class="memitem:aadd41a10434fb349e0077ff64f5efc8c"><td class="memItemLeft" align="right" valign="top">(nullable <a class="el" href="interface_c_p_t_fill.html">CPTFill</a> *)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="protocol_c_p_t_trading_range_plot_data_source-p.html#aadd41a10434fb349e0077ff64f5efc8c">decreaseFillForTradingRangePlot:recordIndex:</a></td></tr>
 <tr class="memdesc:aadd41a10434fb349e0077ff64f5efc8c"><td class="mdescLeft">&#160;</td><td class="mdescRight">(<em>Optional</em>) Gets the fill used with a candlestick plot when close &lt; open for the given plot. This method will not be called if <a class="el" href="protocol_c_p_t_trading_range_plot_data_source-p.html#a9771a8e415965faa0d4134bdac98d77c">-decreaseFillsForTradingRangePlot:recordIndexRange: </a> is also implemented in the datasource.  <a href="#aadd41a10434fb349e0077ff64f5efc8c">More...</a><br /></td></tr>
 <tr class="separator:aadd41a10434fb349e0077ff64f5efc8c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4a2b422607ff06334a60fbadf1ce9633"><td class="memItemLeft" align="right" valign="top">(nullable <a class="el" href="_c_p_t_definitions_8h.html#ab724431377dfda2f65b8162c9d781920">CPTNumberArray</a> *)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="protocol_c_p_t_trading_range_plot_data_source-p.html#a4a2b422607ff06334a60fbadf1ce9633">barWidthsForTradingRangePlot:recordIndexRange:</a></td></tr>
+<tr class="memdesc:a4a2b422607ff06334a60fbadf1ce9633"><td class="mdescLeft">&#160;</td><td class="mdescRight">(<em>Optional</em>) Gets an array of bar widths for the given trading range plot.  <a href="#a4a2b422607ff06334a60fbadf1ce9633">More...</a><br /></td></tr>
+<tr class="separator:a4a2b422607ff06334a60fbadf1ce9633"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96cda7a1b22501cf7873f576b5b1fb06"><td class="memItemLeft" align="right" valign="top">(nullable <a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSNumber_Class/Reference/Reference.html">NSNumber</a> *)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="protocol_c_p_t_trading_range_plot_data_source-p.html#a96cda7a1b22501cf7873f576b5b1fb06">barWidthForTradingRangePlot:recordIndex:</a></td></tr>
+<tr class="memdesc:a96cda7a1b22501cf7873f576b5b1fb06"><td class="mdescLeft">&#160;</td><td class="mdescRight">(<em>Optional</em>) Gets a bar width for the given trading range plot. This method will not be called if <a class="el" href="">-barWidthForTradingRangePlot:recordIndexRange: </a> is also implemented in the datasource.  <a href="#a96cda7a1b22501cf7873f576b5b1fb06">More...</a><br /></td></tr>
+<tr class="separator:a96cda7a1b22501cf7873f576b5b1fb06"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr><td colspan="2"><div class="groupHeader">Bar Line Styles</div></td></tr>
 <tr class="memitem:a34d268e0656a07eed6155b93512a4097"><td class="memItemLeft" align="right" valign="top">(nullable <a class="el" href="_c_p_t_line_style_8h.html#a3e697a07384fa04abd1e4a985f5acd6b">CPTLineStyleArray</a> *)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="protocol_c_p_t_trading_range_plot_data_source-p.html#a34d268e0656a07eed6155b93512a4097">lineStylesForTradingRangePlot:recordIndexRange:</a></td></tr>
 <tr class="memdesc:a34d268e0656a07eed6155b93512a4097"><td class="mdescLeft">&#160;</td><td class="mdescRight">(<em>Optional</em>) Gets a range of line styles used to draw candlestick or OHLC symbols for the given trading range plot.  <a href="#a34d268e0656a07eed6155b93512a4097">More...</a><br /></td></tr>
@@ -171,6 +177,82 @@ Public Instance Methods</h2></td></tr>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>A trading range plot data source. </p>
 </div><h2 class="groupheader">Method Documentation</h2>
+<a id="a96cda7a1b22501cf7873f576b5b1fb06"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a96cda7a1b22501cf7873f576b5b1fb06">&#9670;&nbsp;</a></span>barWidthForTradingRangePlot:recordIndex:()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (nullable <a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSNumber_Class/Reference/Reference.html">NSNumber</a> *) barWidthForTradingRangePlot: </td>
+          <td></td>
+          <td class="paramtype">(nonnull <a class="el" href="interface_c_p_t_trading_range_plot.html">CPTTradingRangePlot</a> *)&#160;</td>
+          <td class="paramname"><em>plot</em></td>
+        </tr>
+        <tr>
+          <td class="paramkey">recordIndex:</td>
+          <td></td>
+          <td class="paramtype">(<a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Miscellaneous/Foundation_DataTypes/Reference/reference.html#//apple_ref/c/tdef/NSUInteger">NSUInteger</a>)&#160;</td>
+          <td class="paramname"><em>idx</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>(<em>Optional</em>) Gets a bar width for the given trading range plot. This method will not be called if <a class="el" href="">-barWidthForTradingRangePlot:recordIndexRange: </a> is also implemented in the datasource. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">plot</td><td>The tradingrange plot. </td></tr>
+    <tr><td class="paramname">idx</td><td>The data index of interest. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>The bar width for the bar with the given index. If the data source returns <a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/doc/c_ref/nil">nil</a>, the default barWidth is used. </dd></dl>
+
+</div>
+</div>
+<a id="a4a2b422607ff06334a60fbadf1ce9633"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4a2b422607ff06334a60fbadf1ce9633">&#9670;&nbsp;</a></span>barWidthsForTradingRangePlot:recordIndexRange:()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (nullable <a class="el" href="_c_p_t_definitions_8h.html#ab724431377dfda2f65b8162c9d781920">CPTNumberArray</a> *) barWidthsForTradingRangePlot: </td>
+          <td></td>
+          <td class="paramtype">(nonnull <a class="el" href="interface_c_p_t_trading_range_plot.html">CPTTradingRangePlot</a> *)&#160;</td>
+          <td class="paramname"><em>barPlot</em></td>
+        </tr>
+        <tr>
+          <td class="paramkey">recordIndexRange:</td>
+          <td></td>
+          <td class="paramtype">(<a class="elRef" href="https://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Miscellaneous/Foundation_DataTypes/Reference/reference.html#//apple_ref/c/tdef/NSRange">NSRange</a>)&#160;</td>
+          <td class="paramname"><em>indexRange</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>(<em>Optional</em>) Gets an array of bar widths for the given trading range plot. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">plot</td><td>The trading range plot. </td></tr>
+    <tr><td class="paramname">indexRange</td><td>The range of the data indexes of interest. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>An array of bar widths. </dd></dl>
+
+</div>
+</div>
 <a id="aadd41a10434fb349e0077ff64f5efc8c"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#aadd41a10434fb349e0077ff64f5efc8c">&#9670;&nbsp;</a></span>decreaseFillForTradingRangePlot:recordIndex:()</h2>
 

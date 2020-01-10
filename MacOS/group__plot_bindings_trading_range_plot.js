@@ -1,5 +1,6 @@
 var group__plot_bindings_trading_range_plot =
 [
+    [ "CPTTradingRangePlotBindingBarWidths", "group__plot_bindings_trading_range_plot.html#gafe328775c0ddb5d5138022d44213b976", null ],
     [ "CPTTradingRangePlotBindingCloseValues", "group__plot_bindings_trading_range_plot.html#ga6665b14b0af45bcfa7031c1e25223a72", null ],
     [ "CPTTradingRangePlotBindingDecreaseFills", "group__plot_bindings_trading_range_plot.html#gaa76da6506eaf7e8f03d59d2ba0273b7e", null ],
     [ "CPTTradingRangePlotBindingDecreaseLineStyles", "group__plot_bindings_trading_range_plot.html#gaa4350b1c18418a97c709784985c78fdc", null ],

@@ -1,19 +1,19 @@
 <map id="Source/CPTXYAxisSet.m" name="Source/CPTXYAxisSet.m">
-<area shape="rect" id="node2" href="$_c_p_t_x_y_axis_set_8h.html" title="CPTXYAxisSet.h" alt="" coords="663,81,784,106"/>
-<area shape="rect" id="node18" href="$_c_p_t_line_style_8h.html" title="CPTLineStyle.h" alt="" coords="1115,230,1228,255"/>
-<area shape="rect" id="node19" href="$_c_p_t_path_extensions_8h.html" title="CPTPathExtensions.h" alt="" coords="1157,81,1308,106"/>
-<area shape="rect" id="node20" href="$_c_p_t_utilities_8h.html" title="CPTUtilities.h" alt="" coords="981,155,1083,181"/>
-<area shape="rect" id="node21" href="$_c_p_t_x_y_axis_8h.html" title="CPTXYAxis.h" alt="" coords="767,155,867,181"/>
-<area shape="rect" id="node3" href="$_c_p_t_axis_set_8h.html" title="CPTAxisSet.h" alt="" coords="616,155,719,181"/>
-<area shape="rect" id="node4" href="$_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="233,305,324,330"/>
-<area shape="rect" id="node11" href="$_c_p_t_axis_8h.html" title="CPTAxis.h" alt="" coords="626,230,709,255"/>
-<area shape="rect" id="node5" href="$_c_p_t_responder_8h.html" title="CPTResponder.h" alt="" coords="44,379,167,405"/>
-<area shape="rect" id="node8" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="775,379,896,405"/>
-<area shape="rect" id="node6" href="$_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="5,454,205,479"/>
-<area shape="rect" id="node12" href="$_c_p_t_axis_label_8h.html" title="CPTAxisLabel.h" alt="" coords="778,305,893,330"/>
-<area shape="rect" id="node13" href="$_c_p_t_fill_8h.html" title="CPTFill.h" alt="" coords="486,305,561,330"/>
-<area shape="rect" id="node14" href="$_c_p_t_limit_band_8h.html" title="CPTLimitBand.h" alt="" coords="586,305,704,330"/>
-<area shape="rect" id="node15" href="$_c_p_t_plot_range_8h.html" title="CPTPlotRange.h" alt="" coords="918,305,1039,330"/>
-<area shape="rect" id="node16" href="$_c_p_t_text_style_8h.html" title="CPTTextStyle.h" alt="" coords="349,305,461,330"/>
-<area shape="rect" id="node17" href="$_c_p_t_text_style_platform_specific_8h.html" title="CPTTextStylePlatformSpecific.h" alt="" coords="390,379,599,405"/>
+<area shape="rect" id="node2" href="$_c_p_t_x_y_axis_set_8h.html" title="CPTXYAxisSet.h" alt="" coords="635,81,756,106"/>
+<area shape="rect" id="node18" href="$_c_p_t_line_style_8h.html" title="CPTLineStyle.h" alt="" coords="1087,230,1200,255"/>
+<area shape="rect" id="node19" href="$_c_p_t_path_extensions_8h.html" title="CPTPathExtensions.h" alt="" coords="1129,81,1280,106"/>
+<area shape="rect" id="node20" href="$_c_p_t_utilities_8h.html" title="CPTUtilities.h" alt="" coords="953,155,1055,181"/>
+<area shape="rect" id="node21" href="$_c_p_t_x_y_axis_8h.html" title="CPTXYAxis.h" alt="" coords="739,155,839,181"/>
+<area shape="rect" id="node3" href="$_c_p_t_axis_set_8h.html" title="CPTAxisSet.h" alt="" coords="588,155,691,181"/>
+<area shape="rect" id="node4" href="$_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="205,305,296,330"/>
+<area shape="rect" id="node11" href="$_c_p_t_axis_8h.html" title="CPTAxis.h" alt="" coords="598,230,681,255"/>
+<area shape="rect" id="node5" href="$_c_p_t_responder_8h.html" title="CPTResponder.h" alt="" coords="204,379,327,405"/>
+<area shape="rect" id="node8" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="747,379,868,405"/>
+<area shape="rect" id="node6" href="$_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="214,454,415,479"/>
+<area shape="rect" id="node12" href="$_c_p_t_axis_label_8h.html" title="CPTAxisLabel.h" alt="" coords="750,305,865,330"/>
+<area shape="rect" id="node13" href="$_c_p_t_fill_8h.html" title="CPTFill.h" alt="" coords="458,305,533,330"/>
+<area shape="rect" id="node14" href="$_c_p_t_limit_band_8h.html" title="CPTLimitBand.h" alt="" coords="558,305,676,330"/>
+<area shape="rect" id="node15" href="$_c_p_t_plot_range_8h.html" title="CPTPlotRange.h" alt="" coords="890,305,1011,330"/>
+<area shape="rect" id="node16" href="$_c_p_t_text_style_8h.html" title="CPTTextStyle.h" alt="" coords="321,305,433,330"/>
+<area shape="rect" id="node17" href="$_c_p_t_text_style_platform_specific_8h.html" title="CPTTextStylePlatformSpecific.h" alt="" coords="402,379,611,405"/>
 </map>
