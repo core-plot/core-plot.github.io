@@ -16,12 +16,12 @@ var _c_p_t_range_plot_8h =
       [ "CPTRangePlotFillHorizontal", "_c_p_t_range_plot_8h.html#aeac5560ecc078993bb8201e9903833a6a83a2fd70706ec648b6c31452c7af6021", null ],
       [ "CPTRangePlotFillVertical", "_c_p_t_range_plot_8h.html#aeac5560ecc078993bb8201e9903833a6a02722f0ec316f1fe971b665c245f4750", null ]
     ] ],
-    [ "CPTRangePlotBindingBarLineStyles", "group__plot_bindings_range_plot.html#gaa0ebccc1b1c46c020d0fae82fdc73b97", null ],
-    [ "CPTRangePlotBindingBarWidths", "group__plot_bindings_range_plot.html#ga55c00dd46da597cd1f37f1970eb9e27e", null ],
-    [ "CPTRangePlotBindingHighValues", "group__plot_bindings_range_plot.html#ga461a96899a5e3c6a0d12b7883e20db51", null ],
-    [ "CPTRangePlotBindingLeftValues", "group__plot_bindings_range_plot.html#ga2e3a0975ad7150b69807781649217505", null ],
-    [ "CPTRangePlotBindingLowValues", "group__plot_bindings_range_plot.html#ga886114006e1b0ce3fee4aab2a4b4326a", null ],
-    [ "CPTRangePlotBindingRightValues", "group__plot_bindings_range_plot.html#ga6fb118e72c75535f8131ce635ef85f56", null ],
-    [ "CPTRangePlotBindingXValues", "group__plot_bindings_range_plot.html#gaf3d7693f5307eb40d9a15334f96e57eb", null ],
-    [ "CPTRangePlotBindingYValues", "group__plot_bindings_range_plot.html#gaf1e25c6b61f650327abda255b624cf91", null ]
+    [ "CPTRangePlotBindingBarLineStyles", "group__plot_bindings_range_plot.html#gaa2e06a1ce35a47930b45395a63b0c1b9", null ],
+    [ "CPTRangePlotBindingBarWidths", "group__plot_bindings_range_plot.html#ga6c3659f6ac3e8fa2fd35fecb1f8f1ee1", null ],
+    [ "CPTRangePlotBindingHighValues", "group__plot_bindings_range_plot.html#ga598793052ba1a95172a763aea5f98d79", null ],
+    [ "CPTRangePlotBindingLeftValues", "group__plot_bindings_range_plot.html#gaaf7368f9966cb69577ba860c14dd7f37", null ],
+    [ "CPTRangePlotBindingLowValues", "group__plot_bindings_range_plot.html#ga5c0d05f884f6ee7a2b22be2c1fb571e1", null ],
+    [ "CPTRangePlotBindingRightValues", "group__plot_bindings_range_plot.html#ga709571c9bd0a94b3eb95b4ced29f1a8f", null ],
+    [ "CPTRangePlotBindingXValues", "group__plot_bindings_range_plot.html#gaa63e27ca72d01a348d71efc988018292", null ],
+    [ "CPTRangePlotBindingYValues", "group__plot_bindings_range_plot.html#ga8d3dab9e3238849033f3af10ef06bd26", null ]
 ];

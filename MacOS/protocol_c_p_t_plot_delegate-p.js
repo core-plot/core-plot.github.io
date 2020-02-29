@@ -1,10 +1,10 @@
 var protocol_c_p_t_plot_delegate_p =
 [
     [ "didFinishDrawing:", "protocol_c_p_t_plot_delegate-p.html#a8cd9d8f8148aea01eeb9cc3d4d065bd6", null ],
-    [ "plot:dataLabelTouchDownAtRecordIndex:", "protocol_c_p_t_plot_delegate-p.html#a755345bff2b2681c7a4236161d486475", null ],
-    [ "plot:dataLabelTouchDownAtRecordIndex:withEvent:", "protocol_c_p_t_plot_delegate-p.html#a3bbcd369b0969cbf5e3add67e6c9a645", null ],
-    [ "plot:dataLabelTouchUpAtRecordIndex:", "protocol_c_p_t_plot_delegate-p.html#aa7c633deb1252e48c34d7b1553bc33be", null ],
-    [ "plot:dataLabelTouchUpAtRecordIndex:withEvent:", "protocol_c_p_t_plot_delegate-p.html#a6068be9f5bab5f9a00bad338a90b4aac", null ],
-    [ "plot:dataLabelWasSelectedAtRecordIndex:", "protocol_c_p_t_plot_delegate-p.html#a9b9b8ca827c5660c03aceaf0ec6b7ae7", null ],
-    [ "plot:dataLabelWasSelectedAtRecordIndex:withEvent:", "protocol_c_p_t_plot_delegate-p.html#a746a569d01939b215647529e88e1b814", null ]
+    [ "plot:dataLabelTouchDownAtRecordIndex:", "protocol_c_p_t_plot_delegate-p.html#ad60b9a5cbe2a7c8767844cfda5de1d55", null ],
+    [ "plot:dataLabelTouchDownAtRecordIndex:withEvent:", "protocol_c_p_t_plot_delegate-p.html#ab24e72abcf93737fed0cd92d3558a788", null ],
+    [ "plot:dataLabelTouchUpAtRecordIndex:", "protocol_c_p_t_plot_delegate-p.html#a89d00d145bb0e48fda576cf0e430ded3", null ],
+    [ "plot:dataLabelTouchUpAtRecordIndex:withEvent:", "protocol_c_p_t_plot_delegate-p.html#ab6db729f56f5ecb7540165845fb8252c", null ],
+    [ "plot:dataLabelWasSelectedAtRecordIndex:", "protocol_c_p_t_plot_delegate-p.html#a9937a01ab05ed22782b904f474c8bb15", null ],
+    [ "plot:dataLabelWasSelectedAtRecordIndex:withEvent:", "protocol_c_p_t_plot_delegate-p.html#a0565620f700234418d705a9531e7f2ed", null ]
 ];

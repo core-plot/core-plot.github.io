@@ -5,7 +5,6 @@ var interface_c_p_t_x_y_plot_space =
     [ "pointingDeviceDownEvent:atPoint:", "interface_c_p_t_x_y_plot_space.html#aaa7c4ee55396c9a93fd234e61f190517", null ],
     [ "pointingDeviceDraggedEvent:atPoint:", "interface_c_p_t_x_y_plot_space.html#ae90101f46d57764b561f444a0a9f8164", null ],
     [ "pointingDeviceUpEvent:atPoint:", "interface_c_p_t_x_y_plot_space.html#aa06fa9485eac1a5ada60b8330d86a97a", null ],
-    [ "scrollWheelEvent:fromPoint:toPoint:", "interface_c_p_t_x_y_plot_space.html#a2bdd53e529b33bc91859915bdb2e941e", null ],
     [ "allowsMomentum", "interface_c_p_t_x_y_plot_space.html#a9fdd1c2961b64bfac4fcc37382f1d2a2", null ],
     [ "allowsMomentumX", "interface_c_p_t_x_y_plot_space.html#a29d449e3aa0838f72bbdcd6a9a139552", null ],
     [ "allowsMomentumY", "interface_c_p_t_x_y_plot_space.html#a151f3a429d7240c0e1fd482a6e3c4406", null ],

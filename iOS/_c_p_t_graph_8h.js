@@ -12,8 +12,8 @@ var _c_p_t_graph_8h =
       [ "CPTGraphLayerTypeAxisLabels", "_c_p_t_graph_8h.html#a595b7421c77e39ac43c3f612218ce250a04f9e01bb43e8478f43b50e4bdae807c", null ],
       [ "CPTGraphLayerTypeAxisTitles", "_c_p_t_graph_8h.html#a595b7421c77e39ac43c3f612218ce250aae98d09207dbb1b83a3da3fdc546fc01", null ]
     ] ],
-    [ "CPTGraphDidAddPlotSpaceNotification", "group__notification.html#ga978c77fef8bf4b9e10624090dc5bb518", null ],
-    [ "CPTGraphDidRemovePlotSpaceNotification", "group__notification.html#ga085115052c70ee39fa01834f33f2c192", null ],
-    [ "CPTGraphNeedsRedrawNotification", "group__notification.html#gaa05680ad683bdc05cf167ae7c32451d6", null ],
-    [ "CPTGraphPlotSpaceNotificationKey", "group__notification.html#ga20b3700187b4fc9e69ec6a3a8ae1f229", null ]
+    [ "CPTGraphDidAddPlotSpaceNotification", "group__notification.html#ga92731545672f86c24d0e746bc73020b8", null ],
+    [ "CPTGraphDidRemovePlotSpaceNotification", "group__notification.html#gad613f7676231925be45d64d732a52358", null ],
+    [ "CPTGraphNeedsRedrawNotification", "group__notification.html#ga0907651130881397f93251963205525c", null ],
+    [ "CPTGraphPlotSpaceNotificationKey", "group__notification.html#ga4158bad64825641f7a68fc2b0a9eea6e", null ]
 ];

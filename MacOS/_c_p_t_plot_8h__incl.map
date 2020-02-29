@@ -1,9 +1,13 @@
 <map id="Source/CPTPlot.h" name="Source/CPTPlot.h">
-<area shape="rect" id="node2" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="158,230,279,255"/>
-<area shape="rect" id="node5" href="$_c_p_t_numeric_data_type_8h.html" title="CPTNumericDataType.h" alt="" coords="98,81,264,106"/>
-<area shape="rect" id="node6" href="$_c_p_t_annotation_host_layer_8h.html" title="CPTAnnotationHostLayer.h" alt="" coords="288,81,469,106"/>
-<area shape="rect" id="node7" href="$_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="333,155,424,181"/>
-<area shape="rect" id="node11" href="$_c_p_t_annotation_8h.html" title="CPTAnnotation.h" alt="" coords="172,155,293,181"/>
-<area shape="rect" id="node8" href="$_c_p_t_responder_8h.html" title="CPTResponder.h" alt="" coords="317,230,440,255"/>
-<area shape="rect" id="node9" href="$_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="290,305,491,330"/>
+<area shape="rect" id="node1" title=" " alt="" coords="117,6,245,31"/>
+<area shape="rect" id="node2" href="$_c_p_t_definitions_8h.html" title=" " alt="" coords="158,230,279,255"/>
+<area shape="rect" id="node5" href="$_c_p_t_numeric_data_type_8h.html" title=" " alt="" coords="98,81,264,106"/>
+<area shape="rect" id="node6" href="$_c_p_t_annotation_host_layer_8h.html" title=" " alt="" coords="288,81,469,106"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,305,147,330"/>
+<area shape="rect" id="node4" title=" " alt="" coords="172,305,265,330"/>
+<area shape="rect" id="node7" href="$_c_p_t_layer_8h.html" title=" " alt="" coords="333,155,424,181"/>
+<area shape="rect" id="node11" href="$_c_p_t_annotation_8h.html" title=" " alt="" coords="172,155,293,181"/>
+<area shape="rect" id="node8" href="$_c_p_t_responder_8h.html" title=" " alt="" coords="317,230,440,255"/>
+<area shape="rect" id="node10" title=" " alt="" coords="465,230,639,255"/>
+<area shape="rect" id="node9" href="$_c_p_t_platform_specific_defines_8h.html" title=" " alt="" coords="290,305,491,330"/>
 </map>

@@ -13,7 +13,7 @@ var _c_p_t_pie_chart_8h =
       [ "CPTPieDirectionClockwise", "_c_p_t_pie_chart_8h.html#a914a2d9e4095c878b52ddb8bfd2ced33aa1b4df7575240af272a52cc0d9401185", null ],
       [ "CPTPieDirectionCounterClockwise", "_c_p_t_pie_chart_8h.html#a914a2d9e4095c878b52ddb8bfd2ced33a455c3e146d805d59058112f6bcf73301", null ]
     ] ],
-    [ "CPTPieChartBindingPieSliceFills", "_c_p_t_pie_chart_8h.html#ac9a0cdb1ad95aaf5a62e674598e2f939", null ],
-    [ "CPTPieChartBindingPieSliceRadialOffsets", "_c_p_t_pie_chart_8h.html#aadc5a6d0c33f0b62b2345085793f1ba5", null ],
-    [ "CPTPieChartBindingPieSliceWidthValues", "_c_p_t_pie_chart_8h.html#a50f39b32f4e92efe17e4ef6eecdff807", null ]
+    [ "CPTPieChartBindingPieSliceFills", "_c_p_t_pie_chart_8h.html#ad2a9d2c2c3912707143533f91941bfc5", null ],
+    [ "CPTPieChartBindingPieSliceRadialOffsets", "_c_p_t_pie_chart_8h.html#aae41b46f1ce1f129eac11f693ca5eaaf", null ],
+    [ "CPTPieChartBindingPieSliceWidthValues", "_c_p_t_pie_chart_8h.html#aa803fda8356ca2ed65304b536866ecda", null ]
 ];

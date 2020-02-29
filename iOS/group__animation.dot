@@ -1,0 +1,16 @@
+digraph "Animatable Properties"
+{
+  bgcolor="transparent";
+  edge [fontname="Lucinda Grande",fontsize="10",labelfontname="Lucinda Grande",labelfontsize="10"];
+  node [fontname="Lucinda Grande",fontsize="10",shape=box];
+  rankdir=LR;
+  Node1 [label="Animatable Properties",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Custom layer properties that can be animated using Core Animation."];
+  Node4 [label="Legends",height=0.2,width=0.4,color="black",URL="$group__legend_animation.html",tooltip="Legend properties that can be animated using Core Animation."];
+  Node3 [label="Graphs",height=0.2,width=0.4,color="black",URL="$group__graph_animation.html",tooltip="Graph properties that can be animated using Core Animation."];
+  Node5 [label="Plots",height=0.2,width=0.4,color="black",URL="$group__plot_animation.html",tooltip="Plot properties that can be animated using Core Animation."];
+  Node2 [label="Axes",height=0.2,width=0.4,color="black",URL="$group__axis_animation.html",tooltip="Axis properties that can be animated using Core Animation."];
+  Node1->Node2 [shape=plaintext, dir="back", style="solid"];
+  Node1->Node3 [shape=plaintext, dir="back", style="solid"];
+  Node1->Node4 [shape=plaintext, dir="back", style="solid"];
+  Node1->Node5 [shape=plaintext, dir="back", style="solid"];
+}

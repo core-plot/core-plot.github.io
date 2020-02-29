@@ -1,0 +1,14 @@
+digraph "iPhoneOnly/CPTGraphHostingView.h"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname="Lucinda Grande",fontsize="10",labelfontname="Lucinda Grande",labelfontsize="10"];
+  node [fontname="Lucinda Grande",fontsize="10",shape=record];
+  Node1 [label="iPhoneOnly/CPTGraphHosting\lView.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Lucinda Grande"];
+  Node2 [label="CPTDefinitions.h",height=0.2,width=0.4,color="black",URL="$_c_p_t_definitions_8h.html",tooltip=" "];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Lucinda Grande"];
+  Node3 [label="TargetConditionals.h",height=0.2,width=0.4,color="grey75",tooltip=" "];
+  Node2 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Lucinda Grande"];
+  Node4 [label="Availability.h",height=0.2,width=0.4,color="grey75",tooltip=" "];
+}

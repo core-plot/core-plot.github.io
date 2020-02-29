@@ -1,8 +1,9 @@
 <map id="Source/CPTTextLayer.h" name="Source/CPTTextLayer.h">
-<area shape="rect" id="node2" href="$_core_plot-_cocoa_touch_8h.html" title="CorePlot&#45;CocoaTouch.h" alt="" coords="5,81,168,106"/>
-<area shape="rect" id="node3" href="$_c_p_t_axis_8m.html" title="Source/CPTAxis.m" alt="" coords="192,81,324,106"/>
-<area shape="rect" id="node4" href="$_c_p_t_axis_label_8m.html" title="Source/CPTAxisLabel.m" alt="" coords="349,81,515,106"/>
-<area shape="rect" id="node5" href="$_c_p_t_graph_8m.html" title="Source/CPTGraph.m" alt="" coords="539,81,684,106"/>
-<area shape="rect" id="node6" href="$_c_p_t_plot_8m.html" title="Source/CPTPlot.m" alt="" coords="709,81,840,106"/>
-<area shape="rect" id="node7" href="$_c_p_t_text_layer_8m.html" title="Source/CPTTextLayer.m" alt="" coords="865,81,1031,106"/>
+<area shape="rect" id="node1" title=" " alt="" coords="440,6,601,31"/>
+<area shape="rect" id="node2" href="$_core_plot-_cocoa_touch_8h.html" title=" " alt="" coords="5,81,168,106"/>
+<area shape="rect" id="node3" href="$_c_p_t_axis_8m.html" title=" " alt="" coords="192,81,324,106"/>
+<area shape="rect" id="node4" href="$_c_p_t_axis_label_8m.html" title=" " alt="" coords="349,81,515,106"/>
+<area shape="rect" id="node5" href="$_c_p_t_graph_8m.html" title=" " alt="" coords="539,81,684,106"/>
+<area shape="rect" id="node6" href="$_c_p_t_plot_8m.html" title=" " alt="" coords="709,81,840,106"/>
+<area shape="rect" id="node7" href="$_c_p_t_text_layer_8m.html" title=" " alt="" coords="865,81,1031,106"/>
 </map>

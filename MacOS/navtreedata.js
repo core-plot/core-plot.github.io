@@ -1,18 +1,17 @@
 /*
-@ @licstart  The following is the entire license notice for the
+@licstart  The following is the entire license notice for the
 JavaScript code in this file.
 
-Copyright (C) 1997-2017 by Dimitri van Heesch
+Copyright (C) 1997-2019 by Dimitri van Heesch
 
 This program is free software; you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation; either version 2 of the License, or
-(at your option) any later version.
+it under the terms of version 2 of the GNU General Public License as published by
+the Free Software Foundation
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- GNU General Public License for more details.
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along
 with this program; if not, write to the Free Software Foundation, Inc.,
@@ -69,12 +68,12 @@ var NAVTREEINDEX =
 "_c_p_t_animation_8h.html",
 "_c_p_t_legend_8h.html#a661c61e1c6e55b6afc1f8f9fbe5f43f1",
 "_c_p_t_text_style_platform_specific_8h.html",
-"category_c_p_t_plot_07_abstract_methods_08.html#a8e84c8795dc66a2e0c42b7eb046a92d1",
-"group__plot_animation_bar_plot.html#ga1ba05e25fedbec2194ab2ade17ac78b8",
-"interface_c_p_t_axis.html#a97acd0e8400a3a5050008c74cc37adc7",
-"interface_c_p_t_layer.html#ae0db7ba3c88397b256c433db533cb1ef",
-"interface_c_p_t_plot_area.html#a29aeccafdffb25a1df2d81566a02c37d",
-"interface_c_p_t_x_y_plot_space.html#a3f3bcdebd7f8dd5aa836f6d3518d6d41"
+"category_c_p_t_plot_07_abstract_methods_08.html#abdc1beb8516031f52a2e8134dac45135",
+"group__plot_animation_bar_plot.html",
+"interface_c_p_t_axis.html#a929d48e2e177d2f154c3ab7618632ae3",
+"interface_c_p_t_layer.html#adcdbea61c0b502a36f6f733278977c26",
+"interface_c_p_t_plot_area.html#a21151f179b8c8cdfdc67bf26f493ac98",
+"interface_c_p_t_x_y_plot_space.html#a31be840b63fb543fd03c9bd9671888ed"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

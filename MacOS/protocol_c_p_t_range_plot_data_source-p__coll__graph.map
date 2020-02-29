@@ -1,4 +1,5 @@
 <map id="&lt;CPTRangePlotDataSource&gt;" name="&lt;CPTRangePlotDataSource&gt;">
-<area shape="rect" id="node2" href="$protocol_c_p_t_plot_data_source-p.html" title="A plot data source. " alt="" coords="24,81,180,106"/>
-<area shape="rect" id="node3" href="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-tags.xml$https://developer.apple.com/library/mac/.html#documentation/Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/Reference/NSObject" title="\&lt;NSObject\&gt;" alt="" coords="56,6,149,31"/>
+<area shape="rect" id="node1" title="A range plot data source." alt="" coords="5,155,200,181"/>
+<area shape="rect" id="node2" href="$protocol_c_p_t_plot_data_source-p.html" title="A plot data source." alt="" coords="24,81,180,106"/>
+<area shape="rect" id="node3" href="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-tags.xml$https://developer.apple.com/library/mac/.html#documentation/Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/Reference/NSObject" title=" " alt="" coords="56,6,149,31"/>
 </map>

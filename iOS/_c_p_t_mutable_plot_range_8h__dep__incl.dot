@@ -1,0 +1,28 @@
+digraph "Source/CPTMutablePlotRange.h"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname="Lucinda Grande",fontsize="10",labelfontname="Lucinda Grande",labelfontsize="10"];
+  node [fontname="Lucinda Grande",fontsize="10",shape=record];
+  Node1 [label="Source/CPTMutablePlotRange.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Lucinda Grande"];
+  Node2 [label="CorePlot-CocoaTouch.h",height=0.2,width=0.4,color="black",URL="$_core_plot-_cocoa_touch_8h.html",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Lucinda Grande"];
+  Node3 [label="Source/CPTAxis.m",height=0.2,width=0.4,color="black",URL="$_c_p_t_axis_8m.html",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Lucinda Grande"];
+  Node4 [label="Source/CPTBarPlot.m",height=0.2,width=0.4,color="black",URL="$_c_p_t_bar_plot_8m.html",tooltip=" "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Lucinda Grande"];
+  Node5 [label="Source/CPTFunctionDataSource.m",height=0.2,width=0.4,color="black",URL="$_c_p_t_function_data_source_8m.html",tooltip=" "];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Lucinda Grande"];
+  Node6 [label="Source/CPTMutablePlotRange.m",height=0.2,width=0.4,color="black",URL="$_c_p_t_mutable_plot_range_8m.html",tooltip=" "];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Lucinda Grande"];
+  Node7 [label="Source/CPTPlot.m",height=0.2,width=0.4,color="black",URL="$_c_p_t_plot_8m.html",tooltip=" "];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Lucinda Grande"];
+  Node8 [label="Source/CPTPlotRange.m",height=0.2,width=0.4,color="black",URL="$_c_p_t_plot_range_8m.html",tooltip=" "];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Lucinda Grande"];
+  Node9 [label="Source/CPTPlotSpace.m",height=0.2,width=0.4,color="black",URL="$_c_p_t_plot_space_8m.html",tooltip=" "];
+  Node1 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Lucinda Grande"];
+  Node10 [label="Source/CPTXYAxis.m",height=0.2,width=0.4,color="black",URL="$_c_p_t_x_y_axis_8m.html",tooltip=" "];
+  Node1 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Lucinda Grande"];
+  Node11 [label="Source/CPTXYPlotSpace.m",height=0.2,width=0.4,color="black",URL="$_c_p_t_x_y_plot_space_8m.html",tooltip=" "];
+}

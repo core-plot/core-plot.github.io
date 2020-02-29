@@ -1,7 +1,7 @@
 var interface_c_p_t_layer =
 [
     [ "applyMaskToContext:", "interface_c_p_t_layer.html#abd58bde7022a8e856c00aeb2c7b5c3b5", null ],
-    [ "applySublayerMaskToContext:forSublayer:withOffset:", "interface_c_p_t_layer.html#a85a73b630785349ab4226299c9f80fb0", null ],
+    [ "applySublayerMaskToContext:forSublayer:withOffset:", "interface_c_p_t_layer.html#a12ea5077ad1aba030de3dfb61523f50b", null ],
     [ "dataForPDFRepresentationOfLayer", "interface_c_p_t_layer.html#a56042c48a7242c0691675e973dea6a9a", null ],
     [ "imageOfLayer", "interface_c_p_t_layer.html#a001d2a0461d74de7bdf2b2d98f79e67f", null ],
     [ "init", "interface_c_p_t_layer.html#a0190221e68d0e1303013cf2b3b8183cc", null ],
@@ -20,7 +20,7 @@ var interface_c_p_t_layer =
     [ "renderAsVectorInContext:", "interface_c_p_t_layer.html#a6875d39303e3d7e6b871beb25b2ed237", null ],
     [ "scrollWheelEvent:fromPoint:toPoint:", "interface_c_p_t_layer.html#ae0db7ba3c88397b256c433db533cb1ef", null ],
     [ "setNeedsDisplayAllLayers", "interface_c_p_t_layer.html#a29cce1dd3cdf5909d021e90997050546", null ],
-    [ "sublayerMarginLeft:top:right:bottom:", "interface_c_p_t_layer.html#a5fe55f5654118d32b01b2e19818a9ee8", null ],
+    [ "sublayerMarginLeft:top:right:bottom:", "interface_c_p_t_layer.html#a39e4d658c45fb41dccf3ff3eafd3bdda", null ],
     [ "contentsScale", "interface_c_p_t_layer.html#ad95ea54a7ebf06e98e6ae9dd99d9b86a", null ],
     [ "graph", "interface_c_p_t_layer.html#a9e6d1576d24b5cf3bb169041f75f169b", null ],
     [ "identifier", "interface_c_p_t_layer.html#ab87e88c2485bd77acc50f230e8b20c1e", null ],

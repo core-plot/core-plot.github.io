@@ -1,0 +1,9 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname="Lucinda Grande",fontsize="10",labelfontname="Lucinda Grande",labelfontsize="10"];
+  node [fontname="Lucinda Grande",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="CPTTextStyle(CPTPlatform\lSpecificTextStyleExtensions)",height=0.2,width=0.4,color="black",URL="$category_c_p_t_text_style_07_c_p_t_platform_specific_text_style_extensions_08.html",tooltip="Platform-specific extensions to CPTTextStyle."];
+}

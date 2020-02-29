@@ -1,4 +1,5 @@
 <map id="&lt;CPTBarPlotDataSource&gt;" name="&lt;CPTBarPlotDataSource&gt;">
-<area shape="rect" id="node2" href="$protocol_c_p_t_plot_data_source-p.html" title="A plot data source. " alt="" coords="15,81,171,106"/>
-<area shape="rect" id="node3" href="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-touch-tags.xml$https://developer.apple.com/library/ios/.html#documentation/Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/Reference/NSObject" title="\&lt;NSObject\&gt;" alt="" coords="46,6,140,31"/>
+<area shape="rect" id="node1" title="A bar plot data source." alt="" coords="4,155,181,181"/>
+<area shape="rect" id="node2" href="$protocol_c_p_t_plot_data_source-p.html" title="A plot data source." alt="" coords="15,81,171,106"/>
+<area shape="rect" id="node3" href="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-touch-tags.xml$https://developer.apple.com/library/ios/.html#documentation/Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/Reference/NSObject" title=" " alt="" coords="46,6,140,31"/>
 </map>

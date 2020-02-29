@@ -1,3 +1,4 @@
 <map id="Range Plot" name="Range Plot">
-<area shape="rect" id="node2" href="$group__plot_animation.html" title="Plot properties that can be animated using Core Animation. " alt="" coords="5,5,56,30"/>
+<area shape="rect" id="node1" title="Range plot properties that can be animated using Core Animation." alt="" coords="104,5,192,29"/>
+<area shape="rect" id="node2" href="$group__plot_animation.html" title="Plot properties that can be animated using Core Animation." alt="" coords="5,5,56,29"/>
 </map>

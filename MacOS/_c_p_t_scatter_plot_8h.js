@@ -28,7 +28,7 @@ var _c_p_t_scatter_plot_8h =
       [ "CPTScatterPlotInterpolationHistogram", "_c_p_t_scatter_plot_8h.html#a9fd27703c96dc44875d2ddf3073eecf1a56c2cfd36a6b5b8b1ccb61d1ef6e37eb", null ],
       [ "CPTScatterPlotInterpolationCurved", "_c_p_t_scatter_plot_8h.html#a9fd27703c96dc44875d2ddf3073eecf1aaa0ba9a6e0e682794e28c6640bdee064", null ]
     ] ],
-    [ "CPTScatterPlotBindingPlotSymbols", "group__plot_bindings_scatter_plot.html#ga0c2ebbb7ba1d16187b00c518c20acdfa", null ],
-    [ "CPTScatterPlotBindingXValues", "group__plot_bindings_scatter_plot.html#ga4860a0c9f8a73f3a395d70a20849fd61", null ],
-    [ "CPTScatterPlotBindingYValues", "group__plot_bindings_scatter_plot.html#gac8daaae2e33f8fb37e95f028e8ba87c9", null ]
+    [ "CPTScatterPlotBindingPlotSymbols", "group__plot_bindings_scatter_plot.html#gafd6d79649ed366af59bd030c88f6c517", null ],
+    [ "CPTScatterPlotBindingXValues", "group__plot_bindings_scatter_plot.html#ga4d7f55060695a645b22b4a3fe02fb932", null ],
+    [ "CPTScatterPlotBindingYValues", "group__plot_bindings_scatter_plot.html#ga316ba2da1db88007985b5c29ee3fb7d3", null ]
 ];

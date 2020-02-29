@@ -1,7 +1,11 @@
 <map id="Source/CPTAxisLabelGroup.m" name="Source/CPTAxisLabelGroup.m">
-<area shape="rect" id="node2" href="$_c_p_t_axis_label_group_8h.html" title="CPTAxisLabelGroup.h" alt="" coords="202,81,355,106"/>
-<area shape="rect" id="node3" href="$_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="233,155,324,181"/>
-<area shape="rect" id="node4" href="$_c_p_t_responder_8h.html" title="CPTResponder.h" alt="" coords="44,230,167,255"/>
-<area shape="rect" id="node7" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="390,230,511,255"/>
-<area shape="rect" id="node5" href="$_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="5,305,205,330"/>
+<area shape="rect" id="node1" title=" " alt="" coords="177,6,379,31"/>
+<area shape="rect" id="node2" href="$_c_p_t_axis_label_group_8h.html" title=" " alt="" coords="202,81,355,106"/>
+<area shape="rect" id="node3" href="$_c_p_t_layer_8h.html" title=" " alt="" coords="233,155,324,181"/>
+<area shape="rect" id="node4" href="$_c_p_t_responder_8h.html" title=" " alt="" coords="44,230,167,255"/>
+<area shape="rect" id="node6" title=" " alt="" coords="192,230,365,255"/>
+<area shape="rect" id="node7" href="$_c_p_t_definitions_8h.html" title=" " alt="" coords="390,230,511,255"/>
+<area shape="rect" id="node5" href="$_c_p_t_platform_specific_defines_8h.html" title=" " alt="" coords="5,305,205,330"/>
+<area shape="rect" id="node8" title=" " alt="" coords="307,305,449,330"/>
+<area shape="rect" id="node9" title=" " alt="" coords="474,305,568,330"/>
 </map>

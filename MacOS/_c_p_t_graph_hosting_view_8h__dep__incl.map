@@ -1,6 +1,7 @@
 <map id="MacOnly/CPTGraphHostingView.h" name="MacOnly/CPTGraphHostingView.h">
-<area shape="rect" id="node2" href="$_c_p_t_graph_8m.html" title="Source/CPTGraph.m" alt="" coords="4,87,149,113"/>
-<area shape="rect" id="node3" href="$_c_p_t_x_y_plot_space_8m.html" title="Source/CPTXYPlotSpace.m" alt="" coords="174,87,361,113"/>
-<area shape="rect" id="node4" href="$_c_p_t_graph_hosting_view_8m.html" title="MacOnly/CPTGraphHostingView.m" alt="" coords="385,87,613,113"/>
-<area shape="rect" id="node5" href="$_c_p_t_platform_specific_categories_8m.html" title="MacOnly/CPTPlatformSpecific\lCategories.m" alt="" coords="638,81,839,119"/>
+<area shape="rect" id="node1" title=" " alt="" coords="271,6,496,31"/>
+<area shape="rect" id="node2" href="$_c_p_t_graph_8m.html" title=" " alt="" coords="4,87,149,113"/>
+<area shape="rect" id="node3" href="$_c_p_t_x_y_plot_space_8m.html" title=" " alt="" coords="174,87,361,113"/>
+<area shape="rect" id="node4" href="$_c_p_t_graph_hosting_view_8m.html" title=" " alt="" coords="385,87,613,113"/>
+<area shape="rect" id="node5" href="$_c_p_t_platform_specific_categories_8m.html" title=" " alt="" coords="638,81,839,119"/>
 </map>

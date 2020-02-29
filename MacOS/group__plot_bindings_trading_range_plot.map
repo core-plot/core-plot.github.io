@@ -1,3 +1,4 @@
 <map id="Trading Range Plot Bindings" name="Trading Range Plot Bindings">
-<area shape="rect" id="node1" href="$group__plot_bindings.html" title="Binding identifiers for all plots. " alt="" coords="6,11,160,37"/>
+<area shape="rect" id="node1" href="$group__plot_bindings.html" title="Binding identifiers for all plots." alt="" coords="6,12,160,36"/>
+<area shape="rect" id="node2" title="Binding identifiers for trading range plots." alt="" coords="208,5,344,43"/>
 </map>

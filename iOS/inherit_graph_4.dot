@@ -1,0 +1,9 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname="Lucinda Grande",fontsize="10",labelfontname="Lucinda Grande",labelfontsize="10"];
+  node [fontname="Lucinda Grande",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="_CPTRGBAColor",height=0.2,width=0.4,color="black",URL="$struct___c_p_t_r_g_b_a_color.html",tooltip="RGBA color for gradients."];
+}

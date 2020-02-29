@@ -1,7 +1,8 @@
 <map id="Source/CPTMutableTextStyle.h" name="Source/CPTMutableTextStyle.h">
-<area shape="rect" id="node2" href="$_c_p_t_axis_label_8m.html" title="Source/CPTAxisLabel.m" alt="" coords="5,87,171,113"/>
-<area shape="rect" id="node3" href="$_c_p_t_graph_8m.html" title="Source/CPTGraph.m" alt="" coords="195,87,340,113"/>
-<area shape="rect" id="node4" href="$_c_p_t_mutable_text_style_8m.html" title="Source/CPTMutableTextStyle.m" alt="" coords="366,87,575,113"/>
-<area shape="rect" id="node5" href="$_c_p_t_text_style_8m.html" title="Source/CPTTextStyle.m" alt="" coords="600,87,763,113"/>
-<area shape="rect" id="node6" href="$_c_p_t_text_style_platform_specific_8m.html" title="MacOnly/CPTTextStylePlatform\lSpecific.m" alt="" coords="787,81,995,119"/>
+<area shape="rect" id="node1" title=" " alt="" coords="367,6,573,31"/>
+<area shape="rect" id="node2" href="$_c_p_t_axis_label_8m.html" title=" " alt="" coords="5,87,171,113"/>
+<area shape="rect" id="node3" href="$_c_p_t_graph_8m.html" title=" " alt="" coords="195,87,340,113"/>
+<area shape="rect" id="node4" href="$_c_p_t_mutable_text_style_8m.html" title=" " alt="" coords="366,87,575,113"/>
+<area shape="rect" id="node5" href="$_c_p_t_text_style_8m.html" title=" " alt="" coords="600,87,763,113"/>
+<area shape="rect" id="node6" href="$_c_p_t_text_style_platform_specific_8m.html" title=" " alt="" coords="787,81,995,119"/>
 </map>

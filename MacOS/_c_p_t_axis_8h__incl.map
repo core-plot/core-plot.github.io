@@ -1,12 +1,16 @@
 <map id="Source/CPTAxis.h" name="Source/CPTAxis.h">
-<area shape="rect" id="node2" href="$_c_p_t_axis_label_8h.html" title="CPTAxisLabel.h" alt="" coords="23,81,138,106"/>
-<area shape="rect" id="node3" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="20,155,141,181"/>
-<area shape="rect" id="node6" href="$_c_p_t_fill_8h.html" title="CPTFill.h" alt="" coords="562,81,637,106"/>
-<area shape="rect" id="node7" href="$_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="446,81,537,106"/>
-<area shape="rect" id="node11" href="$_c_p_t_limit_band_8h.html" title="CPTLimitBand.h" alt="" coords="662,81,780,106"/>
-<area shape="rect" id="node12" href="$_c_p_t_plot_range_8h.html" title="CPTPlotRange.h" alt="" coords="163,81,284,106"/>
-<area shape="rect" id="node13" href="$_c_p_t_text_style_8h.html" title="CPTTextStyle.h" alt="" coords="308,81,421,106"/>
-<area shape="rect" id="node8" href="$_c_p_t_responder_8h.html" title="CPTResponder.h" alt="" coords="450,155,573,181"/>
-<area shape="rect" id="node9" href="$_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="363,230,564,255"/>
-<area shape="rect" id="node14" href="$_c_p_t_text_style_platform_specific_8h.html" title="CPTTextStylePlatformSpecific.h" alt="" coords="166,155,374,181"/>
+<area shape="rect" id="node1" title=" " alt="" coords="300,6,429,31"/>
+<area shape="rect" id="node2" href="$_c_p_t_axis_label_8h.html" title=" " alt="" coords="23,81,138,106"/>
+<area shape="rect" id="node3" href="$_c_p_t_definitions_8h.html" title=" " alt="" coords="20,155,141,181"/>
+<area shape="rect" id="node6" href="$_c_p_t_fill_8h.html" title=" " alt="" coords="562,81,637,106"/>
+<area shape="rect" id="node7" href="$_c_p_t_layer_8h.html" title=" " alt="" coords="446,81,537,106"/>
+<area shape="rect" id="node11" href="$_c_p_t_limit_band_8h.html" title=" " alt="" coords="662,81,780,106"/>
+<area shape="rect" id="node12" href="$_c_p_t_plot_range_8h.html" title=" " alt="" coords="163,81,284,106"/>
+<area shape="rect" id="node13" href="$_c_p_t_text_style_8h.html" title=" " alt="" coords="308,81,421,106"/>
+<area shape="rect" id="node4" title=" " alt="" coords="150,230,292,255"/>
+<area shape="rect" id="node5" title=" " alt="" coords="31,230,125,255"/>
+<area shape="rect" id="node8" href="$_c_p_t_responder_8h.html" title=" " alt="" coords="450,155,573,181"/>
+<area shape="rect" id="node10" title=" " alt="" coords="598,155,772,181"/>
+<area shape="rect" id="node9" href="$_c_p_t_platform_specific_defines_8h.html" title=" " alt="" coords="363,230,564,255"/>
+<area shape="rect" id="node14" href="$_c_p_t_text_style_platform_specific_8h.html" title=" " alt="" coords="166,155,374,181"/>
 </map>

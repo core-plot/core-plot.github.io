@@ -1,14 +1,14 @@
 var interface_c_p_t_graph =
 [
     [ "addPlot:", "interface_c_p_t_graph.html#a9c2fe379b64b98bbd0ff0a7e54217dc6", null ],
-    [ "addPlot:toPlotSpace:", "interface_c_p_t_graph.html#ae19b2368ee81fc78fdf9c2993e7f8234", null ],
+    [ "addPlot:toPlotSpace:", "interface_c_p_t_graph.html#a9863a565b35ace91e23181f3b55e58a5", null ],
     [ "addPlotSpace:", "interface_c_p_t_graph.html#a99154768a14e1bc1531065459a047860", null ],
     [ "allPlots", "interface_c_p_t_graph.html#a4debb1027d365350dea492a705b49fd9", null ],
     [ "allPlotSpaces", "interface_c_p_t_graph.html#ab9cc4a1214ebba915b45baf8cdc26962", null ],
     [ "applyTheme:", "interface_c_p_t_graph.html#a0eba06472cbca82671671a3e2eb709fc", null ],
     [ "initWithFrame:", "interface_c_p_t_graph.html#a2b5c72a5ea2afac52d076e9ec0cadce9", null ],
-    [ "insertPlot:atIndex:", "interface_c_p_t_graph.html#a1fd8d0035b51ece37b3bc8bfb9c16b98", null ],
-    [ "insertPlot:atIndex:intoPlotSpace:", "interface_c_p_t_graph.html#a65b16eb7a86cfd180578139ba1237078", null ],
+    [ "insertPlot:atIndex:", "interface_c_p_t_graph.html#a44843de1c41131b817a6a21c6786f504", null ],
+    [ "insertPlot:atIndex:intoPlotSpace:", "interface_c_p_t_graph.html#af840f38504e0b35e16632638a753ee2a", null ],
     [ "newAxisSet", "interface_c_p_t_graph.html#a35237c5ff08fc8fc7b5d3e3972f50c46", null ],
     [ "newPlotSpace", "interface_c_p_t_graph.html#a9160596cd56c984ee5faf3a1fdd6490c", null ],
     [ "plotAtIndex:", "interface_c_p_t_graph.html#a144c58552647c6e7a3fe3ea4f50322d1", null ],

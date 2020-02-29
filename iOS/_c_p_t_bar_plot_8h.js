@@ -9,10 +9,10 @@ var _c_p_t_bar_plot_8h =
       [ "CPTBarPlotFieldBarTip", "_c_p_t_bar_plot_8h.html#a75723fd74f0147d9baad22a56c2c212aa1ac5d4129d906bbd168460369edc0ea1", null ],
       [ "CPTBarPlotFieldBarBase", "_c_p_t_bar_plot_8h.html#a75723fd74f0147d9baad22a56c2c212aaee601b2ab3022b908f2478c8a8e54b77", null ]
     ] ],
-    [ "CPTBarPlotBindingBarBases", "_c_p_t_bar_plot_8h.html#a10f57640ed4341956bbeb4ddee00cdb9", null ],
-    [ "CPTBarPlotBindingBarFills", "_c_p_t_bar_plot_8h.html#aaf9e8bd5407d194b07e112b02b3abefc", null ],
-    [ "CPTBarPlotBindingBarLineStyles", "_c_p_t_bar_plot_8h.html#a4cb6649b705c31309810839dbc238fe2", null ],
-    [ "CPTBarPlotBindingBarLocations", "_c_p_t_bar_plot_8h.html#aa8d3317f4d99187b87dd0a68502d0a94", null ],
-    [ "CPTBarPlotBindingBarTips", "_c_p_t_bar_plot_8h.html#ab2befe659c17485de3406bbf8f4a92cb", null ],
-    [ "CPTBarPlotBindingBarWidths", "_c_p_t_bar_plot_8h.html#afcf5e38b6ac85bd1c1afe17942b39f95", null ]
+    [ "CPTBarPlotBindingBarBases", "_c_p_t_bar_plot_8h.html#a5c9f671da76cd1c5bdd6bab6fecf6c90", null ],
+    [ "CPTBarPlotBindingBarFills", "_c_p_t_bar_plot_8h.html#a7a67bb7d3ec5ab1198dca39a4f899611", null ],
+    [ "CPTBarPlotBindingBarLineStyles", "_c_p_t_bar_plot_8h.html#a4ce3a0802eff641ff2630d28b4f37420", null ],
+    [ "CPTBarPlotBindingBarLocations", "_c_p_t_bar_plot_8h.html#a15053e3afb778b1b45a7103466a8f55b", null ],
+    [ "CPTBarPlotBindingBarTips", "_c_p_t_bar_plot_8h.html#af4218ba8944a0c32739d0c2bfa65a7b7", null ],
+    [ "CPTBarPlotBindingBarWidths", "_c_p_t_bar_plot_8h.html#a99d5a276553f30b56a29260209e1a81d", null ]
 ];

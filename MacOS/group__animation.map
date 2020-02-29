@@ -1,6 +1,7 @@
 <map id="Animatable Properties" name="Animatable Properties">
-<area shape="rect" id="node2" href="$group__legend_animation.html" title="Legend properties that can be animated using Core Animation. " alt="" coords="205,5,278,30"/>
-<area shape="rect" id="node3" href="$group__graph_animation.html" title="Graph properties that can be animated using Core Animation. " alt="" coords="209,54,274,79"/>
-<area shape="rect" id="node4" href="$group__plot_animation.html" title="Plot properties that can be animated using Core Animation. " alt="" coords="216,103,267,129"/>
-<area shape="rect" id="node5" href="$group__axis_animation.html" title="Axis properties that can be animated using Core Animation. " alt="" coords="216,153,267,178"/>
+<area shape="rect" id="node1" title="Custom layer properties that can be animated using Core Animation." alt="" coords="5,77,158,101"/>
+<area shape="rect" id="node2" href="$group__legend_animation.html" title="Legend properties that can be animated using Core Animation." alt="" coords="205,5,278,29"/>
+<area shape="rect" id="node3" href="$group__graph_animation.html" title="Graph properties that can be animated using Core Animation." alt="" coords="209,53,274,77"/>
+<area shape="rect" id="node4" href="$group__plot_animation.html" title="Plot properties that can be animated using Core Animation." alt="" coords="216,101,267,125"/>
+<area shape="rect" id="node5" href="$group__axis_animation.html" title="Axis properties that can be animated using Core Animation." alt="" coords="216,149,267,173"/>
 </map>

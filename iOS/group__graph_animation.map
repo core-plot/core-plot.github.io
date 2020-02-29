@@ -1,3 +1,4 @@
 <map id="Graphs" name="Graphs">
-<area shape="rect" id="node1" href="$group__animation.html" title="Custom layer properties that can be animated using Core Animation. " alt="" coords="5,5,158,30"/>
+<area shape="rect" id="node1" href="$group__animation.html" title="Custom layer properties that can be animated using Core Animation." alt="" coords="5,5,158,29"/>
+<area shape="rect" id="node2" title="Graph properties that can be animated using Core Animation." alt="" coords="206,5,271,29"/>
 </map>

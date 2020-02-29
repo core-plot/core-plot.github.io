@@ -1,7 +1,7 @@
 var _c_p_t_definitions_8h =
 [
-    [ "CPTRGBAColor", "struct_c_p_t_r_g_b_a_color.html", "struct_c_p_t_r_g_b_a_color" ],
-    [ "CPTEdgeInsets", "struct_c_p_t_edge_insets.html", "struct_c_p_t_edge_insets" ],
+    [ "_CPTRGBAColor", "struct___c_p_t_r_g_b_a_color.html", "struct___c_p_t_r_g_b_a_color" ],
+    [ "_CPTEdgeInsets", "struct___c_p_t_edge_insets.html", "struct___c_p_t_edge_insets" ],
     [ "cpt_deprecated", "_c_p_t_definitions_8h.html#a6fd501dc7964d3477fa67930f90f5ea3", null ],
     [ "CPT_SDK_SUPPORTS_WEAK", "_c_p_t_definitions_8h.html#ac23f606c1706a1172bc646f5c9c27218", null ],
     [ "cpt_swift_enum", "_c_p_t_definitions_8h.html#a110f2d285b00df05256c6afb93da4ac9", null ],

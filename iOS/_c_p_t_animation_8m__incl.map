@@ -1,7 +1,12 @@
 <map id="Source/CPTAnimation.m" name="Source/CPTAnimation.m">
-<area shape="rect" id="node2" href="$_c_p_t_animation_8h.html" title="CPTAnimation.h" alt="" coords="288,155,406,181"/>
-<area shape="rect" id="node5" href="$_c_p_t_animation_operation_8h.html" title="CPTAnimationOperation.h" alt="" coords="448,81,623,106"/>
-<area shape="rect" id="node6" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="601,155,722,181"/>
-<area shape="rect" id="node9" href="$_c_p_t_animation_period_8h.html" title="CPTAnimationPeriod.h" alt="" coords="269,81,424,106"/>
-<area shape="rect" id="node10" href="$_c_p_t_plot_range_8h.html" title="CPTPlotRange.h" alt="" coords="700,81,820,106"/>
+<area shape="rect" id="node1" title=" " alt="" coords="358,6,524,31"/>
+<area shape="rect" id="node2" href="$_c_p_t_animation_8h.html" title=" " alt="" coords="288,155,406,181"/>
+<area shape="rect" id="node4" title=" " alt="" coords="23,81,244,106"/>
+<area shape="rect" id="node5" href="$_c_p_t_animation_operation_8h.html" title=" " alt="" coords="448,81,623,106"/>
+<area shape="rect" id="node6" href="$_c_p_t_definitions_8h.html" title=" " alt="" coords="601,155,722,181"/>
+<area shape="rect" id="node9" href="$_c_p_t_animation_period_8h.html" title=" " alt="" coords="269,81,424,106"/>
+<area shape="rect" id="node10" href="$_c_p_t_plot_range_8h.html" title=" " alt="" coords="700,81,820,106"/>
+<area shape="rect" id="node3" title=" " alt="" coords="260,230,434,255"/>
+<area shape="rect" id="node7" title=" " alt="" coords="524,230,666,255"/>
+<area shape="rect" id="node8" title=" " alt="" coords="691,230,784,255"/>
 </map>

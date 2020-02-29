@@ -1,5 +1,9 @@
 var hierarchy =
 [
+    [ "_CPTEdgeInsets", "struct___c_p_t_edge_insets.html", null ],
+    [ "_CPTGradientElement", "struct___c_p_t_gradient_element.html", null ],
+    [ "_CPTNumericDataType", "struct___c_p_t_numeric_data_type.html", null ],
+    [ "_CPTRGBAColor", "struct___c_p_t_r_g_b_a_color.html", null ],
     [ "<CAMediaTiming>", "https://developer.apple.com/library/ios/#documentation/GraphicsImaging/Reference/CAMediaTiming_protocol/Introduction/Introduction.html", [
       [ "CALayer", "https://developer.apple.com/library/ios/#documentation/GraphicsImaging/Reference/CALayer_class/Introduction/Introduction.html", [
         [ "CPTLayer", "interface_c_p_t_layer.html", [
@@ -39,19 +43,15 @@ var hierarchy =
     [ "CPTAnnotation(AbstractMethods)", "category_c_p_t_annotation_07_abstract_methods_08.html", null ],
     [ "CPTAxis(AbstractMethods)", "category_c_p_t_axis_07_abstract_methods_08.html", null ],
     [ "CPTConstraints(AbstractMethods)", "category_c_p_t_constraints_07_abstract_methods_08.html", null ],
-    [ "CPTEdgeInsets", "struct_c_p_t_edge_insets.html", null ],
     [ "CPTFill(AbstractMethods)", "category_c_p_t_fill_07_abstract_methods_08.html", null ],
-    [ "CPTGradientElement", "struct_c_p_t_gradient_element.html", null ],
     [ "CPTGraph(AbstractFactoryMethods)", "category_c_p_t_graph_07_abstract_factory_methods_08.html", null ],
     [ "CPTImage(CPTPlatformSpecificImageExtensions)", "category_c_p_t_image_07_c_p_t_platform_specific_image_extensions_08.html", null ],
     [ "CPTLayer(CPTPlatformSpecificLayerExtensions)", "category_c_p_t_layer_07_c_p_t_platform_specific_layer_extensions_08.html", null ],
     [ "CPTMutableNumericData(TypeConversion)", "category_c_p_t_mutable_numeric_data_07_type_conversion_08.html", null ],
     [ "CPTMutableTextStyle(CPTPlatformSpecificMutableTextStyleExtensions)", "category_c_p_t_mutable_text_style_07_c_p_t_platform_specific_mutable_text_style_extensions_08.html", null ],
     [ "CPTNumericData(TypeConversion)", "category_c_p_t_numeric_data_07_type_conversion_08.html", null ],
-    [ "CPTNumericDataType", "struct_c_p_t_numeric_data_type.html", null ],
     [ "CPTPlot(AbstractMethods)", "category_c_p_t_plot_07_abstract_methods_08.html", null ],
     [ "CPTPlotSpace(AbstractMethods)", "category_c_p_t_plot_space_07_abstract_methods_08.html", null ],
-    [ "CPTRGBAColor", "struct_c_p_t_r_g_b_a_color.html", null ],
     [ "CPTTextStyle(CPTPlatformSpecificTextStyleExtensions)", "category_c_p_t_text_style_07_c_p_t_platform_specific_text_style_extensions_08.html", null ],
     [ "CPTTheme(AbstractMethods)", "category_c_p_t_theme_07_abstract_methods_08.html", null ],
     [ "NSAttributedString(CPTPlatformSpecificAttributedStringExtensions)", "category_n_s_attributed_string_07_c_p_t_platform_specific_attributed_string_extensions_08.html", null ],

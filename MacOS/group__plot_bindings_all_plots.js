@@ -1,4 +1,4 @@
 var group__plot_bindings_all_plots =
 [
-    [ "CPTPlotBindingDataLabels", "group__plot_bindings_all_plots.html#ga85103f9870794e6cab9d408b202d58a6", null ]
+    [ "CPTPlotBindingDataLabels", "group__plot_bindings_all_plots.html#ga4e7243a0c518c8bb3866841c85ba13f0", null ]
 ];

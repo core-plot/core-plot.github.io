@@ -1,16 +1,21 @@
 <map id="Source/CPTTextLayer.m" name="Source/CPTTextLayer.m">
-<area shape="rect" id="node2" href="$_c_p_t_text_layer_8h.html" title="CPTTextLayer.h" alt="" coords="363,81,479,106"/>
-<area shape="rect" id="node5" href="$_c_p_t_text_style_platform_specific_8h.html" title="CPTTextStylePlatformSpecific.h" alt="" coords="459,230,668,255"/>
-<area shape="rect" id="node15" href="$_c_p_t_platform_specific_categories_8h.html" title="CPTPlatformSpecificCategories.h" alt="" coords="693,230,912,255"/>
-<area shape="rect" id="node17" href="$_c_p_t_shadow_8h.html" title="CPTShadow.h" alt="" coords="628,81,733,106"/>
-<area shape="rect" id="node18" href="$_c_p_t_utilities_8h.html" title="CPTUtilities.h" alt="" coords="65,155,167,181"/>
-<area shape="rect" id="node3" href="$_c_p_t_text_style_8h.html" title="CPTTextStyle.h" alt="" coords="365,155,477,181"/>
-<area shape="rect" id="node9" href="$_c_p_t_bordered_layer_8h.html" title="CPTBorderedLayer.h" alt="" coords="192,155,337,181"/>
-<area shape="rect" id="node4" href="$_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="524,454,724,479"/>
-<area shape="rect" id="node6" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="86,379,207,405"/>
-<area shape="rect" id="node10" href="$_c_p_t_annotation_host_layer_8h.html" title="CPTAnnotationHostLayer.h" alt="" coords="152,230,333,255"/>
-<area shape="rect" id="node11" href="$_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="407,305,499,330"/>
-<area shape="rect" id="node14" href="$_c_p_t_annotation_8h.html" title="CPTAnnotation.h" alt="" coords="167,305,288,330"/>
-<area shape="rect" id="node12" href="$_c_p_t_responder_8h.html" title="CPTResponder.h" alt="" coords="430,379,553,405"/>
-<area shape="rect" id="node16" href="$_c_p_t_color_8h.html" title="CPTColor.h" alt="" coords="630,305,719,330"/>
+<area shape="rect" id="node1" title=" " alt="" coords="482,6,648,31"/>
+<area shape="rect" id="node2" href="$_c_p_t_text_layer_8h.html" title=" " alt="" coords="363,81,479,106"/>
+<area shape="rect" id="node5" href="$_c_p_t_text_style_platform_specific_8h.html" title=" " alt="" coords="459,230,668,255"/>
+<area shape="rect" id="node15" href="$_c_p_t_platform_specific_categories_8h.html" title=" " alt="" coords="693,230,912,255"/>
+<area shape="rect" id="node17" href="$_c_p_t_shadow_8h.html" title=" " alt="" coords="628,81,733,106"/>
+<area shape="rect" id="node18" href="$_c_p_t_utilities_8h.html" title=" " alt="" coords="65,155,167,181"/>
+<area shape="rect" id="node19" title=" " alt="" coords="758,81,831,106"/>
+<area shape="rect" id="node3" href="$_c_p_t_text_style_8h.html" title=" " alt="" coords="365,155,477,181"/>
+<area shape="rect" id="node9" href="$_c_p_t_bordered_layer_8h.html" title=" " alt="" coords="192,155,337,181"/>
+<area shape="rect" id="node4" href="$_c_p_t_platform_specific_defines_8h.html" title=" " alt="" coords="524,454,724,479"/>
+<area shape="rect" id="node6" href="$_c_p_t_definitions_8h.html" title=" " alt="" coords="86,379,207,405"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,454,147,479"/>
+<area shape="rect" id="node8" title=" " alt="" coords="172,454,265,479"/>
+<area shape="rect" id="node10" href="$_c_p_t_annotation_host_layer_8h.html" title=" " alt="" coords="152,230,333,255"/>
+<area shape="rect" id="node11" href="$_c_p_t_layer_8h.html" title=" " alt="" coords="407,305,499,330"/>
+<area shape="rect" id="node14" href="$_c_p_t_annotation_8h.html" title=" " alt="" coords="167,305,288,330"/>
+<area shape="rect" id="node12" href="$_c_p_t_responder_8h.html" title=" " alt="" coords="430,379,553,405"/>
+<area shape="rect" id="node13" title=" " alt="" coords="232,379,405,405"/>
+<area shape="rect" id="node16" href="$_c_p_t_color_8h.html" title=" " alt="" coords="630,305,719,330"/>
 </map>

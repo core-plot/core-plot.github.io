@@ -1,0 +1,31 @@
+digraph "CPTLegend"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname="Lucinda Grande",fontsize="10",labelfontname="Lucinda Grande",labelfontsize="10"];
+  node [fontname="Lucinda Grande",fontsize="10",shape=record];
+  Node1 [label="CPTLegend",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="A graph legend."];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Lucinda Grande"];
+  Node2 [label="CPTBorderedLayer",height=0.2,width=0.4,color="black",URL="$interface_c_p_t_bordered_layer.html",tooltip="A layer with a border line and background fill."];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Lucinda Grande"];
+  Node3 [label="CPTAnnotationHostLayer",height=0.2,width=0.4,color="black",URL="$interface_c_p_t_annotation_host_layer.html",tooltip="A container layer for annotations."];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Lucinda Grande"];
+  Node4 [label="CPTLayer",height=0.2,width=0.4,color="black",URL="$interface_c_p_t_layer.html",tooltip="Base class for all Core Animation layers in Core Plot."];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Lucinda Grande"];
+  Node5 [label="CALayer",height=0.2,width=0.4,color="black",URL="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-tags.xml$https://developer.apple.com/library/mac/.html#documentation/GraphicsImaging/Reference/CALayer_class/Introduction/Introduction",tooltip=" "];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Lucinda Grande"];
+  Node6 [label="NSObject",height=0.2,width=0.4,color="black",URL="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-tags.xml$https://developer.apple.com/library/mac/.html#documentation/Cocoa/Reference/Foundation/Classes/NSObject_Class/Reference/Reference",tooltip=" "];
+  Node7 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Lucinda Grande"];
+  Node7 [label="\<NSObject\>",height=0.2,width=0.4,color="black",URL="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-tags.xml$https://developer.apple.com/library/mac/.html#documentation/Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/Reference/NSObject",tooltip=" "];
+  Node8 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Lucinda Grande"];
+  Node8 [label="\<NSKeyValueBindingCreation\>",height=0.2,width=0.4,color="black",URL="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-tags.xml$https://developer.apple.com/library/mac/.html#documentation/Cocoa/Reference/ApplicationKit/Protocols/NSKeyValueBindingCreation_Protocol/Reference/Reference",tooltip=" "];
+  Node9 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Lucinda Grande"];
+  Node9 [label="\<NSCoding\>",height=0.2,width=0.4,color="black",URL="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-tags.xml$https://developer.apple.com/library/mac/.html#documentation/Cocoa/Reference/Foundation/Protocols/NSCoding_Protocol/Reference/Reference",tooltip=" "];
+  Node10 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Lucinda Grande"];
+  Node10 [label="\<CAMediaTiming\>",height=0.2,width=0.4,color="black",URL="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-tags.xml$https://developer.apple.com/library/mac/.html#documentation/GraphicsImaging/Reference/CAMediaTiming_protocol/Introduction/Introduction",tooltip=" "];
+  Node11 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Lucinda Grande"];
+  Node11 [label="\<CPTResponder\>",height=0.2,width=0.4,color="black",URL="$protocol_c_p_t_responder-p.html",tooltip="The basis of all event processing in Core Plot."];
+  Node7 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Lucinda Grande"];
+  Node12 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Lucinda Grande"];
+  Node12 [label="\<NSSecureCoding\>",height=0.2,width=0.4,color="black",URL="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-tags.xml$https://developer.apple.com/library/mac/documentation/Foundation/Reference/NSSecureCoding_Protocol_Ref/.html",tooltip=" "];
+}

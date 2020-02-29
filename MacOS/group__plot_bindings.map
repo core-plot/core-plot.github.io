@@ -1,8 +1,9 @@
 <map id="Plot Binding Identifiers" name="Plot Binding Identifiers">
-<area shape="rect" id="node2" href="$group__plot_bindings_all_plots.html" title="Binding identifiers for all plots. " alt="" coords="208,5,355,30"/>
-<area shape="rect" id="node3" href="$group__plot_bindings_trading_range_plot.html" title="Binding identifiers for trading range plots. " alt="" coords="213,54,349,93"/>
-<area shape="rect" id="node4" href="$group__plot_bindings_range_plot.html" title="Binding identifiers for range plots. " alt="" coords="210,117,352,142"/>
-<area shape="rect" id="node5" href="$group__plot_bindings_scatter_plot.html" title="Binding identifiers for scatter plots. " alt="" coords="209,166,354,191"/>
-<area shape="rect" id="node6" href="$group__plot_bindings_pie_chart.html" title="Binding identifiers for pie charts. " alt="" coords="215,215,347,241"/>
-<area shape="rect" id="node7" href="$group__plot_bindings_bar_plot.html" title="Binding identifiers for bar plots. " alt="" coords="220,265,343,290"/>
+<area shape="rect" id="node1" title="Binding identifiers for all plots." alt="" coords="6,139,160,163"/>
+<area shape="rect" id="node2" href="$group__plot_bindings_all_plots.html" title="Binding identifiers for all plots." alt="" coords="208,5,355,29"/>
+<area shape="rect" id="node3" href="$group__plot_bindings_trading_range_plot.html" title="Binding identifiers for trading range plots." alt="" coords="213,53,349,91"/>
+<area shape="rect" id="node4" href="$group__plot_bindings_range_plot.html" title="Binding identifiers for range plots." alt="" coords="210,115,352,139"/>
+<area shape="rect" id="node5" href="$group__plot_bindings_scatter_plot.html" title="Binding identifiers for scatter plots." alt="" coords="209,163,354,187"/>
+<area shape="rect" id="node6" href="$group__plot_bindings_pie_chart.html" title="Binding identifiers for pie charts." alt="" coords="215,211,347,235"/>
+<area shape="rect" id="node7" href="$group__plot_bindings_bar_plot.html" title="Binding identifiers for bar plots." alt="" coords="220,259,343,283"/>
 </map>

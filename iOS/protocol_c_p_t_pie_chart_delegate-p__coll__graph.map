@@ -1,5 +1,6 @@
 <map id="&lt;CPTPieChartDelegate&gt;" name="&lt;CPTPieChartDelegate&gt;">
-<area shape="rect" id="node2" href="$protocol_c_p_t_plot_delegate-p.html" title="Plot delegate. " alt="" coords="19,155,159,181"/>
-<area shape="rect" id="node3" href="$protocol_c_p_t_layer_delegate-p.html" title="Layer delegate. " alt="" coords="14,81,164,106"/>
-<area shape="rect" id="node4" href="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-touch-tags.xml$https://developer.apple.com/library/ios/.html#documentation/Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/Reference/NSObject" title="\&lt;NSObject\&gt;" alt="" coords="42,6,136,31"/>
+<area shape="rect" id="node1" title="Pie chart delegate." alt="" coords="5,230,173,255"/>
+<area shape="rect" id="node2" href="$protocol_c_p_t_plot_delegate-p.html" title="Plot delegate." alt="" coords="19,155,159,181"/>
+<area shape="rect" id="node3" href="$protocol_c_p_t_layer_delegate-p.html" title="Layer delegate." alt="" coords="14,81,164,106"/>
+<area shape="rect" id="node4" href="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-touch-tags.xml$https://developer.apple.com/library/ios/.html#documentation/Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/Reference/NSObject" title=" " alt="" coords="42,6,136,31"/>
 </map>

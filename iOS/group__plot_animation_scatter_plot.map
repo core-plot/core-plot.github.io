@@ -1,3 +1,4 @@
 <map id="Scatter Plot" name="Scatter Plot">
-<area shape="rect" id="node2" href="$group__plot_animation.html" title="Plot properties that can be animated using Core Animation. " alt="" coords="5,5,56,30"/>
+<area shape="rect" id="node1" title="Scatter plot properties that can be animated using Core Animation." alt="" coords="104,5,194,29"/>
+<area shape="rect" id="node2" href="$group__plot_animation.html" title="Plot properties that can be animated using Core Animation." alt="" coords="5,5,56,29"/>
 </map>

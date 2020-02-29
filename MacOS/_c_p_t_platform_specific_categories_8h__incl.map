@@ -1,7 +1,11 @@
 <map id="MacOnly/CPTPlatformSpecificCategories.h" name="MacOnly/CPTPlatformSpecificCategories.h">
-<area shape="rect" id="node2" href="$_c_p_t_color_8h.html" title="CPTColor.h" alt="" coords="4,94,93,119"/>
-<area shape="rect" id="node3" href="$_c_p_t_platform_specific_defines_8h.html" title="CPTPlatformSpecificDefines.h" alt="" coords="32,243,232,269"/>
-<area shape="rect" id="node4" href="$_c_p_t_layer_8h.html" title="CPTLayer.h" alt="" coords="271,94,363,119"/>
-<area shape="rect" id="node5" href="$_c_p_t_responder_8h.html" title="CPTResponder.h" alt="" coords="169,169,292,194"/>
-<area shape="rect" id="node7" href="$_c_p_t_definitions_8h.html" title="CPTDefinitions.h" alt="" coords="515,169,636,194"/>
+<area shape="rect" id="node1" title=" " alt="" coords="32,6,232,45"/>
+<area shape="rect" id="node2" href="$_c_p_t_color_8h.html" title=" " alt="" coords="4,94,93,119"/>
+<area shape="rect" id="node3" href="$_c_p_t_platform_specific_defines_8h.html" title=" " alt="" coords="32,243,232,269"/>
+<area shape="rect" id="node4" href="$_c_p_t_layer_8h.html" title=" " alt="" coords="271,94,363,119"/>
+<area shape="rect" id="node5" href="$_c_p_t_responder_8h.html" title=" " alt="" coords="169,169,292,194"/>
+<area shape="rect" id="node6" title=" " alt="" coords="317,169,491,194"/>
+<area shape="rect" id="node7" href="$_c_p_t_definitions_8h.html" title=" " alt="" coords="515,169,636,194"/>
+<area shape="rect" id="node8" title=" " alt="" coords="433,243,575,269"/>
+<area shape="rect" id="node9" title=" " alt="" coords="600,243,693,269"/>
 </map>

@@ -1,8 +1,8 @@
 var interface_c_p_t_mutable_numeric_data =
 [
-    [ "convertToType:sampleBytes:byteOrder:", "interface_c_p_t_mutable_numeric_data.html#a225a753fc8e61a5cbde454ff51e23313", null ],
+    [ "convertToType:sampleBytes:byteOrder:", "interface_c_p_t_mutable_numeric_data.html#a9a4aacdf750422717667c63ee84e2e1a", null ],
     [ "mutableSamplePointer:", "interface_c_p_t_mutable_numeric_data.html#a4fa3042babf1541fd721af55923ec69d", null ],
-    [ "mutableSamplePointerAtIndex:", "interface_c_p_t_mutable_numeric_data.html#ad714018973a118ad585df2fc9e486fec", null ],
+    [ "mutableSamplePointerAtIndex:", "interface_c_p_t_mutable_numeric_data.html#ae7623a818a308e8a12ef2948dddc5967", null ],
     [ "byteOrder", "interface_c_p_t_mutable_numeric_data.html#a88bb429e8afe9968a23202599d7e8a8a", null ],
     [ "dataType", "interface_c_p_t_mutable_numeric_data.html#a20604ff4fbb96365bb88d5a7823fca9a", null ],
     [ "dataTypeFormat", "interface_c_p_t_mutable_numeric_data.html#a79edf7d82be402df822864d28f85e902", null ],

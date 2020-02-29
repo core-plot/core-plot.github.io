@@ -1,8 +1,10 @@
 <map id="CPTPlotSpace" name="CPTPlotSpace">
-<area shape="rect" id="node8" href="$interface_c_p_t_x_y_plot_space.html" title="A plot space using a two&#45;dimensional cartesian coordinate system. " alt="" coords="287,230,413,255"/>
-<area shape="rect" id="node2" href="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-touch-tags.xml$https://developer.apple.com/library/ios/.html#documentation/Cocoa/Reference/Foundation/Classes/NSObject_Class/Reference/Reference" title="NSObject" alt="" coords="115,81,193,106"/>
-<area shape="rect" id="node3" href="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-touch-tags.xml$https://developer.apple.com/library/ios/.html#documentation/Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/Reference/NSObject" title="\&lt;NSObject\&gt;" alt="" coords="236,6,329,31"/>
-<area shape="rect" id="node5" href="$protocol_c_p_t_responder-p.html" title="The basis of all event processing in Core Plot. " alt="" coords="218,81,347,106"/>
-<area shape="rect" id="node6" href="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-touch-tags.xml$https://developer.apple.com/library/ios/.html#documentation/Cocoa/Reference/Foundation/Protocols/NSCoding_Protocol/Reference/Reference" title="\&lt;NSCoding\&gt;" alt="" coords="371,81,468,106"/>
-<area shape="rect" id="node7" href="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-touch-tags.xml$https://developer.apple.com/library/ios/documentation/Foundation/Reference/NSSecureCoding_Protocol_Ref/.html" title="\&lt;NSSecureCoding\&gt;" alt="" coords="493,81,632,106"/>
+<area shape="rect" id="node1" title="Defines the coordinate system of a plot." alt="" coords="296,155,404,181"/>
+<area shape="rect" id="node8" href="$interface_c_p_t_x_y_plot_space.html" title="A plot space using a two&#45;dimensional cartesian coordinate system." alt="" coords="287,230,413,255"/>
+<area shape="rect" id="node2" href="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-touch-tags.xml$https://developer.apple.com/library/ios/.html#documentation/Cocoa/Reference/Foundation/Classes/NSObject_Class/Reference/Reference" title=" " alt="" coords="115,81,193,106"/>
+<area shape="rect" id="node3" href="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-touch-tags.xml$https://developer.apple.com/library/ios/.html#documentation/Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/Reference/NSObject" title=" " alt="" coords="236,6,329,31"/>
+<area shape="rect" id="node5" href="$protocol_c_p_t_responder-p.html" title="The basis of all event processing in Core Plot." alt="" coords="218,81,347,106"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,6,211,31"/>
+<area shape="rect" id="node6" href="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-touch-tags.xml$https://developer.apple.com/library/ios/.html#documentation/Cocoa/Reference/Foundation/Protocols/NSCoding_Protocol/Reference/Reference" title=" " alt="" coords="371,81,468,106"/>
+<area shape="rect" id="node7" href="/Users/eskroch/Projects/Core Plot/documentation/doxygen/doxygen-cocoa-touch-tags.xml$https://developer.apple.com/library/ios/documentation/Foundation/Reference/NSSecureCoding_Protocol_Ref/.html" title=" " alt="" coords="493,81,632,106"/>
 </map>

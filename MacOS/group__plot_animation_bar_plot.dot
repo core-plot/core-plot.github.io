@@ -1,0 +1,10 @@
+digraph "Bar Plot"
+{
+  bgcolor="transparent";
+  edge [fontname="Lucinda Grande",fontsize="10",labelfontname="Lucinda Grande",labelfontsize="10"];
+  node [fontname="Lucinda Grande",fontsize="10",shape=box];
+  rankdir=LR;
+  Node1 [label="Bar Plot",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Bar plot properties that can be animated using Core Animation."];
+  Node2 [label="Plots",height=0.2,width=0.4,color="black",URL="$group__plot_animation.html",tooltip="Plot properties that can be animated using Core Animation."];
+  Node2->Node1 [shape=plaintext, dir="back", style="solid"];
+}

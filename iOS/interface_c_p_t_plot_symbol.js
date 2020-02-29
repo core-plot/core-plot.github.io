@@ -1,8 +1,8 @@
 var interface_c_p_t_plot_symbol =
 [
     [ "init", "interface_c_p_t_plot_symbol.html#a0e89b2b8c8b297f511334e39302c757d", null ],
-    [ "renderAsVectorInContext:atPoint:scale:", "interface_c_p_t_plot_symbol.html#a6fe344552eb1b486979fe7317b60386d", null ],
-    [ "renderInContext:atPoint:scale:alignToPixels:", "interface_c_p_t_plot_symbol.html#a065cf3df68ea4626ff90d570017cc920", null ],
+    [ "renderAsVectorInContext:atPoint:scale:", "interface_c_p_t_plot_symbol.html#add105d94182e0251041fe0909fbf1045", null ],
+    [ "renderInContext:atPoint:scale:alignToPixels:", "interface_c_p_t_plot_symbol.html#a18b9ad9fe3ed0e54eb5261ceff586e30", null ],
     [ "anchorPoint", "interface_c_p_t_plot_symbol.html#a72431764b9f45df84fc1753283699f05", null ],
     [ "customSymbolPath", "interface_c_p_t_plot_symbol.html#aab612720375add5e9980aaa7fb3130d0", null ],
     [ "fill", "interface_c_p_t_plot_symbol.html#a7fae5928f85b17093af5443353a9fa80", null ],
