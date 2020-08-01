@@ -1,14 +1,14 @@
 var group__plot_bindings_trading_range_plot =
 [
-    [ "CPTTradingRangePlotBindingBarWidths", "group__plot_bindings_trading_range_plot.html#gaf895496f7ff4c2310bb991fd78a85087", null ],
-    [ "CPTTradingRangePlotBindingCloseValues", "group__plot_bindings_trading_range_plot.html#ga456f145e63f9721f37b5241e7c51112e", null ],
-    [ "CPTTradingRangePlotBindingDecreaseFills", "group__plot_bindings_trading_range_plot.html#ga3ac53224abac8751f9c8afe62074e3a5", null ],
-    [ "CPTTradingRangePlotBindingDecreaseLineStyles", "group__plot_bindings_trading_range_plot.html#ga4ae8526b24cce939fd181aa1908972f4", null ],
-    [ "CPTTradingRangePlotBindingHighValues", "group__plot_bindings_trading_range_plot.html#ga6a067c95f14921e3905f756dbf7c2065", null ],
-    [ "CPTTradingRangePlotBindingIncreaseFills", "group__plot_bindings_trading_range_plot.html#gaeaf8dfde95b605ffb462a44facf8d787", null ],
-    [ "CPTTradingRangePlotBindingIncreaseLineStyles", "group__plot_bindings_trading_range_plot.html#ga0dc6fa7630956987dac15451885df9a0", null ],
-    [ "CPTTradingRangePlotBindingLineStyles", "group__plot_bindings_trading_range_plot.html#ga58ba77553a1df07ab729c581eddd170a", null ],
-    [ "CPTTradingRangePlotBindingLowValues", "group__plot_bindings_trading_range_plot.html#ga9a4a90b20925b53f636e519eb05908ef", null ],
-    [ "CPTTradingRangePlotBindingOpenValues", "group__plot_bindings_trading_range_plot.html#ga668ddcf480c9dd2077617def9fcb42b8", null ],
-    [ "CPTTradingRangePlotBindingXValues", "group__plot_bindings_trading_range_plot.html#ga1b3ffed9f2830330641571570e1332c5", null ]
+    [ "CPTTradingRangePlotBindingBarWidths", "group__plot_bindings_trading_range_plot.html#gafe328775c0ddb5d5138022d44213b976", null ],
+    [ "CPTTradingRangePlotBindingCloseValues", "group__plot_bindings_trading_range_plot.html#ga6665b14b0af45bcfa7031c1e25223a72", null ],
+    [ "CPTTradingRangePlotBindingDecreaseFills", "group__plot_bindings_trading_range_plot.html#gaa76da6506eaf7e8f03d59d2ba0273b7e", null ],
+    [ "CPTTradingRangePlotBindingDecreaseLineStyles", "group__plot_bindings_trading_range_plot.html#gaa4350b1c18418a97c709784985c78fdc", null ],
+    [ "CPTTradingRangePlotBindingHighValues", "group__plot_bindings_trading_range_plot.html#gac742d16b420a34f478ccc25962da7d47", null ],
+    [ "CPTTradingRangePlotBindingIncreaseFills", "group__plot_bindings_trading_range_plot.html#ga8d5988e0dfcc7f46a8044e0b0b4d6c0d", null ],
+    [ "CPTTradingRangePlotBindingIncreaseLineStyles", "group__plot_bindings_trading_range_plot.html#ga6f4e7b14cc5ca790c3bc892371c2da30", null ],
+    [ "CPTTradingRangePlotBindingLineStyles", "group__plot_bindings_trading_range_plot.html#ga5dcf47870fc0665733f866e180813690", null ],
+    [ "CPTTradingRangePlotBindingLowValues", "group__plot_bindings_trading_range_plot.html#ga9e77d5186dc8575b6bc89fd6dc27a90c", null ],
+    [ "CPTTradingRangePlotBindingOpenValues", "group__plot_bindings_trading_range_plot.html#ga651a73266eb423f9c301a57ac1e9d5b3", null ],
+    [ "CPTTradingRangePlotBindingXValues", "group__plot_bindings_trading_range_plot.html#gafe69625994d4f728c2e32e78b4aac709", null ]
 ];

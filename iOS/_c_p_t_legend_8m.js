@@ -1,6 +1,6 @@
 var _c_p_t_legend_8m =
 [
-    [ "CPTLegendNeedsLayoutForPlotNotification", "group__notification.html#ga7dc58938dc4ec8ffec8ef803fdbd8834", null ],
-    [ "CPTLegendNeedsRedrawForPlotNotification", "group__notification.html#ga45743fa6df939b71e9a3bf2acac213c8", null ],
-    [ "CPTLegendNeedsReloadEntriesForPlotNotification", "group__notification.html#ga7d0f8a01cdc9ab434d7812e595f1227e", null ]
+    [ "CPTLegendNeedsLayoutForPlotNotification", "group__notification.html#ga1a89bb70ba23a59219aebad92aa9e8b8", null ],
+    [ "CPTLegendNeedsRedrawForPlotNotification", "group__notification.html#ga8ba96d179aaa63ff83551454afce3ebf", null ],
+    [ "CPTLegendNeedsReloadEntriesForPlotNotification", "group__notification.html#ga8fbc0b94e74e1ea2b4543ac116e284ae", null ]
 ];

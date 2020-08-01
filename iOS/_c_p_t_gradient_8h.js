@@ -1,6 +1,6 @@
 var _c_p_t_gradient_8h =
 [
-    [ "_CPTGradientElement", "struct___c_p_t_gradient_element.html", "struct___c_p_t_gradient_element" ],
+    [ "CPTGradientElement", "struct_c_p_t_gradient_element.html", "struct_c_p_t_gradient_element" ],
     [ "CPTGradient", "interface_c_p_t_gradient.html", "interface_c_p_t_gradient" ],
     [ "CPTGradientBlendingMode", "_c_p_t_gradient_8h.html#a4b565c2eb20619304ed1930b18a71ae7", [
       [ "CPTLinearBlendingMode", "_c_p_t_gradient_8h.html#a4b565c2eb20619304ed1930b18a71ae7a90ac9ca14cac307bc1b8fb21d61d1913", null ],

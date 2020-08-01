@@ -11,5 +11,5 @@ var _c_p_t_layer_8h =
     [ "CPTMutableSublayerSet", "_c_p_t_layer_8h.html#a1cd2bea48e902a5018ea46c43f6a6c34", null ],
     [ "CPTSublayerArray", "_c_p_t_layer_8h.html#aafe18c0b82c17aa603e7bcc3a83fac63", null ],
     [ "CPTSublayerSet", "_c_p_t_layer_8h.html#a42e433ded4d63b69696b2e8a5bd2ace9", null ],
-    [ "CPTLayerBoundsDidChangeNotification", "group__notification.html#gaf608604fb48db55a627eec9c6837bb82", null ]
+    [ "CPTLayerBoundsDidChangeNotification", "group__notification.html#ga0d8d74ad3d59ea1fd506db2ab8b95943", null ]
 ];

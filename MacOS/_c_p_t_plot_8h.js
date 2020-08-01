@@ -12,5 +12,5 @@ var _c_p_t_plot_8h =
       [ "CPTPlotCachePrecisionDouble", "_c_p_t_plot_8h.html#acc522ac2a8f25d323be5d11dfbffe7cba2b615eae0bd10fb48c485c24efc9fa5d", null ],
       [ "CPTPlotCachePrecisionDecimal", "_c_p_t_plot_8h.html#acc522ac2a8f25d323be5d11dfbffe7cba7d555f74e772b887e79d60ce66f8b2e6", null ]
     ] ],
-    [ "CPTPlotBindingDataLabels", "group__plot_bindings_all_plots.html#ga4e7243a0c518c8bb3866841c85ba13f0", null ]
+    [ "CPTPlotBindingDataLabels", "group__plot_bindings_all_plots.html#ga85103f9870794e6cab9d408b202d58a6", null ]
 ];

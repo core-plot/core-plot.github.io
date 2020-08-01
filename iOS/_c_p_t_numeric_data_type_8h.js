@@ -1,6 +1,6 @@
 var _c_p_t_numeric_data_type_8h =
 [
-    [ "_CPTNumericDataType", "struct___c_p_t_numeric_data_type.html", "struct___c_p_t_numeric_data_type" ],
+    [ "CPTNumericDataType", "struct_c_p_t_numeric_data_type.html", "struct_c_p_t_numeric_data_type" ],
     [ "CPTDataOrder", "_c_p_t_numeric_data_type_8h.html#a9a866b03ba7026f5cf6e066f57d03e2a", [
       [ "CPTDataOrderRowsFirst", "_c_p_t_numeric_data_type_8h.html#a9a866b03ba7026f5cf6e066f57d03e2aa91a18da194315513f1f35283bbf5b3ef", null ],
       [ "CPTDataOrderColumnsFirst", "_c_p_t_numeric_data_type_8h.html#a9a866b03ba7026f5cf6e066f57d03e2aaad93b951102cb88b3cc27ed927bfd1fb", null ]
