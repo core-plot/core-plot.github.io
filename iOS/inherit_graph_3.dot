@@ -1,9 +1,0 @@
-digraph "Graphical Class Hierarchy"
-{
- // LATEX_PDF_SIZE
-  bgcolor="transparent";
-  edge [fontname="Lucinda Grande",fontsize="10",labelfontname="Lucinda Grande",labelfontsize="10"];
-  node [fontname="Lucinda Grande",fontsize="10",shape=record];
-  rankdir="LR";
-  Node0 [label="_CPTNumericDataType",height=0.2,width=0.4,color="black",URL="$struct___c_p_t_numeric_data_type.html",tooltip="Structure that describes the encoding of numeric data samples."];
-}

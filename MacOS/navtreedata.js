@@ -67,16 +67,15 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_8_____c_p_t_animation_c_g_float_period_8h.html",
-"_8___c_p_t_x_y_plot_space_8h_source.html",
-"_c_p_t_layer_8m.html",
-"_c_p_t_text_style_8h.html",
-"category_c_p_t_plot_07_abstract_methods_08.html#a4e912fd984405bbfba779e73624dd7fe",
-"group__plot_animation.html",
-"interface_c_p_t_axis.html#a8142c888e487899aa4816a6b865f5cea",
-"interface_c_p_t_layer.html#ab940148caf9a56fbd90b20693bbd1d6f",
-"interface_c_p_t_plot_area.html",
-"interface_c_p_t_x_y_plot_space.html"
+"_c_p_t_animation_8h.html",
+"_c_p_t_legend_8h.html#a661c61e1c6e55b6afc1f8f9fbe5f43f1",
+"_c_p_t_text_style_platform_specific_8h.html",
+"category_c_p_t_plot_07_abstract_methods_08.html#abdc1beb8516031f52a2e8134dac45135",
+"group__plot_animation_bar_plot.html",
+"interface_c_p_t_axis.html#a929d48e2e177d2f154c3ab7618632ae3",
+"interface_c_p_t_layer.html#adcdbea61c0b502a36f6f733278977c26",
+"interface_c_p_t_plot_area.html#a21151f179b8c8cdfdc67bf26f493ac98",
+"interface_c_p_t_x_y_plot_space.html#a31be840b63fb543fd03c9bd9671888ed"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

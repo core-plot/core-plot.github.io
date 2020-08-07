@@ -67,16 +67,15 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_8_____c_p_t_animation_c_g_float_period_8h.html",
-"_8___c_p_t_x_y_axis_set_8m.html",
-"_c_p_t_layer_8h.html#a1cd2bea48e902a5018ea46c43f6a6c34",
-"_c_p_t_scatter_plot_8h.html#a6c523e9e707e3cc85597b4529e1ad7b6",
-"category_c_p_t_axis_07_abstract_methods_08.html#a9dcfb20fcdc125696e84ae3e043c9745",
-"group__legend_animation.html#ga4580d9f9441627008f68f06196742d24",
-"interface_c_p_t_axis_label.html#ae0933dfdcba92ebc58fc5d680d978935",
-"interface_c_p_t_legend.html#af697a2fd181b84749bd3b2d4cd930f4e",
-"interface_c_p_t_plot_range.html#aa01772dc9e183b18fddb47204b8fe77e",
-"protocol_c_p_t_axis_delegate-p.html#af69f1475ed5fe028bf9a72d28c8163df"
+"_c_p_t_animation_8h.html",
+"_c_p_t_layer_annotation_8h.html",
+"_c_p_t_scatter_plot_8h.html#ac8daaae2e33f8fb37e95f028e8ba87c9",
+"category_c_p_t_fill_07_abstract_methods_08.html#acb1a432452b3bd1790efcca47c8b1df8",
+"group__notification.html#ga1a89bb70ba23a59219aebad92aa9e8b8",
+"interface_c_p_t_axis_set.html#aaf68a3d8d070bc3f73a9a5ecadb2d4de",
+"interface_c_p_t_legend_entry.html#ad5c0200e139f8a75490055341fe3e8a7",
+"interface_c_p_t_plot_range.html#ae643ffe8042fcc24173c8cd4dc82e558",
+"protocol_c_p_t_bar_plot_delegate-p.html#a1ec567d76761157953a1ee4ead56ac67"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -1,9 +1,0 @@
-digraph "Graphical Class Hierarchy"
-{
- // LATEX_PDF_SIZE
-  bgcolor="transparent";
-  edge [fontname="Lucinda Grande",fontsize="10",labelfontname="Lucinda Grande",labelfontsize="10"];
-  node [fontname="Lucinda Grande",fontsize="10",shape=record];
-  rankdir="LR";
-  Node0 [label="NSDecimalNumber(CPTExtensions)",height=0.2,width=0.4,color="black",URL="$category_n_s_decimal_number_07_c_p_t_extensions_08.html",tooltip="Core Plot extensions to NSDecimalNumber."];
-}

@@ -1,9 +1,0 @@
-digraph "Graphical Class Hierarchy"
-{
- // LATEX_PDF_SIZE
-  bgcolor="transparent";
-  edge [fontname="Lucinda Grande",fontsize="10",labelfontname="Lucinda Grande",labelfontsize="10"];
-  node [fontname="Lucinda Grande",fontsize="10",shape=record];
-  rankdir="LR";
-  Node0 [label="CPTFill(AbstractMethods)",height=0.2,width=0.4,color="black",URL="$category_c_p_t_fill_07_abstract_methods_08.html",tooltip="CPTFill abstract methods—must be overridden by subclasses."];
-}
