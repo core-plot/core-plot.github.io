@@ -67,9 +67,9 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_c_p_t_animation_8h.html",
-"_c_p_t_legend_8h.html#a661c61e1c6e55b6afc1f8f9fbe5f43f1",
-"_c_p_t_text_style_platform_specific_8h.html",
+"c_p_t_animation_8h.html",
+"c_p_t_legend_8h.html#a661c61e1c6e55b6afc1f8f9fbe5f43f1",
+"c_p_t_text_style_platform_specific_8h.html",
 "category_c_p_t_plot_07_abstract_methods_08.html#abdc1beb8516031f52a2e8134dac45135",
 "group__plot_animation_bar_plot.html",
 "interface_c_p_t_axis.html#a929d48e2e177d2f154c3ab7618632ae3",

@@ -29,7 +29,7 @@ function initResizable()
 
   function readCookie(cookie)
   {
-    var myCookie = cookie_namespace+"_"+cookie+"=";
+    var myCookie = cookie_namespace+""+cookie+"=";
     if (document.cookie) {
       var index = document.cookie.indexOf(myCookie);
       if (index != -1) {
@@ -53,7 +53,7 @@ function initResizable()
       date.setTime(date.getTime()+(10*365*24*60*60*1000)); // default expiration is one week
       expiration = date.toGMTString();
     }
-    document.cookie = cookie_namespace + "_" + cookie + "=" + val + "; expires=" + expiration+"; path=/";
+    document.cookie = cookie_namespace + "" + cookie + "=" + val + "; expires=" + expiration+"; path=/";
   }
 
   function resizeWidth()
